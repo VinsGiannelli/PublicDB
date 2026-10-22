@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-22T14:59:31.905Z",
+  "generatedAt": "2026-10-22T15:01:39.431Z",
   "timezone": "Europe/Rome",
   "games": {
     "status": "partial",
     "title": "Giochi gratuiti e inclusi",
     "items": [
       {
-        "title": "Agent A: A puzzle in disguise",
+        "title": "Home - A Unique Horror Adventure",
         "subtitle": "Epic Games Store",
-        "text": "Avventura investigativa punta-e-clicca: nei panni di un agente segreto esplori un nascondiglio, raccogli indizi e risolvi enigmi per fermare la spia Ruby La Rouge. Gratis da riscattare e conservare fino al 22 ottobre alle ore 17:00 italiane.",
-        "createdDate": "2026-10-15",
+        "text": "Avventura horror psicologica in pixel art: esplori una casa sconosciuta, indaghi su un mistero criminale e scegli come interpretare gli indizi, influenzando la storia. Gratis da riscattare definitivamente dal 22 al 29 ottobre su Epic Games Store.",
+        "createdDate": "2026-10-22",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/510470/header.jpg",
-        "link": "https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f",
+        "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png?h=480&quality=medium&resize=1&w=854",
+        "link": "https://store.epicgames.com/p/home-19212a?lang=it",
         "steamRating": null,
         "steamPrice": null,
-        "steamUrl": null
+        "steamUrl": "https://store.steampowered.com/app/215670/"
       },
       {
-        "title": "Bad Cheese",
+        "title": "Sker Ritual",
         "subtitle": "Epic Games Store",
-        "text": "Horror psicologico in prima persona ispirato ai cartoni degli anni Venti: impersoni un topolino, svolgi faccende domestiche ed eviti i pericoli in una casa inquietante. Gratis da riscattare e conservare fino al 22 ottobre alle ore 17:00 italiane.",
-        "createdDate": "2026-10-15",
+        "text": "Sparatutto horror cooperativo a ondate: sull'isola di Sker affronti i Silenti, completi missioni, migliori armi e poteri e resisti da solo o con altri tre giocatori. Gratis da riscattare definitivamente dal 22 al 29 ottobre su Epic Games Store.",
+        "createdDate": "2026-10-22",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2262610/header.jpg",
-        "link": "https://store.epicgames.com/p/bad-cheese-4256d9",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/8e288958e8c203003f00852e73dba95558b94992/header.jpg?t=1792674990",
+        "link": "https://store.epicgames.com/p/sker-ritual-aac702?lang=it",
         "steamRating": null,
         "steamPrice": null,
-        "steamUrl": null
+        "steamUrl": "https://store.steampowered.com/app/1492070/"
       },
       {
         "title": "Vampire: The Masquerade – Swansong",
