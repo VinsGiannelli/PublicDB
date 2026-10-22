@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:01:39.431Z",
+  "generatedAt": "2026-10-22T16:03:04.933Z",
   "timezone": "Europe/Rome",
   "games": {
     "status": "partial",
@@ -13,8 +13,8 @@
         "giveaway": false,
         "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png?h=480&quality=medium&resize=1&w=854",
         "link": "https://store.epicgames.com/p/home-19212a?lang=it",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 69,
+        "steamPrice": "4,99 €",
         "steamUrl": "https://store.steampowered.com/app/215670/"
       },
       {
@@ -25,9 +25,33 @@
         "giveaway": false,
         "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/8e288958e8c203003f00852e73dba95558b94992/header.jpg?t=1792674990",
         "link": "https://store.epicgames.com/p/sker-ritual-aac702?lang=it",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 81,
+        "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/1492070/"
+      },
+      {
+        "title": "Ad Infinitum",
+        "subtitle": "Epic Games Store",
+        "text": "Horror psicologico in prima persona ambientato fra le trincee della Grande Guerra e una dimora familiare inquietante: esplori ambienti, risolvi enigmi e sfuggi a creature mostruose. Riscattabile con Prime tramite Epic Games Store; scadenza da verificare.",
+        "createdDate": "2026-10-22",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/page_bg_raw.jpg?t=1764149283",
+        "link": "https://luna.amazon.it/claims/home",
+        "steamRating": 76,
+        "steamPrice": null,
+        "steamUrl": "https://store.steampowered.com/app/1234430/"
+      },
+      {
+        "title": "Time Travel: Escape Room Game",
+        "subtitle": "Legacy Games",
+        "text": "Puzzle adventure punta e clicca in cui ripari una macchina del tempo attraversando cento ambientazioni storiche, cercando cristalli smarriti, combinando oggetti e risolvendo enigmi di fuga. Disponibile con Prime tramite codice Legacy Games; scadenza da verificare.",
+        "createdDate": "2026-10-22",
+        "giveaway": false,
+        "imageUrl": "https://cdn.dekudeals.com/images/ef4a712c0b0daed5ff977f7b2321db147d0ba0d6/w500.jpg",
+        "link": "https://luna.amazon.it/claims/home",
+        "steamRating": 67,
+        "steamPrice": "8,99 €",
+        "steamUrl": "https://store.steampowered.com/app/3094600/"
       },
       {
         "title": "Vampire: The Masquerade – Swansong",
@@ -37,8 +61,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 62,
+        "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/1299510/"
       },
       {
@@ -49,7 +73,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
+        "steamRating": 86,
         "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/1582650/"
       },
@@ -61,8 +85,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 76,
+        "steamPrice": "19,50 €",
         "steamUrl": "https://store.steampowered.com/app/313780/"
       },
       {
@@ -72,8 +96,8 @@
         "createdDate": "2026-10-08",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
+        "link": "https://luna.amazon.it/claims/warbreeds-gog/dp/amzn1.pg.item.886d058d-6e68-4f53-8e58-3044de3e6bb4",
+        "steamRating": 84,
         "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/2464660/"
       },
@@ -85,8 +109,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 96,
+        "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/379720/"
       },
       {
@@ -97,8 +121,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 96,
+        "steamPrice": "19,50 €",
         "steamUrl": "https://store.steampowered.com/app/2638370/"
       },
       {
@@ -109,8 +133,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 56,
+        "steamPrice": "3,99 €",
         "steamUrl": "https://store.steampowered.com/app/2666270/"
       },
       {
@@ -121,7 +145,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
+        "steamRating": 89,
         "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/1583230/"
       },
@@ -133,8 +157,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383270/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 93,
+        "steamPrice": "14,99 €",
         "steamUrl": "https://store.steampowered.com/app/383270/"
       },
       {
@@ -144,8 +168,8 @@
         "createdDate": "2026-08-27",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
+        "link": "https://luna.amazon.com/claims/havendock-aga/dp/amzn1.pg.item.ef222081-3e6c-4949-9e87-aaf2c27b6bc6",
+        "steamRating": 79,
         "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/2020710/"
       },
@@ -157,8 +181,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 79,
+        "steamPrice": "24,50 €",
         "steamUrl": "https://store.steampowered.com/app/1159090/"
       },
       {
@@ -169,8 +193,8 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072620/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": null,
-        "steamPrice": null,
+        "steamRating": 75,
+        "steamPrice": "12,25 €",
         "steamUrl": "https://store.steampowered.com/app/1072620/"
       },
       {
@@ -181,9 +205,9 @@
         "giveaway": false,
         "imageUrl": "https://cdn1.epicgames.com/spt-assets/960c149bc7904c03bd2e93f195e12fd9/star-wars-galactic-racer-eflm1.jpg",
         "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": 87,
+        "steamPrice": "59,99 €",
+        "steamUrl": "https://store.steampowered.com/app/4078430/"
       },
       {
         "title": "SONIC X SHADOW GENERATIONS",
@@ -193,9 +217,9 @@
         "giveaway": false,
         "imageUrl": "https://www.gamerclick.it/immagini/videogame/Sonic_X_Shadow_Generations/cover/Sonic_X_Shadow_Generations-cover.jpg",
         "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": 97,
+        "steamPrice": "49,99 €",
+        "steamUrl": "https://store.steampowered.com/app/2513280/"
       }
     ]
   },
@@ -262,6 +286,14 @@
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Casertana%20-%20Bari&dates=20261023T183000Z%2F20261023T203000Z&details=Calcio%20Serie%20C%20%E2%80%A2%20Girone%20C%20%E2%80%A2%20Casertana%20-%20Bari&location=Stadio%20Alberto%20Pinto%2C%20Caserta",
         "linkDettagliEvento": "https://sport.virgilio.it/prossime-partite-calendario-bari/"
+      },
+      {
+        "title": "A Uacc A Uacc",
+        "subtitle": "Venerdì 23 ottobre • 21:00",
+        "text": "Sagra • Bitonto • Centro antico • Festa tradizionale del cibo di strada con i locali del borgo.",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Uacc%20A%20Uacc&dates=20261023T190000Z%2F20261023T220000Z&details=Sagra%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Centro%20antico%20%E2%80%A2%20Festa%20tradizionale%20del%20cibo%20di%20strada%20con%20i%20locali%20del%20borgo.&location=Centro%20antico%2C%20Bitonto",
+        "linkDettagliEvento": "https://www.comune.bitonto.ba.it/it/news/2051545"
       },
       {
         "title": "Fraskèt Live Band",
@@ -368,6 +400,14 @@
         "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
       },
       {
+        "title": "Massimo Giancola",
+        "subtitle": "Sabato 24 ottobre • 18:00",
+        "text": "Live • Castellana Grotte • Largo Portagrande • Pianoforte dal vivo nell'ambito del Puglia Wine Festival.",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Giancola&dates=20261024T160000Z%2F20261024T173000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20%E2%80%A2%20Pianoforte%20dal%20vivo%20nell'ambito%20del%20Puglia%20Wine%20Festival.&location=Largo%20Portagrande%2C%20Castellana%20Grotte",
+        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
+      },
+      {
         "title": "Calici nel Borgo",
         "subtitle": "Sabato 24 ottobre • 19:00",
         "text": "Mercatino • Sammichele di Bari • Centro storico, via Dalfino • Produttori ed espositori",
@@ -384,12 +424,28 @@
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
       },
       {
+        "title": "Puglia Wine Festival",
+        "subtitle": "Sabato 24 ottobre • 19:30",
+        "text": "Sagra • Castellana Grotte • Largo Portagrande e centro storico • Vino pugliese, gastronomia, caldarroste e artigianato.",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Puglia%20Wine%20Festival&dates=20261024T173000Z%2F20261024T213000Z&details=Sagra%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20e%20centro%20storico%20%E2%80%A2%20Vino%20pugliese%2C%20gastronomia%2C%20caldarroste%20e%20artigianato.&location=Largo%20Portagrande%20e%20centro%20storico%2C%20Castellana%20Grotte",
+        "linkDettagliEvento": "https://www.vivicastellanagrotte.it/index.php/cultura/eventi/23712-torna-il-puglia-wine-festival-per-la-prima-volta-a-castellana-grotte-il-24-e-25-ottobre"
+      },
+      {
         "title": "Seventy Fever Band",
         "subtitle": "Sabato 24 ottobre • 21:00",
         "text": "Live • Bari • Chorìa, via Giulio Petroni 127 • Dance e disco music degli anni Settanta",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Seventy%20Fever%20Band&dates=20261024T190000Z%2F20261024T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%2C%20via%20Giulio%20Petroni%20127%20%E2%80%A2%20Dance%20e%20disco%20music%20degli%20anni%20Settanta&location=Chor%C3%ACa%2C%20via%20Giulio%20Petroni%20127%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334146.html"
+      },
+      {
+        "title": "Pizzicati Sotto lu Pete",
+        "subtitle": "Sabato 24 ottobre • 21:30",
+        "text": "Live • Castellana Grotte • Largo San Leone Magno • Concerto di musica popolare al Puglia Wine Festival.",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pizzicati%20Sotto%20lu%20Pete&dates=20261024T193000Z%2F20261024T213000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20San%20Leone%20Magno%20%E2%80%A2%20Concerto%20di%20musica%20popolare%20al%20Puglia%20Wine%20Festival.&location=Largo%20San%20Leone%20Magno%2C%20Castellana%20Grotte",
+        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
       },
       {
         "title": "F1 Austin - Qualifiche",
@@ -422,14 +478,6 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Poker%20Souls&dates=20261024%2F20261025&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%20%E2%80%A2%20Tributo%20ad%20Amy%20Winehouse%20e%20Lady%20Gaga&location=Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%2C%20Matera",
         "linkDettagliEvento": "https://www.midnightpublive.com/event/poker-souls-amy-winehouse-lady-gaga-t-b/"
-      },
-      {
-        "title": "Puglia Wine Festival",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Sagra • Rutigliano • Centro storico • Vini pugliesi, gastronomia e tradizioni d'autunno",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Puglia%20Wine%20Festival&dates=20261024%2F20261025&details=Sagra%20%E2%80%A2%20Rutigliano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%20e%20tradizioni%20d'autunno&location=Centro%20storico%2C%20Rutigliano",
-        "linkDettagliEvento": "https://www.televideo.rai.it/televideo/pub/solotesto.jsp?pagina=409&regione=PUGLIA&sottopagina=1"
       },
       {
         "title": "Sagra del Tarallo",
@@ -472,6 +520,14 @@
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/sannicandro-di-bari/fiera-di-ottobre-116129"
       },
       {
+        "title": "Mercatino La Piazzolla",
+        "subtitle": "Domenica 25 ottobre • 07:00",
+        "text": "Mercatino • Santeramo in Colle • Piazza Garibaldi • Mercatino periodico di collezionismo e antiquariato.",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20La%20Piazzolla&dates=20261025T060000Z%2F20261025T160000Z&details=Mercatino%20%E2%80%A2%20Santeramo%20in%20Colle%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Mercatino%20periodico%20di%20collezionismo%20e%20antiquariato.&location=Piazza%20Garibaldi%2C%20Santeramo%20in%20Colle",
+        "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/santeramo-in-colle"
+      },
+      {
         "title": "Mostra Hobbismo",
         "subtitle": "Domenica 25 ottobre • 08:00",
         "text": "Mercatino • Bari • Piazza Giuseppe Massari • Collezionismo e scambio di oggetti",
@@ -486,6 +542,14 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20dell'Agricoltura&dates=20261025T080000Z%2F20261025T120000Z&details=Mercatino%20%E2%80%A2%20Sammichele%20di%20Bari%20%E2%80%A2%20Area%20mercatale%20P.%20Munno%20%E2%80%A2%20Espositori%2C%20agricoltura%20e%20artigianato&location=Area%20mercatale%20P.%20Munno%2C%20Sammichele%20di%20Bari",
         "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-dellagricoltura-2026/"
+      },
+      {
+        "title": "Puglia Wine Festival",
+        "subtitle": "Domenica 25 ottobre • 11:00",
+        "text": "Sagra • Castellana Grotte • Largo Portagrande e centro storico • Vino pugliese, gastronomia, caldarroste e artigianato.",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Puglia%20Wine%20Festival&dates=20261025T100000Z%2F20261025T140000Z&details=Sagra%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20e%20centro%20storico%20%E2%80%A2%20Vino%20pugliese%2C%20gastronomia%2C%20caldarroste%20e%20artigianato.&location=Largo%20Portagrande%20e%20centro%20storico%2C%20Castellana%20Grotte",
+        "linkDettagliEvento": "https://www.vivicastellanagrotte.it/index.php/cultura/eventi/23712-torna-il-puglia-wine-festival-per-la-prima-volta-a-castellana-grotte-il-24-e-25-ottobre"
       },
       {
         "title": "Festa Agricola",
@@ -504,6 +568,14 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333605.html"
       },
       {
+        "title": "Zinharua",
+        "subtitle": "Domenica 25 ottobre • 20:30",
+        "text": "Live • Castellana Grotte • Largo Portagrande • Concerto dal vivo al Puglia Wine Festival.",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zinharua&dates=20261025T193000Z%2F20261025T210000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20%E2%80%A2%20Concerto%20dal%20vivo%20al%20Puglia%20Wine%20Festival.&location=Largo%20Portagrande%2C%20Castellana%20Grotte",
+        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
+      },
+      {
         "title": "F1 Austin - Gara",
         "subtitle": "Domenica 25 ottobre • 21:00",
         "text": "Formula 1 • Gran Premio Stati Uniti • Gara",
@@ -518,6 +590,22 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cristina%20D'Avena&dates=20261025T201500Z%2F20261025T224500Z&details=Live%20%E2%80%A2%20Palo%20del%20Colle%20%E2%80%A2%20Piazza%20Santa%20Croce%20%E2%80%A2%20Concerto%20gratuito%20delle%20sigle%20animate%20alla%20Sagra%20del%20Tarallo&location=Piazza%20Santa%20Croce%2C%20Palo%20del%20Colle",
         "linkDettagliEvento": "https://www.caminvattin.it/event/sagra-del-tarallo-di-palo-del-colle-2026/"
+      },
+      {
+        "title": "Meta80",
+        "subtitle": "Domenica 25 ottobre • 21:30",
+        "text": "Live • Castellana Grotte • Largo San Leone Magno • Concerto live al Puglia Wine Festival.",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meta80&dates=20261025T203000Z%2F20261025T223000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20San%20Leone%20Magno%20%E2%80%A2%20Concerto%20live%20al%20Puglia%20Wine%20Festival.&location=Largo%20San%20Leone%20Magno%2C%20Castellana%20Grotte",
+        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
+      },
+      {
+        "title": "Fiera dei Santi Medici",
+        "subtitle": "Domenica 25 ottobre",
+        "text": "Mercatino • Bitonto • Via Lazzati e via delle Nazioni • Tradizionale fiera commerciale con bancarelle.",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20dei%20Santi%20Medici&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Via%20Lazzati%20e%20via%20delle%20Nazioni%20%E2%80%A2%20Tradizionale%20fiera%20commerciale%20con%20bancarelle.&location=Via%20Lazzati%20e%20via%20delle%20Nazioni%2C%20Bitonto",
+        "linkDettagliEvento": "https://www.comune.bitonto.ba.it/it/news/120690"
       },
       {
         "title": "Fiera di San Michele",
@@ -560,20 +648,20 @@
         "linkDettagliEvento": "https://servizionline.hspromilaprod.hypersicapp.net/cmsbisceglie/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
       },
       {
+        "title": "Ottava dei Santi Medici",
+        "subtitle": "Domenica 25 ottobre",
+        "text": "Festa patronale • Bitonto • Basilica e centro cittadino • Ottava della festa dei Santi Medici e riti della tradizione.",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ottava%20dei%20Santi%20Medici&dates=20261025%2F20261026&details=Festa%20patronale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Basilica%20e%20centro%20cittadino%20%E2%80%A2%20Ottava%20della%20festa%20dei%20Santi%20Medici%20e%20riti%20della%20tradizione.&location=Basilica%20e%20centro%20cittadino%2C%20Bitonto",
+        "linkDettagliEvento": "https://www.comune.bitonto.ba.it/it/news/2051545"
+      },
+      {
         "title": "Peppe Leone e Orchestra Agricola",
         "subtitle": "Domenica 25 ottobre",
         "text": "Live • Corato • Cantina Sociale Terra Maiorum, via Castel del Monte 184 • Concerto conclusivo della Festa Agricola; dalle 17:00",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Peppe%20Leone%20e%20Orchestra%20Agricola&dates=20261025%2F20261026&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%20%E2%80%A2%20Concerto%20conclusivo%20della%20Festa%20Agricola%3B%20dalle%2017%3A00&location=Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%2C%20Corato",
         "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Puglia Wine Festival",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Sagra • Rutigliano • Centro storico • Vini pugliesi, gastronomia e tradizioni d'autunno",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Puglia%20Wine%20Festival&dates=20261025%2F20261026&details=Sagra%20%E2%80%A2%20Rutigliano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%20e%20tradizioni%20d'autunno&location=Centro%20storico%2C%20Rutigliano",
-        "linkDettagliEvento": "https://www.televideo.rai.it/televideo/pub/solotesto.jsp?pagina=409&regione=PUGLIA&sottopagina=1"
       },
       {
         "title": "Sagra del Tarallo",
@@ -847,6 +935,32 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nayt%20-%20Noi%20Individui%20Tour&dates=20261103T200000Z%2F20261103T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20PalaFlorio%2C%20viale%20Archimede%20%E2%80%A2%20Concerto%20del%20rapper%20Nayt&location=PalaFlorio%2C%20viale%20Archimede%2C%20Bari",
         "linkDettagliEvento": "https://www.palaflorio.it/"
       }
+    ],
+    "whatchlist": [
+      "Midnight Pub Live — Matera",
+      "Chorìa - Note di Puglia — Bari",
+      "Black Horses Pub — Bari",
+      "Malto's — Bari",
+      "La DolceVita Live — Bari",
+      "Crossroad Saloon — Bari",
+      "Nevermind Music Club — Bari",
+      "Summit Club — Bari",
+      "Fix it Culture - City Club — Bari",
+      "Mulata Latin Social Club — Bari",
+      "Central Pub — Matera",
+      "14th American Pub — Matera",
+      "AREA 8 — Matera",
+      "Eremo Club — Molfetta",
+      "Pecora Nera Country Pub — Cassano delle Murge"
+    ],
+    "blacklist": [
+      "Duke Jazz Club — Bari",
+      "jazz",
+      "fusion jazz",
+      "jam jazz",
+      "jazz trio",
+      "jazz quartet",
+      "jazz tribute"
     ]
   }
 }
