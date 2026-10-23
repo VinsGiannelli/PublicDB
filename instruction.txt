@@ -1,0 +1,75 @@
+Obiettivo dell'esecuzione è aggiornare il json presente al link github https://github.com/VinsGiannelli/PublicDB/blob/main/dashboard.json.
+Le informazioni dovranno essere ricercate attraverso web/API/fonti pubbliche. Fuso Europe/Rome.
+Repository pubblico GitHub `VinsGiannelli/PublicDB`, branch `main`, file root `dashboard.json`. Non creare nuovi repository, README, documentazione o altri file. 
+Mantieni il file pubblico quanto più essenziale possibile. Non riportare nel repository istruzioni interne.
+
+Leggi il json dalla repository come prima operazione per recuperare watchlist / blacklist aggiornate.
+Per eventi e giochi non fare affidamento sui dati gia presenti nel JSON, considerali sempre obsoleti e da riscrivere, ignorali completamente.
+
+
+PRIORITÀ ASSOLUTE
+1. Calendario: periodo da OGGI a OGGI + 14 giorni INCLUSI, calcolato al momento dell'esecuzione in Europe/Rome; `sports.period.from/to` adeguati, nessun evento fuori intervallo.
+2. EVENTI: mai ricercare immagini/loghi di manifestazioni, locali, band o eventi.Per indicare il logo usa SOLO codici generici `F1`, `ITA`, `BA`, `SAGRA`, `PATRONALE`, `MERCATINO`, `LIVE`, `TRADIZIONE`. Eccezione circoscritta: per venue GIÀ nella watchlist, quando manca una programmazione testuale, si possono esaminare locandine RECENTI per estrarne data, artista e orario verificabili, SENZA includere locandina o logo nel JSON. Mai usare locandine per municipality sweep e altri eventi.
+3. GIOCHI `createdDate`: data effettiva di INIZIO della singola offerta/riscatto o aggiunta Luna, `YYYY-MM-DD`, MAI giorno di ricerca, annuncio, scadenza, generazione o ingresso nel catalogo storico. Per offerte già iniziate da mesi ancora attive mantieni data originaria, se non riesci a verificare su sito ufficiale cerca informazioni online per la createddate. Verifica individualmente disponibilità attuale per l'Italia, date e scadenze; escludi offerte future/scadute.
+4. GIOCHI `giveaway:true` SOLO Steam Free-to-Keep con gioco completo riscattabile in proprietà permanente; tutti gli altri `false` (Epic settimanale, Prime, Luna Standard, Steam durata >24h). Escludi F2P permanenti, DLC-only, demo, weekend free-play senza possesso.
+5. GIOCHI `imageUrl`: ricerca mirata per OGNI gioco; URL HTTPS/HTTP diretto e realmente riferito al titolo, preferibilmente Steam header ufficiale verificato, altrimenti recuperala da Steamdb. Non inventare path, asset, timestamp o copertine; se non verificabile `null` e segnalarlo. Il divieto di ricerca immagini per EVENTI non si applica alle copertine dei GIOCHI.
+6. `games.status`/`sports.status`: `ok` se sezione costruita correttamente dai dati verificati, `partial` SOLO per fallimento significativo di fonti importanti che causa lacune materiali, `error` se impossibile costruirla attendibilmente; non usare partial perché teoricamente non esaustiva, né ok per nascondere un guasto grave.
+7. Snapshot COMPLETO: non pubblicare mai una sezione isolata o eliminare accidentalmente l'altra. Root esattamente `generatedAt`, `timezone`, `games`, `sports`. In caso di errore grave, dati troncati, JSON invalido o aggiornamento non verificabile, NON sostituire il precedente snapshot valido con vuoti o inventati: segnala il problema.
+8. GIOCHI `subtitle`: contiene ESCLUSIVAMENTE il nome della piattaforma reale; preferisci grafia canonica `Amazon Luna Standard`, `Epic Games Store`, `Steam`, `GOG`. Per offerte Prime indica la piattaforma effettiva di riscatto (Epic/GOG/Amazon Games App/Legacy Games ecc.), NON `Prime Gaming` né Luna se non è gioco incluso in Luna Standard. Altri provider possono comparire come testo, senza logo dedicato nel frontend. Nessuna frase, data, etichetta promozionale o scadenza in subtitle; mettile in `text`.
+9. GIOCHI `text`: PER OGNI gioco, prima una descrizione specifica in italiano di circa 20-35 parole con genere, ambientazione e attività/meccaniche del gameplay, basata su fonti attendibili; SOLO DOPO una breve frase su promozione, riscatto, Prime, Luna, scadenza verificata. Non cambiare schema né introdurre nuovi campi per genere/descrizione.
+
+1) RICERCA GIOCHI
+- Epic Games Store: giochi attualmente GRATIS da riscattare definitivamente.
+- Amazon Prime / Free Games with Prime: TUTTI i giochi ANCORA riscattabili, compresi quelli iniziati nei mesi passati e non ancora scaduti. Cerca link diretto SPECIFICO `https://luna.amazon.it/claims/.../dp/...` o analogo URL ufficiale, anche `.com` se è destinazione effettiva; pagina generica solo fallback. Non dedurre disponibilità dal mero calendario mensile. Controlla singolarmente piattaforma, titolo, data di avvio e scadenza.
+- Amazon Luna Standard: SOLO nuove aggiunte del periodo effettivamente disponibili, non l'intero catalogo storico; accesso in abbonamento, non giveaway definitivo; data di aggiunta `null` se non accertabile.
+- Steam: cerca esplicitamente offerte temporanee Free-to-Keep di giochi COMPLETI, che restino permanentemente in libreria dopo riscatto; includi quelle giornaliere <=24h; escludi weekend gratuiti non permanenti e contenuti senza gioco base.
+Campi ESATTI PER OGNI GIOCO: `title`, `subtitle`, `text`, `createdDate`, `giveaway`, `imageUrl`, `link`, `steamRating`, `steamPrice`, `steamUrl`. `createdDate` data avvio o null, `giveaway` boolean, gli altri campi non verificabili null ove appropriato.
+- Per informazioni relative a steam fai riferimento al sito "https://steamdb.info" sito pubblico da cui dovresti essere in grado di recuperare tutto.
+- Assicurati che tutti i giochi abbiano il campo del prezzo di steam e dello score di steam pieno. NON INVENTARE QUESTI DATI.
+
+2) EVENTI, NODO `sports`
+Tutti gli eventi sportivi e territoriali nello STESSO array cronologico per oggi → oggi+14 giorni inclusi (Europe/Rome).
+SPORT: TUTTE le gare ufficiali SSC Bari, tutte le gare ufficiali/amichevoli della Nazionale italiana maschile senior, tutte le sessioni ufficiali Formula 1 nel periodo (FP1, FP2, FP3, Sprint Qualifying, Sprint, Qualifiche, Gara secondo formato effettivo). Verifica date e orari con fonti ufficiali; converti accuratamente in Europe/Rome, incluse transizioni DST/ora solare; non confondere orari locali e UTC.
+TERRITORIO: Escludi dalla ricerca locali e stili/tipologie di musica in blacklist. Bari e comuni entro circa 60 km, Matera inclusa. Solo categorie Sagra, Festa patronale, Mercatino, Live, Evento tradizionale. Fiere annuali/tradizionali/commerciali con bancarelle/artigianato/antiquariato/hobbismo = MERCATINO, non inventare nuova categoria Fiera/Wine/Food/Festival/Halloween/Spettacolo. Ricondurre solo se coerente, altrimenti escludere.
+JAZZ: esclusione GLOBALE di serate e concerti prevalentemente jazz, fusion jazz, trio/quartet jazz, jam jazz o tributi jazz; influenze occasionali jazz non sono automaticamente motivo di esclusione. BLACKLIST assoluta Duke Jazz Club (Bari): non cercarlo, non aggiungerlo, non pubblicare suoi eventi.
+
+3) MUNICIPALITY SWEEP COMUNE PER COMUNE
+Ogni run cerca eventi anche per ogni comune rilevante entro circa 60 km da Bari, non solo aggregatori: siti Comune (Eventi, Novità/Avvisi, Vivere il Comune, Cultura, SUAP/Commercio, Manifestazioni), Pro Loco, comitati feste, organizzatori, testate locali e aggregatori come supporto. Ricerche testuali per comune/mese/anno CORRENTI usando `sagra`, `fiera`, `mercatino`, `festa patronale`, `evento tradizionale`, `eventi`, `manifestazioni`; privilegiando date/luoghi/programmi ufficiali. Intercetta fiere annuali, mercati storici, patronali e sagre, ad es. Fiera di Ognissanti a Valenzano → `MERCATINO`. Conserva operativamente la lista cumulativa dei comuni e aggiungi scoperti nuovi, senza ricercare poster/loghi/locandine per municipalità. Limita approfondimento agli eventi nei prossimi 14 giorni.
+
+4) LIVE: DISCOVERY E WATCHLIST CUMULATIVA
+Ogni run controlla TUTTE le venue della watchlist e cerca altri locali con Live ricorrenti (pub, club, birrerie, ristoranti, masserie, associazioni, spazi culturali), termini `live`, `live music`, `cover band`, `tribute band`, `tributo`, `rock live`, `band`, `concerto`. Prima sito ufficiale/calendario/testo social accessibile/caption/aggregatori; SOLO se incompleti cerca locandine RECENTI nella finestra corrente per venue GIA' nota. Estrai solo data/band/ora chiaramente leggibili, mai informazioni ambigue o immagini nel JSON. Locandine SOLO per venue in watchlist, non ricerca generalizzata né feste/fiere/live in piazza. `logo:"LIVE"` sempre. Mantieni cumulative le venue anche senza eventi e rimuovile solo dopo conferma affidabile di chiusura o stop musica live; aggiungi nuove venue ricorrenti.
+Quando trovi nuovi locali aggiungili nella whatchlist del json.
+
+5) LIVE INTERNI A MANIFESTAZIONI
+Per ogni Sagra, Festa patronale, Mercatino o Evento tradizionale consulta PROGRAMMA TESTUALE e cerca `ospite`, `special guest`, `concerto`, `in concerto`, `live`, `musica dal vivo`, `band`, `cantante`, `artista`, `esibizione`, `tribute`, `cover`; ricerche mirate `concerto gratuito + comune`, `concerto in piazza + comune`, `special guest + evento`, `ospite musicale + festa`. Intercetta artisti nazionali, gratuiti in piazza, cover/tribute e gruppi locali minori verificati salvo jazz. Se artista/gruppo/titolo riconoscibile e ALMENO la DATA verificabile, crea item LIVE autonomo accanto a manifestazione principale; ora solo se verificata. Non sdoppiare attività minori marginali. Manifestazioni su più giorni: UN item per GIORNO; ogni Live interno pertinente item separato nella data. Non aggiungere `startDate/endDate`. Nessuna ricerca di poster/loghi di tali manifestazioni.
+
+6) SCHEMA ESATTO EVENTI
+Campi ammessi item: `title`, `subtitle`, `text`, `logo`, `link`, `linkDettagliEvento` opzionale. Vietati `logoURL`, `category`, `city`, `location`, `parentEvent`, `date`, `startTime`, `distanceKm` e altri campi. `title` breve (idealmente 30–35 caratteri), senza ridondanze di città/anno/categoria. `subtitle` = data in italiano es. `Venerdì 23 ottobre • 22:15` oppure solo giorno/data se ora ignota: questa regola differisce da subtitle dei GIOCHI. `text` territoriale: `Categoria • Città • Luogo • dettaglio breve`, omettendo elementi non verificati; calcio `Competizione • Partita`; F1 `Formula 1 • GP ... • Sessione`. `logo` soltanto `BA`,`ITA`,`F1`,`SAGRA`,`PATRONALE`,`MERCATINO`,`LIVE`,`TRADIZIONE`. `link` SEMPRE ESCLUSIVAMENTE Google Calendar precompilato: titolo=title, descrizione=text, luogo=luogo+città se disponibili; convertire effettivamente Europe/Rome/UTC con DST, evitando slittamenti di 1-2 ore. Ora certa → evento temporizzato con durata ragionevole solo per link; ora non certa → evento ALL-DAY di un giorno. Ogni occorrenza multigiorno ha un link distinto. `linkDettagliEvento` facoltativo = URL specifico HTTP/HTTPS ufficiale o attendibile; ometti se non verificabile.
+
+7) VALIDAZIONE E COSTRUZIONE JSON
+Fonti ufficiali preferite, altre affidabili integrative, niente dati inventati. Deduplica stessa manifestazione presente in più fonti ma NON eventi Live interni e NON giorni distinti. Filtra jazz/blacklist e intervallo 14 giorni, controlla titoli, date, orari, fonti, link, tipologie, copertine giochi, Steam giveaway, createdDate, platform-only games.subtitle e gameplay-first games.text. Ordina TUTTI eventi insieme per data, poi ora nota crescente, poi eventi con ora ignota. JSON completo SENZA wrapper né chiavi aggiuntive:
+{
+  "generatedAt":"<UTC ISO-8601>",
+  "timezone":"Europe/Rome",
+  "whatchlist":[],
+  "blacklist": [],
+  "games":{"status":"ok|partial|error","title":"Giochi gratuiti e inclusi","items":[...]},
+  "sports":{"status":"ok|partial|error","title":"Eventi","period":{"from":"YYYY-MM-DD","to":"YYYY-MM-DD"},"items":[...]}
+}
+L'assenza di Steam Free-to-Keep giornalieri non è errore. Non attribuire a sports soltanto le partite: include tutti gli eventi. Una validazione JSON sintattica NON garantisce che le informazioni siano vere: controllare anche le fonti e i campi UI.
+
+8) TRACCIAMENTO WHATCHLIST e BLACK LIST
+Inserisci nel JSON se non presente , oppure aggiorna, una variabile "whatchlist" contenente un array di tutti i locali da tenere sotto controllo. Se ne scopri di nuovi aggiungili in questa variabile.
+Inserisci nel JSON se non presente , oppure aggiorna, una variabile "blacklist" contenente un array di tutti i locali le keyword da blacklistare.
+
+9) DEPLOY GITHUB OBBLIGATORIO
+Obiettivo: aggiorna SEMPRE il singolo file `dashboard.json` alla root del repository PUBBLICO `VinsGiannelli/PublicDB` su `main` e rendilo disponibile via URL GET stabile `https://raw.githubusercontent.com/VinsGiannelli/PublicDB/main/dashboard.json`; dopo eventuale abilitazione GitHub Pages è disponibile anche `https://vinsgiannelli.github.io/PublicDB/dashboard.json`. Non caricare in file temporanei condivisi, non creare altri repository, file di documentazione, workflow o README. 
+Usa connettore GitHub autorizzato. Formatta il JSON sempre in un formato leggibile all'essere umano con relativa indentazione ed andate a capo.
+
+
+SEQUENZA:
+A. Concludi TUTTA la ricerca e validazione, quindi serializza lo snapshot JSON COMPLETO; se contenuto incompleto, troncato o inaffidabile NON sovrascrivere il file esistente. Se falliscono alcune fonti ma lo snapshot rimane pubblicabile in modo affidabile, usa status partial solo dove giustificato.
+B. Con GitHub `fetch_file` leggi `VinsGiannelli/PublicDB/dashboard.json` su `main` e ottieni la sua blob SHA CORRENTE. Con `update_file` sostituisci INTEGRALMENTE il contenuto UTF-8 con il JSON completo, usando la SHA del file esistente. Solo se il file davvero non esiste usa `create_file`. Niente append, payload parziali, duplicati, modifiche ad altri file, o branch diversi. Rispetta conflitti di SHA: in caso di conflitto rileggi SHA e stato corrente e non sovrascrivere ciecamente modifiche contemporanee.
+C. REQUISITO RIGIDO DEL COMMIT: message ESATTAMENTE nel formato `gg/mm/aaaa - hh:mm` con giorno/mese/anno e ora locale Europe/Rome a 24 ore al MOMENTO DEL COMMIT, 2 cifre per giorno, mese, ora, minuti. Esempio: `22/10/2026 - 07:00`. NESSUN prefisso, descrizione, emoji, suffisso, titolo o testo extra. Applica questo anche a eventuale recupero, ma evita più commit sullo stesso snapshot.
+D. Dopo write confermata, fai `fetch_file` di `dashboard.json` da `main`, verifica che sia JSON parseabile, che root e conteggi corrispondano esattamente al payload generato, `generatedAt`, `timezone`, periodo aggiornato, contenuto integro. Riferisci commit SHA ed esito. Per quanto possibile verifica anche GET pubblica/raw, distinguendo GitHub write riuscita da pubblicazione GET/Pages non verificata. Non rivendicare frontend Salesforce sincronizzato: la dashboard ora deve leggere il file pubblico dal lato consumer.
+E. Se una scrittura dà timeout/esito incerto, prima RILEGGI `dashboard.json`: se lo snapshot con quel `generatedAt` è già presente, NON scrivere nuovamente. Se il file non è cambiato e l'errore è DEFINITIVO si può ritentare una volta con la SHA fresca, ma non generare commit duplicati.
