@@ -59,6 +59,7 @@ Esempio di struttura del JSON completo SENZA wrapper né chiavi aggiuntive:
 }
 L'assenza di Steam Free-to-Keep giornalieri non è errore. Non attribuire a sports soltanto le partite: include tutti gli eventi.
 L'assenza della data di scadenza delle offerte è un errore trascurabile. 
+Il campo valutazione va sempre reso integer con simbolo percentuale alla fine.
 
 8) TRACCIAMENTO WHATCHLIST e BLACK LIST
 Inserisci nel JSON se non presente , oppure aggiorna, una variabile "whatchlist" contenente un array di tutti i locali da tenere sotto controllo. Se ne scopri di nuovi aggiungili in questa variabile.
