@@ -46,8 +46,9 @@ Per ogni Sagra, Festa patronale, Mercatino o Evento tradizionale consulta PROGRA
 6) SCHEMA ESATTO EVENTI
 Campi ammessi item: `title`, `subtitle`, `text`, `logo`, `link`, `linkDettagliEvento` opzionale. Vietati `logoURL`, `category`, `city`, `location`, `parentEvent`, `date`, `startTime`, `distanceKm` e altri campi. `title` breve (idealmente 30–35 caratteri), senza ridondanze di città/anno/categoria. `subtitle` = data in italiano es. `Venerdì 23 ottobre • 22:15` oppure solo giorno/data se ora ignota: questa regola differisce da subtitle dei GIOCHI. `text` territoriale: `Categoria • Città • Luogo • dettaglio breve`, omettendo elementi non verificati; calcio `Competizione • Partita`; F1 `Formula 1 • GP ... • Sessione`. `logo` soltanto `BA`,`ITA`,`F1`,`SAGRA`,`PATRONALE`,`MERCATINO`,`LIVE`,`TRADIZIONE`. `link` SEMPRE ESCLUSIVAMENTE Google Calendar precompilato: titolo=title, descrizione=text, luogo=luogo+città se disponibili; convertire effettivamente Europe/Rome/UTC con DST, evitando slittamenti di 1-2 ore. Ora certa → evento temporizzato con durata ragionevole solo per link; ora non certa → evento ALL-DAY di un giorno. Ogni occorrenza multigiorno ha un link distinto. `linkDettagliEvento` facoltativo = URL specifico HTTP/HTTPS ufficiale o attendibile; ometti se non verificabile.
 
-7) VALIDAZIONE E COSTRUZIONE JSON
-Fonti ufficiali preferite, altre affidabili integrative, niente dati inventati. Deduplica stessa manifestazione presente in più fonti ma NON eventi Live interni e NON giorni distinti. Filtra jazz/blacklist e intervallo 14 giorni, controlla titoli, date, orari, fonti, link, tipologie, copertine giochi, Steam giveaway, createdDate, platform-only games.subtitle e gameplay-first games.text. Ordina TUTTI eventi insieme per data, poi ora nota crescente, poi eventi con ora ignota. JSON completo SENZA wrapper né chiavi aggiuntive:
+7) COMPOSIZIONE DEL JSON
+Niente dati inventati. Deduplica stessa manifestazione presente in più fonti ma NON eventi Live interni e NON giorni distinti. 
+Esempio di struttura del JSON completo SENZA wrapper né chiavi aggiuntive:
 {
   "generatedAt":"<UTC ISO-8601>",
   "timezone":"Europe/Rome",
@@ -56,7 +57,8 @@ Fonti ufficiali preferite, altre affidabili integrative, niente dati inventati. 
   "games":{"status":"ok|partial|error","title":"Giochi gratuiti e inclusi","items":[...]},
   "sports":{"status":"ok|partial|error","title":"Eventi","period":{"from":"YYYY-MM-DD","to":"YYYY-MM-DD"},"items":[...]}
 }
-L'assenza di Steam Free-to-Keep giornalieri non è errore. Non attribuire a sports soltanto le partite: include tutti gli eventi. Una validazione JSON sintattica NON garantisce che le informazioni siano vere: controllare anche le fonti e i campi UI.
+L'assenza di Steam Free-to-Keep giornalieri non è errore. Non attribuire a sports soltanto le partite: include tutti gli eventi.
+L'assenza della data di scadenza delle offerte è un errore trascurabile. 
 
 8) TRACCIAMENTO WHATCHLIST e BLACK LIST
 Inserisci nel JSON se non presente , oppure aggiorna, una variabile "whatchlist" contenente un array di tutti i locali da tenere sotto controllo. Se ne scopri di nuovi aggiungili in questa variabile.
@@ -70,6 +72,6 @@ Usa connettore GitHub autorizzato. Formatta il JSON sempre in un formato leggibi
 SEQUENZA:
 A. Concludi TUTTA la ricerca e validazione, quindi serializza lo snapshot JSON COMPLETO; se contenuto incompleto, troncato o inaffidabile fai un'ulteriore ricerca sul web per completare i dati inaffidabili prima sovrascrivere il file esistente. Usa status partial solo dove fortemente giustificato.
 B. Con GitHub `fetch_file` leggi `VinsGiannelli/PublicDB/dashboard.json` su `main` e ottieni la sua blob SHA CORRENTE. Con `update_file` sostituisci INTEGRALMENTE il contenuto UTF-8 con il JSON completo, usando la SHA del file esistente. Solo se il file davvero non esiste usa `create_file`. Niente append, payload parziali, duplicati, modifiche ad altri file, o branch diversi. Rispetta conflitti di SHA: in caso di conflitto rileggi SHA e stato corrente e non sovrascrivere ciecamente modifiche contemporanee.
-C. REQUISITO RIGIDO DEL COMMIT: message ESATTAMENTE nel formato `gg/mm/aaaa - hh:mm` con giorno/mese/anno e ora locale Europe/Rome a 24 ore al MOMENTO DEL COMMIT, 2 cifre per giorno, mese, ora, minuti. Esempio: `22/10/2026 - 07:00`. NESSUN prefisso, descrizione, emoji, suffisso, titolo o testo extra. Applica questo anche a eventuale recupero, ma evita più commit sullo stesso snapshot.
+C. REQUISITO RIGIDO DEL COMMIT: message ESATTAMENTE nel formato `AUTO - gg/mm/aaaa - hh:mm` con giorno/mese/anno e ora locale Europe/Rome a 24 ore al MOMENTO DEL COMMIT, 2 cifre per giorno, mese, ora, minuti. Esempio: `22/10/2026 - 07:00`. NESSUN prefisso, descrizione, emoji, suffisso, titolo o testo extra. Applica questo anche a eventuale recupero, ma evita più commit sullo stesso snapshot.
 D. Dopo write confermata, fai `fetch_file` di `dashboard.json` da `main`, verifica che sia JSON parseabile, che root e conteggi corrispondano esattamente al payload generato, `generatedAt`, `timezone`, periodo aggiornato, contenuto integro. Riferisci commit SHA ed esito. Per quanto possibile verifica anche GET pubblica/raw, distinguendo GitHub write riuscita da pubblicazione GET/Pages non verificata. Non rivendicare frontend Salesforce sincronizzato: la dashboard ora deve leggere il file pubblico dal lato consumer.
 E. Se una scrittura dà timeout/esito incerto, prima RILEGGI `dashboard.json`: se lo snapshot con quel `generatedAt` è già presente, NON scrivere nuovamente. Se il file non è cambiato e l'errore è DEFINITIVO si può ritentare una volta con la SHA fresca, ma non generare commit duplicati.
