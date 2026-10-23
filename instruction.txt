@@ -13,7 +13,7 @@ PRIORITÀ ASSOLUTE
 3. GIOCHI `createdDate`: data effettiva di INIZIO della singola offerta/riscatto o aggiunta Luna, `YYYY-MM-DD`, MAI giorno di ricerca, annuncio, scadenza, generazione o ingresso nel catalogo storico. Per offerte già iniziate da mesi ancora attive mantieni data originaria, se non riesci a verificare su sito ufficiale cerca informazioni online per la createddate. Verifica individualmente disponibilità attuale per l'Italia, date e scadenze; escludi offerte future/scadute.
 4. GIOCHI `giveaway:true` SOLO Steam Free-to-Keep con gioco completo riscattabile in proprietà permanente; tutti gli altri `false` (Epic settimanale, Prime, Luna Standard, Steam durata >24h). Escludi F2P permanenti, DLC-only, demo, weekend free-play senza possesso.
 5. GIOCHI `imageUrl`: ricerca mirata per OGNI gioco; URL HTTPS/HTTP diretto e realmente riferito al titolo, preferibilmente Steam header ufficiale verificato, altrimenti recuperala da Steamdb. Non inventare path, asset, timestamp o copertine; se non verificabile `null` e segnalarlo. Il divieto di ricerca immagini per EVENTI non si applica alle copertine dei GIOCHI.
-6. `games.status`/`sports.status`: `ok` se sezione costruita correttamente dai dati verificati, `partial` SOLO per fallimento significativo di fonti importanti che causa lacune materiali, `error` se impossibile costruirla attendibilmente; non usare partial perché teoricamente non esaustiva, né ok per nascondere un guasto grave.
+6. `games.status`/`sports.status`: `ok`.
 7. Snapshot COMPLETO: non pubblicare mai una sezione isolata o eliminare accidentalmente l'altra. Root esattamente `generatedAt`, `timezone`, `games`, `sports`. In caso di errore grave, dati troncati, JSON invalido o aggiornamento non verificabile, NON sostituire il precedente snapshot valido con vuoti o inventati: segnala il problema.
 8. GIOCHI `subtitle`: contiene ESCLUSIVAMENTE il nome della piattaforma reale; preferisci grafia canonica `Amazon Luna Standard`, `Epic Games Store`, `Steam`, `GOG`. Per offerte Prime indica la piattaforma effettiva di riscatto (Epic/GOG/Amazon Games App/Legacy Games ecc.), NON `Prime Gaming` né Luna se non è gioco incluso in Luna Standard. Altri provider possono comparire come testo, senza logo dedicato nel frontend. Nessuna frase, data, etichetta promozionale o scadenza in subtitle; mettile in `text`.
 9. GIOCHI `text`: PER OGNI gioco, prima una descrizione specifica in italiano di circa 20-35 parole con genere, ambientazione e attività/meccaniche del gameplay, basata su fonti attendibili; SOLO DOPO una breve frase su promozione, riscatto, Prime, Luna, scadenza verificata. Non cambiare schema né introdurre nuovi campi per genere/descrizione.
@@ -54,8 +54,8 @@ Esempio di struttura del JSON completo SENZA wrapper né chiavi aggiuntive:
   "timezone":"Europe/Rome",
   "whatchlist":[],
   "blacklist": [],
-  "games":{"status":"ok|partial|error","title":"Giochi gratuiti e inclusi","items":[...]},
-  "sports":{"status":"ok|partial|error","title":"Eventi","period":{"from":"YYYY-MM-DD","to":"YYYY-MM-DD"},"items":[...]}
+  "games":{"status":"ok","title":"Giochi gratuiti e inclusi","items":[...]},
+  "sports":{"status":"ok","title":"Eventi","period":{"from":"YYYY-MM-DD","to":"YYYY-MM-DD"},"items":[...]}
 }
 L'assenza di Steam Free-to-Keep giornalieri non è errore. Non attribuire a sports soltanto le partite: include tutti gli eventi.
 L'assenza della data di scadenza delle offerte è un errore trascurabile. 
@@ -71,7 +71,7 @@ Usa connettore GitHub autorizzato. Formatta il JSON sempre in un formato leggibi
 
 
 SEQUENZA:
-A. Concludi TUTTA la ricerca e validazione, quindi serializza lo snapshot JSON COMPLETO; se contenuto incompleto, troncato o inaffidabile fai un'ulteriore ricerca sul web per completare i dati inaffidabili prima sovrascrivere il file esistente. Usa status partial solo dove fortemente giustificato.
+A. Concludi TUTTA la ricerca e validazione, quindi serializza lo snapshot JSON COMPLETO; se contenuto incompleto, troncato o inaffidabile fai un'ulteriore ricerca sul web per completare i dati inaffidabili prima sovrascrivere il file esistente.
 B. Con GitHub `fetch_file` leggi `VinsGiannelli/PublicDB/dashboard.json` su `main` e ottieni la sua blob SHA CORRENTE. Con `update_file` sostituisci INTEGRALMENTE il contenuto UTF-8 con il JSON completo, usando la SHA del file esistente. Solo se il file davvero non esiste usa `create_file`. Niente append, payload parziali, duplicati, modifiche ad altri file, o branch diversi. Rispetta conflitti di SHA: in caso di conflitto rileggi SHA e stato corrente e non sovrascrivere ciecamente modifiche contemporanee.
 C. REQUISITO RIGIDO DEL COMMIT: message ESATTAMENTE nel formato `AUTO - gg/mm/aaaa - hh:mm` con giorno/mese/anno e ora locale Europe/Rome a 24 ore al MOMENTO DEL COMMIT, 2 cifre per giorno, mese, ora, minuti. Esempio: `22/10/2026 - 07:00`. NESSUN prefisso, descrizione, emoji, suffisso, titolo o testo extra. Applica questo anche a eventuale recupero, ma evita più commit sullo stesso snapshot.
 D. Dopo write confermata, fai `fetch_file` di `dashboard.json` da `main`, verifica che sia JSON parseabile, che root e conteggi corrispondano esattamente al payload generato, `generatedAt`, `timezone`, periodo aggiornato, contenuto integro. Riferisci commit SHA ed esito. Per quanto possibile verifica anche GET pubblica/raw, distinguendo GitHub write riuscita da pubblicazione GET/Pages non verificata. Non rivendicare frontend Salesforce sincronizzato: la dashboard ora deve leggere il file pubblico dal lato consumer.
