@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:35:27.660Z",
+  "generatedAt": "2026-10-23T12:42:18.407Z",
   "timezone": "Europe/Rome",
   "whatchlist": [
     "Midnight Pub Live — Matera",
@@ -19,7 +19,12 @@
     "Casa delle Arti — Conversano",
     "Agrobistrot — Fasano",
     "Palazzo Pesce — Mola di Bari",
-    "Cittadella degli Artisti — Molfetta"
+    "Cittadella degli Artisti — Molfetta",
+    "Teatro Forma — Bari",
+    "Officina degli Esordi — Bari",
+    "Libreria Prinz Zaum — Bari",
+    "Caffè d'arte Dolceamaro — Bari",
+    "Teatro Bravò — Bari"
   ],
   "blacklist": [
     "Duke Jazz Club — Bari",
@@ -36,17 +41,17 @@
     "Palatour — Bitritto"
   ],
   "games": {
-    "status": "partial",
+    "status": "ok",
     "title": "Giochi gratuiti e inclusi",
     "items": [
       {
         "title": "Ad Infinitum",
         "subtitle": "Epic Games Store",
-        "text": "Horror psicologico in prima persona ambientato fra le trincee della Grande Guerra e una dimora familiare inquietante: esplori ambienti, risolvi enigmi e sfuggi a creature mostruose. Riscatto con Prime su Epic Games Store; scadenza da verificare.",
+        "text": "Horror psicologico in prima persona ambientato fra le trincee della Grande Guerra e una dimora familiare inquietante: esplori ambienti, risolvi enigmi e sfuggi a creature mostruose. Riscattabile con Prime su Epic Games Store fino al 25 novembre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg?t=1778169586",
-        "link": "https://luna.amazon.it/claims/home",
+        "link": "https://luna.amazon.com/claims/ad-infinitum-epic/dp/amzn1.pg.item.69de011b-6575-41ab-9964-971e59cf7457",
         "steamRating": "75%",
         "steamPrice": "1,99 €",
         "steamUrl": "https://store.steampowered.com/app/1234430/"
@@ -90,11 +95,11 @@
       {
         "title": "Caravan SandWitch",
         "subtitle": "Amazon Games App",
-        "text": "Avventura esplorativa narrativa in un mondo fantascientifico: guidi un furgone, attraversi paesaggi suggestivi, incontri comunità e indaghi sulla scomparsa di tua sorella. Riscatto Prime tramite Amazon Games App; scadenza da verificare.",
+        "text": "Avventura esplorativa narrativa in un mondo fantascientifico: guidi un furgone, attraversi paesaggi suggestivi, incontri comunità e indaghi sulla scomparsa di tua sorella. Riscattabile con Prime tramite Amazon Games App fino al 16 dicembre 2026.",
         "createdDate": "2026-10-15",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/caravan-sandwitch-aga/dp/amzn1.pg.item.98d2b591-efd2-420f-928c-e7a9b409f67a",
         "steamRating": "83%",
         "steamPrice": "8,74 €",
         "steamUrl": "https://store.steampowered.com/app/1582650/"
@@ -102,11 +107,11 @@
       {
         "title": "Vampire: The Masquerade – Swansong",
         "subtitle": "Epic Games Store",
-        "text": "Gioco di ruolo narrativo ambientato nella Boston dei vampiri: interpreti tre protagonisti, investi in abilità, indaghi sugli intrighi e prendi decisioni decisive. Riscatto Prime su Epic Games Store; scadenza da verificare.",
+        "text": "Gioco di ruolo narrativo ambientato nella Boston dei vampiri: interpreti tre protagonisti, investi in abilità, indaghi sugli intrighi e prendi decisioni decisive. Riscattabile con Prime su Epic Games Store fino al 18 novembre 2026.",
         "createdDate": "2026-10-15",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/vampire-the-masquerade-swansong-epic/dp/amzn1.pg.item.7885fee3-7dda-40c5-8642-596bb1f4a9b3",
         "steamRating": "61%",
         "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/1299510/"
@@ -114,11 +119,11 @@
       {
         "title": "Conarium",
         "subtitle": "GOG",
-        "text": "Horror avventuroso ispirato a Lovecraft: esplori una base antartica, ricostruisci misteriosi esperimenti scientifici e risolvi enigmi tra visioni e fenomeni inspiegabili. Riscatto con Prime tramite codice GOG; scadenza da verificare.",
+        "text": "Horror avventuroso ispirato a Lovecraft: esplori una base antartica, ricostruisci misteriosi esperimenti scientifici e risolvi enigmi tra visioni e fenomeni inspiegabili. Riscattabile con Prime tramite codice GOG fino all'11 novembre 2026.",
         "createdDate": "2026-10-08",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/conarium-gog/dp/amzn1.pg.item.82e258e7-827e-46e0-8228-25e9720b48b4",
         "steamRating": "74%",
         "steamPrice": "19,50 €",
         "steamUrl": "https://store.steampowered.com/app/313780/"
@@ -126,11 +131,11 @@
       {
         "title": "WarBreeds",
         "subtitle": "GOG",
-        "text": "Strategico in tempo reale di fantascienza: guidi un clan, affronti fazioni rivali, sottrai materiale genetico e personalizzi truppe e armamenti biotecnologici. Riscatto Prime con codice GOG; scadenza da verificare.",
+        "text": "Strategico in tempo reale di fantascienza: guidi un clan, affronti fazioni rivali, sottrai materiale genetico e personalizzi truppe e armamenti biotecnologici. Riscattabile con Prime tramite codice GOG fino all'8 gennaio 2027.",
         "createdDate": "2026-10-08",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
-        "link": "https://luna.amazon.it/claims/warbreeds-gog/dp/amzn1.pg.item.886d058d-6e68-4f53-8e58-3044de3e6bb4",
+        "link": "https://luna.amazon.com/claims/warbreeds-gog/dp/amzn1.pg.item.886d058d-6e68-4f53-8e58-3044de3e6bb4",
         "steamRating": "71%",
         "steamPrice": "2,99 €",
         "steamUrl": "https://store.steampowered.com/app/2464660/"
@@ -138,11 +143,11 @@
       {
         "title": "DOOM (2016)",
         "subtitle": "GOG",
-        "text": "Sparatutto in prima persona ambientato in una base marziana invasa da demoni: combatti freneticamente, raccogli armamenti e affronti orde di mostri. Riscatto con Prime su GOG fino al 4 novembre 2026.",
+        "text": "Sparatutto in prima persona ambientato in una base marziana invasa da demoni: combatti freneticamente, raccogli armamenti e affronti orde di mostri. Riscattabile con Prime tramite codice GOG fino al 4 novembre 2026.",
         "createdDate": "2026-10-01",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/doom-gog/dp/amzn1.pg.item.b095156c-1207-49f0-801a-75ac03b74def",
         "steamRating": "94%",
         "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/379720/"
@@ -150,11 +155,11 @@
       {
         "title": "Five Nights at Freddy's: Into the Pit",
         "subtitle": "Epic Games Store",
-        "text": "Avventura horror in pixel art: esplori due epoche, indaghi in una pizzeria infestata, risolvi enigmi ed eviti animatroni letali. Riscatto con Prime su Epic Games Store fino al 4 novembre 2026.",
+        "text": "Avventura horror in pixel art: esplori due epoche, indaghi in una pizzeria infestata, risolvi enigmi ed eviti animatroni letali. Riscattabile con Prime su Epic Games Store fino al 4 novembre 2026.",
         "createdDate": "2026-10-01",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/five-nights-at-freddys-into-the-pit-epic/dp/amzn1.pg.item.9d2ad65c-0963-4e2d-93e6-75ad2a4bfc87",
         "steamRating": "93%",
         "steamPrice": "19,50 €",
         "steamUrl": "https://store.steampowered.com/app/2638370/"
@@ -162,11 +167,11 @@
       {
         "title": "High On Life",
         "subtitle": "Epic Games Store",
-        "text": "Sparatutto fantascientifico e comico: visiti pianeti eccentrici, combatti un cartello alieno e utilizzi armi parlanti dalle abilità speciali. Riscatto Prime su Epic Games Store fino al 28 ottobre 2026.",
+        "text": "Sparatutto fantascientifico e comico: visiti pianeti eccentrici, combatti un cartello alieno e utilizzi armi parlanti dalle abilità speciali. Riscattabile con Prime su Epic Games Store fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/high-on-life-epic/dp/amzn1.pg.item.351cbaa9-ac70-4e47-93b6-1a4cb7dd38c8",
         "steamRating": "87%",
         "steamPrice": "36,49 €",
         "steamUrl": "https://store.steampowered.com/app/1583230/"
@@ -174,11 +179,11 @@
       {
         "title": "Hue",
         "subtitle": "Epic Games Store",
-        "text": "Puzzle platform colorato: esplori un mondo bidimensionale, cambi il colore dello sfondo per modificare ostacoli e risolvi enigmi ambientali. Riscatto Prime tramite Epic Games Store fino al 28 ottobre 2026.",
+        "text": "Puzzle platform colorato: esplori un mondo bidimensionale, cambi il colore dello sfondo per modificare ostacoli e risolvi enigmi ambientali. Riscattabile con Prime su Epic Games Store fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383270/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/hue-epic/dp/amzn1.pg.item.d7de294d-c66d-4445-824d-ec9292fa1acb",
         "steamRating": "90%",
         "steamPrice": "14,99 €",
         "steamUrl": "https://store.steampowered.com/app/383270/"
@@ -190,7 +195,7 @@
         "createdDate": "2026-09-24",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.it/claims/home",
         "steamRating": "53%",
         "steamPrice": "4,89 €",
         "steamUrl": "https://store.steampowered.com/app/2666270/"
@@ -198,7 +203,7 @@
       {
         "title": "Havendock",
         "subtitle": "Amazon Games App",
-        "text": "Gestionale di colonie sull'oceano: costruisci piattaforme galleggianti, coltivi risorse, accogli naufraghi e sviluppi nuove tecnologie per far prosperare l'insediamento. Riscatto Prime tramite Amazon Games App fino al 28 ottobre 2026.",
+        "text": "Gestionale di colonie sull'oceano: costruisci piattaforme galleggianti, coltivi risorse, accogli naufraghi e sviluppi nuove tecnologie per far prosperare l'insediamento. Riscattabile con Prime tramite Amazon Games App fino al 28 ottobre 2026.",
         "createdDate": "2026-08-27",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/header.jpg",
@@ -210,11 +215,11 @@
       {
         "title": "Weakless",
         "subtitle": "GOG",
-        "text": "Avventura puzzle in ambienti naturali fantastici: alterni due creature di legno, una cieca e una sorda, sfruttando sensi differenti per risolvere enigmi. Riscatto Prime su GOG fino al 28 ottobre 2026.",
+        "text": "Avventura puzzle in ambienti naturali fantastici: alterni due creature di legno, una cieca e una sorda, sfruttando sensi differenti per risolvere enigmi. Riscattabile con Prime tramite codice GOG fino al 28 ottobre 2026.",
         "createdDate": "2026-07-30",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072620/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/weakless-gog/dp/amzn1.pg.item.35aae84a-f566-4890-8fd3-492318a39036",
         "steamRating": "69%",
         "steamPrice": "12,25 €",
         "steamUrl": "https://store.steampowered.com/app/1072620/"
@@ -222,11 +227,11 @@
       {
         "title": "Zoria: Age of Shattering",
         "subtitle": "GOG",
-        "text": "Gioco di ruolo tattico fantasy a turni: guidi un gruppo di quattro eroi, combatti nemici, sviluppi avamposti e gestisci compagni e abilità. Riscatto Prime su GOG fino al 28 ottobre 2026.",
+        "text": "Gioco di ruolo tattico fantasy a turni: guidi un gruppo di quattro eroi, combatti nemici, sviluppi avamposti e gestisci compagni e abilità. Riscattabile con Prime tramite codice GOG fino al 28 ottobre 2026.",
         "createdDate": "2026-07-30",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
+        "link": "https://luna.amazon.com/claims/zoria-age-of-shattering-gog/dp/amzn1.pg.item.ec074069-a977-4885-b5b0-6f972d17abb7",
         "steamRating": "75%",
         "steamPrice": "24,50 €",
         "steamUrl": "https://store.steampowered.com/app/1159090/"
@@ -278,6 +283,18 @@
         "steamRating": "44%",
         "steamPrice": "9,75 €",
         "steamUrl": "https://store.steampowered.com/app/3535330/"
+      },
+      {
+        "title": "Hex Reverse",
+        "subtitle": "Steam",
+        "text": "Gioco di carte strategico e roguelike su griglia esagonale: costruisci un mazzo, posizioni carte, ribalti quelle avversarie e sfrutti valori e combinazioni per vincere le sfide. Disponibile gratuitamente su Steam dal 7 ottobre al 6 novembre 2026; una volta aggiunto resta in libreria.",
+        "createdDate": "2026-10-07",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/0378ca94843620240eda1ad571c6b7d6bb0b0527/header.jpg?t=1791363746",
+        "link": "https://store.steampowered.com/app/5257350/",
+        "steamRating": "53%",
+        "steamPrice": "Gratis",
+        "steamUrl": "https://store.steampowered.com/app/5257350/"
       }
     ]
   },
@@ -330,12 +347,36 @@
         "linkDettagliEvento": "https://sport.virgilio.it/prossime-partite-calendario-bari/"
       },
       {
+        "title": "SAUDADE EN EL TANGO",
+        "subtitle": "Venerdì 23 ottobre • 20:30",
+        "text": "Live • Bari • Caffè d'arte Dolceamaro, via San Francesco d'Assisi 9 • Tango argentino con Leonardo Di Gioia e Benedetta Lusito",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SAUDADE%20EN%20EL%20TANGO&dates=20261023T183000Z%2F20261023T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%20%E2%80%A2%20Tango%20argentino%20con%20Leonardo%20Di%20Gioia%20e%20Benedetta%20Lusito&location=Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/332894.html"
+      },
+      {
         "title": "A Uacc A Uacc",
         "subtitle": "Venerdì 23 ottobre • 21:00",
         "text": "Sagra • Bitonto • Centro antico • Festa tradizionale del cibo di strada con i locali del borgo.",
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Uacc%20A%20Uacc&dates=20261023T190000Z%2F20261023T230000Z&details=Sagra%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Centro%20antico%20%E2%80%A2%20Festa%20tradizionale%20del%20cibo%20di%20strada%20con%20i%20locali%20del%20borgo.&location=Centro%20antico%2C%20Bitonto",
         "linkDettagliEvento": "https://www.comune.bitonto.ba.it/it/news/2051545"
+      },
+      {
+        "title": "David Moore - Graze The Bell",
+        "subtitle": "Venerdì 23 ottobre • 21:00",
+        "text": "Live • Bari • Teatro Kismet • Concerto per pianoforte solo ambient e minimalista del festival Time Zones",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David%20Moore%20-%20Graze%20The%20Bell&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kismet%20%E2%80%A2%20Concerto%20per%20pianoforte%20solo%20ambient%20e%20minimalista%20del%20festival%20Time%20Zones&location=Teatro%20Kismet%2C%20Bari",
+        "linkDettagliEvento": "https://www.timezones.it/programma-41-edizione/139"
+      },
+      {
+        "title": "Evil Empire: tributo RATM",
+        "subtitle": "Venerdì 23 ottobre • 21:00",
+        "text": "Live • Bari • Officina degli Esordi, via Trevisani 56 • Esecuzione integrale dell'album Evil Empire dei Rage Against the Machine",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Evil%20Empire%3A%20tributo%20RATM&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%2C%20via%20Trevisani%2056%20%E2%80%A2%20Esecuzione%20integrale%20dell'album%20Evil%20Empire%20dei%20Rage%20Against%20the%20Machine&location=Officina%20degli%20Esordi%2C%20via%20Trevisani%2056%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333851.html"
       },
       {
         "title": "Fraskèt Live Band",
@@ -354,36 +395,20 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333900.html"
       },
       {
-        "title": "Mazzariello",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Conversano • Casa delle Arti, via Donato Jaia 14 • Concerto pop e cantautorato dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mazzariello&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Casa%20delle%20Arti%2C%20via%20Donato%20Jaia%2014%20%E2%80%A2%20Concerto%20pop%20e%20cantautorato%20dal%20vivo&location=Casa%20delle%20Arti%2C%20via%20Donato%20Jaia%2014%2C%20Conversano",
-        "linkDettagliEvento": "https://www.casadellearti.org/eventi/mazzariello-live-23-10-26/"
-      },
-      {
-        "title": "Sal Da Vinci",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Bitritto • Palatour, largo R. Dell'Andro • Concerto Live Teatri 2026",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sal%20Da%20Vinci&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Bitritto%20%E2%80%A2%20Palatour%2C%20largo%20R.%20Dell'Andro%20%E2%80%A2%20Concerto%20Live%20Teatri%202026&location=Palatour%2C%20largo%20R.%20Dell'Andro%2C%20Bitritto",
-        "linkDettagliEvento": "https://palatour.it/evento/sal-da-vinci-teatri-2026/"
-      },
-      {
-        "title": "Willie Peyote",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Molfetta • Eremo Club • Club Tour 2026",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Willie%20Peyote&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Eremo%20Club%20%E2%80%A2%20Club%20Tour%202026&location=Eremo%20Club%2C%20Molfetta",
-        "linkDettagliEvento": "https://bassculture.it/bc-new/facebook-event/willie-peyote-club-tour-2026-molfetta-ba/"
-      },
-      {
         "title": "Lucio e Lucio",
         "subtitle": "Venerdì 23 ottobre • 21:00",
         "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Pietro Verna, Francesco Galizia e Leo Torres interpretano Dalla e Battisti",
         "logo": "LIVE",
         "linkDettagliEvento": "https://www.eventiamola.it/event/lucio-e-lucio-dalla-e-battisti-sincontrano/",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lucio%20e%20Lucio&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Pietro%20Verna%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20interpretano%20Dalla%20e%20Battisti&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari"
+      },
+      {
+        "title": "Mazzariello",
+        "subtitle": "Venerdì 23 ottobre • 21:00",
+        "text": "Live • Conversano • Casa delle Arti, via Donato Jaia 14 • Concerto pop e cantautorato dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mazzariello&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Casa%20delle%20Arti%2C%20via%20Donato%20Jaia%2014%20%E2%80%A2%20Concerto%20pop%20e%20cantautorato%20dal%20vivo&location=Casa%20delle%20Arti%2C%20via%20Donato%20Jaia%2014%2C%20Conversano",
+        "linkDettagliEvento": "https://www.casadellearti.org/eventi/mazzariello-live-23-10-26/"
       },
       {
         "title": "Back to the 70's",
@@ -450,6 +475,14 @@
         "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-dellagricoltura-2026/"
       },
       {
+        "title": "The Best Cellar",
+        "subtitle": "Sabato 24 ottobre • 15:00",
+        "text": "Mercatino • Matera • Palazzo Malvinni Malvezzi, piazza Duomo • Banchi d'assaggio aperti al pubblico e stand di cantine",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Best%20Cellar&dates=20261024T130000Z%2F20261024T180000Z&details=Mercatino%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%2C%20piazza%20Duomo%20%E2%80%A2%20Banchi%20d'assaggio%20aperti%20al%20pubblico%20e%20stand%20di%20cantine&location=Palazzo%20Malvinni%20Malvezzi%2C%20piazza%20Duomo%2C%20Matera",
+        "linkDettagliEvento": "https://italia.zosimoratings.com/raggiungere-matera-e-levento-100-distinction-the-best-cellars-2026/"
+      },
+      {
         "title": "Festa Agricola",
         "subtitle": "Sabato 24 ottobre • 16:00",
         "text": "Sagra • Corato • Piazza Vittorio Emanuele, Fontana della Montagnola • Prodotti agricoli, artigianato, degustazioni e concerti",
@@ -498,12 +531,28 @@
         "linkDettagliEvento": "https://www.vivicastellanagrotte.it/index.php/cultura/eventi/23712-torna-il-puglia-wine-festival-per-la-prima-volta-a-castellana-grotte-il-24-e-25-ottobre"
       },
       {
+        "title": "Omaggio a Morricone",
+        "subtitle": "Sabato 24 ottobre • 20:30",
+        "text": "Live • Bari • Teatro Petruzzelli • Ensemble Le Muse e Susanna Rigacci eseguono colonne sonore di Ennio Morricone",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Omaggio%20a%20Morricone&dates=20261024T183000Z%2F20261024T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Ensemble%20Le%20Muse%20e%20Susanna%20Rigacci%20eseguono%20colonne%20sonore%20di%20Ennio%20Morricone&location=Teatro%20Petruzzelli%2C%20Bari",
+        "linkDettagliEvento": "https://www.ticketone.it/event/omaggio-a-morricone-musiche-da-oscar-teatro-petruzzelli-20943570/"
+      },
+      {
         "title": "Edoardo Bruni al pianoforte",
         "subtitle": "Sabato 24 ottobre • 21:00",
         "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Recital pianistico con musiche di Schubert, Bruni, Brahms e Chopin",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Edoardo%20Bruni%20al%20pianoforte&dates=20261024T190000Z%2F20261024T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Schubert%2C%20Bruni%2C%20Brahms%20e%20Chopin&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
         "linkDettagliEvento": "https://www.eventiamola.it/event/intelligenza-ed-emozione-musiche-di-schubert-bruni-brahms-chopin/"
+      },
+      {
+        "title": "Mimì - Omaggio a Mia Martini",
+        "subtitle": "Sabato 24 ottobre • 21:00",
+        "text": "Live • Bari • Teatro Showville • Roberta Devita e Orchestra Tebaide in concerto dedicato a Mia Martini",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mim%C3%AC%20-%20Omaggio%20a%20Mia%20Martini&dates=20261024T190000Z%2F20261024T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Showville%20%E2%80%A2%20Roberta%20Devita%20e%20Orchestra%20Tebaide%20in%20concerto%20dedicato%20a%20Mia%20Martini&location=Teatro%20Showville%2C%20Bari",
+        "linkDettagliEvento": "https://www.ticketone.it/eventseries/mimi-omaggio-a-mia-martini-4154006/?inApp=true"
       },
       {
         "title": "Seventy Fever Band",
@@ -650,6 +699,13 @@
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Vivere-il-comune/Eventi/Sit-Laus-Plena-2026-Monopoli-International-Organ-Festival"
       },
       {
+        "title": "Giuliano Ciliberti: Ornella e Gino",
+        "subtitle": "Domenica 25 ottobre • 18:00",
+        "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • Teatro canzone dedicato a Ornella Vanoni e Gino Paoli",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giuliano%20Ciliberti%3A%20Ornella%20e%20Gino&dates=20261025T170000Z%2F20261025T190000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20Teatro%20canzone%20dedicato%20a%20Ornella%20Vanoni%20e%20Gino%20Paoli&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari"
+      },
+      {
         "title": "Calici nel Borgo",
         "subtitle": "Domenica 25 ottobre • 19:00",
         "text": "Mercatino • Sammichele di Bari • Centro storico, via Dalfino • Produttori ed espositori",
@@ -778,12 +834,60 @@
         "linkDettagliEvento": "https://www.potenzacalcio.eu/2026/09/18/ottavi-di-finale-di-coppa-italia-regionale-definito-lorario-della-sfida-potenza-bari/"
       },
       {
+        "title": "Lucio e Lucio - Replica",
+        "subtitle": "Martedì 27 ottobre • 21:00",
+        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Pietro Verna, Francesco Galizia e Leo Torres omaggiano Dalla e Battisti",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lucio%20e%20Lucio%20-%20Replica&dates=20261027T200000Z%2F20261027T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Pietro%20Verna%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20omaggiano%20Dalla%20e%20Battisti&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/10/19/27-ottobre-2026-replica-lucio-e-lucio-dalla-e-battisti-sincontrano/"
+      },
+      {
+        "title": "Recital lirico Eva Mei",
+        "subtitle": "Giovedì 29 ottobre • 20:00",
+        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Concerto conclusivo degli allievi della masterclass di Eva Mei e Michele D'Elia",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Recital%20lirico%20Eva%20Mei&dates=20261029T190000Z%2F20261029T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Concerto%20conclusivo%20degli%20allievi%20della%20masterclass%20di%20Eva%20Mei%20e%20Michele%20D'Elia&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/10/20/29-ottobre-2026-recital-lirico-allievi-masterclass-eva-mei-e-michele-delia/"
+      },
+      {
         "title": "F1 Messico - Prove Libere 1",
         "subtitle": "Venerdì 30 ottobre • 19:30",
         "text": "Formula 1 • Gran Premio Messico • Prove Libere 1",
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Prove%20Libere%201&dates=20261030T183000Z%2F20261030T193000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Messico%20%E2%80%A2%20Prove%20Libere%201",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      },
+      {
+        "title": "PINKABBESTIA: Dimblue e Valente",
+        "subtitle": "Venerdì 30 ottobre • 19:30",
+        "text": "Live • Bari • Libreria Prinz Zaum, via Cardassi 85 • Set indie-folk e cantautorali di Dimblue e Simona Valente",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PINKABBESTIA%3A%20Dimblue%20e%20Valente&dates=20261030T183000Z%2F20261030T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Libreria%20Prinz%20Zaum%2C%20via%20Cardassi%2085%20%E2%80%A2%20Set%20indie-folk%20e%20cantautorali%20di%20Dimblue%20e%20Simona%20Valente&location=Libreria%20Prinz%20Zaum%2C%20via%20Cardassi%2085%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331714.html"
+      },
+      {
+        "title": "Édith Piaf Project",
+        "subtitle": "Venerdì 30 ottobre • 20:30",
+        "text": "Live • Bari • Caffè d'arte Dolceamaro, via San Francesco d'Assisi 9 • Concerto narrato di chanson française con Chiara Liuzzi",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%C3%89dith%20Piaf%20Project&dates=20261030T193000Z%2F20261030T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%20%E2%80%A2%20Concerto%20narrato%20di%20chanson%20fran%C3%A7aise%20con%20Chiara%20Liuzzi&location=Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/332895.html"
+      },
+      {
+        "title": "Dettagli... Senza fine",
+        "subtitle": "Venerdì 30 ottobre • 21:00",
+        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Savio Vurchio e Stefania Tesoro interpretano Vanoni e Gino Paoli",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dettagli...%20Senza%20fine&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Savio%20Vurchio%20e%20Stefania%20Tesoro%20interpretano%20Vanoni%20e%20Gino%20Paoli&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/09/11/30-ottobre-2026-dettagli-senza-fine-ornella-vanoni-e-gino-paoli/"
+      },
+      {
+        "title": "Tony Esposito World",
+        "subtitle": "Venerdì 30 ottobre • 21:00",
+        "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • I Suoni di Ulisse Tour tra world music, afrobeat e ritmi mediterranei",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tony%20Esposito%20World&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20I%20Suoni%20di%20Ulisse%20Tour%20tra%20world%20music%2C%20afrobeat%20e%20ritmi%20mediterranei&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari",
+        "linkDettagliEvento": "https://www.teatroforma.org/2026/07/16/tony-esposito-world-i-suoni-di-ulisse-tour-venerdi-30-ottobre-2026-ore-2100/"
       },
       {
         "title": "F1 Messico - Prove Libere 2",
@@ -842,20 +946,20 @@
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
-        "title": "Wine & Food Festival",
-        "subtitle": "Sabato 31 ottobre • 19:30",
-        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031T183000Z%2F20261031T223000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
-      },
-      {
         "title": "Francesco, Uomo, Santo e Felice",
         "subtitle": "Sabato 31 ottobre • 19:30",
         "text": "Live • Mola di Bari • Chiesa della Santissima Trinità • Seconda data del concerto-meditazione gratuito dell'associazione Incanto",
         "logo": "LIVE",
         "linkDettagliEvento": "https://www.eventiamola.it/event/francesco-uomo-santo-e-felice/",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%2C%20Uomo%2C%20Santo%20e%20Felice&dates=20261031T183000Z%2F20261031T203000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20della%20Santissima%20Trinit%C3%A0%20%E2%80%A2%20Seconda%20data%20del%20concerto-meditazione%20gratuito%20dell'associazione%20Incanto&location=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Mola%20di%20Bari"
+      },
+      {
+        "title": "Wine & Food Festival",
+        "subtitle": "Sabato 31 ottobre • 19:30",
+        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031T183000Z%2F20261031T223000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
         "title": "I Sorta Nost",
@@ -926,7 +1030,7 @@
         "subtitle": "Domenica 1 novembre • 11:00",
         "text": "Evento tradizionale • Monopoli • Porto Antico • Palio delle imbarcazioni tradizionali di Gozzovigliando",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T120000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20delle%20imbarcazioni%20tradizionali%20di%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T140000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20delle%20imbarcazioni%20tradizionali%20di%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
       },
       {
@@ -1010,6 +1114,38 @@
         "linkDettagliEvento": "https://www.terlizziviva.it/notizie/commemorazione-dei-defunti-e-sagra-della-quartecedde-il-programma-degli-appuntamenti/"
       },
       {
+        "title": "Guillem Gironès",
+        "subtitle": "Lunedì 2 novembre • 20:30",
+        "text": "Live • Sannicandro di Bari • Castello Normanno-Svevo • Recital per clavicembalo di musica antica e barocca",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guillem%20Giron%C3%A8s&dates=20261102T193000Z%2F20261102T213000Z&details=Live%20%E2%80%A2%20Sannicandro%20di%20Bari%20%E2%80%A2%20Castello%20Normanno-Svevo%20%E2%80%A2%20Recital%20per%20clavicembalo%20di%20musica%20antica%20e%20barocca&location=Castello%20Normanno-Svevo%2C%20Sannicandro%20di%20Bari",
+        "linkDettagliEvento": "https://www.classicalive.it/it/eventi/2026-11-02/guillem-girones/"
+      },
+      {
+        "title": "I Komandanti",
+        "subtitle": "Lunedì 2 novembre",
+        "text": "Live • Bari • Piazzale Lorusso • Cover band di Vasco Rossi durante Monster Day; orario dell'esibizione non confermato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti&dates=20261102%2F20261103&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Cover%20band%20di%20Vasco%20Rossi%20durante%20Monster%20Day%3B%20orario%20dell'esibizione%20non%20confermato&location=Piazzale%20Lorusso%2C%20Bari",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
+      },
+      {
+        "title": "Banana Republic",
+        "subtitle": "Mercoledì 4 novembre • 21:00",
+        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Tony Quadrello, Francesco Galizia e Leo Torres omaggiano Dalla, De Gregori e Ron",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&dates=20261104T200000Z%2F20261104T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Tony%20Quadrello%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20omaggiano%20Dalla%2C%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/tag/eventi-2026-a-palazzo-pesce/"
+      },
+      {
+        "title": "Michael in Acoustic",
+        "subtitle": "Giovedì 5 novembre • 19:30",
+        "text": "Live • Bari • Teatro Bravò, via Stoppelli 18 • Omaggio acustico a Michael Jackson con voci, coro e musicisti dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Michael%20in%20Acoustic&dates=20261105T183000Z%2F20261105T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Brav%C3%B2%2C%20via%20Stoppelli%2018%20%E2%80%A2%20Omaggio%20acustico%20a%20Michael%20Jackson%20con%20voci%2C%20coro%20e%20musicisti%20dal%20vivo&location=Teatro%20Brav%C3%B2%2C%20via%20Stoppelli%2018%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331735.html"
+      },
+      {
         "title": "F1 Brasile - Prove Libere 1",
         "subtitle": "Venerdì 6 novembre • 16:30",
         "text": "Formula 1 • GP Brasile • Prove Libere 1",
@@ -1024,6 +1160,14 @@
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Prove%20Libere%202&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Prove%20Libere%202",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "Paolo Buonvino e Laura Masotto",
+        "subtitle": "Venerdì 6 novembre • 21:00",
+        "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • Colonne sonore e neoclassica per pianoforte, violino ed elettronica",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paolo%20Buonvino%20e%20Laura%20Masotto&dates=20261106T200000Z%2F20261106T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20Colonne%20sonore%20e%20neoclassica%20per%20pianoforte%2C%20violino%20ed%20elettronica&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330607.html"
       }
     ]
   }
