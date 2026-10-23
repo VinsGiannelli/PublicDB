@@ -15,13 +15,11 @@
     "Central Pub — Matera",
     "14th American Pub — Matera",
     "AREA 8 — Matera",
-    "Eremo Club — Molfetta",
     "Pecora Nera Country Pub — Cassano delle Murge",
     "Casa delle Arti — Conversano",
     "Agrobistrot — Fasano",
     "Palazzo Pesce — Mola di Bari",
-    "Cittadella degli Artisti — Molfetta",
-    "Palatour — Bitritto"
+    "Cittadella degli Artisti — Molfetta"
   ],
   "blacklist": [
     "Duke Jazz Club — Bari",
@@ -31,7 +29,11 @@
     "jazz trio",
     "jazz quartet",
     "jazz tribute",
-    "palaflorio"
+    "palaflorio",
+    "Eremo Club",
+    "Eremo Club — Molfetta",
+    "Palatour",
+    "Palatour — Bitritto"
   ],
   "games": {
     "status": "partial",
