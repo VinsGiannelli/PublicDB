@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-22T16:03:04.933Z",
+  "generatedAt": "2026-10-23T08:32:33.662Z",
   "timezone": "Europe/Rome",
   "games": {
     "status": "partial",
     "title": "Giochi gratuiti e inclusi",
     "items": [
+      {
+        "title": "Ad Infinitum",
+        "subtitle": "Epic Games Store",
+        "text": "Horror psicologico in prima persona ambientato fra le trincee della Grande Guerra e una dimora familiare inquietante: esplori ambienti, risolvi enigmi e sfuggi a creature mostruose. Riscattabile con Prime tramite Epic Games Store; scadenza da verificare.",
+        "createdDate": "2026-10-22",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/page_bg_raw.jpg?t=1764149283",
+        "link": "https://luna.amazon.it/claims/home",
+        "steamRating": 76,
+        "steamPrice": null,
+        "steamUrl": "https://store.steampowered.com/app/1234430/"
+      },
       {
         "title": "Home - A Unique Horror Adventure",
         "subtitle": "Epic Games Store",
@@ -30,18 +42,6 @@
         "steamUrl": "https://store.steampowered.com/app/1492070/"
       },
       {
-        "title": "Ad Infinitum",
-        "subtitle": "Epic Games Store",
-        "text": "Horror psicologico in prima persona ambientato fra le trincee della Grande Guerra e una dimora familiare inquietante: esplori ambienti, risolvi enigmi e sfuggi a creature mostruose. Riscattabile con Prime tramite Epic Games Store; scadenza da verificare.",
-        "createdDate": "2026-10-22",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/page_bg_raw.jpg?t=1764149283",
-        "link": "https://luna.amazon.it/claims/home",
-        "steamRating": 76,
-        "steamPrice": null,
-        "steamUrl": "https://store.steampowered.com/app/1234430/"
-      },
-      {
         "title": "Time Travel: Escape Room Game",
         "subtitle": "Legacy Games",
         "text": "Puzzle adventure punta e clicca in cui ripari una macchina del tempo attraversando cento ambientazioni storiche, cercando cristalli smarriti, combinando oggetti e risolvendo enigmi di fuga. Disponibile con Prime tramite codice Legacy Games; scadenza da verificare.",
@@ -54,18 +54,6 @@
         "steamUrl": "https://store.steampowered.com/app/3094600/"
       },
       {
-        "title": "Vampire: The Masquerade – Swansong",
-        "subtitle": "Epic Games Store",
-        "text": "Gioco di ruolo narrativo investigativo: controlli tre vampiri con abilità differenti, interroghi personaggi, ricostruisci segreti e scegli come orientare alleanze e conseguenze. Incluso con Prime, da riscattare su Epic Games Store; verificare la scadenza nella pagina di riscatto.",
-        "createdDate": "2026-10-15",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 62,
-        "steamPrice": "19,99 €",
-        "steamUrl": "https://store.steampowered.com/app/1299510/"
-      },
-      {
         "title": "Caravan SandWitch",
         "subtitle": "Amazon Games App",
         "text": "Avventura esplorativa fantascientifica: percorri un pianeta in furgone, parli con gli abitanti, esplori rovine e segui gli indizi sulla scomparsa di una persona cara. Incluso con Prime tramite Amazon Games App; verificare la scadenza nella pagina di riscatto.",
@@ -76,6 +64,18 @@
         "steamRating": 86,
         "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/1582650/"
+      },
+      {
+        "title": "Vampire: The Masquerade – Swansong",
+        "subtitle": "Epic Games Store",
+        "text": "Gioco di ruolo narrativo investigativo: controlli tre vampiri con abilità differenti, interroghi personaggi, ricostruisci segreti e scegli come orientare alleanze e conseguenze. Incluso con Prime, da riscattare su Epic Games Store; verificare la scadenza nella pagina di riscatto.",
+        "createdDate": "2026-10-15",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
+        "link": "https://luna.amazon.com/claims/home",
+        "steamRating": 62,
+        "steamPrice": "19,99 €",
+        "steamUrl": "https://store.steampowered.com/app/1299510/"
       },
       {
         "title": "Conarium",
@@ -126,18 +126,6 @@
         "steamUrl": "https://store.steampowered.com/app/2638370/"
       },
       {
-        "title": "The Da Vinci Cryptex",
-        "subtitle": "Legacy Games",
-        "text": "Puzzle game investigativo: affronti una serie di rompicapi, esamini indizi e decifri codici ispirati ai misteri di Leonardo da Vinci per avanzare tra le stanze. Codice Legacy Games incluso con Prime; verificare la scadenza.",
-        "createdDate": "2026-09-24",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 56,
-        "steamPrice": "3,99 €",
-        "steamUrl": "https://store.steampowered.com/app/2666270/"
-      },
-      {
         "title": "High On Life",
         "subtitle": "Epic Games Store",
         "text": "Sparatutto comico fantascientifico: esplori pianeti insoliti, accetti incarichi da cacciatore di taglie e affronti alieni usando armi parlanti dotate di personalità. Incluso con Prime da riscattare su Epic Games Store; verificare la scadenza.",
@@ -162,6 +150,18 @@
         "steamUrl": "https://store.steampowered.com/app/383270/"
       },
       {
+        "title": "The Da Vinci Cryptex",
+        "subtitle": "Legacy Games",
+        "text": "Puzzle game investigativo: affronti una serie di rompicapi, esamini indizi e decifri codici ispirati ai misteri di Leonardo da Vinci per avanzare tra le stanze. Codice Legacy Games incluso con Prime; verificare la scadenza.",
+        "createdDate": "2026-09-24",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
+        "link": "https://luna.amazon.com/claims/home",
+        "steamRating": 56,
+        "steamPrice": "3,99 €",
+        "steamUrl": "https://store.steampowered.com/app/2666270/"
+      },
+      {
         "title": "Havendock",
         "subtitle": "Amazon Games App",
         "text": "Gestionale di colonia sull'oceano: recuperi materiali galleggianti, costruisci piattaforme, coltivi cibo e organizzi i coloni per far crescere l'insediamento. Incluso con Prime tramite Amazon Games App; verificare la scadenza.",
@@ -172,18 +172,6 @@
         "steamRating": 79,
         "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/2020710/"
-      },
-      {
-        "title": "Zoria: Age of Shattering",
-        "subtitle": "GOG",
-        "text": "Gioco di ruolo tattico fantasy a turni: guidi quattro eroi, esplori territori ostili, affronti battaglie strategiche e gestisci risorse tra una missione e l'altra. Codice GOG incluso con Prime; verificare la scadenza.",
-        "createdDate": "2026-07-30",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg",
-        "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 79,
-        "steamPrice": "24,50 €",
-        "steamUrl": "https://store.steampowered.com/app/1159090/"
       },
       {
         "title": "Weakless",
@@ -198,16 +186,28 @@
         "steamUrl": "https://store.steampowered.com/app/1072620/"
       },
       {
-        "title": "STAR WARS: Galactic Racer",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Gioco di corse fantascientifico: affronti piloti rivali su circuiti ambientati nell'universo di Star Wars, guidando veicoli veloci e partecipando a competizioni clandestine. Disponibile tramite Luna Standard con abbonamento, senza riscatto permanente.",
+        "title": "Zoria: Age of Shattering",
+        "subtitle": "GOG",
+        "text": "Gioco di ruolo tattico fantasy a turni: guidi quattro eroi, esplori territori ostili, affronti battaglie strategiche e gestisci risorse tra una missione e l'altra. Codice GOG incluso con Prime; verificare la scadenza.",
+        "createdDate": "2026-07-30",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg",
+        "link": "https://luna.amazon.com/claims/home",
+        "steamRating": 79,
+        "steamPrice": "24,50 €",
+        "steamUrl": "https://store.steampowered.com/app/1159090/"
+      },
+      {
+        "title": "GetHigh.EXE",
+        "subtitle": "Epic Games Store",
+        "text": "Platform arcade in prima persona ambientato in uno scenario sintetico al neon: corri e salti tra ostacoli mobili, gestisci checkpoint e cerchi percorsi rapidi sfruttando movimenti precisi. Gratis da riscattare su Epic Games Store fino al 2 novembre.",
         "createdDate": null,
         "giveaway": false,
-        "imageUrl": "https://cdn1.epicgames.com/spt-assets/960c149bc7904c03bd2e93f195e12fd9/star-wars-galactic-racer-eflm1.jpg",
-        "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
-        "steamRating": 87,
-        "steamPrice": "59,99 €",
-        "steamUrl": "https://store.steampowered.com/app/4078430/"
+        "imageUrl": "https://cdn1.epicgames.com/spt-assets/c98f33cf3ea9491f926ce69fc9835ccf/gethighexe-i71wg.jpg",
+        "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
+        "steamRating": 100,
+        "steamPrice": null,
+        "steamUrl": "https://store.steampowered.com/app/4331890/"
       },
       {
         "title": "SONIC X SHADOW GENERATIONS",
@@ -220,6 +220,30 @@
         "steamRating": 97,
         "steamPrice": "49,99 €",
         "steamUrl": "https://store.steampowered.com/app/2513280/"
+      },
+      {
+        "title": "STAR WARS: Galactic Racer",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Gioco di corse fantascientifico: affronti piloti rivali su circuiti ambientati nell'universo di Star Wars, guidando veicoli veloci e partecipando a competizioni clandestine. Disponibile tramite Luna Standard con abbonamento, senza riscatto permanente.",
+        "createdDate": null,
+        "giveaway": false,
+        "imageUrl": "https://cdn1.epicgames.com/spt-assets/960c149bc7904c03bd2e93f195e12fd9/star-wars-galactic-racer-eflm1.jpg",
+        "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
+        "steamRating": 87,
+        "steamPrice": "59,99 €",
+        "steamUrl": "https://store.steampowered.com/app/4078430/"
+      },
+      {
+        "title": "Terraspace",
+        "subtitle": "Epic Games Store",
+        "text": "Strategico di sopravvivenza spaziale: colonizzi pianeti ostili, costruisci impianti, estrai risorse per cibo ed energia e progetti un'astronave per raggiungere nuovi mondi. Gratis da riscattare su Epic Games Store fino al 27 ottobre.",
+        "createdDate": null,
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3535330/14aefa081ffa2414533222b161ce3f76edcd5b73/ss_14aefa081ffa2414533222b161ce3f76edcd5b73.1920x1080.jpg?t=1750187850",
+        "link": "https://store.epicgames.com/p/dimond-hunt-03a766",
+        "steamRating": 37.5,
+        "steamPrice": null,
+        "steamUrl": "https://store.steampowered.com/app/3535330/"
       }
     ]
   },
@@ -227,34 +251,10 @@
     "status": "ok",
     "title": "Eventi",
     "period": {
-      "from": "2026-10-22",
-      "to": "2026-11-05"
+      "from": "2026-10-23",
+      "to": "2026-11-06"
     },
     "items": [
-      {
-        "title": "Barisound",
-        "subtitle": "Giovedì 22 ottobre • 21:00",
-        "text": "Live • Bari • Black Horses Pub, via Principe Amedeo 162 • Piano bar con successi italiani e internazionali",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Barisound&dates=20261022T190000Z%2F20261022T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%2C%20via%20Principe%20Amedeo%20162%20%E2%80%A2%20Piano%20bar%20con%20successi%20italiani%20e%20internazionali&location=Black%20Horses%20Pub%2C%20via%20Principe%20Amedeo%20162%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333888.html"
-      },
-      {
-        "title": "I Vaskomodi",
-        "subtitle": "Giovedì 22 ottobre • 21:30",
-        "text": "Live • Bari • Malto's, via Carrante 1/b • Tributo a Vasco Rossi",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi&dates=20261022T193000Z%2F20261022T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Malto's%2C%20via%20Carrante%201%2Fb%20%E2%80%A2%20Tributo%20a%20Vasco%20Rossi&location=Malto's%2C%20via%20Carrante%201%2Fb%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/333811.html"
-      },
-      {
-        "title": "San Michele Arcangelo",
-        "subtitle": "Giovedì 22 ottobre",
-        "text": "Festa patronale • Bari • Carbonara, piazza Umberto I e via Liuzzi • Festeggiamenti del quartiere Carbonara",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Michele%20Arcangelo&dates=20261022%2F20261023&details=Festa%20patronale%20%E2%80%A2%20Bari%20%E2%80%A2%20Carbonara%2C%20piazza%20Umberto%20I%20e%20via%20Liuzzi%20%E2%80%A2%20Festeggiamenti%20del%20quartiere%20Carbonara&location=Carbonara%2C%20piazza%20Umberto%20I%20e%20via%20Liuzzi%2C%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/festa-patronale-di-san-michele-arcangelo-82087"
-      },
       {
         "title": "Fiera dell'Agricoltura",
         "subtitle": "Venerdì 23 ottobre • 14:00",
@@ -408,6 +408,14 @@
         "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
       },
       {
+        "title": "Calici & Braci",
+        "subtitle": "Sabato 24 ottobre • 19:00",
+        "text": "Sagra • Binetto • Piazza Umberto I • Stand gastronomici, vini pugliesi e artigianato",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20%26%20Braci&dates=20261024T170000Z%2F20261024T193000Z&details=Sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Stand%20gastronomici%2C%20vini%20pugliesi%20e%20artigianato&location=Piazza%20Umberto%20I%2C%20Binetto",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/binetto/sagra-calici-braci-117824"
+      },
+      {
         "title": "Calici nel Borgo",
         "subtitle": "Sabato 24 ottobre • 19:00",
         "text": "Mercatino • Sammichele di Bari • Centro storico, via Dalfino • Produttori ed espositori",
@@ -502,6 +510,14 @@
         "logo": "PATRONALE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Michele%20Arcangelo&dates=20261024%2F20261025&details=Festa%20patronale%20%E2%80%A2%20Bari%20%E2%80%A2%20Carbonara%2C%20piazza%20Umberto%20I%20e%20via%20Liuzzi%20%E2%80%A2%20Festeggiamenti%20del%20quartiere%20Carbonara&location=Carbonara%2C%20piazza%20Umberto%20I%20e%20via%20Liuzzi%2C%20Bari",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/festa-patronale-di-san-michele-arcangelo-82087"
+      },
+      {
+        "title": "Senza Piombo",
+        "subtitle": "Sabato 24 ottobre",
+        "text": "Live • Binetto • Piazza Umberto I • Band in concerto durante la sagra Calici & Braci; orario non confermato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Senza%20Piombo&dates=20261024%2F20261025&details=Live%20%E2%80%A2%20Binetto%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Band%20in%20concerto%20durante%20la%20sagra%20Calici%20%26%20Braci%3B%20orario%20non%20confermato&location=Piazza%20Umberto%20I%2C%20Binetto",
+        "linkDettagliEvento": "https://sagraspot.it/sagra/3557-calici-braci"
       },
       {
         "title": "Sonex",
@@ -728,14 +744,6 @@
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
-        "title": "Pooh - La nostra storia",
-        "subtitle": "Venerdì 30 ottobre • 21:00",
-        "text": "Live • Bari • PalaFlorio, viale Archimede • Concerto tour POOH60",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pooh%20-%20La%20nostra%20storia&dates=20261030T200000Z%2F20261030T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20PalaFlorio%2C%20viale%20Archimede%20%E2%80%A2%20Concerto%20tour%20POOH60&location=PalaFlorio%2C%20viale%20Archimede%2C%20Bari",
-        "linkDettagliEvento": "https://www.friendsandpartners.it/in-tour/pooh60-la-nostra-storia-palasport"
-      },
-      {
         "title": "F1 Messico - Prove Libere 2",
         "subtitle": "Venerdì 30 ottobre • 23:00",
         "text": "Formula 1 • Gran Premio Messico • Prove Libere 2",
@@ -784,20 +792,20 @@
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
+        "title": "San Trifone",
+        "subtitle": "Sabato 31 ottobre • 18:30",
+        "text": "Festa patronale • Adelfia • Chiesa Madre • Intronizzazione dell'immagine di San Trifone e avvio dei festeggiamenti",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261031T173000Z%2F20261031T200000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Intronizzazione%20dell'immagine%20di%20San%20Trifone%20e%20avvio%20dei%20festeggiamenti&location=Chiesa%20Madre%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
         "title": "I Sorta Nost",
         "subtitle": "Sabato 31 ottobre • 21:00",
         "text": "Live • Casamassima • Centro storico • Musica tradizionale itinerante per HalloWine",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261031T200000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20tradizionale%20itinerante%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima",
         "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
-      },
-      {
-        "title": "Pooh - La nostra storia",
-        "subtitle": "Sabato 31 ottobre • 21:00",
-        "text": "Live • Bari • PalaFlorio, viale Archimede • Secondo concerto del tour POOH60",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pooh%20-%20La%20nostra%20storia&dates=20261031T200000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20PalaFlorio%2C%20viale%20Archimede%20%E2%80%A2%20Secondo%20concerto%20del%20tour%20POOH60&location=PalaFlorio%2C%20viale%20Archimede%2C%20Bari",
-        "linkDettagliEvento": "https://www.friendsandpartners.it/in-tour/pooh60-la-nostra-storia-palasport"
       },
       {
         "title": "Happy Days Music Band",
@@ -872,6 +880,14 @@
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
       },
       {
+        "title": "San Trifone",
+        "subtitle": "Domenica 1 novembre • 17:00",
+        "text": "Festa patronale • Adelfia • Centro cittadino • Festeggiamenti tradizionali, pirotecnica diurna e bande itineranti",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261101T160000Z%2F20261101T183000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Festeggiamenti%20tradizionali%2C%20pirotecnica%20diurna%20e%20bande%20itineranti&location=Centro%20cittadino%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
         "title": "HalloWine",
         "subtitle": "Domenica 1 novembre • 18:00",
         "text": "Sagra • Casamassima • Borgo antico, piazza Santa Croce • Degustazioni e prodotti autunnali",
@@ -894,6 +910,22 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261101T200000Z%2F20261101T223000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20tradizionale%20itinerante%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima",
         "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
+      },
+      {
+        "title": "Antiquariato e Collezionismo",
+        "subtitle": "Domenica 1 novembre",
+        "text": "Mercatino • Rutigliano • Borgo antico, piazza XX Settembre • Mercato della prima domenica del mese con antiquariato e oggetti da collezione",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariato%20e%20Collezionismo&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Rutigliano%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20XX%20Settembre%20%E2%80%A2%20Mercato%20della%20prima%20domenica%20del%20mese%20con%20antiquariato%20e%20oggetti%20da%20collezione&location=Borgo%20antico%2C%20piazza%20XX%20Settembre%2C%20Rutigliano",
+        "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/rutigliano-centro-storico"
+      },
+      {
+        "title": "Banda M. Lufrano di Triggiano",
+        "subtitle": "Domenica 1 novembre",
+        "text": "Live • Adelfia • Centro cittadino • Giro musicale per il paese durante la Festa di San Trifone; orario non confermato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banda%20M.%20Lufrano%20di%20Triggiano&dates=20261101%2F20261102&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Giro%20musicale%20per%20il%20paese%20durante%20la%20Festa%20di%20San%20Trifone%3B%20orario%20non%20confermato&location=Centro%20cittadino%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "Fiera di Ognissanti",
@@ -920,6 +952,14 @@
         "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
+        "title": "San Trifone",
+        "subtitle": "Lunedì 2 novembre • 15:00",
+        "text": "Festa patronale • Adelfia • Chiesa Madre e cimitero • Processione e commemorazione dei defunti nell'ambito della novena patronale",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261102T140000Z%2F20261102T163000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20e%20cimitero%20%E2%80%A2%20Processione%20e%20commemorazione%20dei%20defunti%20nell'ambito%20della%20novena%20patronale&location=Chiesa%20Madre%20e%20cimitero%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
         "title": "Sagra della Quartècedde",
         "subtitle": "Lunedì 2 novembre • 19:30",
         "text": "Sagra • Terlizzi • Piazza Plebiscito • Tradizione legata alla commemorazione dei defunti",
@@ -928,12 +968,36 @@
         "linkDettagliEvento": "https://www.terlizziviva.it/notizie/commemorazione-dei-defunti-e-sagra-della-quartecedde-il-programma-degli-appuntamenti/"
       },
       {
-        "title": "Nayt - Noi Individui Tour",
-        "subtitle": "Martedì 3 novembre • 21:00",
-        "text": "Live • Bari • PalaFlorio, viale Archimede • Concerto del rapper Nayt",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nayt%20-%20Noi%20Individui%20Tour&dates=20261103T200000Z%2F20261103T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20PalaFlorio%2C%20viale%20Archimede%20%E2%80%A2%20Concerto%20del%20rapper%20Nayt&location=PalaFlorio%2C%20viale%20Archimede%2C%20Bari",
-        "linkDettagliEvento": "https://www.palaflorio.it/"
+        "title": "San Trifone",
+        "subtitle": "Martedì 3 novembre • 18:30",
+        "text": "Festa patronale • Adelfia • Chiesa Madre • Giornata eucaristica e adorazione nell'ambito della novena",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261103T173000Z%2F20261103T200000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Giornata%20eucaristica%20e%20adorazione%20nell'ambito%20della%20novena&location=Chiesa%20Madre%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "San Trifone",
+        "subtitle": "Mercoledì 4 novembre • 18:30",
+        "text": "Festa patronale • Adelfia • Chiesa Madre • Giornata delle Forze Armate e celebrazione della novena patronale",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261104T173000Z%2F20261104T200000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Giornata%20delle%20Forze%20Armate%20e%20celebrazione%20della%20novena%20patronale&location=Chiesa%20Madre%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "San Trifone",
+        "subtitle": "Giovedì 5 novembre • 19:30",
+        "text": "Festa patronale • Adelfia • Chiesa Madre • Animazione del gruppo interparrocchiale Adelfia in cammino",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261105T183000Z%2F20261105T210000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Animazione%20del%20gruppo%20interparrocchiale%20Adelfia%20in%20cammino&location=Chiesa%20Madre%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "San Trifone",
+        "subtitle": "Venerdì 6 novembre • 18:30",
+        "text": "Festa patronale • Adelfia • Chiesa Madre • Giornata del mondo orientale e preghiera dell'inno Akathistos",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261106T173000Z%2F20261106T200000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Giornata%20del%20mondo%20orientale%20e%20preghiera%20dell'inno%20Akathistos&location=Chiesa%20Madre%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       }
     ],
     "whatchlist": [
