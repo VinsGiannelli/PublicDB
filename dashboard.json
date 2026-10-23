@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:13:59.984Z",
+  "generatedAt": "2026-10-23T11:35:27.660Z",
   "timezone": "Europe/Rome",
   "whatchlist": [
     "Midnight Pub Live — Matera",
@@ -43,9 +43,9 @@
         "text": "Horror psicologico in prima persona ambientato fra le trincee della Grande Guerra e una dimora familiare inquietante: esplori ambienti, risolvi enigmi e sfuggi a creature mostruose. Riscatto con Prime su Epic Games Store; scadenza da verificare.",
         "createdDate": "2026-10-22",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/page_bg_raw.jpg?t=1764149283",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg?t=1778169586",
         "link": "https://luna.amazon.it/claims/home",
-        "steamRating": 74.68,
+        "steamRating": "75%",
         "steamPrice": "1,99 €",
         "steamUrl": "https://store.steampowered.com/app/1234430/"
       },
@@ -57,7 +57,7 @@
         "giveaway": false,
         "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png?h=480&quality=medium&resize=1&w=854",
         "link": "https://store.epicgames.com/p/home-19212a?lang=it",
-        "steamRating": 65.33,
+        "steamRating": "65%",
         "steamPrice": "4,99 €",
         "steamUrl": "https://store.steampowered.com/app/215670/"
       },
@@ -69,7 +69,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/8e288958e8c203003f00852e73dba95558b94992/header.jpg?t=1792674990",
         "link": "https://store.epicgames.com/p/sker-ritual-aac702?lang=it",
-        "steamRating": 78.97,
+        "steamRating": "79%",
         "steamPrice": "6,79 €",
         "steamUrl": "https://store.steampowered.com/app/1492070/"
       },
@@ -79,9 +79,9 @@
         "text": "Avventura rompicapo a tema viaggi temporali: esplori ambienti, cerchi un raro cristallo, raccogli oggetti e risolvi enigmi per riattivare una macchina del tempo. Riscatto Prime con codice Legacy Games; scadenza da verificare.",
         "createdDate": "2026-10-22",
         "giveaway": false,
-        "imageUrl": "https://cdn.dekudeals.com/images/ef4a712c0b0daed5ff977f7b2321db147d0ba0d6/w500.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3094600/header.jpg?t=1727347219",
         "link": "https://luna.amazon.it/claims/home",
-        "steamRating": 57.39,
+        "steamRating": "57%",
         "steamPrice": "8,99 €",
         "steamUrl": "https://store.steampowered.com/app/3094600/"
       },
@@ -93,7 +93,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 82.62,
+        "steamRating": "83%",
         "steamPrice": "8,74 €",
         "steamUrl": "https://store.steampowered.com/app/1582650/"
       },
@@ -105,7 +105,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 60.9,
+        "steamRating": "61%",
         "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/1299510/"
       },
@@ -117,7 +117,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 74.3,
+        "steamRating": "74%",
         "steamPrice": "19,50 €",
         "steamUrl": "https://store.steampowered.com/app/313780/"
       },
@@ -129,7 +129,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
         "link": "https://luna.amazon.it/claims/warbreeds-gog/dp/amzn1.pg.item.886d058d-6e68-4f53-8e58-3044de3e6bb4",
-        "steamRating": 71.25,
+        "steamRating": "71%",
         "steamPrice": "2,99 €",
         "steamUrl": "https://store.steampowered.com/app/2464660/"
       },
@@ -141,7 +141,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 94.39,
+        "steamRating": "94%",
         "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/379720/"
       },
@@ -153,7 +153,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 92.94,
+        "steamRating": "93%",
         "steamPrice": "19,50 €",
         "steamUrl": "https://store.steampowered.com/app/2638370/"
       },
@@ -165,7 +165,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 87.16,
+        "steamRating": "87%",
         "steamPrice": "36,49 €",
         "steamUrl": "https://store.steampowered.com/app/1583230/"
       },
@@ -177,7 +177,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383270/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 89.9,
+        "steamRating": "90%",
         "steamPrice": "14,99 €",
         "steamUrl": "https://store.steampowered.com/app/383270/"
       },
@@ -189,7 +189,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 52.78,
+        "steamRating": "53%",
         "steamPrice": "4,89 €",
         "steamUrl": "https://store.steampowered.com/app/2666270/"
       },
@@ -201,7 +201,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/header.jpg",
         "link": "https://luna.amazon.com/claims/havendock-aga/dp/amzn1.pg.item.ef222081-3e6c-4949-9e87-aaf2c27b6bc6",
-        "steamRating": 76.27,
+        "steamRating": "76%",
         "steamPrice": "19,50 €",
         "steamUrl": "https://store.steampowered.com/app/2020710/"
       },
@@ -213,7 +213,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072620/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 69.47,
+        "steamRating": "69%",
         "steamPrice": "12,25 €",
         "steamUrl": "https://store.steampowered.com/app/1072620/"
       },
@@ -225,7 +225,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg",
         "link": "https://luna.amazon.com/claims/home",
-        "steamRating": 74.53,
+        "steamRating": "75%",
         "steamPrice": "24,50 €",
         "steamUrl": "https://store.steampowered.com/app/1159090/"
       },
@@ -237,7 +237,7 @@
         "giveaway": false,
         "imageUrl": "https://cdn1.epicgames.com/spt-assets/c98f33cf3ea9491f926ce69fc9835ccf/gethighexe-i71wg.jpg",
         "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
-        "steamRating": 67.06,
+        "steamRating": "67%",
         "steamPrice": "2,09 €",
         "steamUrl": "https://store.steampowered.com/app/4331890/"
       },
@@ -247,9 +247,9 @@
         "text": "Platform d'azione tridimensionale: affronti livelli classici e moderni con Sonic e una nuova campagna di Shadow, correndo ad alta velocità e combattendo boss. Incluso in Amazon Luna Standard in streaming, senza riscatto permanente.",
         "createdDate": null,
         "giveaway": false,
-        "imageUrl": "https://www.gamerclick.it/immagini/videogame/Sonic_X_Shadow_Generations/cover/Sonic_X_Shadow_Generations-cover.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg?t=1783614811",
         "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
-        "steamRating": 93.92,
+        "steamRating": "94%",
         "steamPrice": "49,99 €",
         "steamUrl": "https://store.steampowered.com/app/2513280/"
       },
@@ -259,9 +259,9 @@
         "text": "Gioco di corse nell'universo di Star Wars: piloti veicoli futuristici su circuiti pericolosi, affronti rivali e migliori le prestazioni gara dopo gara. Incluso in Amazon Luna Standard in streaming, senza riscatto permanente.",
         "createdDate": null,
         "giveaway": false,
-        "imageUrl": "https://cdn1.epicgames.com/spt-assets/960c149bc7904c03bd2e93f195e12fd9/star-wars-galactic-racer-eflm1.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1791388584",
         "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
-        "steamRating": 84.64,
+        "steamRating": "85%",
         "steamPrice": "59,99 €",
         "steamUrl": "https://store.steampowered.com/app/4078430/"
       },
@@ -271,9 +271,9 @@
         "text": "Strategico di sopravvivenza spaziale: colonizzi pianeti ostili, costruisci impianti, estrai risorse per cibo ed energia e progetti un'astronave per raggiungere nuovi mondi. Gratis da riscattare su Epic Games Store fino al 27 ottobre 2026.",
         "createdDate": "2026-10-21",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3535330/14aefa081ffa2414533222b161ce3f76edcd5b73/ss_14aefa081ffa2414533222b161ce3f76edcd5b73.1920x1080.jpg?t=1750187850",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3535330/5fc62a33f3e2507937b2047f60da765153afd82b/header.jpg?t=1772902523",
         "link": "https://store.epicgames.com/p/dimond-hunt-03a766",
-        "steamRating": 43.95,
+        "steamRating": "44%",
         "steamPrice": "9,75 €",
         "steamUrl": "https://store.steampowered.com/app/3535330/"
       }
@@ -310,6 +310,14 @@
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Austin%20-%20Prove%20Libere%201&dates=20261023T173000Z%2F20261023T183000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Stati%20Uniti%20%E2%80%A2%20Prove%20Libere%201",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
+      },
+      {
+        "title": "Francesco, Uomo, Santo e Felice",
+        "subtitle": "Venerdì 23 ottobre • 20:00",
+        "text": "Live • Mola di Bari • Chiesa del Sacro Cuore, via Aldo Moro 27 • Concerto-meditazione gratuito dell'associazione Incanto",
+        "logo": "LIVE",
+        "linkDettagliEvento": "https://www.eventiamola.it/event/francesco-uomo-santo-e-felice/",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%2C%20Uomo%2C%20Santo%20e%20Felice&dates=20261023T180000Z%2F20261023T200000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20del%20Sacro%20Cuore%2C%20via%20Aldo%20Moro%2027%20%E2%80%A2%20Concerto-meditazione%20gratuito%20dell'associazione%20Incanto&location=Chiesa%20del%20Sacro%20Cuore%2C%20via%20Aldo%20Moro%2027%2C%20Mola%20di%20Bari"
       },
       {
         "title": "Casertana - Bari",
@@ -366,6 +374,14 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Willie%20Peyote&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Eremo%20Club%20%E2%80%A2%20Club%20Tour%202026&location=Eremo%20Club%2C%20Molfetta",
         "linkDettagliEvento": "https://bassculture.it/bc-new/facebook-event/willie-peyote-club-tour-2026-molfetta-ba/"
+      },
+      {
+        "title": "Lucio e Lucio",
+        "subtitle": "Venerdì 23 ottobre • 21:00",
+        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Pietro Verna, Francesco Galizia e Leo Torres interpretano Dalla e Battisti",
+        "logo": "LIVE",
+        "linkDettagliEvento": "https://www.eventiamola.it/event/lucio-e-lucio-dalla-e-battisti-sincontrano/",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lucio%20e%20Lucio&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Pietro%20Verna%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20interpretano%20Dalla%20e%20Battisti&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari"
       },
       {
         "title": "Back to the 70's",
@@ -482,10 +498,10 @@
       {
         "title": "Edoardo Bruni al pianoforte",
         "subtitle": "Sabato 24 ottobre • 21:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce • Recital di musica classica con Schubert, Brahms e Chopin",
+        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Recital pianistico con musiche di Schubert, Bruni, Brahms e Chopin",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Edoardo%20Bruni%20al%20pianoforte&dates=20261024T190000Z%2F20261024T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Recital%20di%20musica%20classica%20con%20Schubert%2C%20Brahms%20e%20Chopin&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/events/2026-10-24/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Edoardo%20Bruni%20al%20pianoforte&dates=20261024T190000Z%2F20261024T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Schubert%2C%20Bruni%2C%20Brahms%20e%20Chopin&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://www.eventiamola.it/event/intelligenza-ed-emozione-musiche-di-schubert-bruni-brahms-chopin/"
       },
       {
         "title": "Seventy Fever Band",
@@ -600,6 +616,14 @@
         "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-dellagricoltura-2026/"
       },
       {
+        "title": "Gozzovigliando",
+        "subtitle": "Domenica 25 ottobre • 10:00",
+        "text": "Mercatino • Monopoli • Centro storico e Porto Antico • Mercatini, tradizioni marinare e musica folkloristica",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261025T090000Z%2F20261025T130000Z&details=Mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Mercatini%2C%20tradizioni%20marinare%20e%20musica%20folkloristica&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli",
+        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
+      },
+      {
         "title": "Puglia Wine Festival",
         "subtitle": "Domenica 25 ottobre • 11:00",
         "text": "Sagra • Castellana Grotte • Largo Portagrande e centro storico • Vino pugliese, gastronomia, caldarroste e artigianato.",
@@ -678,14 +702,6 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Michele&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Carbonara%2C%20piazza%20Umberto%20I%20%E2%80%A2%20Bancarelle%2C%20prodotti%20locali%20e%20artigianato&location=Carbonara%2C%20piazza%20Umberto%20I%2C%20Bari",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/fiera-e-sagra-di-san-michele-arcangelo-2026-82087"
-      },
-      {
-        "title": "Gozzovigliando",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Mercatino • Monopoli • Centro storico e Porto Antico • Mercatini, tradizioni marinare e musica folkloristica",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Mercatini%2C%20tradizioni%20marinare%20e%20musica%20folkloristica&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli",
-        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
       },
       {
         "title": "John De Leo e Fabrizio Tarroni",
@@ -824,6 +840,22 @@
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
+        "title": "Wine & Food Festival",
+        "subtitle": "Sabato 31 ottobre • 19:30",
+        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031T183000Z%2F20261031T223000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
+      },
+      {
+        "title": "Francesco, Uomo, Santo e Felice",
+        "subtitle": "Sabato 31 ottobre • 19:30",
+        "text": "Live • Mola di Bari • Chiesa della Santissima Trinità • Seconda data del concerto-meditazione gratuito dell'associazione Incanto",
+        "logo": "LIVE",
+        "linkDettagliEvento": "https://www.eventiamola.it/event/francesco-uomo-santo-e-felice/",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%2C%20Uomo%2C%20Santo%20e%20Felice&dates=20261031T183000Z%2F20261031T203000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20della%20Santissima%20Trinit%C3%A0%20%E2%80%A2%20Seconda%20data%20del%20concerto-meditazione%20gratuito%20dell'associazione%20Incanto&location=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Mola%20di%20Bari"
+      },
+      {
         "title": "I Sorta Nost",
         "subtitle": "Sabato 31 ottobre • 21:00",
         "text": "Live • Casamassima • Centro storico • Musica tradizionale itinerante per HalloWine",
@@ -864,14 +896,6 @@
         "linkDettagliEvento": "https://www.midnightpublive.com/event/halloween-night-the-cult-of-smiths-the-cult-the-smiths-the-cure-joy-division-c-b-dj-set-80s-90s-a-seguire/"
       },
       {
-        "title": "Wine & Food Festival",
-        "subtitle": "Sabato 31 ottobre",
-        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031%2F20261101&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
-      },
-      {
         "title": "Artigianato per il Sociale",
         "subtitle": "Domenica 1 novembre • 06:00",
         "text": "Mercatino • Bari • Piazza Umberto I • Mostra mercato di artigianato locale",
@@ -900,7 +924,7 @@
         "subtitle": "Domenica 1 novembre • 11:00",
         "text": "Evento tradizionale • Monopoli • Porto Antico • Palio delle imbarcazioni tradizionali di Gozzovigliando",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T140000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20delle%20imbarcazioni%20tradizionali%20di%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T120000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20delle%20imbarcazioni%20tradizionali%20di%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
       },
       {
@@ -918,6 +942,14 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261101T170000Z%2F20261101T210000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Degustazioni%20e%20prodotti%20autunnali&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
         "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
+      },
+      {
+        "title": "Wine & Food Festival",
+        "subtitle": "Domenica 1 novembre • 19:30",
+        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101T183000Z%2F20261101T223000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
         "title": "F1 Messico - Gara",
@@ -954,10 +986,10 @@
       {
         "title": "Fiera di Ognissanti",
         "subtitle": "Domenica 1 novembre",
-        "text": "Mercatino • Valenzano • Centro cittadino • Fiera tradizionale del primo novembre",
+        "text": "Mercatino • Valenzano • Centro cittadino • Fiera storica con bancarelle e Villaggio Medievale tra Largo Frate Francesco e Largo Plebiscito",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale%20del%20primo%20novembre&location=Centro%20cittadino%2C%20Valenzano",
-        "linkDettagliEvento": "https://www.comune.valenzano.ba.it/novita/avvisi/avvisi.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20storica%20con%20bancarelle%20e%20Villaggio%20Medievale%20tra%20Largo%20Frate%20Francesco%20e%20Largo%20Plebiscito&location=Centro%20cittadino%2C%20Valenzano",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/fiera-di-ognissanti-e-villaggio-medievale-70737"
       },
       {
         "title": "Gozzovigliando",
@@ -966,14 +998,6 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Mercatini%2C%20tradizioni%20marinare%20e%20musica%20folkloristica&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli",
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
-      },
-      {
-        "title": "Wine & Food Festival",
-        "subtitle": "Domenica 1 novembre",
-        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101%2F20261102&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
         "title": "Sagra della Quartècedde",
