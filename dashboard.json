@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:42:18.407Z",
+  "generatedAt": "2026-10-24T05:04:52.473Z",
   "timezone": "Europe/Rome",
   "whatchlist": [
     "Midnight Pub Live — Matera",
@@ -24,7 +24,9 @@
     "Officina degli Esordi — Bari",
     "Libreria Prinz Zaum — Bari",
     "Caffè d'arte Dolceamaro — Bari",
-    "Teatro Bravò — Bari"
+    "Teatro Bravò — Bari",
+    "Eremo Club — Molfetta",
+    "Santo Graal — Trani"
   ],
   "blacklist": [
     "Duke Jazz Club — Bari",
@@ -41,7 +43,7 @@
     "Palatour — Bitritto"
   ],
   "games": {
-    "status": "ok",
+    "status": "partial",
     "title": "Giochi gratuiti e inclusi",
     "items": [
       {
@@ -52,7 +54,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg?t=1778169586",
         "link": "https://luna.amazon.com/claims/ad-infinitum-epic/dp/amzn1.pg.item.69de011b-6575-41ab-9964-971e59cf7457",
-        "steamRating": "75%",
+        "steamRating": "78%",
         "steamPrice": "1,99 €",
         "steamUrl": "https://store.steampowered.com/app/1234430/"
       },
@@ -83,12 +85,12 @@
       {
         "title": "Time Travel: Escape Room Game",
         "subtitle": "Legacy Games",
-        "text": "Avventura rompicapo a tema viaggi temporali: esplori ambienti, cerchi un raro cristallo, raccogli oggetti e risolvi enigmi per riattivare una macchina del tempo. Riscatto Prime con codice Legacy Games; scadenza da verificare.",
+        "text": "Avventura rompicapo a tema viaggi temporali: esplori ambienti, cerchi un raro cristallo, raccogli oggetti e risolvi enigmi per riattivare una macchina del tempo. Riscattabile con Prime tramite codice Legacy Games fino al 25 novembre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3094600/header.jpg?t=1727347219",
-        "link": "https://luna.amazon.it/claims/home",
-        "steamRating": "57%",
+        "link": "https://luna.amazon.com/claims/time-travel-escape-room-game-legacy/dp/amzn1.pg.item.c3af790f-8ce0-42b2-8c16-ebecb97303f5",
+        "steamRating": "67%",
         "steamPrice": "8,99 €",
         "steamUrl": "https://store.steampowered.com/app/3094600/"
       },
@@ -195,7 +197,7 @@
         "createdDate": "2026-09-24",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
-        "link": "https://luna.amazon.it/claims/home",
+        "link": "https://luna.amazon.co.uk/claims/the-da-vinci-cryptex-legacy/dp/amzn1.pg.item.6cd3cd34-9ede-48df-bf9a-cc154ed97525",
         "steamRating": "53%",
         "steamPrice": "4,89 €",
         "steamUrl": "https://store.steampowered.com/app/2666270/"
@@ -287,13 +289,13 @@
       {
         "title": "Hex Reverse",
         "subtitle": "Steam",
-        "text": "Gioco di carte strategico e roguelike su griglia esagonale: costruisci un mazzo, posizioni carte, ribalti quelle avversarie e sfrutti valori e combinazioni per vincere le sfide. Disponibile gratuitamente su Steam dal 7 ottobre al 6 novembre 2026; una volta aggiunto resta in libreria.",
+        "text": "Gioco di carte strategico e roguelike su griglia esagonale: costruisci un mazzo, posizioni carte, ribalti quelle avversarie e sfrutti valori e combinazioni per vincere le sfide. Gratuito su Steam nei primi 30 giorni dal 7 ottobre 2026, con accesso permanente dopo l'aggiunta.",
         "createdDate": "2026-10-07",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/0378ca94843620240eda1ad571c6b7d6bb0b0527/header.jpg?t=1791363746",
         "link": "https://store.steampowered.com/app/5257350/",
-        "steamRating": "53%",
-        "steamPrice": "Gratis",
+        "steamRating": "52%",
+        "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/5257350/"
       }
     ]
@@ -302,170 +304,10 @@
     "status": "ok",
     "title": "Eventi",
     "period": {
-      "from": "2026-10-23",
-      "to": "2026-11-06"
+      "from": "2026-10-24",
+      "to": "2026-11-07"
     },
     "items": [
-      {
-        "title": "Fiera dell'Agricoltura",
-        "subtitle": "Venerdì 23 ottobre • 14:00",
-        "text": "Mercatino • Sammichele di Bari • Area mercatale P. Munno • Espositori, agricoltura e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20dell'Agricoltura&dates=20261023T120000Z%2F20261023T160000Z&details=Mercatino%20%E2%80%A2%20Sammichele%20di%20Bari%20%E2%80%A2%20Area%20mercatale%20P.%20Munno%20%E2%80%A2%20Espositori%2C%20agricoltura%20e%20artigianato&location=Area%20mercatale%20P.%20Munno%2C%20Sammichele%20di%20Bari",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-dellagricoltura-2026/"
-      },
-      {
-        "title": "Festa Agricola",
-        "subtitle": "Venerdì 23 ottobre • 17:00",
-        "text": "Sagra • Corato • Piazza Vittorio Emanuele, Fontana della Montagnola • Mercato contadino, artigianato, laboratori e musica",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20Agricola&dates=20261023T150000Z%2F20261023T190000Z&details=Sagra%20%E2%80%A2%20Corato%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%20%E2%80%A2%20Mercato%20contadino%2C%20artigianato%2C%20laboratori%20e%20musica&location=Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "F1 Austin - Prove Libere 1",
-        "subtitle": "Venerdì 23 ottobre • 19:30",
-        "text": "Formula 1 • Gran Premio Stati Uniti • Prove Libere 1",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Austin%20-%20Prove%20Libere%201&dates=20261023T173000Z%2F20261023T183000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Stati%20Uniti%20%E2%80%A2%20Prove%20Libere%201",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
-      },
-      {
-        "title": "Francesco, Uomo, Santo e Felice",
-        "subtitle": "Venerdì 23 ottobre • 20:00",
-        "text": "Live • Mola di Bari • Chiesa del Sacro Cuore, via Aldo Moro 27 • Concerto-meditazione gratuito dell'associazione Incanto",
-        "logo": "LIVE",
-        "linkDettagliEvento": "https://www.eventiamola.it/event/francesco-uomo-santo-e-felice/",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%2C%20Uomo%2C%20Santo%20e%20Felice&dates=20261023T180000Z%2F20261023T200000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20del%20Sacro%20Cuore%2C%20via%20Aldo%20Moro%2027%20%E2%80%A2%20Concerto-meditazione%20gratuito%20dell'associazione%20Incanto&location=Chiesa%20del%20Sacro%20Cuore%2C%20via%20Aldo%20Moro%2027%2C%20Mola%20di%20Bari"
-      },
-      {
-        "title": "Casertana - Bari",
-        "subtitle": "Venerdì 23 ottobre • 20:30",
-        "text": "Calcio Serie C • Girone C • Casertana - Bari",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Casertana%20-%20Bari&dates=20261023T183000Z%2F20261023T203000Z&details=Calcio%20Serie%20C%20%E2%80%A2%20Girone%20C%20%E2%80%A2%20Casertana%20-%20Bari",
-        "linkDettagliEvento": "https://sport.virgilio.it/prossime-partite-calendario-bari/"
-      },
-      {
-        "title": "SAUDADE EN EL TANGO",
-        "subtitle": "Venerdì 23 ottobre • 20:30",
-        "text": "Live • Bari • Caffè d'arte Dolceamaro, via San Francesco d'Assisi 9 • Tango argentino con Leonardo Di Gioia e Benedetta Lusito",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SAUDADE%20EN%20EL%20TANGO&dates=20261023T183000Z%2F20261023T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%20%E2%80%A2%20Tango%20argentino%20con%20Leonardo%20Di%20Gioia%20e%20Benedetta%20Lusito&location=Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/332894.html"
-      },
-      {
-        "title": "A Uacc A Uacc",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Sagra • Bitonto • Centro antico • Festa tradizionale del cibo di strada con i locali del borgo.",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Uacc%20A%20Uacc&dates=20261023T190000Z%2F20261023T230000Z&details=Sagra%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Centro%20antico%20%E2%80%A2%20Festa%20tradizionale%20del%20cibo%20di%20strada%20con%20i%20locali%20del%20borgo.&location=Centro%20antico%2C%20Bitonto",
-        "linkDettagliEvento": "https://www.comune.bitonto.ba.it/it/news/2051545"
-      },
-      {
-        "title": "David Moore - Graze The Bell",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Bari • Teatro Kismet • Concerto per pianoforte solo ambient e minimalista del festival Time Zones",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David%20Moore%20-%20Graze%20The%20Bell&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kismet%20%E2%80%A2%20Concerto%20per%20pianoforte%20solo%20ambient%20e%20minimalista%20del%20festival%20Time%20Zones&location=Teatro%20Kismet%2C%20Bari",
-        "linkDettagliEvento": "https://www.timezones.it/programma-41-edizione/139"
-      },
-      {
-        "title": "Evil Empire: tributo RATM",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Bari • Officina degli Esordi, via Trevisani 56 • Esecuzione integrale dell'album Evil Empire dei Rage Against the Machine",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Evil%20Empire%3A%20tributo%20RATM&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%2C%20via%20Trevisani%2056%20%E2%80%A2%20Esecuzione%20integrale%20dell'album%20Evil%20Empire%20dei%20Rage%20Against%20the%20Machine&location=Officina%20degli%20Esordi%2C%20via%20Trevisani%2056%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333851.html"
-      },
-      {
-        "title": "Fraskèt Live Band",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Bari • Chorìa, via Giulio Petroni 127 • Con Bala e Daniele Sportelli",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frask%C3%A8t%20Live%20Band&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%2C%20via%20Giulio%20Petroni%20127%20%E2%80%A2%20Con%20Bala%20e%20Daniele%20Sportelli&location=Chor%C3%ACa%2C%20via%20Giulio%20Petroni%20127%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330830.html"
-      },
-      {
-        "title": "Innocenti Evasi",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Fasano • Agrobistrot, località Speziale • Tributo dal vivo alle canzoni di Lucio Battisti",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Innocenti%20Evasi&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Fasano%20%E2%80%A2%20Agrobistrot%2C%20localit%C3%A0%20Speziale%20%E2%80%A2%20Tributo%20dal%20vivo%20alle%20canzoni%20di%20Lucio%20Battisti&location=Agrobistrot%2C%20localit%C3%A0%20Speziale%2C%20Fasano",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333900.html"
-      },
-      {
-        "title": "Lucio e Lucio",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Pietro Verna, Francesco Galizia e Leo Torres interpretano Dalla e Battisti",
-        "logo": "LIVE",
-        "linkDettagliEvento": "https://www.eventiamola.it/event/lucio-e-lucio-dalla-e-battisti-sincontrano/",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lucio%20e%20Lucio&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Pietro%20Verna%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20interpretano%20Dalla%20e%20Battisti&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari"
-      },
-      {
-        "title": "Mazzariello",
-        "subtitle": "Venerdì 23 ottobre • 21:00",
-        "text": "Live • Conversano • Casa delle Arti, via Donato Jaia 14 • Concerto pop e cantautorato dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mazzariello&dates=20261023T190000Z%2F20261023T210000Z&details=Live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Casa%20delle%20Arti%2C%20via%20Donato%20Jaia%2014%20%E2%80%A2%20Concerto%20pop%20e%20cantautorato%20dal%20vivo&location=Casa%20delle%20Arti%2C%20via%20Donato%20Jaia%2014%2C%20Conversano",
-        "linkDettagliEvento": "https://www.casadellearti.org/eventi/mazzariello-live-23-10-26/"
-      },
-      {
-        "title": "Back to the 70's",
-        "subtitle": "Venerdì 23 ottobre • 21:30",
-        "text": "Live • Bari • Black Horses Pub, via Principe Amedeo 162 • Live funk e disco anni Settanta",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Back%20to%20the%2070's&dates=20261023T193000Z%2F20261023T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%2C%20via%20Principe%20Amedeo%20162%20%E2%80%A2%20Live%20funk%20e%20disco%20anni%20Settanta&location=Black%20Horses%20Pub%2C%20via%20Principe%20Amedeo%20162%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/2026-10-23"
-      },
-      {
-        "title": "The Moggies",
-        "subtitle": "Venerdì 23 ottobre • 22:00",
-        "text": "Live • Cassano delle Murge • Pecora Nera Country Pub, via Carmelo Colamonico 74 • Rockabilly e psychobilly in concerto",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Moggies&dates=20261023T200000Z%2F20261023T220000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%2C%20via%20Carmelo%20Colamonico%2074%20%E2%80%A2%20Rockabilly%20e%20psychobilly%20in%20concerto&location=Pecora%20Nera%20Country%20Pub%2C%20via%20Carmelo%20Colamonico%2074%2C%20Cassano%20delle%20Murge",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333406.html"
-      },
-      {
-        "title": "Jungle Roses",
-        "subtitle": "Venerdì 23 ottobre • 22:15",
-        "text": "Live • Matera • Midnight Pub Live, via dell'Agricoltura • Tributo ai Guns N' Roses",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jungle%20Roses&dates=20261023T201500Z%2F20261023T221500Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%20%E2%80%A2%20Tributo%20ai%20Guns%20N'%20Roses&location=Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%2C%20Matera",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/jungle-roses-gunsn-roses-t-b/"
-      },
-      {
-        "title": "F1 Austin - Prove Libere 2",
-        "subtitle": "Venerdì 23 ottobre • 23:00",
-        "text": "Formula 1 • Gran Premio Stati Uniti • Prove Libere 2",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Austin%20-%20Prove%20Libere%202&dates=20261023T210000Z%2F20261023T220000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Stati%20Uniti%20%E2%80%A2%20Prove%20Libere%202",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
-      },
-      {
-        "title": "Assalti Frontali",
-        "subtitle": "Venerdì 23 ottobre",
-        "text": "Live • Corato • Piazza Vittorio Emanuele, Fontana della Montagnola • Concerto rap alla Festa Agricola; serata musicale dalle 21:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Assalti%20Frontali&dates=20261023%2F20261024&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%20%E2%80%A2%20Concerto%20rap%20alla%20Festa%20Agricola%3B%20serata%20musicale%20dalle%2021%3A00&location=Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "El Maximo del Sur",
-        "subtitle": "Venerdì 23 ottobre",
-        "text": "Live • Corato • Piazza Vittorio Emanuele, Fontana della Montagnola • Performance alla Festa Agricola; serata musicale dalle 21:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=El%20Maximo%20del%20Sur&dates=20261023%2F20261024&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%20%E2%80%A2%20Performance%20alla%20Festa%20Agricola%3B%20serata%20musicale%20dalle%2021%3A00&location=Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Fiera di San Michele",
-        "subtitle": "Venerdì 23 ottobre",
-        "text": "Mercatino • Bari • Carbonara, piazza Umberto I • Bancarelle, prodotti locali e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Michele&dates=20261023%2F20261024&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Carbonara%2C%20piazza%20Umberto%20I%20%E2%80%A2%20Bancarelle%2C%20prodotti%20locali%20e%20artigianato&location=Carbonara%2C%20piazza%20Umberto%20I%2C%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/fiera-e-sagra-di-san-michele-arcangelo-2026-82087"
-      },
       {
         "title": "Fiera dell'Agricoltura",
         "subtitle": "Sabato 24 ottobre • 09:00",
@@ -529,6 +371,14 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Puglia%20Wine%20Festival&dates=20261024T173000Z%2F20261024T213000Z&details=Sagra%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20e%20centro%20storico%20%E2%80%A2%20Vino%20pugliese%2C%20gastronomia%2C%20caldarroste%20e%20artigianato.&location=Largo%20Portagrande%20e%20centro%20storico%2C%20Castellana%20Grotte",
         "linkDettagliEvento": "https://www.vivicastellanagrotte.it/index.php/cultura/eventi/23712-torna-il-puglia-wine-festival-per-la-prima-volta-a-castellana-grotte-il-24-e-25-ottobre"
+      },
+      {
+        "title": "Poeti del Quartiere",
+        "subtitle": "Sabato 24 ottobre • 20:00",
+        "text": "Live • Monopoli • Arci Monopoli Contrada 100 • Concerto hip-hop dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Poeti%20del%20Quartiere&dates=20261024T180000Z%2F20261024T200000Z&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Arci%20Monopoli%20Contrada%20100%20%E2%80%A2%20Concerto%20hip-hop%20dal%20vivo&location=Arci%20Monopoli%20Contrada%20100%2C%20Monopoli",
+        "linkDettagliEvento": "https://www.poetidelquartiere.it/live-poeti-del-quartiere-hip-hop-italiano/"
       },
       {
         "title": "Omaggio a Morricone",
@@ -962,6 +812,14 @@
         "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
+        "title": "Eusebio e Florestano",
+        "subtitle": "Sabato 31 ottobre • 20:30",
+        "text": "Live • Matera • Le Monacelle, Sala Sigillino • Concerto cameristico dedicato a Schumann",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eusebio%20e%20Florestano&dates=20261031T193000Z%2F20261031T213000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Le%20Monacelle%2C%20Sala%20Sigillino%20%E2%80%A2%20Concerto%20cameristico%20dedicato%20a%20Schumann&location=Le%20Monacelle%2C%20Sala%20Sigillino%2C%20Matera",
+        "linkDettagliEvento": "https://iltaccodibacco.it/basilicata/eventi/329433.html"
+      },
+      {
         "title": "I Sorta Nost",
         "subtitle": "Sabato 31 ottobre • 21:00",
         "text": "Live • Casamassima • Centro storico • Musica tradizionale itinerante per HalloWine",
@@ -1146,12 +1004,27 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331735.html"
       },
       {
+        "title": "The Sound of Magic",
+        "subtitle": "Giovedì 5 novembre • 21:00",
+        "text": "Live • Altamura • Teatro Mangiatordi, via E. Montale • Cartoons Orchestra: colonne sonore Disney eseguite dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Sound%20of%20Magic&dates=20261105T200000Z%2F20261105T220000Z&details=Live%20%E2%80%A2%20Altamura%20%E2%80%A2%20Teatro%20Mangiatordi%2C%20via%20E.%20Montale%20%E2%80%A2%20Cartoons%20Orchestra%3A%20colonne%20sonore%20Disney%20eseguite%20dal%20vivo&location=Teatro%20Mangiatordi%2C%20via%20E.%20Montale%2C%20Altamura",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333331.html"
+      },
+      {
         "title": "F1 Brasile - Prove Libere 1",
         "subtitle": "Venerdì 6 novembre • 16:30",
         "text": "Formula 1 • GP Brasile • Prove Libere 1",
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Prove%20Libere%201&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Prove%20Libere%201",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "EMAN – Magarìa Club Tour",
+        "subtitle": "Venerdì 6 novembre • 20:00",
+        "text": "Live • Bari • Officina degli Esordi, via Crispi 5 • Concerto dal vivo dedicato all'album Magarìa",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20%E2%80%93%20Magar%C3%ACa%20Club%20Tour&dates=20261106T190000Z%2F20261106T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%2C%20via%20Crispi%205%20%E2%80%A2%20Concerto%20dal%20vivo%20dedicato%20all'album%20Magar%C3%ACa&location=Officina%20degli%20Esordi%2C%20via%20Crispi%205%2C%20Bari"
       },
       {
         "title": "F1 Brasile - Prove Libere 2",
@@ -1162,12 +1035,97 @@
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
+        "title": "Scarlatti 300",
+        "subtitle": "Venerdì 6 novembre • 20:30",
+        "text": "Live • Bari • Chiesa di Santa Scolastica, strada Annunziata 2 • Ensemble Dolci Accenti e Hof-Musici: musica di Alessandro Scarlatti",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scarlatti%20300&dates=20261106T193000Z%2F20261106T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%20%E2%80%A2%20Ensemble%20Dolci%20Accenti%20e%20Hof-Musici%3A%20musica%20di%20Alessandro%20Scarlatti&location=Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%2C%20Bari"
+      },
+      {
         "title": "Paolo Buonvino e Laura Masotto",
         "subtitle": "Venerdì 6 novembre • 21:00",
         "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • Colonne sonore e neoclassica per pianoforte, violino ed elettronica",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paolo%20Buonvino%20e%20Laura%20Masotto&dates=20261106T200000Z%2F20261106T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20Colonne%20sonore%20e%20neoclassica%20per%20pianoforte%2C%20violino%20ed%20elettronica&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330607.html"
+      },
+      {
+        "title": "Maxie Freeman",
+        "subtitle": "Venerdì 6 novembre • 22:00",
+        "text": "Live • Cassano delle Murge • Pecora Nera Country Pub, via Colamonico 74 • Blues, funk e rock dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%2C%20via%20Colamonico%2074%20%E2%80%A2%20Blues%2C%20funk%20e%20rock%20dal%20vivo&location=Pecora%20Nera%20Country%20Pub%2C%20via%20Colamonico%2074%2C%20Cassano%20delle%20Murge",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333834.html"
+      },
+      {
+        "title": "Travelin’ Band",
+        "subtitle": "Venerdì 6 novembre • 22:00",
+        "text": "Live • Trani • Santo Graal, vico Santa Maria 4 • Tributo dal vivo ai Creedence Clearwater Revival",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Travelin%E2%80%99%20Band&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Trani%20%E2%80%A2%20Santo%20Graal%2C%20vico%20Santa%20Maria%204%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Creedence%20Clearwater%20Revival&location=Santo%20Graal%2C%20vico%20Santa%20Maria%204%2C%20Trani",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/320985.html"
+      },
+      {
+        "title": "I Vaskomodi",
+        "subtitle": "Venerdì 6 novembre",
+        "text": "Live • Monopoli • Ostinati • Tributo dal vivo a Vasco Rossi",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Vasco%20Rossi&location=Ostinati%2C%20Monopoli"
+      },
+      {
+        "title": "F1 Brasile - Prove Libere 3",
+        "subtitle": "Sabato 7 novembre • 15:30",
+        "text": "Formula 1 • GP Brasile • Prove Libere 3",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Prove%20Libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Prove%20Libere%203",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
+      },
+      {
+        "title": "F1 Brasile - Qualifiche",
+        "subtitle": "Sabato 7 novembre • 19:00",
+        "text": "Formula 1 • GP Brasile • Qualifiche",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Qualifiche",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
+      },
+      {
+        "title": "Canto Libero",
+        "subtitle": "Sabato 7 novembre • 20:30",
+        "text": "Live • Bari • Teatro Petruzzelli, corso Cavour 12 • Omaggio dal vivo a Battisti e Mogol",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20Libero&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%20%E2%80%A2%20Omaggio%20dal%20vivo%20a%20Battisti%20e%20Mogol&location=Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%2C%20Bari",
+        "linkDettagliEvento": "https://good-vibrations.it/event/canto-libero-bari-07-novembre-2026/"
+      },
+      {
+        "title": "Da Casella a Stravinsky",
+        "subtitle": "Sabato 7 novembre • 20:30",
+        "text": "Live • Matera • Auditorium R. Gervasio, piazza Sedile • Andrea Di Cecca e Pasquale Corrado in concerto",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Da%20Casella%20a%20Stravinsky&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Auditorium%20R.%20Gervasio%2C%20piazza%20Sedile%20%E2%80%A2%20Andrea%20Di%20Cecca%20e%20Pasquale%20Corrado%20in%20concerto&location=Auditorium%20R.%20Gervasio%2C%20piazza%20Sedile%2C%20Matera",
+        "linkDettagliEvento": "https://artebasilicata.it/eventi/mw-8652-da-casella-all-antica-a-stravinsky-matera/"
+      },
+      {
+        "title": "Scarlatti 300",
+        "subtitle": "Sabato 7 novembre • 20:30",
+        "text": "Live • Bari • Chiesa di Santa Scolastica, strada Annunziata 2 • Ensemble Dolci Accenti e Hof-Musici: musica di Alessandro Scarlatti",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scarlatti%20300&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%20%E2%80%A2%20Ensemble%20Dolci%20Accenti%20e%20Hof-Musici%3A%20musica%20di%20Alessandro%20Scarlatti&location=Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%2C%20Bari"
+      },
+      {
+        "title": "The Paleblood Ritual",
+        "subtitle": "Sabato 7 novembre • 20:30",
+        "text": "Live • Bari • Extreme Music Academy, traversa I via Glomerelli 17 • Metal live: Reality Grey, Redneck Stomp e Thantophobia",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Paleblood%20Ritual&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Extreme%20Music%20Academy%2C%20traversa%20I%20via%20Glomerelli%2017%20%E2%80%A2%20Metal%20live%3A%20Reality%20Grey%2C%20Redneck%20Stomp%20e%20Thantophobia&location=Extreme%20Music%20Academy%2C%20traversa%20I%20via%20Glomerelli%2017%2C%20Bari",
+        "linkDettagliEvento": "https://happeningnext.com/event/the-paleblood-ritual-reality-grey-redneck-stomp-thantophobia-eid3a0e6cjc4e"
+      },
+      {
+        "title": "Quelli del Clan",
+        "subtitle": "Sabato 7 novembre • 21:30",
+        "text": "Live • Bari • La DolceVita Live, via Albanese 41 • Tributo live a Celentano e Mina",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&dates=20261107T203000Z%2F20261107T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20via%20Albanese%2041%20%E2%80%A2%20Tributo%20live%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20via%20Albanese%2041%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331740.html"
       }
     ]
   }
