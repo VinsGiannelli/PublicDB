@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:04:52.473Z",
+  "generatedAt": "2026-10-25T06:03:49.290Z",
   "timezone": "Europe/Rome",
   "whatchlist": [
     "Midnight Pub Live — Matera",
@@ -278,7 +278,7 @@
         "title": "Terraspace",
         "subtitle": "Epic Games Store",
         "text": "Strategico di sopravvivenza spaziale: colonizzi pianeti ostili, costruisci impianti, estrai risorse per cibo ed energia e progetti un'astronave per raggiungere nuovi mondi. Gratis da riscattare su Epic Games Store fino al 27 ottobre 2026.",
-        "createdDate": "2026-10-21",
+        "createdDate": null,
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3535330/5fc62a33f3e2507937b2047f60da765153afd82b/header.jpg?t=1772902523",
         "link": "https://store.epicgames.com/p/dimond-hunt-03a766",
@@ -304,186 +304,10 @@
     "status": "ok",
     "title": "Eventi",
     "period": {
-      "from": "2026-10-24",
-      "to": "2026-11-07"
+      "from": "2026-10-25",
+      "to": "2026-11-08"
     },
     "items": [
-      {
-        "title": "Fiera dell'Agricoltura",
-        "subtitle": "Sabato 24 ottobre • 09:00",
-        "text": "Mercatino • Sammichele di Bari • Area mercatale P. Munno • Espositori, agricoltura e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20dell'Agricoltura&dates=20261024T070000Z%2F20261024T110000Z&details=Mercatino%20%E2%80%A2%20Sammichele%20di%20Bari%20%E2%80%A2%20Area%20mercatale%20P.%20Munno%20%E2%80%A2%20Espositori%2C%20agricoltura%20e%20artigianato&location=Area%20mercatale%20P.%20Munno%2C%20Sammichele%20di%20Bari",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-dellagricoltura-2026/"
-      },
-      {
-        "title": "The Best Cellar",
-        "subtitle": "Sabato 24 ottobre • 15:00",
-        "text": "Mercatino • Matera • Palazzo Malvinni Malvezzi, piazza Duomo • Banchi d'assaggio aperti al pubblico e stand di cantine",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Best%20Cellar&dates=20261024T130000Z%2F20261024T180000Z&details=Mercatino%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%2C%20piazza%20Duomo%20%E2%80%A2%20Banchi%20d'assaggio%20aperti%20al%20pubblico%20e%20stand%20di%20cantine&location=Palazzo%20Malvinni%20Malvezzi%2C%20piazza%20Duomo%2C%20Matera",
-        "linkDettagliEvento": "https://italia.zosimoratings.com/raggiungere-matera-e-levento-100-distinction-the-best-cellars-2026/"
-      },
-      {
-        "title": "Festa Agricola",
-        "subtitle": "Sabato 24 ottobre • 16:00",
-        "text": "Sagra • Corato • Piazza Vittorio Emanuele, Fontana della Montagnola • Prodotti agricoli, artigianato, degustazioni e concerti",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20Agricola&dates=20261024T140000Z%2F20261024T180000Z&details=Sagra%20%E2%80%A2%20Corato%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%20%E2%80%A2%20Prodotti%20agricoli%2C%20artigianato%2C%20degustazioni%20e%20concerti&location=Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Massimo Giancola",
-        "subtitle": "Sabato 24 ottobre • 18:00",
-        "text": "Live • Castellana Grotte • Largo Portagrande • Pianoforte dal vivo nell'ambito del Puglia Wine Festival.",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Giancola&dates=20261024T160000Z%2F20261024T180000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20%E2%80%A2%20Pianoforte%20dal%20vivo%20nell'ambito%20del%20Puglia%20Wine%20Festival.&location=Largo%20Portagrande%2C%20Castellana%20Grotte",
-        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
-      },
-      {
-        "title": "Calici & Braci",
-        "subtitle": "Sabato 24 ottobre • 19:00",
-        "text": "Sagra • Binetto • Piazza Umberto I • Stand gastronomici, vini pugliesi e artigianato",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20%26%20Braci&dates=20261024T170000Z%2F20261024T210000Z&details=Sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Stand%20gastronomici%2C%20vini%20pugliesi%20e%20artigianato&location=Piazza%20Umberto%20I%2C%20Binetto",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/binetto/sagra-calici-braci-117824"
-      },
-      {
-        "title": "Calici nel Borgo",
-        "subtitle": "Sabato 24 ottobre • 19:00",
-        "text": "Mercatino • Sammichele di Bari • Centro storico, via Dalfino • Produttori ed espositori",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20nel%20Borgo&dates=20261024T170000Z%2F20261024T210000Z&details=Mercatino%20%E2%80%A2%20Sammichele%20di%20Bari%20%E2%80%A2%20Centro%20storico%2C%20via%20Dalfino%20%E2%80%A2%20Produttori%20ed%20espositori&location=Centro%20storico%2C%20via%20Dalfino%2C%20Sammichele%20di%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333605.html"
-      },
-      {
-        "title": "F1 Austin - Prove Libere 3",
-        "subtitle": "Sabato 24 ottobre • 19:30",
-        "text": "Formula 1 • Gran Premio Stati Uniti • Prove Libere 3",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Austin%20-%20Prove%20Libere%203&dates=20261024T173000Z%2F20261024T183000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Stati%20Uniti%20%E2%80%A2%20Prove%20Libere%203",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
-      },
-      {
-        "title": "Puglia Wine Festival",
-        "subtitle": "Sabato 24 ottobre • 19:30",
-        "text": "Sagra • Castellana Grotte • Largo Portagrande e centro storico • Vino pugliese, gastronomia, caldarroste e artigianato.",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Puglia%20Wine%20Festival&dates=20261024T173000Z%2F20261024T213000Z&details=Sagra%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20e%20centro%20storico%20%E2%80%A2%20Vino%20pugliese%2C%20gastronomia%2C%20caldarroste%20e%20artigianato.&location=Largo%20Portagrande%20e%20centro%20storico%2C%20Castellana%20Grotte",
-        "linkDettagliEvento": "https://www.vivicastellanagrotte.it/index.php/cultura/eventi/23712-torna-il-puglia-wine-festival-per-la-prima-volta-a-castellana-grotte-il-24-e-25-ottobre"
-      },
-      {
-        "title": "Poeti del Quartiere",
-        "subtitle": "Sabato 24 ottobre • 20:00",
-        "text": "Live • Monopoli • Arci Monopoli Contrada 100 • Concerto hip-hop dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Poeti%20del%20Quartiere&dates=20261024T180000Z%2F20261024T200000Z&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Arci%20Monopoli%20Contrada%20100%20%E2%80%A2%20Concerto%20hip-hop%20dal%20vivo&location=Arci%20Monopoli%20Contrada%20100%2C%20Monopoli",
-        "linkDettagliEvento": "https://www.poetidelquartiere.it/live-poeti-del-quartiere-hip-hop-italiano/"
-      },
-      {
-        "title": "Omaggio a Morricone",
-        "subtitle": "Sabato 24 ottobre • 20:30",
-        "text": "Live • Bari • Teatro Petruzzelli • Ensemble Le Muse e Susanna Rigacci eseguono colonne sonore di Ennio Morricone",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Omaggio%20a%20Morricone&dates=20261024T183000Z%2F20261024T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Ensemble%20Le%20Muse%20e%20Susanna%20Rigacci%20eseguono%20colonne%20sonore%20di%20Ennio%20Morricone&location=Teatro%20Petruzzelli%2C%20Bari",
-        "linkDettagliEvento": "https://www.ticketone.it/event/omaggio-a-morricone-musiche-da-oscar-teatro-petruzzelli-20943570/"
-      },
-      {
-        "title": "Edoardo Bruni al pianoforte",
-        "subtitle": "Sabato 24 ottobre • 21:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Recital pianistico con musiche di Schubert, Bruni, Brahms e Chopin",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Edoardo%20Bruni%20al%20pianoforte&dates=20261024T190000Z%2F20261024T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Schubert%2C%20Bruni%2C%20Brahms%20e%20Chopin&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://www.eventiamola.it/event/intelligenza-ed-emozione-musiche-di-schubert-bruni-brahms-chopin/"
-      },
-      {
-        "title": "Mimì - Omaggio a Mia Martini",
-        "subtitle": "Sabato 24 ottobre • 21:00",
-        "text": "Live • Bari • Teatro Showville • Roberta Devita e Orchestra Tebaide in concerto dedicato a Mia Martini",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mim%C3%AC%20-%20Omaggio%20a%20Mia%20Martini&dates=20261024T190000Z%2F20261024T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Showville%20%E2%80%A2%20Roberta%20Devita%20e%20Orchestra%20Tebaide%20in%20concerto%20dedicato%20a%20Mia%20Martini&location=Teatro%20Showville%2C%20Bari",
-        "linkDettagliEvento": "https://www.ticketone.it/eventseries/mimi-omaggio-a-mia-martini-4154006/?inApp=true"
-      },
-      {
-        "title": "Seventy Fever Band",
-        "subtitle": "Sabato 24 ottobre • 21:00",
-        "text": "Live • Bari • Chorìa, via Giulio Petroni 127 • Dance e disco music degli anni Settanta",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Seventy%20Fever%20Band&dates=20261024T190000Z%2F20261024T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%2C%20via%20Giulio%20Petroni%20127%20%E2%80%A2%20Dance%20e%20disco%20music%20degli%20anni%20Settanta&location=Chor%C3%ACa%2C%20via%20Giulio%20Petroni%20127%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334146.html"
-      },
-      {
-        "title": "Pizzicati Sotto lu Pete",
-        "subtitle": "Sabato 24 ottobre • 21:30",
-        "text": "Live • Castellana Grotte • Largo San Leone Magno • Concerto di musica popolare al Puglia Wine Festival.",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pizzicati%20Sotto%20lu%20Pete&dates=20261024T193000Z%2F20261024T213000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20San%20Leone%20Magno%20%E2%80%A2%20Concerto%20di%20musica%20popolare%20al%20Puglia%20Wine%20Festival.&location=Largo%20San%20Leone%20Magno%2C%20Castellana%20Grotte",
-        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
-      },
-      {
-        "title": "F1 Austin - Qualifiche",
-        "subtitle": "Sabato 24 ottobre • 23:00",
-        "text": "Formula 1 • Gran Premio Stati Uniti • Qualifiche",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Austin%20-%20Qualifiche&dates=20261024T210000Z%2F20261024T220000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Stati%20Uniti%20%E2%80%A2%20Qualifiche",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
-      },
-      {
-        "title": "Fiera dell'Arcangelo Raffaele",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Mercatino • Mola di Bari • Centro e viale Paolo VI • Tradizionale fiera commerciale del 24 ottobre",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20dell'Arcangelo%20Raffaele&dates=20261024%2F20261025&details=Mercatino%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Centro%20e%20viale%20Paolo%20VI%20%E2%80%A2%20Tradizionale%20fiera%20commerciale%20del%2024%20ottobre&location=Centro%20e%20viale%20Paolo%20VI%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://www.comune.moladibari.ba.it/statico/sito/www.comune.moladibari.ba.it/ricorrenze.html"
-      },
-      {
-        "title": "Fiera di San Michele",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Mercatino • Bari • Carbonara, piazza Umberto I • Bancarelle, prodotti locali e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Michele&dates=20261024%2F20261025&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Carbonara%2C%20piazza%20Umberto%20I%20%E2%80%A2%20Bancarelle%2C%20prodotti%20locali%20e%20artigianato&location=Carbonara%2C%20piazza%20Umberto%20I%2C%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/fiera-e-sagra-di-san-michele-arcangelo-2026-82087"
-      },
-      {
-        "title": "Poker Souls",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Live • Matera • Midnight Pub Live, via dell'Agricoltura • Tributo ad Amy Winehouse e Lady Gaga",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Poker%20Souls&dates=20261024%2F20261025&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%20%E2%80%A2%20Tributo%20ad%20Amy%20Winehouse%20e%20Lady%20Gaga&location=Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%2C%20Matera",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/poker-souls-amy-winehouse-lady-gaga-t-b/"
-      },
-      {
-        "title": "Sagra del Tarallo",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Sagra • Palo del Colle • Piazza Santa Croce • Taralli, prodotti tipici e artigianato tradizionale",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Tarallo&dates=20261024%2F20261025&details=Sagra%20%E2%80%A2%20Palo%20del%20Colle%20%E2%80%A2%20Piazza%20Santa%20Croce%20%E2%80%A2%20Taralli%2C%20prodotti%20tipici%20e%20artigianato%20tradizionale&location=Piazza%20Santa%20Croce%2C%20Palo%20del%20Colle",
-        "linkDettagliEvento": "https://www.comune.palodelcolle.ba.it/novita/avvisi/novita_617.html"
-      },
-      {
-        "title": "Samba Precario",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Live • Corato • Piazza Vittorio Emanuele, Fontana della Montagnola • Concerto alla Festa Agricola; programma dalle 21:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samba%20Precario&dates=20261024%2F20261025&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%20%E2%80%A2%20Concerto%20alla%20Festa%20Agricola%3B%20programma%20dalle%2021%3A00&location=Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Senza Piombo",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Live • Binetto • Piazza Umberto I • Band in concerto durante la sagra Calici & Braci; orario non confermato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Senza%20Piombo&dates=20261024%2F20261025&details=Live%20%E2%80%A2%20Binetto%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Band%20in%20concerto%20durante%20la%20sagra%20Calici%20%26%20Braci%3B%20orario%20non%20confermato&location=Piazza%20Umberto%20I%2C%20Binetto",
-        "linkDettagliEvento": "https://sagraspot.it/sagra/3557-calici-braci"
-      },
-      {
-        "title": "Sonex",
-        "subtitle": "Sabato 24 ottobre",
-        "text": "Live • Corato • Piazza Vittorio Emanuele, Fontana della Montagnola • Gruppo messicano alla Festa Agricola; concerti dalle 21:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonex&dates=20261024%2F20261025&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%20%E2%80%A2%20Gruppo%20messicano%20alla%20Festa%20Agricola%3B%20concerti%20dalle%2021%3A00&location=Piazza%20Vittorio%20Emanuele%2C%20Fontana%20della%20Montagnola%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
       {
         "title": "Fiera di Ottobre",
         "subtitle": "Domenica 25 ottobre • 06:00",
@@ -666,6 +490,14 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonex&dates=20261025%2F20261026&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%20%E2%80%A2%20Rassegna%20della%20Festa%20Agricola%20con%20concerti%20dalle%2017%3A00&location=Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%2C%20Corato",
         "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
+      },
+      {
+        "title": "Fiera La Mia Casa",
+        "subtitle": "Domenica 25 ottobre",
+        "text": "Mercatino • Gravina in Puglia • Area Fieristica di San Giorgio • Fiera commerciale dedicata alla casa e all'arredamento",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20La%20Mia%20Casa&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Gravina%20in%20Puglia%20%E2%80%A2%20Area%20Fieristica%20di%20San%20Giorgio%20%E2%80%A2%20Fiera%20commerciale%20dedicata%20alla%20casa%20e%20all'arredamento&location=Area%20Fieristica%20di%20San%20Giorgio%2C%20Gravina%20in%20Puglia",
+        "linkDettagliEvento": "https://buzzeventmap.com/eventi/bari/fiere"
       },
       {
         "title": "Fiera di San Michele",
@@ -996,6 +828,14 @@
         "linkDettagliEvento": "https://palazzopescelocationeventi.com/tag/eventi-2026-a-palazzo-pesce/"
       },
       {
+        "title": "Promessi Sposi",
+        "subtitle": "Giovedì 5 novembre • 16:00",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261105T150000Z%2F20261105T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "linkDettagliEvento": "https://www.promessisposi.info/"
+      },
+      {
         "title": "Michael in Acoustic",
         "subtitle": "Giovedì 5 novembre • 19:30",
         "text": "Live • Bari • Teatro Bravò, via Stoppelli 18 • Omaggio acustico a Michael Jackson con voci, coro e musicisti dal vivo",
@@ -1010,6 +850,14 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Sound%20of%20Magic&dates=20261105T200000Z%2F20261105T220000Z&details=Live%20%E2%80%A2%20Altamura%20%E2%80%A2%20Teatro%20Mangiatordi%2C%20via%20E.%20Montale%20%E2%80%A2%20Cartoons%20Orchestra%3A%20colonne%20sonore%20Disney%20eseguite%20dal%20vivo&location=Teatro%20Mangiatordi%2C%20via%20E.%20Montale%2C%20Altamura",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333331.html"
+      },
+      {
+        "title": "Promessi Sposi",
+        "subtitle": "Venerdì 6 novembre • 16:00",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261106T150000Z%2F20261106T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
         "title": "F1 Brasile - Prove Libere 1",
@@ -1033,6 +881,14 @@
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Prove%20Libere%202&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Prove%20Libere%202",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "Partenopea Trio",
+        "subtitle": "Venerdì 6 novembre • 20:30",
+        "text": "Live • Bari • La DolceVita Live, via Albanese 41 • Rose Mary Nicassio, Pasquale Buongiovanni e Vincenzo Maurogiovanni interpretano canzoni napoletane",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Partenopea%20Trio&dates=20261106T193000Z%2F20261106T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20via%20Albanese%2041%20%E2%80%A2%20Rose%20Mary%20Nicassio%2C%20Pasquale%20Buongiovanni%20e%20Vincenzo%20Maurogiovanni%20interpretano%20canzoni%20napoletane&location=La%20DolceVita%20Live%2C%20via%20Albanese%2041%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333339.html"
       },
       {
         "title": "Scarlatti 300",
@@ -1073,12 +929,28 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Vasco%20Rossi&location=Ostinati%2C%20Monopoli"
       },
       {
+        "title": "Promessi Sposi",
+        "subtitle": "Sabato 7 novembre • 10:00",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261107T090000Z%2F20261107T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "linkDettagliEvento": "https://www.promessisposi.info/"
+      },
+      {
         "title": "F1 Brasile - Prove Libere 3",
         "subtitle": "Sabato 7 novembre • 15:30",
         "text": "Formula 1 • GP Brasile • Prove Libere 3",
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Prove%20Libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Prove%20Libere%203",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
+      },
+      {
+        "title": "Corteo storico e vessilli",
+        "subtitle": "Sabato 7 novembre • 18:30",
+        "text": "Evento tradizionale • Adelfia • Montrone • Corteo storico e parata dei vessilli per i festeggiamenti di San Trifone",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20e%20vessilli&dates=20261107T173000Z%2F20261107T190000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Montrone%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli%20per%20i%20festeggiamenti%20di%20San%20Trifone&location=Montrone%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "F1 Brasile - Qualifiche",
@@ -1126,6 +998,70 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&dates=20261107T203000Z%2F20261107T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20via%20Albanese%2041%20%E2%80%A2%20Tributo%20live%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20via%20Albanese%2041%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331740.html"
+      },
+      {
+        "title": "Bacco nelle Gnostre",
+        "subtitle": "Sabato 7 novembre",
+        "text": "Sagra • Noci • Centro storico e gnostre • Vino novello, caldarroste, specialità pugliesi e musica popolare",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%2C%20Noci",
+        "linkDettagliEvento": "https://bacconellegnostre.it/"
+      },
+      {
+        "title": "Fiera di San Trifone",
+        "subtitle": "Domenica 8 novembre • 07:00",
+        "text": "Mercatino • Adelfia • Centro storico di Montrone • Tradizionale fiera con bancarelle durante la festa patronale",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T120000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Tradizionale%20fiera%20con%20bancarelle%20durante%20la%20festa%20patronale&location=Montrone%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "Promessi Sposi",
+        "subtitle": "Domenica 8 novembre • 10:00",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261108T090000Z%2F20261108T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "linkDettagliEvento": "https://www.promessisposi.info/"
+      },
+      {
+        "title": "F1 Brasile - Gara",
+        "subtitle": "Domenica 8 novembre • 18:00",
+        "text": "Formula 1 • GP Brasile • Gara",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Gara",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "Massimo Ranieri",
+        "subtitle": "Domenica 8 novembre • 20:30",
+        "text": "Live • Bari • Teatro Petruzzelli, corso Cavour 12 • Tutti i sogni ancora in volo: concerto e spettacolo di canzone italiana",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Ranieri&dates=20261108T193000Z%2F20261108T224500Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%20%E2%80%A2%20Tutti%20i%20sogni%20ancora%20in%20volo%3A%20concerto%20e%20spettacolo%20di%20canzone%20italiana&location=Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%2C%20Bari",
+        "linkDettagliEvento": "https://auroraeventi.net/eventi/massimo-ranieri-tutti-i-sogni-ancora-in-volo-tour-bari-teatro-petruzzelli-08-11-2026-20-30/"
+      },
+      {
+        "title": "San Trifone - Notte Bianca",
+        "subtitle": "Domenica 8 novembre • 20:30",
+        "text": "Festa patronale • Adelfia • Centro storico di Montrone • Notte bianca Aspettando San Trifone, XVII edizione",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20-%20Notte%20Bianca&dates=20261108T193000Z%2F20261108T223000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Notte%20bianca%20Aspettando%20San%20Trifone%2C%20XVII%20edizione&location=Montrone%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "Bacco nelle Gnostre",
+        "subtitle": "Domenica 8 novembre",
+        "text": "Sagra • Noci • Centro storico e gnostre • Vino novello, caldarroste, specialità pugliesi e musica popolare",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%2C%20Noci",
+        "linkDettagliEvento": "https://bacconellegnostre.it/"
+      },
+      {
+        "title": "Sagra dell'agnello e del novello",
+        "subtitle": "Domenica 8 novembre",
+        "text": "Sagra • Adelfia • Vie del centro storico di Montrone • Terza edizione della sagra dell'agnello e del vino novello",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20del%20novello&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Vie%20del%20centro%20storico%20di%20Montrone%20%E2%80%A2%20Terza%20edizione%20della%20sagra%20dell'agnello%20e%20del%20vino%20novello&location=Montrone%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       }
     ]
   }
