@@ -3,8 +3,8 @@ Le informazioni dovranno essere ricercate attraverso web/API/fonti pubbliche. Fu
 Repository pubblico GitHub `VinsGiannelli/PublicDB`, branch `main`, file root `dashboard.json`. Non creare nuovi repository, README, documentazione o altri file. 
 Mantieni il file pubblico quanto più essenziale possibile. Non riportare nel repository istruzioni interne.
 
-Leggi il json dalla repository come prima operazione per recuperare watchlist / blacklist aggiornate.
-Per eventi e giochi non fare affidamento sui dati gia presenti nel JSON, considerali sempre obsoleti e da riscrivere, ignorali completamente.
+Leggi il json dalla repository come prima operazione per recuperare SOLO watchlist / blacklist aggiornate.
+Per eventi e giochi NON fare affidamento sui dati gia presenti nel JSON, considerali sempre obsoleti e da riscrivere, ignora completamente quello che leggi nel json.
 
 
 PRIORITÀ ASSOLUTE
