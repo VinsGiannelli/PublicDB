@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:01:31.341Z",
+  "generatedAt": "2026-10-26T09:47:19.107Z",
   "timezone": "Europe/Rome",
   "whatchlist": [
     "Midnight Pub Live — Matera",
@@ -43,28 +43,28 @@
     "Palatour — Bitritto"
   ],
   "games": {
-    "status": "partial",
+    "status": "ok",
     "title": "Giochi gratuiti e inclusi",
     "items": [
       {
         "title": "Ad Infinitum",
         "subtitle": "Epic Games Store",
-        "text": "Horror psicologico in prima persona ambientato fra le trincee della Grande Guerra e una dimora familiare inquietante: esplori ambienti, risolvi enigmi e sfuggi a creature mostruose. Riscattabile con Prime su Epic Games Store fino al 25 novembre 2026.",
+        "text": "Horror psicologico in prima persona tra le trincee della Grande Guerra e una casa familiare inquietante: esplori gli ambienti, risolvi enigmi e sfuggi alle creature dei tuoi incubi. Riscattabile con Prime su Epic Games Store fino al 25 novembre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg?t=1778169586",
         "link": "https://luna.amazon.com/claims/ad-infinitum-epic/dp/amzn1.pg.item.69de011b-6575-41ab-9964-971e59cf7457",
-        "steamRating": "78%",
-        "steamPrice": null,
+        "steamRating": "75%",
+        "steamPrice": "19,99 €",
         "steamUrl": "https://store.steampowered.com/app/1234430/"
       },
       {
         "title": "Home - A Unique Horror Adventure",
         "subtitle": "Epic Games Store",
-        "text": "Avventura horror narrativa in pixel art: esplori una casa misteriosa, ricostruisci un delitto e scegli come interpretare indizi e finali. Gratis su Epic Games Store fino al 29 ottobre 2026.",
+        "text": "Avventura horror narrativa in pixel art ambientata in una casa misteriosa: esamini indizi di un delitto, interagisci con oggetti e costruisci la tua interpretazione del finale. Riscatto gratuito su Epic Games Store fino al 29 ottobre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
-        "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png?h=480&quality=medium&resize=1&w=854",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215670/header.jpg?t=1704052890",
         "link": "https://store.epicgames.com/p/home-19212a?lang=it",
         "steamRating": "65%",
         "steamPrice": "4,99 €",
@@ -73,34 +73,34 @@
       {
         "title": "Sker Ritual",
         "subtitle": "Epic Games Store",
-        "text": "Sparatutto horror cooperativo ambientato sull'isola di Sker: affronti ondate di creature soprannaturali, migliori le armi, sfrutti poteri speciali e sconfiggi boss. Gratis su Epic Games Store fino al 29 ottobre 2026.",
+        "text": "Sparatutto horror cooperativo in prima persona sull'isola di Sker: affronti ondate di mostri, potenzi armi, ottieni poteri soprannaturali e sfidi boss anche con altri giocatori. Riscatto gratuito su Epic Games Store fino al 29 ottobre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
-        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/8e288958e8c203003f00852e73dba95558b94992/header.jpg?t=1792674990",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1492070/8e288958e8c203003f00852e73dba95558b94992/header.jpg?t=1792674990",
         "link": "https://store.epicgames.com/p/sker-ritual-aac702?lang=it",
         "steamRating": "79%",
-        "steamPrice": null,
+        "steamPrice": "6,79 €",
         "steamUrl": "https://store.steampowered.com/app/1492070/"
       },
       {
         "title": "Time Travel: Escape Room Game",
         "subtitle": "Legacy Games",
-        "text": "Avventura rompicapo a tema viaggi temporali: esplori ambienti, cerchi un raro cristallo, raccogli oggetti e risolvi enigmi per riattivare una macchina del tempo. Riscattabile con Prime tramite codice Legacy Games fino al 25 novembre 2026.",
+        "text": "Avventura rompicapo con viaggi nel tempo: esplori scenari storici, cerchi un cristallo speciale, raccogli oggetti, combini indizi e risolvi enigmi per riattivare la macchina temporale. Riscattabile con Prime tramite Legacy Games fino al 25 novembre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3094600/header.jpg?t=1727347219",
         "link": "https://luna.amazon.com/claims/time-travel-escape-room-game-legacy/dp/amzn1.pg.item.c3af790f-8ce0-42b2-8c16-ebecb97303f5",
-        "steamRating": "67%",
+        "steamRating": "57%",
         "steamPrice": "8,99 €",
         "steamUrl": "https://store.steampowered.com/app/3094600/"
       },
       {
         "title": "Caravan SandWitch",
         "subtitle": "Amazon Games App",
-        "text": "Avventura esplorativa narrativa in un mondo fantascientifico: guidi un furgone, attraversi paesaggi suggestivi, incontri comunità e indaghi sulla scomparsa di tua sorella. Riscattabile con Prime tramite Amazon Games App fino al 16 dicembre 2026.",
+        "text": "Avventura esplorativa fantascientifica in un mondo aperto: attraversi paesaggi con un furgone, conosci gli abitanti, esplori rovine e indaghi sulla misteriosa scomparsa di tua sorella. Riscattabile con Prime tramite Amazon Games App fino al 16 dicembre 2026.",
         "createdDate": "2026-10-15",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg?t=1757404894",
         "link": "https://luna.amazon.com/claims/caravan-sandwitch-aga/dp/amzn1.pg.item.98d2b591-efd2-420f-928c-e7a9b409f67a",
         "steamRating": "83%",
         "steamPrice": "24,99 €",
@@ -109,10 +109,10 @@
       {
         "title": "Vampire: The Masquerade – Swansong",
         "subtitle": "Epic Games Store",
-        "text": "Gioco di ruolo narrativo ambientato nella Boston dei vampiri: interpreti tre protagonisti, investi in abilità, indaghi sugli intrighi e prendi decisioni decisive. Riscattabile con Prime su Epic Games Store fino al 18 novembre 2026.",
+        "text": "Gioco di ruolo narrativo ambientato nella Boston dei vampiri: interpreti tre protagonisti, indaghi su cospirazioni, sviluppi poteri e prendi decisioni che modificano la storia. Riscattabile con Prime su Epic Games Store fino al 18 novembre 2026.",
         "createdDate": "2026-10-15",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg?t=1778175048",
         "link": "https://luna.amazon.com/claims/vampire-the-masquerade-swansong-epic/dp/amzn1.pg.item.7885fee3-7dda-40c5-8642-596bb1f4a9b3",
         "steamRating": "61%",
         "steamPrice": "19,99 €",
@@ -121,10 +121,10 @@
       {
         "title": "Conarium",
         "subtitle": "GOG",
-        "text": "Horror avventuroso ispirato a Lovecraft: esplori una base antartica, ricostruisci misteriosi esperimenti scientifici e risolvi enigmi tra visioni e fenomeni inspiegabili. Riscattabile con Prime tramite codice GOG fino all'11 novembre 2026.",
+        "text": "Avventura horror lovecraftiana ambientata in una base antartica: esplori corridoi e laboratori deserti, ricostruisci esperimenti proibiti e affronti fenomeni inspiegabili risolvendo enigmi ambientali. Riscattabile con Prime tramite codice GOG fino all'11 novembre 2026.",
         "createdDate": "2026-10-08",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg?t=1728475261",
         "link": "https://luna.amazon.com/claims/conarium-gog/dp/amzn1.pg.item.82e258e7-827e-46e0-8228-25e9720b48b4",
         "steamRating": "74%",
         "steamPrice": "19,50 €",
@@ -133,10 +133,10 @@
       {
         "title": "WarBreeds",
         "subtitle": "GOG",
-        "text": "Strategico in tempo reale di fantascienza: guidi un clan, affronti fazioni rivali, sottrai materiale genetico e personalizzi truppe e armamenti biotecnologici. Riscattabile con Prime tramite codice GOG fino all'8 gennaio 2027.",
+        "text": "Strategico in tempo reale di fantascienza: comandi un clan guerriero, combatti fazioni rivali, raccogli materiale genetico e personalizzi unità e armi per dominare l'impero. Riscattabile con Prime tramite codice GOG fino all'8 gennaio 2027.",
         "createdDate": "2026-10-08",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg?t=1728494153",
         "link": "https://luna.amazon.com/claims/warbreeds-gog/dp/amzn1.pg.item.886d058d-6e68-4f53-8e58-3044de3e6bb4",
         "steamRating": "71%",
         "steamPrice": "2,99 €",
@@ -145,10 +145,10 @@
       {
         "title": "DOOM (2016)",
         "subtitle": "GOG",
-        "text": "Sparatutto in prima persona ambientato in una base marziana invasa da demoni: combatti freneticamente, raccogli armamenti e affronti orde di mostri. Riscattabile con Prime tramite codice GOG fino al 4 novembre 2026.",
+        "text": "Sparatutto frenetico in prima persona su Marte: affronti orde di demoni in una base scientifica, alterni armi devastanti, esplori livelli e potenzi le capacità del protagonista. Riscattabile con Prime tramite codice GOG fino al 4 novembre 2026.",
         "createdDate": "2026-10-01",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856",
         "link": "https://luna.amazon.com/claims/doom-gog/dp/amzn1.pg.item.b095156c-1207-49f0-801a-75ac03b74def",
         "steamRating": "94%",
         "steamPrice": "19,99 €",
@@ -157,10 +157,10 @@
       {
         "title": "Five Nights at Freddy's: Into the Pit",
         "subtitle": "Epic Games Store",
-        "text": "Avventura horror in pixel art: esplori due epoche, indaghi in una pizzeria infestata, risolvi enigmi ed eviti animatroni letali. Riscattabile con Prime su Epic Games Store fino al 4 novembre 2026.",
+        "text": "Avventura horror bidimensionale tra due epoche: esplori una pizzeria infestata, cerchi indizi, risolvi puzzle e sfuggi ad animatroni per salvare amici e familiari. Riscattabile con Prime su Epic Games Store fino al 4 novembre 2026.",
         "createdDate": "2026-10-01",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg?t=1746172589",
         "link": "https://luna.amazon.com/claims/five-nights-at-freddys-into-the-pit-epic/dp/amzn1.pg.item.9d2ad65c-0963-4e2d-93e6-75ad2a4bfc87",
         "steamRating": "93%",
         "steamPrice": "19,50 €",
@@ -169,10 +169,10 @@
       {
         "title": "High On Life",
         "subtitle": "Epic Games Store",
-        "text": "Sparatutto fantascientifico e comico: visiti pianeti eccentrici, combatti un cartello alieno e utilizzi armi parlanti dalle abilità speciali. Riscattabile con Prime su Epic Games Store fino al 28 ottobre 2026.",
+        "text": "Sparatutto comico fantascientifico: viaggi tra pianeti eccentrici, affronti un cartello alieno e utilizzi armi parlanti con abilità specifiche per liberare l'umanità. Riscattabile con Prime su Epic Games Store fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1792678709",
         "link": "https://luna.amazon.com/claims/high-on-life-epic/dp/amzn1.pg.item.351cbaa9-ac70-4e47-93b6-1a4cb7dd38c8",
         "steamRating": "87%",
         "steamPrice": "36,49 €",
@@ -181,10 +181,10 @@
       {
         "title": "Hue",
         "subtitle": "Epic Games Store",
-        "text": "Puzzle platform colorato: esplori un mondo bidimensionale, cambi il colore dello sfondo per modificare ostacoli e risolvi enigmi ambientali. Riscattabile con Prime su Epic Games Store fino al 28 ottobre 2026.",
+        "text": "Puzzle platform bidimensionale in un mondo colorato: modifichi i colori dello sfondo per rendere invisibili ostacoli, raggiungere piattaforme e risolvere enigmi ambientali. Riscattabile con Prime su Epic Games Store fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383270/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383270/header.jpg?t=1749640466",
         "link": "https://luna.amazon.com/claims/hue-epic/dp/amzn1.pg.item.d7de294d-c66d-4445-824d-ec9292fa1acb",
         "steamRating": "90%",
         "steamPrice": "14,99 €",
@@ -193,10 +193,10 @@
       {
         "title": "The Da Vinci Cryptex",
         "subtitle": "Legacy Games",
-        "text": "Escape room punta e clicca ambientata nella bottega di Leonardo da Vinci: osservi disegni, risolvi enigmi logici e scopri meccanismi nascosti. Riscatto Prime con codice Legacy Games fino al 28 ottobre 2026.",
+        "text": "Escape room punta e clicca ispirata a Leonardo da Vinci: osservi disegni e meccanismi, cerchi oggetti nascosti, decifri codici e risolvi rompicapi nella bottega rinascimentale. Riscattabile con Prime tramite codice Legacy Games fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/17dac597a2c91acfc82f4cf11e8a6ed44807120e/header.jpg?t=1785761345",
         "link": "https://luna.amazon.co.uk/claims/the-da-vinci-cryptex-legacy/dp/amzn1.pg.item.6cd3cd34-9ede-48df-bf9a-cc154ed97525",
         "steamRating": "53%",
         "steamPrice": "4,89 €",
@@ -205,10 +205,10 @@
       {
         "title": "Havendock",
         "subtitle": "Amazon Games App",
-        "text": "Gestionale di colonie sull'oceano: costruisci piattaforme galleggianti, coltivi risorse, accogli naufraghi e sviluppi nuove tecnologie per far prosperare l'insediamento. Riscattabile con Prime tramite Amazon Games App fino al 28 ottobre 2026.",
+        "text": "Gestionale di sopravvivenza sull'oceano: costruisci piattaforme galleggianti, coltivi risorse, accogli naufraghi, organizzi la produzione e sviluppi nuove tecnologie per espandere la colonia. Riscattabile con Prime tramite Amazon Games App fino al 28 ottobre 2026.",
         "createdDate": "2026-08-27",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/7236297d57d5bcd8aec47450661b912dcb3de8ce/header.jpg?t=1790074093",
         "link": "https://luna.amazon.com/claims/havendock-aga/dp/amzn1.pg.item.ef222081-3e6c-4949-9e87-aaf2c27b6bc6",
         "steamRating": "76%",
         "steamPrice": "19,50 €",
@@ -217,10 +217,10 @@
       {
         "title": "Weakless",
         "subtitle": "GOG",
-        "text": "Avventura puzzle in ambienti naturali fantastici: alterni due creature di legno, una cieca e una sorda, sfruttando sensi differenti per risolvere enigmi. Riscattabile con Prime tramite codice GOG fino al 28 ottobre 2026.",
+        "text": "Avventura puzzle in un mondo naturale fantastico: alterni due creature di legno, una cieca e una sorda, e sfrutti sensi differenti per superare ostacoli. Riscattabile con Prime tramite codice GOG fino al 28 ottobre 2026.",
         "createdDate": "2026-07-30",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072620/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072620/header.jpg?t=1790842621",
         "link": "https://luna.amazon.com/claims/weakless-gog/dp/amzn1.pg.item.35aae84a-f566-4890-8fd3-492318a39036",
         "steamRating": "69%",
         "steamPrice": "12,25 €",
@@ -229,10 +229,10 @@
       {
         "title": "Zoria: Age of Shattering",
         "subtitle": "GOG",
-        "text": "Gioco di ruolo tattico fantasy a turni: guidi un gruppo di quattro eroi, combatti nemici, sviluppi avamposti e gestisci compagni e abilità. Riscattabile con Prime tramite codice GOG fino al 28 ottobre 2026.",
+        "text": "Gioco di ruolo tattico fantasy a turni: guidi un gruppo di eroi, affronti battaglie strategiche, migliori abilità, gestisci avamposti ed esplori un regno minacciato. Riscattabile con Prime tramite codice GOG fino al 28 ottobre 2026.",
         "createdDate": "2026-07-30",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg?t=1790842616",
         "link": "https://luna.amazon.com/claims/zoria-age-of-shattering-gog/dp/amzn1.pg.item.ec074069-a977-4885-b5b0-6f972d17abb7",
         "steamRating": "75%",
         "steamPrice": "24,50 €",
@@ -241,19 +241,43 @@
       {
         "title": "GetHigh.EXE",
         "subtitle": "Epic Games Store",
-        "text": "Platform in prima persona con estetica neon: affronti percorsi verticali di parkour, calibri salti di precisione, superi ostacoli mobili e cerchi checkpoint. Gratis da riscattare su Epic Games Store fino al 2 novembre 2026.",
-        "createdDate": "2026-10-19",
+        "text": "Platform in prima persona con ambientazioni neon: affronti percorsi verticali di parkour, calibri salti precisi, superi trappole e raggiungi checkpoint per scalare livelli difficili. Riscatto gratuito su Epic Games Store fino al 2 novembre 2026.",
+        "createdDate": null,
         "giveaway": false,
-        "imageUrl": "https://cdn1.epicgames.com/spt-assets/c98f33cf3ea9491f926ce69fc9835ccf/gethighexe-i71wg.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4331890/34ef5e4f1a26bab793da8662c29e10c04b05e747/header.jpg?t=1792852917",
         "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
         "steamRating": "67%",
         "steamPrice": "2,09 €",
         "steamUrl": "https://store.steampowered.com/app/4331890/"
       },
       {
+        "title": "Terraspace",
+        "subtitle": "Epic Games Store",
+        "text": "Strategico di sopravvivenza spaziale: fondi colonie su pianeti ostili, estrai risorse, costruisci impianti e progetti veicoli per espandere gli insediamenti. Riscatto gratuito su Epic Games Store fino al 27 ottobre 2026.",
+        "createdDate": null,
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3535330/5fc62a33f3e2507937b2047f60da765153afd82b/header.jpg?t=1772902523",
+        "link": "https://store.epicgames.com/p/dimond-hunt-03a766",
+        "steamRating": "44%",
+        "steamPrice": "9,75 €",
+        "steamUrl": "https://store.steampowered.com/app/3535330/"
+      },
+      {
+        "title": "MAFIA HOTEL",
+        "subtitle": "Epic Games Store",
+        "text": "Gioco multigiocatore di deduzione sociale ambientato in un hotel: i partecipanti discutono, mentono, votano e interpretano ruoli segreti per identificare i mafiosi prima che prevalgano. Riscatto gratuito del gioco completo su Epic Games Store fino al 1 novembre 2026.",
+        "createdDate": null,
+        "giveaway": false,
+        "imageUrl": null,
+        "link": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
+        "steamRating": null,
+        "steamPrice": null,
+        "steamUrl": null
+      },
+      {
         "title": "SONIC X SHADOW GENERATIONS",
         "subtitle": "Amazon Luna Standard",
-        "text": "Platform d'azione tridimensionale: affronti livelli classici e moderni con Sonic e una nuova campagna di Shadow, correndo ad alta velocità e combattendo boss. Incluso in Amazon Luna Standard in streaming, senza riscatto permanente.",
+        "text": "Platform d'azione tridimensionale con Sonic e Shadow: attraversi percorsi a velocità elevata, combatti boss, esplori aree hub e completi livelli classici e moderni. Incluso in Amazon Luna Standard in streaming nell'offerta di ottobre, senza riscatto permanente.",
         "createdDate": null,
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg?t=1783614811",
@@ -265,7 +289,7 @@
       {
         "title": "STAR WARS: Galactic Racer",
         "subtitle": "Amazon Luna Standard",
-        "text": "Gioco di corse nell'universo di Star Wars: piloti veicoli futuristici su circuiti pericolosi, affronti rivali e migliori le prestazioni gara dopo gara. Incluso in Amazon Luna Standard in streaming, senza riscatto permanente.",
+        "text": "Gioco di corse nell'universo di Star Wars: gareggi in circuiti clandestini dell'Orlo Esterno, guidi veicoli futuristici, affronti rivali e migliori le prestazioni gara dopo gara. Incluso in Amazon Luna Standard in streaming nell'offerta di ottobre, senza riscatto permanente.",
         "createdDate": null,
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1791388584",
@@ -275,40 +299,16 @@
         "steamUrl": "https://store.steampowered.com/app/4078430/"
       },
       {
-        "title": "Terraspace",
-        "subtitle": "Epic Games Store",
-        "text": "Strategico di sopravvivenza spaziale: colonizzi pianeti ostili, costruisci impianti, estrai risorse per cibo ed energia e progetti un'astronave per raggiungere nuovi mondi. Gratis da riscattare su Epic Games Store fino al 27 ottobre 2026.",
-        "createdDate": null,
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3535330/5fc62a33f3e2507937b2047f60da765153afd82b/header.jpg?t=1772902523",
-        "link": "https://store.epicgames.com/p/dimond-hunt-03a766",
-        "steamRating": "44%",
-        "steamPrice": "9,75 €",
-        "steamUrl": "https://store.steampowered.com/app/3535330/"
-      },
-      {
         "title": "Hex Reverse",
         "subtitle": "Steam",
-        "text": "Gioco di carte strategico e roguelike su griglia esagonale: costruisci un mazzo, posizioni carte, ribalti quelle avversarie e sfrutti valori e combinazioni per vincere le sfide. Gratuito su Steam nei primi 30 giorni dal 7 ottobre 2026, con accesso permanente dopo l'aggiunta.",
+        "text": "Gioco di carte strategico roguelike su una griglia esagonale: costruisci mazzi, posizioni carte, confronti i valori dei lati e ribalti unità avversarie nelle battaglie. Gratuito su Steam dal 7 ottobre 2026 per una promozione di 30 giorni; si aggiunge alla libreria senza scadenza.",
         "createdDate": "2026-10-07",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/0378ca94843620240eda1ad571c6b7d6bb0b0527/header.jpg?t=1791363746",
         "link": "https://store.steampowered.com/app/5257350/",
-        "steamRating": "80%",
-        "steamPrice": null,
+        "steamRating": "52%",
+        "steamPrice": "Gratis",
         "steamUrl": "https://store.steampowered.com/app/5257350/"
-      },
-      {
-        "title": "MAFIA HOTEL",
-        "subtitle": "Epic Games Store",
-        "text": "Gioco multigiocatore di deduzione sociale ambientato in un hotel: fino a sedici partecipanti discutono, mentono, votano e cercano i mafiosi, mentre di notte investigatori, medici e assassini agiscono segretamente. Riscatto gratuito su Epic Games Store segnalato fino al 1° novembre 2026.",
-        "createdDate": null,
-        "giveaway": false,
-        "imageUrl": null,
-        "link": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
       }
     ]
   },
@@ -321,371 +321,355 @@
     },
     "items": [
       {
+        "title": "Festa di San Michele Arcangelo",
+        "subtitle": "Lunedì 26 ottobre",
+        "text": "Festa patronale • Bari - Carbonara • Centro cittadino • Festeggiamenti patronali del quartiere Carbonara",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Michele%20Arcangelo&dates=20261026%2F20261027&details=Festa%20patronale%20%E2%80%A2%20Bari%20-%20Carbonara%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Festeggiamenti%20patronali%20del%20quartiere%20Carbonara&location=Centro%20cittadino%2C%20Bari%20-%20Carbonara",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/festa-patronale-di-san-michele-arcangelo-82087"
+      },
+      {
         "title": "Sovranaturale",
         "subtitle": "Lunedì 26 ottobre • 11:00",
-        "text": "Mercatino • Bari • Spazio Murat ed ex Mercato del Pesce, piazza del Ferrarese • Salone dei vini naturali, mercato agricolo e artigianato",
+        "text": "Mercatino • Bari • Spazio Murat ed ex Mercato del Pesce, piazza del Ferrarese • Mercato agricolo, artigianato e salone dei vini naturali",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sovranaturale&dates=20261026T100000Z%2F20261026T120000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Spazio%20Murat%20ed%20ex%20Mercato%20del%20Pesce%2C%20piazza%20del%20Ferrarese%20%E2%80%A2%20Salone%20dei%20vini%20naturali%2C%20mercato%20agricolo%20e%20artigianato&location=Spazio%20Murat%20ed%20ex%20Mercato%20del%20Pesce%2C%20piazza%20del%20Ferrarese%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sovranaturale&dates=20261026T100000Z%2F20261026T120000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Spazio%20Murat%20ed%20ex%20Mercato%20del%20Pesce%2C%20piazza%20del%20Ferrarese%20%E2%80%A2%20Mercato%20agricolo%2C%20artigianato%20e%20salone%20dei%20vini%20naturali&location=Spazio%20Murat%20ed%20ex%20Mercato%20del%20Pesce%2C%20piazza%20del%20Ferrarese%2C%20Bari",
         "linkDettagliEvento": "https://sovranaturale.it/programma/"
       },
       {
-        "title": "Fiera di San Michele",
-        "subtitle": "Lunedì 26 ottobre",
-        "text": "Mercatino • Bari • Carbonara, piazza Umberto I • Bancarelle, prodotti locali e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Michele&dates=20261026%2F20261027&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Carbonara%2C%20piazza%20Umberto%20I%20%E2%80%A2%20Bancarelle%2C%20prodotti%20locali%20e%20artigianato&location=Carbonara%2C%20piazza%20Umberto%20I%2C%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/fiera-e-sagra-di-san-michele-arcangelo-2026-82087"
+        "title": "Festa di San Michele Arcangelo",
+        "subtitle": "Martedì 27 ottobre",
+        "text": "Festa patronale • Bari - Carbonara • Centro cittadino • Prosecuzione dei festeggiamenti patronali",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Michele%20Arcangelo&dates=20261027%2F20261028&details=Festa%20patronale%20%E2%80%A2%20Bari%20-%20Carbonara%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Prosecuzione%20dei%20festeggiamenti%20patronali&location=Centro%20cittadino%2C%20Bari%20-%20Carbonara",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/festa-patronale-di-san-michele-arcangelo-82087"
+      },
+      {
+        "title": "Lucio e Lucio",
+        "subtitle": "Martedì 27 ottobre",
+        "text": "Live • Mola di Bari • Palazzo Pesce • Concerto dedicato ai repertori di Lucio Dalla e Lucio Battisti",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lucio%20e%20Lucio&dates=20261027%2F20261028&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Concerto%20dedicato%20ai%20repertori%20di%20Lucio%20Dalla%20e%20Lucio%20Battisti&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/appuntamenti-a-palazzo-eventi-a-mola-di-bari/"
       },
       {
         "title": "Potenza - Bari",
         "subtitle": "Martedì 27 ottobre • 20:30",
-        "text": "Calcio • Coppa Italia Serie C • Potenza - Bari",
+        "text": "Coppa Italia Serie C • Potenza - Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Potenza%20-%20Bari&dates=20261027T193000Z%2F20261027T213000Z&details=Calcio%20%E2%80%A2%20Coppa%20Italia%20Serie%20C%20%E2%80%A2%20Potenza%20-%20Bari",
-        "linkDettagliEvento": "https://www.potenzacalcio.eu/2026/09/18/ottavi-di-finale-di-coppa-italia-regionale-definito-lorario-della-sfida-potenza-bari/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Potenza%20-%20Bari&dates=20261027T193000Z%2F20261027T213000Z&details=Coppa%20Italia%20Serie%20C%20%E2%80%A2%20Potenza%20-%20Bari",
+        "linkDettagliEvento": "https://www.potenzacalcio.eu/2026/10/24/potenza-bari-info-biglietti-coppa-italia-serie-c-regionale-trenitalia/"
       },
       {
-        "title": "Lucio e Lucio - Replica",
-        "subtitle": "Martedì 27 ottobre • 21:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Pietro Verna, Francesco Galizia e Leo Torres omaggiano Dalla e Battisti",
+        "title": "Recital lirico",
+        "subtitle": "Giovedì 29 ottobre",
+        "text": "Live • Mola di Bari • Palazzo Pesce • Eva Mei e Michele D'Elia in concerto",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lucio%20e%20Lucio%20-%20Replica&dates=20261027T200000Z%2F20261027T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Pietro%20Verna%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20omaggiano%20Dalla%20e%20Battisti&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/10/19/27-ottobre-2026-replica-lucio-e-lucio-dalla-e-battisti-sincontrano/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Recital%20lirico&dates=20261029%2F20261030&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Eva%20Mei%20e%20Michele%20D'Elia%20in%20concerto&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/appuntamenti-a-palazzo-eventi-a-mola-di-bari/"
       },
       {
-        "title": "Recital lirico Eva Mei",
-        "subtitle": "Giovedì 29 ottobre • 20:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Concerto conclusivo degli allievi della masterclass di Eva Mei e Michele D'Elia",
+        "title": "Dimblue e Simona Valente",
+        "subtitle": "Venerdì 30 ottobre",
+        "text": "Live • Bari • Libreria Prinz Zaum • Concerto del ciclo Pinkabbestia",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Recital%20lirico%20Eva%20Mei&dates=20261029T190000Z%2F20261029T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Concerto%20conclusivo%20degli%20allievi%20della%20masterclass%20di%20Eva%20Mei%20e%20Michele%20D'Elia&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/10/20/29-ottobre-2026-recital-lirico-allievi-masterclass-eva-mei-e-michele-delia/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dimblue%20e%20Simona%20Valente&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Libreria%20Prinz%20Zaum%20%E2%80%A2%20Concerto%20del%20ciclo%20Pinkabbestia&location=Libreria%20Prinz%20Zaum%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/bari/concerti/"
+      },
+      {
+        "title": "System of a Down Tribute",
+        "subtitle": "Venerdì 30 ottobre",
+        "text": "Live • Matera • Midnight Pub Live • Concerto tributo alla band System of a Down",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=System%20of%20a%20Down%20Tribute&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Concerto%20tributo%20alla%20band%20System%20of%20a%20Down&location=Midnight%20Pub%20Live%2C%20Matera",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/live-jam-system-of-a-down-tribute-show/"
+      },
+      {
+        "title": "Time Zones: Dan Leavers",
+        "subtitle": "Venerdì 30 ottobre",
+        "text": "Live • Bari • Officina degli Esordi • Live con Dan Leavers, Soccer96 e System Exclusive",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Time%20Zones%3A%20Dan%20Leavers&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Live%20con%20Dan%20Leavers%2C%20Soccer96%20e%20System%20Exclusive&location=Officina%20degli%20Esordi%2C%20Bari",
+        "linkDettagliEvento": "https://www.timezones.it/news/comunicato-stampa/presentazione-della--41a-edizione-dal-26-settembre-al-13-novembre-2026/180"
       },
       {
         "title": "F1 Messico - Prove Libere 1",
         "subtitle": "Venerdì 30 ottobre • 19:30",
-        "text": "Formula 1 • Gran Premio Messico • Prove Libere 1",
+        "text": "Formula 1 • GP Messico • Prove Libere 1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Prove%20Libere%201&dates=20261030T183000Z%2F20261030T193000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Messico%20%E2%80%A2%20Prove%20Libere%201",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Prove%20Libere%201&dates=20261030T183000Z%2F20261030T193000Z&details=Formula%201%20%E2%80%A2%20GP%20Messico%20%E2%80%A2%20Prove%20Libere%201",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
-        "title": "PINKABBESTIA: Dimblue e Valente",
-        "subtitle": "Venerdì 30 ottobre • 19:30",
-        "text": "Live • Bari • Libreria Prinz Zaum, via Cardassi 85 • Set indie-folk e cantautorali di Dimblue e Simona Valente",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PINKABBESTIA%3A%20Dimblue%20e%20Valente&dates=20261030T183000Z%2F20261030T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Libreria%20Prinz%20Zaum%2C%20via%20Cardassi%2085%20%E2%80%A2%20Set%20indie-folk%20e%20cantautorali%20di%20Dimblue%20e%20Simona%20Valente&location=Libreria%20Prinz%20Zaum%2C%20via%20Cardassi%2085%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331714.html"
-      },
-      {
-        "title": "Édith Piaf Project",
-        "subtitle": "Venerdì 30 ottobre • 20:30",
-        "text": "Live • Bari • Caffè d'arte Dolceamaro, via San Francesco d'Assisi 9 • Concerto narrato di chanson française con Chiara Liuzzi",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%C3%89dith%20Piaf%20Project&dates=20261030T193000Z%2F20261030T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%20%E2%80%A2%20Concerto%20narrato%20di%20chanson%20fran%C3%A7aise%20con%20Chiara%20Liuzzi&location=Caff%C3%A8%20d'arte%20Dolceamaro%2C%20via%20San%20Francesco%20d'Assisi%209%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/332895.html"
-      },
-      {
-        "title": "Dettagli... Senza fine",
+        "title": "Dettagli... senza fine",
         "subtitle": "Venerdì 30 ottobre • 21:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Savio Vurchio e Stefania Tesoro interpretano Vanoni e Gino Paoli",
+        "text": "Live • Mola di Bari • Palazzo Pesce • Concerto dedicato a Ornella Vanoni e Gino Paoli",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dettagli...%20Senza%20fine&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Savio%20Vurchio%20e%20Stefania%20Tesoro%20interpretano%20Vanoni%20e%20Gino%20Paoli&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/09/11/30-ottobre-2026-dettagli-senza-fine-ornella-vanoni-e-gino-paoli/"
-      },
-      {
-        "title": "Tony Esposito World",
-        "subtitle": "Venerdì 30 ottobre • 21:00",
-        "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • I Suoni di Ulisse Tour tra world music, afrobeat e ritmi mediterranei",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tony%20Esposito%20World&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20I%20Suoni%20di%20Ulisse%20Tour%20tra%20world%20music%2C%20afrobeat%20e%20ritmi%20mediterranei&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari",
-        "linkDettagliEvento": "https://www.teatroforma.org/2026/07/16/tony-esposito-world-i-suoni-di-ulisse-tour-venerdi-30-ottobre-2026-ore-2100/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dettagli...%20senza%20fine&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Concerto%20dedicato%20a%20Ornella%20Vanoni%20e%20Gino%20Paoli&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/appuntamenti-a-palazzo-eventi-a-mola-di-bari/"
       },
       {
         "title": "F1 Messico - Prove Libere 2",
         "subtitle": "Venerdì 30 ottobre • 23:00",
-        "text": "Formula 1 • Gran Premio Messico • Prove Libere 2",
+        "text": "Formula 1 • GP Messico • Prove Libere 2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Prove%20Libere%202&dates=20261030T220000Z%2F20261030T230000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Messico%20%E2%80%A2%20Prove%20Libere%202",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Prove%20Libere%202&dates=20261030T220000Z%2F20261030T230000Z&details=Formula%201%20%E2%80%A2%20GP%20Messico%20%E2%80%A2%20Prove%20Libere%202",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
-        "title": "Live Jam: System of a Down",
-        "subtitle": "Venerdì 30 ottobre",
-        "text": "Live • Matera • Midnight Pub Live, via dell'Agricoltura • Tributo ai System of a Down",
+        "title": "Back to the 70s",
+        "subtitle": "Sabato 31 ottobre",
+        "text": "Live • Bari • Chorìa - Note di Puglia • Concerto funk e disco dal vivo",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Live%20Jam%3A%20System%20of%20a%20Down&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%20%E2%80%A2%20Tributo%20ai%20System%20of%20a%20Down&location=Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%2C%20Matera",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/live-jam-system-of-a-down-tribute-show/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Back%20to%20the%2070s&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Concerto%20funk%20e%20disco%20dal%20vivo&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/2026-10-31/halloween"
       },
       {
-        "title": "Antiquariando",
-        "subtitle": "Sabato 31 ottobre • 09:00",
-        "text": "Mercatino • Bari • Piazza Giuseppe Massari • Antiquariato e oggetti usati",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariando&dates=20261031T080000Z%2F20261031T100000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Giuseppe%20Massari%20%E2%80%A2%20Antiquariato%20e%20oggetti%20usati&location=Piazza%20Giuseppe%20Massari%2C%20Bari",
-        "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/bari-piazza-giuseppe-massari"
+        "title": "Happy Days Music Band",
+        "subtitle": "Sabato 31 ottobre",
+        "text": "Live • Bari • La DolceVita Live • Concerto dal vivo della band Happy Days",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Days%20Music%20Band&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Concerto%20dal%20vivo%20della%20band%20Happy%20Days&location=La%20DolceVita%20Live%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/bari/"
+      },
+      {
+        "title": "The Cult of Smiths",
+        "subtitle": "Sabato 31 ottobre",
+        "text": "Live • Matera • Midnight Pub Live • Serata con tributi a The Cure, The Smiths e Joy Division",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Cult%20of%20Smiths&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Serata%20con%20tributi%20a%20The%20Cure%2C%20The%20Smiths%20e%20Joy%20Division&location=Midnight%20Pub%20Live%2C%20Matera",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/halloween-night-the-cult-of-smiths-the-cult-the-smiths-the-cure-joy-division-c-b-dj-set-80s-90s-a-seguire/"
+      },
+      {
+        "title": "Wine & Food Festival",
+        "subtitle": "Sabato 31 ottobre",
+        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e prodotti del territorio",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031%2F20261101&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20prodotti%20del%20territorio&location=Centro%20storico%2C%20Modugno",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
         "title": "Bari - Scafatese",
         "subtitle": "Sabato 31 ottobre • 14:30",
-        "text": "Calcio Serie C • Girone C • Bari - Scafatese",
+        "text": "Serie C • Bari - Scafatese",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Calcio%20Serie%20C%20%E2%80%A2%20Girone%20C%20%E2%80%A2%20Bari%20-%20Scafatese",
-        "linkDettagliEvento": "https://sport.virgilio.it/prossime-partite-calendario-bari/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%20%E2%80%A2%20Bari%20-%20Scafatese",
+        "linkDettagliEvento": "https://www.sscalciobari.it/"
+      },
+      {
+        "title": "Monster Day",
+        "subtitle": "Sabato 31 ottobre • 17:00",
+        "text": "Evento tradizionale • Bari • Piazzale Lorusso • Apertura della manifestazione cittadina a tema Halloween",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&dates=20261031T160000Z%2F20261031T200000Z&details=Evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Apertura%20della%20manifestazione%20cittadina%20a%20tema%20Halloween&location=Piazzale%20Lorusso%2C%20Bari",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
       },
       {
         "title": "HalloWine",
         "subtitle": "Sabato 31 ottobre • 18:00",
-        "text": "Sagra • Casamassima • Borgo antico, piazza Santa Croce • Stand gastronomici e vini pugliesi",
+        "text": "Sagra • Casamassima • Borgo antico, piazza Santa Croce • Degustazioni, gastronomia e iniziative nel centro storico",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261031T170000Z%2F20261031T190000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Stand%20gastronomici%20e%20vini%20pugliesi&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261031T170000Z%2F20261031T210000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Degustazioni%2C%20gastronomia%20e%20iniziative%20nel%20centro%20storico&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
         "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
       },
       {
         "title": "F1 Messico - Prove Libere 3",
         "subtitle": "Sabato 31 ottobre • 18:30",
-        "text": "Formula 1 • Gran Premio Messico • Prove Libere 3",
+        "text": "Formula 1 • GP Messico • Prove Libere 3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Prove%20Libere%203&dates=20261031T173000Z%2F20261031T183000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Messico%20%E2%80%A2%20Prove%20Libere%203",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Prove%20Libere%203&dates=20261031T173000Z%2F20261031T183000Z&details=Formula%201%20%E2%80%A2%20GP%20Messico%20%E2%80%A2%20Prove%20Libere%203",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
-        "title": "San Trifone",
-        "subtitle": "Sabato 31 ottobre • 18:30",
-        "text": "Festa patronale • Adelfia • Chiesa Madre • Intronizzazione dell'immagine di San Trifone e avvio dei festeggiamenti",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261031T173000Z%2F20261031T193000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Intronizzazione%20dell'immagine%20di%20San%20Trifone%20e%20avvio%20dei%20festeggiamenti&location=Chiesa%20Madre%2C%20Adelfia",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Francesco, Uomo, Santo e Felice",
-        "subtitle": "Sabato 31 ottobre • 19:30",
-        "text": "Live • Mola di Bari • Chiesa della Santissima Trinità • Seconda data del concerto-meditazione gratuito dell'associazione Incanto",
+        "title": "Rockabilly Halloween",
+        "subtitle": "Sabato 31 ottobre • 20:00",
+        "text": "Live • Terlizzi • ALLE S.E.R.R.E • Concerto rockabilly per la serata di Halloween",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%2C%20Uomo%2C%20Santo%20e%20Felice&dates=20261031T183000Z%2F20261031T203000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20della%20Santissima%20Trinit%C3%A0%20%E2%80%A2%20Seconda%20data%20del%20concerto-meditazione%20gratuito%20dell'associazione%20Incanto&location=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://www.eventiamola.it/event/francesco-uomo-santo-e-felice/"
-      },
-      {
-        "title": "Wine & Food Festival",
-        "subtitle": "Sabato 31 ottobre • 19:30",
-        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031T183000Z%2F20261031T203000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
-      },
-      {
-        "title": "Eusebio e Florestano",
-        "subtitle": "Sabato 31 ottobre • 20:30",
-        "text": "Live • Matera • Le Monacelle, Sala Sigillino • Concerto cameristico dedicato a Schumann",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eusebio%20e%20Florestano&dates=20261031T193000Z%2F20261031T213000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Le%20Monacelle%2C%20Sala%20Sigillino%20%E2%80%A2%20Concerto%20cameristico%20dedicato%20a%20Schumann&location=Le%20Monacelle%2C%20Sala%20Sigillino%2C%20Matera",
-        "linkDettagliEvento": "https://iltaccodibacco.it/basilicata/eventi/329433.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rockabilly%20Halloween&dates=20261031T190000Z%2F20261031T210000Z&details=Live%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20ALLE%20S.E.R.R.E%20%E2%80%A2%20Concerto%20rockabilly%20per%20la%20serata%20di%20Halloween&location=ALLE%20S.E.R.R.E%2C%20Terlizzi",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/2026-10-31/halloween"
       },
       {
         "title": "I Sorta Nost",
         "subtitle": "Sabato 31 ottobre • 21:00",
-        "text": "Live • Casamassima • Centro storico • Musica tradizionale itinerante per HalloWine",
+        "text": "Live • Casamassima • Centro storico • Musica tradizionale dal vivo durante HalloWine",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261031T200000Z%2F20261031T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20tradizionale%20itinerante%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261031T200000Z%2F20261031T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20tradizionale%20dal%20vivo%20durante%20HalloWine&location=Centro%20storico%2C%20Casamassima",
         "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
-      },
-      {
-        "title": "Happy Days Music Band",
-        "subtitle": "Sabato 31 ottobre • 21:30",
-        "text": "Live • Bari • La DolceVita Live, via Albanese 41 • Medley di musica italiana dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Days%20Music%20Band&dates=20261031T203000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20via%20Albanese%2041%20%E2%80%A2%20Medley%20di%20musica%20italiana%20dal%20vivo&location=La%20DolceVita%20Live%2C%20via%20Albanese%2041%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330512.html"
-      },
-      {
-        "title": "SGT. FLY + SCURE",
-        "subtitle": "Sabato 31 ottobre • 21:30",
-        "text": "Live • Cassano delle Murge • Pecora Nera Country Pub, via Carmelo Colamonico 74 • Freaky Halloween live show",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SGT.%20FLY%20%2B%20SCURE&dates=20261031T203000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%2C%20via%20Carmelo%20Colamonico%2074%20%E2%80%A2%20Freaky%20Halloween%20live%20show&location=Pecora%20Nera%20Country%20Pub%2C%20via%20Carmelo%20Colamonico%2074%2C%20Cassano%20delle%20Murge",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/333621.html"
       },
       {
         "title": "F1 Messico - Qualifiche",
         "subtitle": "Sabato 31 ottobre • 22:00",
-        "text": "Formula 1 • Gran Premio Messico • Qualifiche",
+        "text": "Formula 1 • GP Messico • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Qualifiche&dates=20261031T210000Z%2F20261031T220000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Messico%20%E2%80%A2%20Qualifiche",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Qualifiche&dates=20261031T210000Z%2F20261031T220000Z&details=Formula%201%20%E2%80%A2%20GP%20Messico%20%E2%80%A2%20Qualifiche",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
-        "title": "The Cult of Smiths",
-        "subtitle": "Sabato 31 ottobre",
-        "text": "Live • Matera • Midnight Pub Live, via dell'Agricoltura • Cover di The Cult, Smiths, Cure e Joy Division",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Cult%20of%20Smiths&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%20%E2%80%A2%20Cover%20di%20The%20Cult%2C%20Smiths%2C%20Cure%20e%20Joy%20Division&location=Midnight%20Pub%20Live%2C%20via%20dell'Agricoltura%2C%20Matera",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/halloween-night-the-cult-of-smiths-the-cult-the-smiths-the-cure-joy-division-c-b-dj-set-80s-90s-a-seguire/"
-      },
-      {
-        "title": "Artigianato per il Sociale",
-        "subtitle": "Domenica 1 novembre • 06:00",
-        "text": "Mercatino • Bari • Piazza Umberto I • Mostra mercato di artigianato locale",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Artigianato%20per%20il%20Sociale&dates=20261101T050000Z%2F20261101T070000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mostra%20mercato%20di%20artigianato%20locale&location=Piazza%20Umberto%20I%2C%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/l-artigianato-per-il-sociale-88121"
-      },
-      {
-        "title": "Hobbismo e Scambio Carbonara",
-        "subtitle": "Domenica 1 novembre • 06:00",
-        "text": "Mercatino • Bari • Mercato San Filippo Neri, via Vaccarella • Mercatino con bancarelle",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hobbismo%20e%20Scambio%20Carbonara&dates=20261101T050000Z%2F20261101T070000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Mercato%20San%20Filippo%20Neri%2C%20via%20Vaccarella%20%E2%80%A2%20Mercatino%20con%20bancarelle&location=Mercato%20San%20Filippo%20Neri%2C%20via%20Vaccarella%2C%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-carbonara-69721"
-      },
-      {
-        "title": "Antiquariando",
-        "subtitle": "Domenica 1 novembre • 09:00",
-        "text": "Mercatino • Bari • Piazza Giuseppe Massari • Antiquariato e oggetti usati",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariando&dates=20261101T080000Z%2F20261101T100000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Giuseppe%20Massari%20%E2%80%A2%20Antiquariato%20e%20oggetti%20usati&location=Piazza%20Giuseppe%20Massari%2C%20Bari",
-        "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/bari-piazza-giuseppe-massari"
-      },
-      {
-        "title": "Palio dei Gozzi",
-        "subtitle": "Domenica 1 novembre • 11:00",
-        "text": "Evento tradizionale • Monopoli • Porto Antico • Palio delle imbarcazioni tradizionali di Gozzovigliando",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T110000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20delle%20imbarcazioni%20tradizionali%20di%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
-        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
-      },
-      {
-        "title": "San Trifone",
-        "subtitle": "Domenica 1 novembre • 17:00",
-        "text": "Festa patronale • Adelfia • Centro cittadino • Festeggiamenti tradizionali, pirotecnica diurna e bande itineranti",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261101T160000Z%2F20261101T180000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Festeggiamenti%20tradizionali%2C%20pirotecnica%20diurna%20e%20bande%20itineranti&location=Centro%20cittadino%2C%20Adelfia",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "HalloWine",
-        "subtitle": "Domenica 1 novembre • 18:00",
-        "text": "Sagra • Casamassima • Borgo antico, piazza Santa Croce • Degustazioni e prodotti autunnali",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261101T170000Z%2F20261101T190000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Degustazioni%20e%20prodotti%20autunnali&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
-        "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
-      },
-      {
-        "title": "Wine & Food Festival",
-        "subtitle": "Domenica 1 novembre • 19:30",
-        "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101T183000Z%2F20261101T203000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
-      },
-      {
-        "title": "F1 Messico - Gara",
-        "subtitle": "Domenica 1 novembre • 21:00",
-        "text": "Formula 1 • Gran Premio Messico • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Gara&dates=20261101T200000Z%2F20261101T220000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Messico%20%E2%80%A2%20Gara",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
-      },
-      {
-        "title": "I Sorta Nost",
-        "subtitle": "Domenica 1 novembre • 21:00",
-        "text": "Live • Casamassima • Centro storico • Musica tradizionale itinerante per HalloWine",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261101T200000Z%2F20261101T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20tradizionale%20itinerante%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
-      },
-      {
-        "title": "Antiquariato e Collezionismo",
+        "title": "Antiquariato e collezionismo",
         "subtitle": "Domenica 1 novembre",
-        "text": "Mercatino • Rutigliano • Borgo antico, piazza XX Settembre • Mercato della prima domenica del mese con antiquariato e oggetti da collezione",
+        "text": "Mercatino • Rutigliano • Piazza XX Settembre e borgo antico • Mercato dell'antiquariato della prima domenica del mese",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariato%20e%20Collezionismo&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Rutigliano%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20XX%20Settembre%20%E2%80%A2%20Mercato%20della%20prima%20domenica%20del%20mese%20con%20antiquariato%20e%20oggetti%20da%20collezione&location=Borgo%20antico%2C%20piazza%20XX%20Settembre%2C%20Rutigliano",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariato%20e%20collezionismo&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Rutigliano%20%E2%80%A2%20Piazza%20XX%20Settembre%20e%20borgo%20antico%20%E2%80%A2%20Mercato%20dell'antiquariato%20della%20prima%20domenica%20del%20mese&location=Piazza%20XX%20Settembre%20e%20borgo%20antico%2C%20Rutigliano",
         "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/rutigliano-centro-storico"
       },
       {
-        "title": "Banda M. Lufrano di Triggiano",
+        "title": "Banda M. Lufrano",
         "subtitle": "Domenica 1 novembre",
-        "text": "Live • Adelfia • Centro cittadino • Giro musicale per il paese durante la Festa di San Trifone; orario non confermato",
+        "text": "Live • Adelfia • Centro cittadino • Giro musicale della banda di Triggiano nel programma della festa di San Trifone",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banda%20M.%20Lufrano%20di%20Triggiano&dates=20261101%2F20261102&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Giro%20musicale%20per%20il%20paese%20durante%20la%20Festa%20di%20San%20Trifone%3B%20orario%20non%20confermato&location=Centro%20cittadino%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banda%20M.%20Lufrano&dates=20261101%2F20261102&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Giro%20musicale%20della%20banda%20di%20Triggiano%20nel%20programma%20della%20festa%20di%20San%20Trifone&location=Centro%20cittadino%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "Fiera di Ognissanti",
         "subtitle": "Domenica 1 novembre",
-        "text": "Mercatino • Valenzano • Centro cittadino • Fiera storica con bancarelle e Villaggio Medievale tra Largo Frate Francesco e Largo Plebiscito",
+        "text": "Mercatino • Valenzano • Centro cittadino • Storica fiera con bancarelle e mercati",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20storica%20con%20bancarelle%20e%20Villaggio%20Medievale%20tra%20Largo%20Frate%20Francesco%20e%20Largo%20Plebiscito&location=Centro%20cittadino%2C%20Valenzano",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Storica%20fiera%20con%20bancarelle%20e%20mercati&location=Centro%20cittadino%2C%20Valenzano",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/fiera-di-ognissanti-e-villaggio-medievale-70737"
       },
       {
-        "title": "Gozzovigliando",
+        "title": "Mercatini Gozzovigliando",
         "subtitle": "Domenica 1 novembre",
-        "text": "Mercatino • Monopoli • Centro storico e Porto Antico • Mercatini, tradizioni marinare e musica folkloristica",
+        "text": "Mercatino • Monopoli • Centro storico e Porto Antico • Mercatini, artigianato e tradizioni marinare",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Mercatini%2C%20tradizioni%20marinare%20e%20musica%20folkloristica&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20Gozzovigliando&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Mercatini%2C%20artigianato%20e%20tradizioni%20marinare&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli",
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
+      },
+      {
+        "title": "Wine & Food Festival",
+        "subtitle": "Domenica 1 novembre",
+        "text": "Sagra • Modugno • Centro storico • Seconda giornata dedicata ai sapori del territorio",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101%2F20261102&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Seconda%20giornata%20dedicata%20ai%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
+      },
+      {
+        "title": "Villaggio Medievale",
+        "subtitle": "Domenica 1 novembre • 09:30",
+        "text": "Evento tradizionale • Valenzano • Largo Frate Francesco e Largo Plebiscito • Rievocazioni e animazioni per la Fiera di Ognissanti",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20Medievale&dates=20261101T083000Z%2F20261101T113000Z&details=Evento%20tradizionale%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20Frate%20Francesco%20e%20Largo%20Plebiscito%20%E2%80%A2%20Rievocazioni%20e%20animazioni%20per%20la%20Fiera%20di%20Ognissanti&location=Largo%20Frate%20Francesco%20e%20Largo%20Plebiscito%2C%20Valenzano",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/fiera-di-ognissanti-e-villaggio-medievale-70737"
+      },
+      {
+        "title": "Monster Day",
+        "subtitle": "Domenica 1 novembre • 10:30",
+        "text": "Evento tradizionale • Bari • Piazzale Lorusso • Seconda giornata della manifestazione cittadina",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&dates=20261101T093000Z%2F20261101T133000Z&details=Evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Seconda%20giornata%20della%20manifestazione%20cittadina&location=Piazzale%20Lorusso%2C%20Bari",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
+      },
+      {
+        "title": "Palio dei Gozzi",
+        "subtitle": "Domenica 1 novembre • 11:00",
+        "text": "Evento tradizionale • Monopoli • Porto Antico • Regata di imbarcazioni tradizionali nel programma Gozzovigliando",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T120000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Regata%20di%20imbarcazioni%20tradizionali%20nel%20programma%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
+        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
+      },
+      {
+        "title": "San Trifone - Inaugurazione",
+        "subtitle": "Domenica 1 novembre • 17:00",
+        "text": "Festa patronale • Adelfia • Centro cittadino • Apertura dei festeggiamenti in onore del patrono",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20-%20Inaugurazione&dates=20261101T160000Z%2F20261101T180000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Apertura%20dei%20festeggiamenti%20in%20onore%20del%20patrono&location=Centro%20cittadino%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "HalloWine",
+        "subtitle": "Domenica 1 novembre • 18:00",
+        "text": "Sagra • Casamassima • Borgo antico, piazza Santa Croce • Seconda giornata con degustazioni, gastronomia e tradizioni locali",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261101T170000Z%2F20261101T210000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Seconda%20giornata%20con%20degustazioni%2C%20gastronomia%20e%20tradizioni%20locali&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
+        "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
+      },
+      {
+        "title": "F1 Messico - Gara",
+        "subtitle": "Domenica 1 novembre • 21:00",
+        "text": "Formula 1 • GP Messico • Gara",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Gara&dates=20261101T200000Z%2F20261101T220000Z&details=Formula%201%20%E2%80%A2%20GP%20Messico%20%E2%80%A2%20Gara",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      },
+      {
+        "title": "I Sorta Nost",
+        "subtitle": "Domenica 1 novembre • 21:00",
+        "text": "Live • Casamassima • Centro storico • Concerto di musica tradizionale per HalloWine",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261101T200000Z%2F20261101T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Concerto%20di%20musica%20tradizionale%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
+      },
+      {
+        "title": "I Komandanti",
+        "subtitle": "Lunedì 2 novembre",
+        "text": "Live • Bari • Piazzale Lorusso • Cover band di Vasco Rossi nell'ambito di Monster Day",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti&dates=20261102%2F20261103&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Cover%20band%20di%20Vasco%20Rossi%20nell'ambito%20di%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
+      },
+      {
+        "title": "Monster Day",
+        "subtitle": "Lunedì 2 novembre • 17:00",
+        "text": "Evento tradizionale • Bari • Piazzale Lorusso • Giornata conclusiva della manifestazione cittadina",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&dates=20261102T160000Z%2F20261102T200000Z&details=Evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Giornata%20conclusiva%20della%20manifestazione%20cittadina&location=Piazzale%20Lorusso%2C%20Bari",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
       },
       {
         "title": "Sagra della Quartècedde",
         "subtitle": "Lunedì 2 novembre • 19:30",
-        "text": "Sagra • Terlizzi • Piazza Plebiscito • Tradizione legata alla commemorazione dei defunti",
+        "text": "Sagra • Terlizzi • Piazza Plebiscito • Sagra tradizionale legata alla commemorazione dei defunti",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20della%20Quart%C3%A8cedde&dates=20261102T183000Z%2F20261102T203000Z&details=Sagra%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20Piazza%20Plebiscito%20%E2%80%A2%20Tradizione%20legata%20alla%20commemorazione%20dei%20defunti&location=Piazza%20Plebiscito%2C%20Terlizzi",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20della%20Quart%C3%A8cedde&dates=20261102T183000Z%2F20261102T213000Z&details=Sagra%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20Piazza%20Plebiscito%20%E2%80%A2%20Sagra%20tradizionale%20legata%20alla%20commemorazione%20dei%20defunti&location=Piazza%20Plebiscito%2C%20Terlizzi",
         "linkDettagliEvento": "https://www.terlizziviva.it/notizie/commemorazione-dei-defunti-e-sagra-della-quartecedde-il-programma-degli-appuntamenti/"
       },
       {
         "title": "Guillem Gironès",
         "subtitle": "Lunedì 2 novembre • 20:30",
-        "text": "Live • Sannicandro di Bari • Castello Normanno-Svevo • Recital per clavicembalo di musica antica e barocca",
+        "text": "Live • Sannicandro di Bari • Castello Normanno-Svevo • Recital per clavicembalo con musiche antiche e barocche",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guillem%20Giron%C3%A8s&dates=20261102T193000Z%2F20261102T213000Z&details=Live%20%E2%80%A2%20Sannicandro%20di%20Bari%20%E2%80%A2%20Castello%20Normanno-Svevo%20%E2%80%A2%20Recital%20per%20clavicembalo%20di%20musica%20antica%20e%20barocca&location=Castello%20Normanno-Svevo%2C%20Sannicandro%20di%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guillem%20Giron%C3%A8s&dates=20261102T193000Z%2F20261102T213000Z&details=Live%20%E2%80%A2%20Sannicandro%20di%20Bari%20%E2%80%A2%20Castello%20Normanno-Svevo%20%E2%80%A2%20Recital%20per%20clavicembalo%20con%20musiche%20antiche%20e%20barocche&location=Castello%20Normanno-Svevo%2C%20Sannicandro%20di%20Bari",
         "linkDettagliEvento": "https://www.classicalive.it/it/eventi/2026-11-02/guillem-girones/"
-      },
-      {
-        "title": "I Komandanti",
-        "subtitle": "Lunedì 2 novembre",
-        "text": "Live • Bari • Piazzale Lorusso • Cover band di Vasco Rossi durante Monster Day; orario dell'esibizione non confermato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti&dates=20261102%2F20261103&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Cover%20band%20di%20Vasco%20Rossi%20durante%20Monster%20Day%3B%20orario%20dell'esibizione%20non%20confermato&location=Piazzale%20Lorusso%2C%20Bari",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
       },
       {
         "title": "Banana Republic",
         "subtitle": "Mercoledì 4 novembre • 21:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce, via Van Westerhout 24 • Tony Quadrello, Francesco Galizia e Leo Torres omaggiano Dalla, De Gregori e Ron",
+        "text": "Live • Mola di Bari • Palazzo Pesce • Tony Quadrello, Francesco Galizia e Leo Torres omaggiano Dalla, De Gregori e Ron",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&dates=20261104T200000Z%2F20261104T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%20%E2%80%A2%20Tony%20Quadrello%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20omaggiano%20Dalla%2C%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/tag/eventi-2026-a-palazzo-pesce/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&dates=20261104T200000Z%2F20261104T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Tony%20Quadrello%2C%20Francesco%20Galizia%20e%20Leo%20Torres%20omaggiano%20Dalla%2C%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/appuntamenti-a-palazzo-eventi-a-mola-di-bari/"
       },
       {
         "title": "Promessi Sposi",
         "subtitle": "Giovedì 5 novembre • 16:00",
-        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale del matrimonio con espositori e stand",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261105T150000Z%2F20261105T170000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261105T150000Z%2F20261105T190000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20del%20matrimonio%20con%20espositori%20e%20stand&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
         "title": "Michael in Acoustic",
         "subtitle": "Giovedì 5 novembre • 19:30",
-        "text": "Live • Bari • Teatro Bravò, via Stoppelli 18 • Omaggio acustico a Michael Jackson con voci, coro e musicisti dal vivo",
+        "text": "Live • Bari • Teatro Bravò, via Stoppelli 18 • Omaggio acustico a Michael Jackson con musicisti dal vivo",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Michael%20in%20Acoustic&dates=20261105T183000Z%2F20261105T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Brav%C3%B2%2C%20via%20Stoppelli%2018%20%E2%80%A2%20Omaggio%20acustico%20a%20Michael%20Jackson%20con%20voci%2C%20coro%20e%20musicisti%20dal%20vivo&location=Teatro%20Brav%C3%B2%2C%20via%20Stoppelli%2018%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Michael%20in%20Acoustic&dates=20261105T183000Z%2F20261105T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Brav%C3%B2%2C%20via%20Stoppelli%2018%20%E2%80%A2%20Omaggio%20acustico%20a%20Michael%20Jackson%20con%20musicisti%20dal%20vivo&location=Teatro%20Brav%C3%B2%2C%20via%20Stoppelli%2018%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331735.html"
       },
       {
         "title": "The Sound of Magic",
         "subtitle": "Giovedì 5 novembre • 21:00",
-        "text": "Live • Altamura • Teatro Mangiatordi, via E. Montale • Cartoons Orchestra: colonne sonore Disney eseguite dal vivo",
+        "text": "Live • Altamura • Teatro Mangiatordi • Cartoons Orchestra esegue colonne sonore Disney dal vivo",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Sound%20of%20Magic&dates=20261105T200000Z%2F20261105T220000Z&details=Live%20%E2%80%A2%20Altamura%20%E2%80%A2%20Teatro%20Mangiatordi%2C%20via%20E.%20Montale%20%E2%80%A2%20Cartoons%20Orchestra%3A%20colonne%20sonore%20Disney%20eseguite%20dal%20vivo&location=Teatro%20Mangiatordi%2C%20via%20E.%20Montale%2C%20Altamura",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Sound%20of%20Magic&dates=20261105T200000Z%2F20261105T220000Z&details=Live%20%E2%80%A2%20Altamura%20%E2%80%A2%20Teatro%20Mangiatordi%20%E2%80%A2%20Cartoons%20Orchestra%20esegue%20colonne%20sonore%20Disney%20dal%20vivo&location=Teatro%20Mangiatordi%2C%20Altamura",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333331.html"
       },
       {
         "title": "Promessi Sposi",
         "subtitle": "Venerdì 6 novembre • 16:00",
-        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Seconda giornata della fiera commerciale con espositori",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261106T150000Z%2F20261106T170000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261106T150000Z%2F20261106T190000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Seconda%20giornata%20della%20fiera%20commerciale%20con%20espositori&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
@@ -697,11 +681,12 @@
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
-        "title": "EMAN – Magarìa Club Tour",
+        "title": "EMAN - Magarìa Club Tour",
         "subtitle": "Venerdì 6 novembre • 20:00",
-        "text": "Live • Bari • Officina degli Esordi, via Crispi 5 • Concerto dal vivo dedicato all'album Magarìa",
+        "text": "Live • Bari • Officina degli Esordi, via Crispi 5 • Concerto dedicato al progetto discografico Magarìa",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20%E2%80%93%20Magar%C3%ACa%20Club%20Tour&dates=20261106T190000Z%2F20261106T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%2C%20via%20Crispi%205%20%E2%80%A2%20Concerto%20dal%20vivo%20dedicato%20all'album%20Magar%C3%ACa&location=Officina%20degli%20Esordi%2C%20via%20Crispi%205%2C%20Bari"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20-%20Magar%C3%ACa%20Club%20Tour&dates=20261106T190000Z%2F20261106T210000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%2C%20via%20Crispi%205%20%E2%80%A2%20Concerto%20dedicato%20al%20progetto%20discografico%20Magar%C3%ACa&location=Officina%20degli%20Esordi%2C%20via%20Crispi%205%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/2026-11-06/"
       },
       {
         "title": "F1 Brasile - Prove Libere 2",
@@ -712,57 +697,43 @@
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
-        "title": "Partenopea Trio",
-        "subtitle": "Venerdì 6 novembre • 20:30",
-        "text": "Live • Bari • La DolceVita Live, via Albanese 41 • Rose Mary Nicassio, Pasquale Buongiovanni e Vincenzo Maurogiovanni interpretano canzoni napoletane",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Partenopea%20Trio&dates=20261106T193000Z%2F20261106T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20via%20Albanese%2041%20%E2%80%A2%20Rose%20Mary%20Nicassio%2C%20Pasquale%20Buongiovanni%20e%20Vincenzo%20Maurogiovanni%20interpretano%20canzoni%20napoletane&location=La%20DolceVita%20Live%2C%20via%20Albanese%2041%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333339.html"
-      },
-      {
         "title": "Scarlatti 300",
         "subtitle": "Venerdì 6 novembre • 20:30",
-        "text": "Live • Bari • Chiesa di Santa Scolastica, strada Annunziata 2 • Ensemble Dolci Accenti e Hof-Musici: musica di Alessandro Scarlatti",
+        "text": "Live • Bari • Chiesa di Santa Scolastica • Concerto dell'ensemble Dolci Accenti e Hof-Musici",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scarlatti%20300&dates=20261106T193000Z%2F20261106T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%20%E2%80%A2%20Ensemble%20Dolci%20Accenti%20e%20Hof-Musici%3A%20musica%20di%20Alessandro%20Scarlatti&location=Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%2C%20Bari"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scarlatti%20300&dates=20261106T193000Z%2F20261106T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chiesa%20di%20Santa%20Scolastica%20%E2%80%A2%20Concerto%20dell'ensemble%20Dolci%20Accenti%20e%20Hof-Musici&location=Chiesa%20di%20Santa%20Scolastica%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/2026-11-06/"
       },
       {
         "title": "Paolo Buonvino e Laura Masotto",
         "subtitle": "Venerdì 6 novembre • 21:00",
-        "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • Colonne sonore e neoclassica per pianoforte, violino ed elettronica",
+        "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • Colonne sonore e musica neoclassica per pianoforte, violino ed elettronica",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paolo%20Buonvino%20e%20Laura%20Masotto&dates=20261106T200000Z%2F20261106T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20Colonne%20sonore%20e%20neoclassica%20per%20pianoforte%2C%20violino%20ed%20elettronica&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330607.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paolo%20Buonvino%20e%20Laura%20Masotto&dates=20261106T200000Z%2F20261106T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20Colonne%20sonore%20e%20musica%20neoclassica%20per%20pianoforte%2C%20violino%20ed%20elettronica&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari",
+        "linkDettagliEvento": "https://www.timezones.it/news/comunicato-stampa/presentazione-della--41a-edizione-dal-26-settembre-al-13-novembre-2026/180"
       },
       {
         "title": "Maxie Freeman",
         "subtitle": "Venerdì 6 novembre • 22:00",
-        "text": "Live • Cassano delle Murge • Pecora Nera Country Pub, via Colamonico 74 • Blues, funk e rock dal vivo",
+        "text": "Live • Cassano delle Murge • Pecora Nera Country Pub • Concerto blues, funk e rock dal vivo",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%2C%20via%20Colamonico%2074%20%E2%80%A2%20Blues%2C%20funk%20e%20rock%20dal%20vivo&location=Pecora%20Nera%20Country%20Pub%2C%20via%20Colamonico%2074%2C%20Cassano%20delle%20Murge",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333834.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Concerto%20blues%2C%20funk%20e%20rock%20dal%20vivo&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/2026-11-06/"
       },
       {
-        "title": "Travelin’ Band",
+        "title": "Travelin' Band",
         "subtitle": "Venerdì 6 novembre • 22:00",
-        "text": "Live • Trani • Santo Graal, vico Santa Maria 4 • Tributo dal vivo ai Creedence Clearwater Revival",
+        "text": "Live • Trani • Santo Graal • Tributo ai Creedence Clearwater Revival",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Travelin%E2%80%99%20Band&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Trani%20%E2%80%A2%20Santo%20Graal%2C%20vico%20Santa%20Maria%204%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Creedence%20Clearwater%20Revival&location=Santo%20Graal%2C%20vico%20Santa%20Maria%204%2C%20Trani",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Travelin'%20Band&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Trani%20%E2%80%A2%20Santo%20Graal%20%E2%80%A2%20Tributo%20ai%20Creedence%20Clearwater%20Revival&location=Santo%20Graal%2C%20Trani",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/320985.html"
-      },
-      {
-        "title": "I Vaskomodi",
-        "subtitle": "Venerdì 6 novembre",
-        "text": "Live • Monopoli • Ostinati • Tributo dal vivo a Vasco Rossi",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Vasco%20Rossi&location=Ostinati%2C%20Monopoli"
       },
       {
         "title": "Promessi Sposi",
         "subtitle": "Sabato 7 novembre • 10:00",
-        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Terza giornata della fiera commerciale con stand",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261107T090000Z%2F20261107T110000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261107T090000Z%2F20261107T150000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Terza%20giornata%20della%20fiera%20commerciale%20con%20stand&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
@@ -771,14 +742,14 @@
         "text": "Formula 1 • GP Brasile • Prove Libere 3",
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Prove%20Libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Prove%20Libere%203",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
-        "title": "Corteo storico e vessilli",
+        "title": "Corteo storico di San Trifone",
         "subtitle": "Sabato 7 novembre • 18:30",
-        "text": "Evento tradizionale • Adelfia • Montrone • Corteo storico e parata dei vessilli per i festeggiamenti di San Trifone",
+        "text": "Evento tradizionale • Adelfia • Centro cittadino • Corteo storico e parata dei vessilli nel programma della festa patronale",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20e%20vessilli&dates=20261107T173000Z%2F20261107T183000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Montrone%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli%20per%20i%20festeggiamenti%20di%20San%20Trifone&location=Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20di%20San%20Trifone&dates=20261107T173000Z%2F20261107T193000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli%20nel%20programma%20della%20festa%20patronale&location=Centro%20cittadino%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -787,69 +758,54 @@
         "text": "Formula 1 • GP Brasile • Qualifiche",
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20Brasile%20%E2%80%A2%20Qualifiche",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
-      },
-      {
-        "title": "Canto Libero",
-        "subtitle": "Sabato 7 novembre • 20:30",
-        "text": "Live • Bari • Teatro Petruzzelli, corso Cavour 12 • Omaggio dal vivo a Battisti e Mogol",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20Libero&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%20%E2%80%A2%20Omaggio%20dal%20vivo%20a%20Battisti%20e%20Mogol&location=Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%2C%20Bari",
-        "linkDettagliEvento": "https://good-vibrations.it/event/canto-libero-bari-07-novembre-2026/"
-      },
-      {
-        "title": "Da Casella a Stravinsky",
-        "subtitle": "Sabato 7 novembre • 20:30",
-        "text": "Live • Matera • Auditorium R. Gervasio, piazza Sedile • Andrea Di Cecca e Pasquale Corrado in concerto",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Da%20Casella%20a%20Stravinsky&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Auditorium%20R.%20Gervasio%2C%20piazza%20Sedile%20%E2%80%A2%20Andrea%20Di%20Cecca%20e%20Pasquale%20Corrado%20in%20concerto&location=Auditorium%20R.%20Gervasio%2C%20piazza%20Sedile%2C%20Matera",
-        "linkDettagliEvento": "https://artebasilicata.it/eventi/mw-8652-da-casella-all-antica-a-stravinsky-matera/"
-      },
-      {
-        "title": "Scarlatti 300",
-        "subtitle": "Sabato 7 novembre • 20:30",
-        "text": "Live • Bari • Chiesa di Santa Scolastica, strada Annunziata 2 • Ensemble Dolci Accenti e Hof-Musici: musica di Alessandro Scarlatti",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scarlatti%20300&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%20%E2%80%A2%20Ensemble%20Dolci%20Accenti%20e%20Hof-Musici%3A%20musica%20di%20Alessandro%20Scarlatti&location=Chiesa%20di%20Santa%20Scolastica%2C%20strada%20Annunziata%202%2C%20Bari"
-      },
-      {
-        "title": "The Paleblood Ritual",
-        "subtitle": "Sabato 7 novembre • 20:30",
-        "text": "Live • Bari • Extreme Music Academy, traversa I via Glomerelli 17 • Metal live: Reality Grey, Redneck Stomp e Thantophobia",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Paleblood%20Ritual&dates=20261107T193000Z%2F20261107T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Extreme%20Music%20Academy%2C%20traversa%20I%20via%20Glomerelli%2017%20%E2%80%A2%20Metal%20live%3A%20Reality%20Grey%2C%20Redneck%20Stomp%20e%20Thantophobia&location=Extreme%20Music%20Academy%2C%20traversa%20I%20via%20Glomerelli%2017%2C%20Bari",
-        "linkDettagliEvento": "https://happeningnext.com/event/the-paleblood-ritual-reality-grey-redneck-stomp-thantophobia-eid3a0e6cjc4e"
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
         "title": "Quelli del Clan",
         "subtitle": "Sabato 7 novembre • 21:30",
-        "text": "Live • Bari • La DolceVita Live, via Albanese 41 • Tributo live a Celentano e Mina",
+        "text": "Live • Bari • La DolceVita Live • Tributo a Adriano Celentano e Mina",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&dates=20261107T203000Z%2F20261107T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20via%20Albanese%2041%20%E2%80%A2%20Tributo%20live%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20via%20Albanese%2041%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331740.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&dates=20261107T203000Z%2F20261107T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20a%20Adriano%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/2026-11-07/"
       },
       {
-        "title": "Bacco nelle Gnostre",
-        "subtitle": "Sabato 7 novembre",
-        "text": "Sagra • Noci • Centro storico e gnostre • Vino novello, caldarroste, specialità pugliesi e musica popolare",
+        "title": "Fiera del Crocifisso",
+        "subtitle": "Domenica 8 novembre",
+        "text": "Mercatino • Modugno • Centro cittadino • Fiera commerciale e popolare con bancarelle e artigianato",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&dates=20261108%2F20261109&details=Mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20commerciale%20e%20popolare%20con%20bancarelle%20e%20artigianato&location=Centro%20cittadino%2C%20Modugno",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/modugno/fiera-del-crocifisso-2026-72784"
+      },
+      {
+        "title": "Mercatini Gozzovigliando",
+        "subtitle": "Domenica 8 novembre",
+        "text": "Mercatino • Monopoli • Centro storico e Porto Antico • Mercatini e tradizioni marinare nella manifestazione",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20Gozzovigliando&dates=20261108%2F20261109&details=Mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Mercatini%20e%20tradizioni%20marinare%20nella%20manifestazione&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli",
+        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
+      },
+      {
+        "title": "Sagra agnello e vino novello",
+        "subtitle": "Domenica 8 novembre",
+        "text": "Sagra • Adelfia • Centro cittadino • Degustazioni gastronomiche nel programma di San Trifone",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%20e%20gnostre%2C%20Noci",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20agnello%20e%20vino%20novello&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Degustazioni%20gastronomiche%20nel%20programma%20di%20San%20Trifone&location=Centro%20cittadino%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "Fiera di San Trifone",
         "subtitle": "Domenica 8 novembre • 07:00",
-        "text": "Mercatino • Adelfia • Centro storico di Montrone • Tradizionale fiera con bancarelle durante la festa patronale",
+        "text": "Mercatino • Adelfia • Centro cittadino • Fiera tradizionale con bancarelle durante i festeggiamenti patronali",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T080000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Tradizionale%20fiera%20con%20bancarelle%20durante%20la%20festa%20patronale&location=Centro%20storico%20di%20Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T120000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle%20durante%20i%20festeggiamenti%20patronali&location=Centro%20cittadino%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "Promessi Sposi",
         "subtitle": "Domenica 8 novembre • 10:00",
-        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
+        "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Ultima giornata della fiera commerciale del matrimonio",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261108T090000Z%2F20261108T110000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261108T090000Z%2F20261108T150000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Ultima%20giornata%20della%20fiera%20commerciale%20del%20matrimonio&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
@@ -861,60 +817,36 @@
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
-        "title": "Massimo Ranieri",
+        "title": "Notte Bianca di San Trifone",
         "subtitle": "Domenica 8 novembre • 20:30",
-        "text": "Live • Bari • Teatro Petruzzelli, corso Cavour 12 • Tutti i sogni ancora in volo: concerto e spettacolo di canzone italiana",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Ranieri&dates=20261108T193000Z%2F20261108T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%20%E2%80%A2%20Tutti%20i%20sogni%20ancora%20in%20volo%3A%20concerto%20e%20spettacolo%20di%20canzone%20italiana&location=Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%2C%20Bari",
-        "linkDettagliEvento": "https://auroraeventi.net/eventi/massimo-ranieri-tutti-i-sogni-ancora-in-volo-tour-bari-teatro-petruzzelli-08-11-2026-20-30/"
+        "text": "Evento tradizionale • Adelfia • Centro cittadino • Spettacoli e iniziative serali in attesa della festa patronale",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Notte%20Bianca%20di%20San%20Trifone&dates=20261108T193000Z%2F20261108T233000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Spettacoli%20e%20iniziative%20serali%20in%20attesa%20della%20festa%20patronale&location=Centro%20cittadino%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
-        "title": "San Trifone - Notte Bianca",
-        "subtitle": "Domenica 8 novembre • 20:30",
-        "text": "Festa patronale • Adelfia • Centro storico di Montrone • Notte bianca Aspettando San Trifone, XVII edizione",
+        "title": "Vigilia di San Trifone",
+        "subtitle": "Lunedì 9 novembre",
+        "text": "Festa patronale • Adelfia • Centro cittadino • Festeggiamenti e manifestazioni della vigilia patronale",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20-%20Notte%20Bianca&dates=20261108T193000Z%2F20261108T213000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Notte%20bianca%20Aspettando%20San%20Trifone%2C%20XVII%20edizione&location=Centro%20storico%20di%20Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&dates=20261109%2F20261110&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Festeggiamenti%20e%20manifestazioni%20della%20vigilia%20patronale&location=Centro%20cittadino%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
-        "title": "Bacco nelle Gnostre",
-        "subtitle": "Domenica 8 novembre",
-        "text": "Sagra • Noci • Centro storico e gnostre • Vino novello, caldarroste, specialità pugliesi e musica popolare",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%20e%20gnostre%2C%20Noci",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Sagra dell'agnello e del novello",
-        "subtitle": "Domenica 8 novembre",
-        "text": "Sagra • Adelfia • Vie del centro storico di Montrone • Terza edizione della sagra dell'agnello e del vino novello",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20del%20novello&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Vie%20del%20centro%20storico%20di%20Montrone%20%E2%80%A2%20Terza%20edizione%20della%20sagra%20dell'agnello%20e%20del%20vino%20novello&location=Vie%20del%20centro%20storico%20di%20Montrone%2C%20Adelfia",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Concerto Bandistico Rutigliano",
-        "subtitle": "Lunedì 9 novembre • 10:00",
-        "text": "Live • Adelfia • Cassa armonica, centro di Montrone • Gran Concerto Bandistico Città di Rutigliano per San Trifone; replica alle 17:30",
+        "title": "Banda Città di Rutigliano",
+        "subtitle": "Lunedì 9 novembre • 08:30",
+        "text": "Live • Adelfia • Centro cittadino • Esibizione itinerante nella vigilia della festa di San Trifone",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Concerto%20Bandistico%20Rutigliano&dates=20261109T090000Z%2F20261109T110000Z&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Cassa%20armonica%2C%20centro%20di%20Montrone%20%E2%80%A2%20Gran%20Concerto%20Bandistico%20Citt%C3%A0%20di%20Rutigliano%20per%20San%20Trifone%3B%20replica%20alle%2017%3A30&location=Cassa%20armonica%2C%20centro%20di%20Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banda%20Citt%C3%A0%20di%20Rutigliano&dates=20261109T073000Z%2F20261109T093000Z&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Esibizione%20itinerante%20nella%20vigilia%20della%20festa%20di%20San%20Trifone&location=Centro%20cittadino%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
-        "title": "Sagra dell'agnello e del novello",
-        "subtitle": "Lunedì 9 novembre • 19:30",
-        "text": "Sagra • Adelfia • Centro storico di Montrone • Stand gastronomici con agnello arrosto e vino novello per la festa di San Trifone",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20del%20novello&dates=20261109T183000Z%2F20261109T203000Z&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Stand%20gastronomici%20con%20agnello%20arrosto%20e%20vino%20novello%20per%20la%20festa%20di%20San%20Trifone&location=Centro%20storico%20di%20Montrone%2C%20Adelfia",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/sagra-dellagnello-e-del-vino-novello/"
-      },
-      {
-        "title": "San Trifone - Vigilia",
-        "subtitle": "Lunedì 9 novembre • 19:30",
-        "text": "Festa patronale • Adelfia • Centro di Montrone • Processione del quadro, luminarie, mongolfiera e Notte delle Lanterne alle 21:00",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20-%20Vigilia&dates=20261109T183000Z%2F20261109T203000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20di%20Montrone%20%E2%80%A2%20Processione%20del%20quadro%2C%20luminarie%2C%20mongolfiera%20e%20Notte%20delle%20Lanterne%20alle%2021%3A00&location=Centro%20di%20Montrone%2C%20Adelfia",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+        "title": "Picerno - Bari",
+        "subtitle": "Lunedì 9 novembre • 20:30",
+        "text": "Serie C • Picerno - Bari",
+        "logo": "BA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%20%E2%80%A2%20Picerno%20-%20Bari",
+        "linkDettagliEvento": "https://www.sscalciobari.it/"
       }
     ]
   }
