@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:03:49.290Z",
+  "generatedAt": "2026-10-26T06:01:31.341Z",
   "timezone": "Europe/Rome",
   "whatchlist": [
     "Midnight Pub Live — Matera",
@@ -55,7 +55,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg?t=1778169586",
         "link": "https://luna.amazon.com/claims/ad-infinitum-epic/dp/amzn1.pg.item.69de011b-6575-41ab-9964-971e59cf7457",
         "steamRating": "78%",
-        "steamPrice": "1,99 €",
+        "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/1234430/"
       },
       {
@@ -79,7 +79,7 @@
         "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/8e288958e8c203003f00852e73dba95558b94992/header.jpg?t=1792674990",
         "link": "https://store.epicgames.com/p/sker-ritual-aac702?lang=it",
         "steamRating": "79%",
-        "steamPrice": "6,79 €",
+        "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/1492070/"
       },
       {
@@ -103,7 +103,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
         "link": "https://luna.amazon.com/claims/caravan-sandwitch-aga/dp/amzn1.pg.item.98d2b591-efd2-420f-928c-e7a9b409f67a",
         "steamRating": "83%",
-        "steamPrice": "8,74 €",
+        "steamPrice": "24,99 €",
         "steamUrl": "https://store.steampowered.com/app/1582650/"
       },
       {
@@ -294,9 +294,21 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/0378ca94843620240eda1ad571c6b7d6bb0b0527/header.jpg?t=1791363746",
         "link": "https://store.steampowered.com/app/5257350/",
-        "steamRating": "52%",
+        "steamRating": "80%",
         "steamPrice": null,
         "steamUrl": "https://store.steampowered.com/app/5257350/"
+      },
+      {
+        "title": "MAFIA HOTEL",
+        "subtitle": "Epic Games Store",
+        "text": "Gioco multigiocatore di deduzione sociale ambientato in un hotel: fino a sedici partecipanti discutono, mentono, votano e cercano i mafiosi, mentre di notte investigatori, medici e assassini agiscono segretamente. Riscatto gratuito su Epic Games Store segnalato fino al 1° novembre 2026.",
+        "createdDate": null,
+        "giveaway": false,
+        "imageUrl": null,
+        "link": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
+        "steamRating": null,
+        "steamPrice": null,
+        "steamUrl": null
       }
     ]
   },
@@ -304,200 +316,17 @@
     "status": "ok",
     "title": "Eventi",
     "period": {
-      "from": "2026-10-25",
-      "to": "2026-11-08"
+      "from": "2026-10-26",
+      "to": "2026-11-09"
     },
     "items": [
       {
-        "title": "Fiera di Ottobre",
-        "subtitle": "Domenica 25 ottobre • 06:00",
-        "text": "Mercatino • Sannicandro di Bari • Vie del centro • Bancarelle e commercio ambulante",
+        "title": "Sovranaturale",
+        "subtitle": "Lunedì 26 ottobre • 11:00",
+        "text": "Mercatino • Bari • Spazio Murat ed ex Mercato del Pesce, piazza del Ferrarese • Salone dei vini naturali, mercato agricolo e artigianato",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ottobre&dates=20261025T050000Z%2F20261025T090000Z&details=Mercatino%20%E2%80%A2%20Sannicandro%20di%20Bari%20%E2%80%A2%20Vie%20del%20centro%20%E2%80%A2%20Bancarelle%20e%20commercio%20ambulante&location=Vie%20del%20centro%2C%20Sannicandro%20di%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/sannicandro-di-bari/fiera-di-ottobre-116129"
-      },
-      {
-        "title": "Mercatino La Piazzolla",
-        "subtitle": "Domenica 25 ottobre • 07:00",
-        "text": "Mercatino • Santeramo in Colle • Piazza Garibaldi • Mercatino periodico di collezionismo e antiquariato.",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20La%20Piazzolla&dates=20261025T060000Z%2F20261025T100000Z&details=Mercatino%20%E2%80%A2%20Santeramo%20in%20Colle%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Mercatino%20periodico%20di%20collezionismo%20e%20antiquariato.&location=Piazza%20Garibaldi%2C%20Santeramo%20in%20Colle",
-        "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/santeramo-in-colle"
-      },
-      {
-        "title": "Mostra Hobbismo",
-        "subtitle": "Domenica 25 ottobre • 08:00",
-        "text": "Mercatino • Bari • Piazza Giuseppe Massari • Collezionismo e scambio di oggetti",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra%20Hobbismo&dates=20261025T070000Z%2F20261025T110000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Giuseppe%20Massari%20%E2%80%A2%20Collezionismo%20e%20scambio%20di%20oggetti&location=Piazza%20Giuseppe%20Massari%2C%20Bari",
-        "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/bari-piazza-massari"
-      },
-      {
-        "title": "Fiera dell'Agricoltura",
-        "subtitle": "Domenica 25 ottobre • 09:00",
-        "text": "Mercatino • Sammichele di Bari • Area mercatale P. Munno • Espositori, agricoltura e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20dell'Agricoltura&dates=20261025T080000Z%2F20261025T120000Z&details=Mercatino%20%E2%80%A2%20Sammichele%20di%20Bari%20%E2%80%A2%20Area%20mercatale%20P.%20Munno%20%E2%80%A2%20Espositori%2C%20agricoltura%20e%20artigianato&location=Area%20mercatale%20P.%20Munno%2C%20Sammichele%20di%20Bari",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-dellagricoltura-2026/"
-      },
-      {
-        "title": "Gozzovigliando",
-        "subtitle": "Domenica 25 ottobre • 10:00",
-        "text": "Mercatino • Monopoli • Centro storico e Porto Antico • Mercatini, tradizioni marinare e musica folkloristica",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261025T090000Z%2F20261025T130000Z&details=Mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Mercatini%2C%20tradizioni%20marinare%20e%20musica%20folkloristica&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli",
-        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
-      },
-      {
-        "title": "Puglia Wine Festival",
-        "subtitle": "Domenica 25 ottobre • 11:00",
-        "text": "Sagra • Castellana Grotte • Largo Portagrande e centro storico • Vino pugliese, gastronomia, caldarroste e artigianato.",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Puglia%20Wine%20Festival&dates=20261025T100000Z%2F20261025T140000Z&details=Sagra%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20e%20centro%20storico%20%E2%80%A2%20Vino%20pugliese%2C%20gastronomia%2C%20caldarroste%20e%20artigianato.&location=Largo%20Portagrande%20e%20centro%20storico%2C%20Castellana%20Grotte",
-        "linkDettagliEvento": "https://www.vivicastellanagrotte.it/index.php/cultura/eventi/23712-torna-il-puglia-wine-festival-per-la-prima-volta-a-castellana-grotte-il-24-e-25-ottobre"
-      },
-      {
-        "title": "Festa Agricola",
-        "subtitle": "Domenica 25 ottobre • 12:00",
-        "text": "Sagra • Corato • Cantina Sociale Terra Maiorum, via Castel del Monte 184 • Mercato contadino, gastronomia e rassegna musicale",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20Agricola&dates=20261025T110000Z%2F20261025T150000Z&details=Sagra%20%E2%80%A2%20Corato%20%E2%80%A2%20Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%20%E2%80%A2%20Mercato%20contadino%2C%20gastronomia%20e%20rassegna%20musicale&location=Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Samuel De Pablo",
-        "subtitle": "Domenica 25 ottobre • 17:00",
-        "text": "Live • Monopoli • Chiesa del Purgatorio • Concerto d'organo internazionale Sit Laus Plena a ingresso gratuito",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samuel%20De%20Pablo&dates=20261025T160000Z%2F20261025T180000Z&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Chiesa%20del%20Purgatorio%20%E2%80%A2%20Concerto%20d'organo%20internazionale%20Sit%20Laus%20Plena%20a%20ingresso%20gratuito&location=Chiesa%20del%20Purgatorio%2C%20Monopoli",
-        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Vivere-il-comune/Eventi/Sit-Laus-Plena-2026-Monopoli-International-Organ-Festival"
-      },
-      {
-        "title": "Giuliano Ciliberti: Ornella e Gino",
-        "subtitle": "Domenica 25 ottobre • 18:00",
-        "text": "Live • Bari • Teatro Forma, via Fanelli 206/1 • Teatro canzone dedicato a Ornella Vanoni e Gino Paoli",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giuliano%20Ciliberti%3A%20Ornella%20e%20Gino&dates=20261025T170000Z%2F20261025T190000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%20%E2%80%A2%20Teatro%20canzone%20dedicato%20a%20Ornella%20Vanoni%20e%20Gino%20Paoli&location=Teatro%20Forma%2C%20via%20Fanelli%20206%2F1%2C%20Bari"
-      },
-      {
-        "title": "Calici nel Borgo",
-        "subtitle": "Domenica 25 ottobre • 19:00",
-        "text": "Mercatino • Sammichele di Bari • Centro storico, via Dalfino • Produttori ed espositori",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20nel%20Borgo&dates=20261025T180000Z%2F20261025T220000Z&details=Mercatino%20%E2%80%A2%20Sammichele%20di%20Bari%20%E2%80%A2%20Centro%20storico%2C%20via%20Dalfino%20%E2%80%A2%20Produttori%20ed%20espositori&location=Centro%20storico%2C%20via%20Dalfino%2C%20Sammichele%20di%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333605.html"
-      },
-      {
-        "title": "Zinharua",
-        "subtitle": "Domenica 25 ottobre • 20:30",
-        "text": "Live • Castellana Grotte • Largo Portagrande • Concerto dal vivo al Puglia Wine Festival.",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zinharua&dates=20261025T193000Z%2F20261025T213000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20Portagrande%20%E2%80%A2%20Concerto%20dal%20vivo%20al%20Puglia%20Wine%20Festival.&location=Largo%20Portagrande%2C%20Castellana%20Grotte",
-        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
-      },
-      {
-        "title": "F1 Austin - Gara",
-        "subtitle": "Domenica 25 ottobre • 21:00",
-        "text": "Formula 1 • Gran Premio Stati Uniti • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Austin%20-%20Gara&dates=20261025T200000Z%2F20261025T220000Z&details=Formula%201%20%E2%80%A2%20Gran%20Premio%20Stati%20Uniti%20%E2%80%A2%20Gara",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
-      },
-      {
-        "title": "Cristina D'Avena",
-        "subtitle": "Domenica 25 ottobre • 21:15",
-        "text": "Live • Palo del Colle • Piazza Santa Croce • Concerto gratuito delle sigle animate alla Sagra del Tarallo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cristina%20D'Avena&dates=20261025T201500Z%2F20261025T221500Z&details=Live%20%E2%80%A2%20Palo%20del%20Colle%20%E2%80%A2%20Piazza%20Santa%20Croce%20%E2%80%A2%20Concerto%20gratuito%20delle%20sigle%20animate%20alla%20Sagra%20del%20Tarallo&location=Piazza%20Santa%20Croce%2C%20Palo%20del%20Colle",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/sagra-del-tarallo-di-palo-del-colle-2026/"
-      },
-      {
-        "title": "Meta80",
-        "subtitle": "Domenica 25 ottobre • 21:30",
-        "text": "Live • Castellana Grotte • Largo San Leone Magno • Concerto live al Puglia Wine Festival.",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meta80&dates=20261025T203000Z%2F20261025T223000Z&details=Live%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Largo%20San%20Leone%20Magno%20%E2%80%A2%20Concerto%20live%20al%20Puglia%20Wine%20Festival.&location=Largo%20San%20Leone%20Magno%2C%20Castellana%20Grotte",
-        "linkDettagliEvento": "https://www.corrieredelleconomia.it/2026/10/19/puglia-wine-festival-2026-a-castellana-grotte-programma-completo-e-appuntamenti/"
-      },
-      {
-        "title": "Fiera dei Santi Medici",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Mercatino • Bitonto • Via Lazzati e via delle Nazioni • Tradizionale fiera commerciale con bancarelle.",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20dei%20Santi%20Medici&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Via%20Lazzati%20e%20via%20delle%20Nazioni%20%E2%80%A2%20Tradizionale%20fiera%20commerciale%20con%20bancarelle.&location=Via%20Lazzati%20e%20via%20delle%20Nazioni%2C%20Bitonto",
-        "linkDettagliEvento": "https://www.comune.bitonto.ba.it/it/news/120690"
-      },
-      {
-        "title": "Fiera di San Michele",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Mercatino • Bari • Carbonara, piazza Umberto I • Bancarelle, prodotti locali e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Michele&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Carbonara%2C%20piazza%20Umberto%20I%20%E2%80%A2%20Bancarelle%2C%20prodotti%20locali%20e%20artigianato&location=Carbonara%2C%20piazza%20Umberto%20I%2C%20Bari",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/fiera-e-sagra-di-san-michele-arcangelo-2026-82087"
-      },
-      {
-        "title": "John De Leo e Fabrizio Tarroni",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Live • Corato • Cantina Sociale Terra Maiorum, via Castel del Monte 184 • Duo alla Festa Agricola; rassegna dalle 17:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=John%20De%20Leo%20e%20Fabrizio%20Tarroni&dates=20261025%2F20261026&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%20%E2%80%A2%20Duo%20alla%20Festa%20Agricola%3B%20rassegna%20dalle%2017%3A00&location=Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Martina Camargo",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Live • Corato • Cantina Sociale Terra Maiorum, via Castel del Monte 184 • Musica colombiana alla Festa Agricola; concerti dalle 17:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Martina%20Camargo&dates=20261025%2F20261026&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%20%E2%80%A2%20Musica%20colombiana%20alla%20Festa%20Agricola%3B%20concerti%20dalle%2017%3A00&location=Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Mostra-Mercato Puglia in Piazza",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Mercatino • Bisceglie • Piazza Vittorio Emanuele II • Bancarelle di prodotti tipici e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra-Mercato%20Puglia%20in%20Piazza&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%20II%20%E2%80%A2%20Bancarelle%20di%20prodotti%20tipici%20e%20artigianato&location=Piazza%20Vittorio%20Emanuele%20II%2C%20Bisceglie",
-        "linkDettagliEvento": "https://servizionline.hspromilaprod.hypersicapp.net/cmsbisceglie/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
-      },
-      {
-        "title": "Ottava dei Santi Medici",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Festa patronale • Bitonto • Basilica e centro cittadino • Ottava della festa dei Santi Medici e riti della tradizione.",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ottava%20dei%20Santi%20Medici&dates=20261025%2F20261026&details=Festa%20patronale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Basilica%20e%20centro%20cittadino%20%E2%80%A2%20Ottava%20della%20festa%20dei%20Santi%20Medici%20e%20riti%20della%20tradizione.&location=Basilica%20e%20centro%20cittadino%2C%20Bitonto",
-        "linkDettagliEvento": "https://www.comune.bitonto.ba.it/it/news/2051545"
-      },
-      {
-        "title": "Peppe Leone e Orchestra Agricola",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Live • Corato • Cantina Sociale Terra Maiorum, via Castel del Monte 184 • Concerto conclusivo della Festa Agricola; dalle 17:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Peppe%20Leone%20e%20Orchestra%20Agricola&dates=20261025%2F20261026&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%20%E2%80%A2%20Concerto%20conclusivo%20della%20Festa%20Agricola%3B%20dalle%2017%3A00&location=Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Sagra del Tarallo",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Sagra • Palo del Colle • Piazza Santa Croce • Taralli, prodotti tipici e artigianato tradizionale",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Tarallo&dates=20261025%2F20261026&details=Sagra%20%E2%80%A2%20Palo%20del%20Colle%20%E2%80%A2%20Piazza%20Santa%20Croce%20%E2%80%A2%20Taralli%2C%20prodotti%20tipici%20e%20artigianato%20tradizionale&location=Piazza%20Santa%20Croce%2C%20Palo%20del%20Colle",
-        "linkDettagliEvento": "https://www.comune.palodelcolle.ba.it/novita/avvisi/novita_617.html"
-      },
-      {
-        "title": "Sonex",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Live • Corato • Cantina Sociale Terra Maiorum, via Castel del Monte 184 • Rassegna della Festa Agricola con concerti dalle 17:00",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonex&dates=20261025%2F20261026&details=Live%20%E2%80%A2%20Corato%20%E2%80%A2%20Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%20%E2%80%A2%20Rassegna%20della%20Festa%20Agricola%20con%20concerti%20dalle%2017%3A00&location=Cantina%20Sociale%20Terra%20Maiorum%2C%20via%20Castel%20del%20Monte%20184%2C%20Corato",
-        "linkDettagliEvento": "https://portaleventi.it/evento/festa-agricola-a-corato"
-      },
-      {
-        "title": "Fiera La Mia Casa",
-        "subtitle": "Domenica 25 ottobre",
-        "text": "Mercatino • Gravina in Puglia • Area Fieristica di San Giorgio • Fiera commerciale dedicata alla casa e all'arredamento",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20La%20Mia%20Casa&dates=20261025%2F20261026&details=Mercatino%20%E2%80%A2%20Gravina%20in%20Puglia%20%E2%80%A2%20Area%20Fieristica%20di%20San%20Giorgio%20%E2%80%A2%20Fiera%20commerciale%20dedicata%20alla%20casa%20e%20all'arredamento&location=Area%20Fieristica%20di%20San%20Giorgio%2C%20Gravina%20in%20Puglia",
-        "linkDettagliEvento": "https://buzzeventmap.com/eventi/bari/fiere"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sovranaturale&dates=20261026T100000Z%2F20261026T120000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Spazio%20Murat%20ed%20ex%20Mercato%20del%20Pesce%2C%20piazza%20del%20Ferrarese%20%E2%80%A2%20Salone%20dei%20vini%20naturali%2C%20mercato%20agricolo%20e%20artigianato&location=Spazio%20Murat%20ed%20ex%20Mercato%20del%20Pesce%2C%20piazza%20del%20Ferrarese%2C%20Bari",
+        "linkDettagliEvento": "https://sovranaturale.it/programma/"
       },
       {
         "title": "Fiera di San Michele",
@@ -592,7 +421,7 @@
         "subtitle": "Sabato 31 ottobre • 09:00",
         "text": "Mercatino • Bari • Piazza Giuseppe Massari • Antiquariato e oggetti usati",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariando&dates=20261031T080000Z%2F20261031T120000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Giuseppe%20Massari%20%E2%80%A2%20Antiquariato%20e%20oggetti%20usati&location=Piazza%20Giuseppe%20Massari%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariando&dates=20261031T080000Z%2F20261031T100000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Giuseppe%20Massari%20%E2%80%A2%20Antiquariato%20e%20oggetti%20usati&location=Piazza%20Giuseppe%20Massari%2C%20Bari",
         "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/bari-piazza-giuseppe-massari"
       },
       {
@@ -608,7 +437,7 @@
         "subtitle": "Sabato 31 ottobre • 18:00",
         "text": "Sagra • Casamassima • Borgo antico, piazza Santa Croce • Stand gastronomici e vini pugliesi",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261031T170000Z%2F20261031T210000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Stand%20gastronomici%20e%20vini%20pugliesi&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261031T170000Z%2F20261031T190000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Stand%20gastronomici%20e%20vini%20pugliesi&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
         "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
       },
       {
@@ -624,7 +453,7 @@
         "subtitle": "Sabato 31 ottobre • 18:30",
         "text": "Festa patronale • Adelfia • Chiesa Madre • Intronizzazione dell'immagine di San Trifone e avvio dei festeggiamenti",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261031T173000Z%2F20261031T213000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Intronizzazione%20dell'immagine%20di%20San%20Trifone%20e%20avvio%20dei%20festeggiamenti&location=Chiesa%20Madre%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261031T173000Z%2F20261031T193000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Chiesa%20Madre%20%E2%80%A2%20Intronizzazione%20dell'immagine%20di%20San%20Trifone%20e%20avvio%20dei%20festeggiamenti&location=Chiesa%20Madre%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -632,15 +461,15 @@
         "subtitle": "Sabato 31 ottobre • 19:30",
         "text": "Live • Mola di Bari • Chiesa della Santissima Trinità • Seconda data del concerto-meditazione gratuito dell'associazione Incanto",
         "logo": "LIVE",
-        "linkDettagliEvento": "https://www.eventiamola.it/event/francesco-uomo-santo-e-felice/",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%2C%20Uomo%2C%20Santo%20e%20Felice&dates=20261031T183000Z%2F20261031T203000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20della%20Santissima%20Trinit%C3%A0%20%E2%80%A2%20Seconda%20data%20del%20concerto-meditazione%20gratuito%20dell'associazione%20Incanto&location=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Mola%20di%20Bari"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%2C%20Uomo%2C%20Santo%20e%20Felice&dates=20261031T183000Z%2F20261031T203000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20della%20Santissima%20Trinit%C3%A0%20%E2%80%A2%20Seconda%20data%20del%20concerto-meditazione%20gratuito%20dell'associazione%20Incanto&location=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://www.eventiamola.it/event/francesco-uomo-santo-e-felice/"
       },
       {
         "title": "Wine & Food Festival",
         "subtitle": "Sabato 31 ottobre • 19:30",
         "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031T183000Z%2F20261031T223000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031T183000Z%2F20261031T203000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
         "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
@@ -696,7 +525,7 @@
         "subtitle": "Domenica 1 novembre • 06:00",
         "text": "Mercatino • Bari • Piazza Umberto I • Mostra mercato di artigianato locale",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Artigianato%20per%20il%20Sociale&dates=20261101T050000Z%2F20261101T090000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mostra%20mercato%20di%20artigianato%20locale&location=Piazza%20Umberto%20I%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Artigianato%20per%20il%20Sociale&dates=20261101T050000Z%2F20261101T070000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mostra%20mercato%20di%20artigianato%20locale&location=Piazza%20Umberto%20I%2C%20Bari",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/l-artigianato-per-il-sociale-88121"
       },
       {
@@ -704,7 +533,7 @@
         "subtitle": "Domenica 1 novembre • 06:00",
         "text": "Mercatino • Bari • Mercato San Filippo Neri, via Vaccarella • Mercatino con bancarelle",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hobbismo%20e%20Scambio%20Carbonara&dates=20261101T050000Z%2F20261101T090000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Mercato%20San%20Filippo%20Neri%2C%20via%20Vaccarella%20%E2%80%A2%20Mercatino%20con%20bancarelle&location=Mercato%20San%20Filippo%20Neri%2C%20via%20Vaccarella%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hobbismo%20e%20Scambio%20Carbonara&dates=20261101T050000Z%2F20261101T070000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Mercato%20San%20Filippo%20Neri%2C%20via%20Vaccarella%20%E2%80%A2%20Mercatino%20con%20bancarelle&location=Mercato%20San%20Filippo%20Neri%2C%20via%20Vaccarella%2C%20Bari",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-carbonara-69721"
       },
       {
@@ -712,7 +541,7 @@
         "subtitle": "Domenica 1 novembre • 09:00",
         "text": "Mercatino • Bari • Piazza Giuseppe Massari • Antiquariato e oggetti usati",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariando&dates=20261101T080000Z%2F20261101T120000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Giuseppe%20Massari%20%E2%80%A2%20Antiquariato%20e%20oggetti%20usati&location=Piazza%20Giuseppe%20Massari%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antiquariando&dates=20261101T080000Z%2F20261101T100000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Giuseppe%20Massari%20%E2%80%A2%20Antiquariato%20e%20oggetti%20usati&location=Piazza%20Giuseppe%20Massari%2C%20Bari",
         "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/bari-piazza-giuseppe-massari"
       },
       {
@@ -720,7 +549,7 @@
         "subtitle": "Domenica 1 novembre • 11:00",
         "text": "Evento tradizionale • Monopoli • Porto Antico • Palio delle imbarcazioni tradizionali di Gozzovigliando",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T140000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20delle%20imbarcazioni%20tradizionali%20di%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T110000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20delle%20imbarcazioni%20tradizionali%20di%20Gozzovigliando&location=Porto%20Antico%2C%20Monopoli",
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
       },
       {
@@ -728,7 +557,7 @@
         "subtitle": "Domenica 1 novembre • 17:00",
         "text": "Festa patronale • Adelfia • Centro cittadino • Festeggiamenti tradizionali, pirotecnica diurna e bande itineranti",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261101T160000Z%2F20261101T200000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Festeggiamenti%20tradizionali%2C%20pirotecnica%20diurna%20e%20bande%20itineranti&location=Centro%20cittadino%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone&dates=20261101T160000Z%2F20261101T180000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Festeggiamenti%20tradizionali%2C%20pirotecnica%20diurna%20e%20bande%20itineranti&location=Centro%20cittadino%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -736,7 +565,7 @@
         "subtitle": "Domenica 1 novembre • 18:00",
         "text": "Sagra • Casamassima • Borgo antico, piazza Santa Croce • Degustazioni e prodotti autunnali",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261101T170000Z%2F20261101T210000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Degustazioni%20e%20prodotti%20autunnali&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261101T170000Z%2F20261101T190000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20antico%2C%20piazza%20Santa%20Croce%20%E2%80%A2%20Degustazioni%20e%20prodotti%20autunnali&location=Borgo%20antico%2C%20piazza%20Santa%20Croce%2C%20Casamassima",
         "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
       },
       {
@@ -744,7 +573,7 @@
         "subtitle": "Domenica 1 novembre • 19:30",
         "text": "Sagra • Modugno • Centro storico • Stand enogastronomici e sapori del territorio",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101T183000Z%2F20261101T223000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101T183000Z%2F20261101T203000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20del%20territorio&location=Centro%20storico%2C%20Modugno",
         "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
       },
       {
@@ -800,7 +629,7 @@
         "subtitle": "Lunedì 2 novembre • 19:30",
         "text": "Sagra • Terlizzi • Piazza Plebiscito • Tradizione legata alla commemorazione dei defunti",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20della%20Quart%C3%A8cedde&dates=20261102T183000Z%2F20261102T223000Z&details=Sagra%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20Piazza%20Plebiscito%20%E2%80%A2%20Tradizione%20legata%20alla%20commemorazione%20dei%20defunti&location=Piazza%20Plebiscito%2C%20Terlizzi",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20della%20Quart%C3%A8cedde&dates=20261102T183000Z%2F20261102T203000Z&details=Sagra%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20Piazza%20Plebiscito%20%E2%80%A2%20Tradizione%20legata%20alla%20commemorazione%20dei%20defunti&location=Piazza%20Plebiscito%2C%20Terlizzi",
         "linkDettagliEvento": "https://www.terlizziviva.it/notizie/commemorazione-dei-defunti-e-sagra-della-quartecedde-il-programma-degli-appuntamenti/"
       },
       {
@@ -832,7 +661,7 @@
         "subtitle": "Giovedì 5 novembre • 16:00",
         "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261105T150000Z%2F20261105T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261105T150000Z%2F20261105T170000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
@@ -856,7 +685,7 @@
         "subtitle": "Venerdì 6 novembre • 16:00",
         "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261106T150000Z%2F20261106T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261106T150000Z%2F20261106T170000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
@@ -933,7 +762,7 @@
         "subtitle": "Sabato 7 novembre • 10:00",
         "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261107T090000Z%2F20261107T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261107T090000Z%2F20261107T110000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
@@ -949,7 +778,7 @@
         "subtitle": "Sabato 7 novembre • 18:30",
         "text": "Evento tradizionale • Adelfia • Montrone • Corteo storico e parata dei vessilli per i festeggiamenti di San Trifone",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20e%20vessilli&dates=20261107T173000Z%2F20261107T190000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Montrone%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli%20per%20i%20festeggiamenti%20di%20San%20Trifone&location=Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20e%20vessilli&dates=20261107T173000Z%2F20261107T183000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Montrone%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli%20per%20i%20festeggiamenti%20di%20San%20Trifone&location=Montrone%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -1004,7 +833,7 @@
         "subtitle": "Sabato 7 novembre",
         "text": "Sagra • Noci • Centro storico e gnostre • Vino novello, caldarroste, specialità pugliesi e musica popolare",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%2C%20Noci",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%20e%20gnostre%2C%20Noci",
         "linkDettagliEvento": "https://bacconellegnostre.it/"
       },
       {
@@ -1012,7 +841,7 @@
         "subtitle": "Domenica 8 novembre • 07:00",
         "text": "Mercatino • Adelfia • Centro storico di Montrone • Tradizionale fiera con bancarelle durante la festa patronale",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T120000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Tradizionale%20fiera%20con%20bancarelle%20durante%20la%20festa%20patronale&location=Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T080000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Tradizionale%20fiera%20con%20bancarelle%20durante%20la%20festa%20patronale&location=Centro%20storico%20di%20Montrone%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -1020,7 +849,7 @@
         "subtitle": "Domenica 8 novembre • 10:00",
         "text": "Mercatino • Bari • Nuovo Padiglione, Fiera del Levante • Fiera commerciale annuale con espositori del settore matrimoni",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261108T090000Z%2F20261108T200000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&dates=20261108T090000Z%2F20261108T110000Z&details=Mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%20%E2%80%A2%20Fiera%20commerciale%20annuale%20con%20espositori%20del%20settore%20matrimoni&location=Nuovo%20Padiglione%2C%20Fiera%20del%20Levante%2C%20Bari",
         "linkDettagliEvento": "https://www.promessisposi.info/"
       },
       {
@@ -1036,7 +865,7 @@
         "subtitle": "Domenica 8 novembre • 20:30",
         "text": "Live • Bari • Teatro Petruzzelli, corso Cavour 12 • Tutti i sogni ancora in volo: concerto e spettacolo di canzone italiana",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Ranieri&dates=20261108T193000Z%2F20261108T224500Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%20%E2%80%A2%20Tutti%20i%20sogni%20ancora%20in%20volo%3A%20concerto%20e%20spettacolo%20di%20canzone%20italiana&location=Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%2C%20Bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Ranieri&dates=20261108T193000Z%2F20261108T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%20%E2%80%A2%20Tutti%20i%20sogni%20ancora%20in%20volo%3A%20concerto%20e%20spettacolo%20di%20canzone%20italiana&location=Teatro%20Petruzzelli%2C%20corso%20Cavour%2012%2C%20Bari",
         "linkDettagliEvento": "https://auroraeventi.net/eventi/massimo-ranieri-tutti-i-sogni-ancora-in-volo-tour-bari-teatro-petruzzelli-08-11-2026-20-30/"
       },
       {
@@ -1044,7 +873,7 @@
         "subtitle": "Domenica 8 novembre • 20:30",
         "text": "Festa patronale • Adelfia • Centro storico di Montrone • Notte bianca Aspettando San Trifone, XVII edizione",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20-%20Notte%20Bianca&dates=20261108T193000Z%2F20261108T223000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Notte%20bianca%20Aspettando%20San%20Trifone%2C%20XVII%20edizione&location=Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20-%20Notte%20Bianca&dates=20261108T193000Z%2F20261108T213000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Notte%20bianca%20Aspettando%20San%20Trifone%2C%20XVII%20edizione&location=Centro%20storico%20di%20Montrone%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -1052,7 +881,7 @@
         "subtitle": "Domenica 8 novembre",
         "text": "Sagra • Noci • Centro storico e gnostre • Vino novello, caldarroste, specialità pugliesi e musica popolare",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%2C%20Noci",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20e%20gnostre%20%E2%80%A2%20Vino%20novello%2C%20caldarroste%2C%20specialit%C3%A0%20pugliesi%20e%20musica%20popolare&location=Centro%20storico%20e%20gnostre%2C%20Noci",
         "linkDettagliEvento": "https://bacconellegnostre.it/"
       },
       {
@@ -1060,7 +889,31 @@
         "subtitle": "Domenica 8 novembre",
         "text": "Sagra • Adelfia • Vie del centro storico di Montrone • Terza edizione della sagra dell'agnello e del vino novello",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20del%20novello&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Vie%20del%20centro%20storico%20di%20Montrone%20%E2%80%A2%20Terza%20edizione%20della%20sagra%20dell'agnello%20e%20del%20vino%20novello&location=Montrone%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20del%20novello&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Vie%20del%20centro%20storico%20di%20Montrone%20%E2%80%A2%20Terza%20edizione%20della%20sagra%20dell'agnello%20e%20del%20vino%20novello&location=Vie%20del%20centro%20storico%20di%20Montrone%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "Concerto Bandistico Rutigliano",
+        "subtitle": "Lunedì 9 novembre • 10:00",
+        "text": "Live • Adelfia • Cassa armonica, centro di Montrone • Gran Concerto Bandistico Città di Rutigliano per San Trifone; replica alle 17:30",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Concerto%20Bandistico%20Rutigliano&dates=20261109T090000Z%2F20261109T110000Z&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Cassa%20armonica%2C%20centro%20di%20Montrone%20%E2%80%A2%20Gran%20Concerto%20Bandistico%20Citt%C3%A0%20di%20Rutigliano%20per%20San%20Trifone%3B%20replica%20alle%2017%3A30&location=Cassa%20armonica%2C%20centro%20di%20Montrone%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "Sagra dell'agnello e del novello",
+        "subtitle": "Lunedì 9 novembre • 19:30",
+        "text": "Sagra • Adelfia • Centro storico di Montrone • Stand gastronomici con agnello arrosto e vino novello per la festa di San Trifone",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20del%20novello&dates=20261109T183000Z%2F20261109T203000Z&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20di%20Montrone%20%E2%80%A2%20Stand%20gastronomici%20con%20agnello%20arrosto%20e%20vino%20novello%20per%20la%20festa%20di%20San%20Trifone&location=Centro%20storico%20di%20Montrone%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/sagra-dellagnello-e-del-vino-novello/"
+      },
+      {
+        "title": "San Trifone - Vigilia",
+        "subtitle": "Lunedì 9 novembre • 19:30",
+        "text": "Festa patronale • Adelfia • Centro di Montrone • Processione del quadro, luminarie, mongolfiera e Notte delle Lanterne alle 21:00",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20-%20Vigilia&dates=20261109T183000Z%2F20261109T203000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20di%20Montrone%20%E2%80%A2%20Processione%20del%20quadro%2C%20luminarie%2C%20mongolfiera%20e%20Notte%20delle%20Lanterne%20alle%2021%3A00&location=Centro%20di%20Montrone%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       }
     ]
