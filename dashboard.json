@@ -1,13 +1,13 @@
 {
-  "lastModifiedDate": "2026-10-28T12:04:14.856Z",
+  "lastModifiedDate": "2026-10-28T12:16:28.899Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-10-28T12:04:14.856Z",
+    "lastModifiedDate": "2026-10-28T12:16:28.899Z",
     "items": [
       {
         "title": "Ad Infinitum",
         "subtitle": "Epic Games Store",
-        "text": "Horror psicologico in prima persona ambientato nelle trincee della Prima guerra mondiale, tra ricordi traumatici, creature inquietanti, esplorazione di scenari surreali ed enigmi. Riscattabile con Amazon Prime tramite Epic Games Store fino al 25 novembre 2026.",
+        "text": "Horror psicologico ambientato tra trincee della Grande Guerra e incubi surreali, con esplorazione in prima persona, enigmi ambientali e creature che incarnano i traumi del protagonista. Riscattabile con Amazon Prime tramite Epic Games Store fino al 25 novembre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": null,
@@ -19,7 +19,7 @@
       {
         "title": "Caravan SandWitch",
         "subtitle": "Amazon Games App",
-        "text": "Avventura esplorativa fantascientifica su un pianeta desertico: viaggia a bordo del furgone, incontra comunità locali, esplora rovine e cerca una persona scomparsa. Riscattabile con Amazon Prime tramite Amazon Games App fino al 16 dicembre 2026.",
+        "text": "Avventura esplorativa di fantascienza su un pianeta desertico, da attraversare con un furgone personalizzabile incontrando comunità, indagando sulle rovine e cercando una persona scomparsa. Riscattabile con Amazon Prime tramite Amazon Games App fino al 16 dicembre 2026.",
         "createdDate": "2026-10-15",
         "giveaway": false,
         "imageUrl": null,
@@ -31,7 +31,7 @@
       {
         "title": "Conarium",
         "subtitle": "GOG",
-        "text": "Avventura horror lovecraftiana ambientata in una base antartica: esplora stanze abbandonate, ricostruisci misteriosi esperimenti e risolvi enigmi tra sogno e realtà. Riscattabile con Amazon Prime tramite GOG fino al 11 novembre 2026.",
+        "text": "Avventura horror lovecraftiana in prima persona in una base antartica abbandonata, tra visioni inquietanti, misteri scientifici, esplorazione degli ambienti e rompicapi. Riscattabile con Amazon Prime tramite GOG fino al 11 novembre 2026.",
         "createdDate": "2026-10-08",
         "giveaway": false,
         "imageUrl": null,
@@ -43,7 +43,7 @@
       {
         "title": "DOOM",
         "subtitle": "GOG",
-        "text": "Sparatutto in prima persona del 2016 ambientato in una struttura marziana invasa dai demoni: combatti senza tregua con armi potenti e movimenti rapidi. Riscattabile con Amazon Prime tramite GOG fino al 4 novembre 2026.",
+        "text": "Sparatutto frenetico in prima persona ambientato su Marte, dove un marine combatte orde demoniache con armi devastanti, movimento continuo e scontri ravvicinati. Riscattabile con Amazon Prime tramite GOG fino al 4 novembre 2026.",
         "createdDate": "2026-10-01",
         "giveaway": false,
         "imageUrl": null,
@@ -55,7 +55,7 @@
       {
         "title": "Five Nights at Freddy's: Into the Pit",
         "subtitle": "Epic Games Store",
-        "text": "Horror narrativo in pixel art: esplora una pizzeria inquietante, viaggia tra passato e presente, evita gli animatroni e risolvi enigmi per sopravvivere. Riscattabile con Amazon Prime tramite Epic Games Store fino al 4 novembre 2026.",
+        "text": "Avventura horror in pixel art con un ragazzo intrappolato in una versione terrificante del passato, enigmi, esplorazione e fughe dagli animatronici assassini. Riscattabile con Amazon Prime tramite Epic Games Store fino al 4 novembre 2026.",
         "createdDate": "2026-10-01",
         "giveaway": false,
         "imageUrl": null,
@@ -67,7 +67,7 @@
       {
         "title": "Havendock",
         "subtitle": "Amazon Games App",
-        "text": "Gestionale di colonia oceanica in cui costruisci una comunità galleggiante, raccogli risorse, organizzi produzioni, esplori nuove tecnologie e accogli nuovi abitanti. Riscattabile con Amazon Prime tramite Amazon Games App fino al 28 ottobre 2026 alle 18:00.",
+        "text": "Gestionale di colonia rilassante su una piattaforma galleggiante nell'oceano, con costruzioni modulari, raccolta di risorse, ricerca tecnologica e gestione degli abitanti. Riscattabile con Amazon Prime tramite Amazon Games App fino al 28 ottobre 2026.",
         "createdDate": "2026-08-27",
         "giveaway": false,
         "imageUrl": null,
@@ -79,7 +79,7 @@
       {
         "title": "High on Life",
         "subtitle": "Epic Games Store",
-        "text": "Sparatutto fantascientifico in prima persona con armi parlanti e umorismo surreale: esplora mondi alieni, affronta cacciatori di taglie e libera l'umanità. Riscattabile con Amazon Prime tramite Epic Games Store fino al 28 ottobre 2026 alle 18:00.",
+        "text": "Sparatutto fantascientifico comico in prima persona con armi parlanti, pianeti alieni, esplorazione, missioni e combattimenti contro un cartello extraterrestre. Riscattabile con Amazon Prime tramite Epic Games Store fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
         "imageUrl": null,
@@ -91,7 +91,7 @@
       {
         "title": "Hue",
         "subtitle": "Epic Games Store",
-        "text": "Platform puzzle bidimensionale in un mondo monocromatico: cambia il colore dello scenario per modificare ostacoli, attraversare livelli e risolvere enigmi ambientali. Riscattabile con Amazon Prime tramite Epic Games Store fino al 28 ottobre 2026 alle 18:00.",
+        "text": "Platform puzzle bidimensionale in cui il protagonista cambia i colori dello scenario per far apparire o scomparire ostacoli, risolvere rompicapi e avanzare. Riscattabile con Amazon Prime tramite Epic Games Store fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
         "imageUrl": null,
@@ -103,7 +103,7 @@
       {
         "title": "The Da Vinci Cryptex",
         "subtitle": "Legacy Games",
-        "text": "Puzzle game ispirato ai codici di Leonardo da Vinci: osserva meccanismi, analizza indizi e risolvi rompicapi per aprire serrature e contenitori misteriosi. Riscattabile con Amazon Prime tramite Legacy Games fino al 28 ottobre 2026 alle 18:00.",
+        "text": "Raccolta di enigmi logici ispirati ai codici e alle invenzioni di Leonardo da Vinci, con meccanismi da manipolare, indizi nascosti e rompicapi progressivi. Riscattabile con Amazon Prime tramite Legacy Games fino al 28 ottobre 2026.",
         "createdDate": "2026-09-24",
         "giveaway": false,
         "imageUrl": null,
@@ -115,7 +115,7 @@
       {
         "title": "Time Travel: Escape Room Game",
         "subtitle": "Legacy Games",
-        "text": "Gioco di enigmi e stanze da cui fuggire attraverso diverse epoche: osserva ambienti, combina oggetti e risolvi puzzle per proseguire nell'avventura. Riscattabile con Amazon Prime tramite Legacy Games fino al 25 novembre 2026.",
+        "text": "Avventura a enigmi in ambientazioni di epoche differenti, con stanze da esplorare, oggetti da combinare e indizi da decifrare per riuscire a fuggire. Riscattabile con Amazon Prime tramite Legacy Games fino al 25 novembre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": null,
@@ -125,9 +125,9 @@
         "steamUrl": null
       },
       {
-        "title": "Vampire: The Masquerade – Swansong",
+        "title": "Vampire: The Masquerade - Swansong",
         "subtitle": "Epic Games Store",
-        "text": "Gioco di ruolo narrativo nel mondo vampiresco di Boston: controlla tre vampiri, investiga su una cospirazione e determina la storia attraverso dialoghi e decisioni. Riscattabile con Amazon Prime tramite Epic Games Store fino al 18 novembre 2026.",
+        "text": "Gioco di ruolo narrativo nel mondo oscuro dei vampiri di Boston, con tre protagonisti, dialoghi investigativi, scelte ramificate e uso di poteri soprannaturali. Riscattabile con Amazon Prime tramite Epic Games Store fino al 18 novembre 2026.",
         "createdDate": "2026-10-15",
         "giveaway": false,
         "imageUrl": null,
@@ -139,7 +139,7 @@
       {
         "title": "WarBreeds",
         "subtitle": "GOG",
-        "text": "Strategico in tempo reale fantascientifico con fazioni aliene rivali: costruisci basi, raccogli risorse, potenzia unità e combatti per il controllo dei territori. Riscattabile con Amazon Prime tramite GOG fino al 8 gennaio 2027.",
+        "text": "Strategico in tempo reale di fantascienza con fazioni aliene in guerra, costruzione di basi, raccolta di risorse e comando di unità sul campo. Riscattabile con Amazon Prime tramite GOG fino al 8 gennaio 2027.",
         "createdDate": "2026-10-08",
         "giveaway": false,
         "imageUrl": null,
@@ -151,7 +151,7 @@
       {
         "title": "Weakless",
         "subtitle": "GOG",
-        "text": "Avventura narrativa e puzzle ambientale in un mondo fantastico: guida due personaggi con capacità sensoriali differenti, coopera e ripristina l'equilibrio della natura. Riscattabile con Amazon Prime tramite GOG fino al 28 ottobre 2026 alle 18:00.",
+        "text": "Avventura puzzle ambientata in un mondo fiabesco, dove due creature dalle capacità complementari collaborano per esplorare, superare ostacoli e riportare equilibrio. Riscattabile con Amazon Prime tramite GOG fino al 28 ottobre 2026.",
         "createdDate": "2026-07-30",
         "giveaway": false,
         "imageUrl": null,
@@ -163,7 +163,7 @@
       {
         "title": "Zoria: Age of Shattering",
         "subtitle": "GOG",
-        "text": "Gioco di ruolo tattico fantasy con combattimenti a turni: guida un gruppo di eroi, esplora dungeon, gestisci l'avamposto e affronta minacce oscure. Riscattabile con Amazon Prime tramite GOG fino al 28 ottobre 2026 alle 18:00.",
+        "text": "Gioco di ruolo fantasy tattico con combattimenti a turni, esplorazione di dungeon, gestione di un gruppo di eroi e progressione delle abilità. Riscattabile con Amazon Prime tramite GOG fino al 28 ottobre 2026.",
         "createdDate": "2026-07-30",
         "giveaway": false,
         "imageUrl": null,
@@ -173,33 +173,9 @@
         "steamUrl": null
       },
       {
-        "title": "Sonic X Shadow Generations",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Platform d'azione tridimensionale con campagne dedicate a Sonic e Shadow: attraversa livelli ad alta velocità, usa abilità speciali e affronta sfide e boss. Giocabile in streaming con Prime su Luna Standard durante il ciclo di ottobre 2026.",
-        "createdDate": null,
-        "giveaway": false,
-        "imageUrl": null,
-        "link": "https://luna.amazon.com/",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
-      },
-      {
-        "title": "STAR WARS: Galactic Racer",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Gioco di corse fantascientifico nell'Orlo Esterno di Star Wars: gareggia in circuiti pericolosi, affronta rivali e costruisci una carriera nella lega clandestina. Giocabile in streaming con Prime su Luna Standard durante il ciclo di ottobre 2026.",
-        "createdDate": null,
-        "giveaway": false,
-        "imageUrl": null,
-        "link": "https://luna.amazon.com/",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
-      },
-      {
         "title": "Home - A Unique Horror Adventure",
         "subtitle": "Epic Games Store",
-        "text": "Avventura horror narrativa in pixel art: esplora una casa sconosciuta, indaga su un omicidio e modifica la storia attraverso interpretazioni e scelte. Riscattabile gratuitamente su Epic Games Store fino al 29 ottobre 2026.",
+        "text": "Avventura horror psicologica in pixel art in una casa misteriosa, con indagine su un omicidio, percorsi narrativi mutevoli, scelte personali e finali alternativi. Riscattabile gratis su Epic Games Store fino al 29 ottobre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": null,
@@ -211,7 +187,7 @@
       {
         "title": "Sker Ritual",
         "subtitle": "Epic Games Store",
-        "text": "Sparatutto survival horror in prima persona, in solitaria o cooperativa: affronta ondate di mostri su mappe oscure, migliora armi e completa obiettivi. Riscattabile gratuitamente su Epic Games Store fino al 29 ottobre 2026.",
+        "text": "Sparatutto horror cooperativo a ondate ambientato sull'isola di Sker nel 1914, con orde di mostri, armamenti potenziabili e poteri soprannaturali. Riscattabile gratis su Epic Games Store fino al 29 ottobre 2026.",
         "createdDate": "2026-10-22",
         "giveaway": false,
         "imageUrl": null,
@@ -221,25 +197,25 @@
         "steamUrl": null
       },
       {
-        "title": "MAFIA HOTEL",
-        "subtitle": "Epic Games Store",
-        "text": "Gioco multigiocatore di deduzione sociale ambientato in un hotel: fino a sedici persone discutono, votano e cercano di scoprire i mafiosi prima di morire. Riscattabile gratuitamente su Epic Games Store fino al 1 novembre 2026 alle 18:02.",
+        "title": "STAR WARS: Galactic Racer",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Gioco di corse fantascientifiche nell'Orlo Esterno della galassia, con competizioni clandestine ad alto rischio, piloti rivali e circuiti pericolosi. Disponibile in streaming con Amazon Luna Standard incluso in Prime; scadenza non annunciata.",
         "createdDate": null,
         "giveaway": false,
         "imageUrl": null,
-        "link": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
+        "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
         "steamRating": null,
         "steamPrice": null,
         "steamUrl": null
       },
       {
-        "title": "GetHigh.EXE",
-        "subtitle": "Epic Games Store",
-        "text": "Platform parkour tridimensionale in prima persona: affronta un percorso verticale a ostacoli, esegui salti precisi e cerca di raggiungere la cima. Riscattabile gratuitamente su Epic Games Store fino al 2 novembre 2026 alle 17:00.",
-        "createdDate": "2026-10-19",
+        "title": "SONIC X SHADOW GENERATIONS",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Platform d'azione con livelli bidimensionali e tridimensionali, che alterna Sonic classico, Sonic moderno e Shadow in campagne veloci con abilità speciali. Disponibile in streaming con Amazon Luna Standard incluso in Prime; scadenza non annunciata.",
+        "createdDate": null,
         "giveaway": false,
         "imageUrl": null,
-        "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
+        "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
         "steamRating": null,
         "steamPrice": null,
         "steamUrl": null
