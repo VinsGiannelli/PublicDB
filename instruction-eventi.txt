@@ -105,4 +105,4 @@ Se ricevi un conflitto SHA, rileggi la versione corrente, reinserisci soltanto l
 
 Se il write ha esito incerto, rileggi prima il file: se `eventi.lastModifiedDate` coincide con quella generata, non creare un secondo commit.
 
-Dopo il write rileggi il file da GitHub e verifica JSON, schema, conteggio, timestamp e conservazione delle altre sezioni. Riferisci commit SHA ed esito della verifica raw.
+Dopo il write rileggi il file da GitHub e verifica JSON, schema, conteggio, timestamp e conservazione delle altre sezioni. Riferisci commit SHA ed esito della rilettura GitHub. Non verificare l'URL raw.
