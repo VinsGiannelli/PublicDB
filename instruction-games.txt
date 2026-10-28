@@ -28,7 +28,7 @@ PROTEZIONE DELLE ALTRE SEZIONI
 
 RICERCA: COSA INCLUDERE
 - Epic Games Store: tutti i giochi completi attualmente gratuiti da riscattare e conservare.
-- Amazon Prime / Free Games with Prime: tutti i giochi ancora riscattabili in Italia, inclusi quelli iniziati nei mesi precedenti e non ancora scaduti. Verifica ogni titolo singolarmente.
+- Amazon Prime / Free Games with Prime: tutti i giochi individuati come ancora riscattabili, inclusi quelli iniziati nei mesi precedenti. Esamina ogni candidato singolarmente usando la migliore fonte disponibile. Se manca la pagina ufficiale, includi il candidato sulla base del fallback più attendibile, salvo prova concreta che sia scaduto o non disponibile in Italia.
 - Amazon Luna Standard: soltanto le nuove aggiunte del ciclo corrente realmente disponibili, non l'intero catalogo.
 - Steam: offerte temporanee Free-to-Keep di giochi completi che restano permanentemente in libreria. Includi anche offerte giornaliere; escludi weekend gratuiti, demo, DLC senza gioco base e F2P permanenti.
 
@@ -43,10 +43,19 @@ FLUSSO DI RICERCA RAPIDO
 6. Un errore di Amazon, Steam o di qualunque singolo provider non è un errore globale: completa sempre gli altri provider e pubblica tutti gli item verificati.
 
 GESTIONE DEI CASI INCERTI
-- Amazon: se la pagina di claim non funziona, usa una pagina ufficiale alternativa; se anche questa non è accessibile, usa la fonte non ufficiale più attendibile e recente. Per un titolo in scadenza oggi usa l'indicazione temporale più precisa disponibile e non escluderlo soltanto perché la pagina Amazon è in errore.
+- Amazon: se la pagina di claim non funziona, usa una pagina ufficiale alternativa; se anche questa non è accessibile, usa la fonte non ufficiale più attendibile e recente. Se neppure il fallback permette di determinare la scadenza, considera il gioco valido fino alle 23:59:59 Europe/Rome dell'ultimo giorno del mese e anno di `createdDate`. Dal mese successivo escludilo, salvo una fonte corrente che ne confermi ancora la disponibilità. Non escluderlo soltanto perché la pagina Amazon è in errore.
 - Steam: per stabilire se una promozione è Free-to-Keep permanente usa, in ordine, pagina Steam e package/licenza, SteamDB, tracker specializzato aggiornato, testata affidabile. Se le fonti discordano, scegli quella più recente, specifica e supportata da dati diretti; non escludere il titolo per il solo conflitto.
 - Ordine generale di affidabilità dei fallback: pagina alternativa del provider o publisher; database/tracker specializzato con dati e timestamp; testata riconosciuta con date esplicite; aggregatore aggiornato. Snippet di ricerca e liste storiche sono ultima scelta.
 - Non lasciare `dashboard.json` invariato e non escludere un candidato soltanto perché un provider è irraggiungibile o le fonti sono discordanti.
+
+CRITERIO DI COMPLETEZZA
+- La completezza significa avere eseguito l'intero flusso previsto su Epic, Prime, Luna e Steam, non avere ottenuto una conferma ufficiale perfetta per ogni titolo.
+- Dopo avere applicato i fallback, la ricerca è considerata completata e devi procedere al commit con la migliore fotografia attendibile disponibile.
+- Non usare frasi come `lista non completa`, `verifica insufficiente` o `impossibile confermare tutte le offerte` per evitare il commit.
+- Per Prime, un'offerta indicata come corrente da una fonte attendibile va inclusa se non esiste evidenza che sia scaduta o limitata fuori dall'Italia.
+- Per Amazon, se la scadenza non è reperibile nemmeno tramite fallback, applica la validità fino alla fine del mese di `createdDate`. Se l'esecuzione avviene nello stesso mese e anno, includi il gioco; dal mese successivo escludilo salvo conferma corrente.
+- La scadenza di fine mese è una regola operativa di fallback: non presentarla nel `text` come data ufficiale. Ometti semplicemente la scadenza dalla frase promozionale.
+- Se non risultano restrizioni geografiche documentate, non bloccare l'item per la sola impossibilità di provare esplicitamente la disponibilità italiana.
 
 CAMPI ESATTI DI OGNI ITEM
 `title`, `subtitle`, `text`, `createdDate`, `giveaway`, `imageUrl`, `link`, `steamRating`, `steamPrice`, `steamUrl`.
@@ -54,7 +63,7 @@ CAMPI ESATTI DI OGNI ITEM
 REGOLE DEI CAMPI
 - `title`: titolo canonico.
 - `subtitle`: esclusivamente la piattaforma reale. Usa preferibilmente `Amazon Luna Standard`, `Epic Games Store`, `Steam`, `GOG`, `Amazon Games App`, `Legacy Games`. Per Prime indica la piattaforma effettiva di riscatto, mai `Prime Gaming`.
-- `text`: prima una descrizione specifica in italiano di circa 20-35 parole con genere, ambientazione e gameplay; poi una frase breve con modalità di accesso/riscatto e scadenza verificata.
+- `text`: prima una descrizione specifica in italiano di circa 20-35 parole con genere, ambientazione e gameplay; poi una frase breve con modalità di accesso/riscatto. Aggiungi la scadenza quando reperibile; se non è determinabile, omettila senza escludere l'item.
 - `createdDate`: data effettiva di inizio della singola offerta o aggiunta Luna, formato `YYYY-MM-DD`. Non usare data di ricerca, annuncio o scadenza. Usa `null` solo se non accertabile dopo una ricerca mirata.
 - `giveaway`: `true` soltanto per Steam Free-to-Keep di un gioco completo con riscatto permanente e finestra promozionale non superiore a 24 ore. In tutti gli altri casi `false`.
 - `imageUrl`: URL HTTP/HTTPS diretto riferito al titolo, preferibilmente Steam header ufficiale verificato, altrimenti SteamDB; se non verificabile `null`. Non inventare path o timestamp.
@@ -75,8 +84,9 @@ VALIDAZIONE
 - I tre campi Steam possono essere tutti `null` esclusivamente quando è stata verificata l'assenza del titolo da Steam; non sono ammessi null causati da errori tecnici o ricerche interrotte.
 - Ogni offerta pubblicata risulta attiva secondo la fonte ufficiale oppure il fallback corrente ritenuto più attendibile.
 - `sport` ed `eventi` coincidono con l'ultima versione riletta prima del write.
-- La mancata copertura di un provider per errore tecnico non rende invalido l'intero array: pubblica gli item verificati degli altri provider.
-- Non pubblicare soltanto se il JSON è invalido, il merge danneggerebbe altre sezioni oppure non esiste alcuna fonte utilizzabile per nessun item.
+- La mancata copertura ufficiale di un provider per errore tecnico non rende invalido l'array: usa i fallback e pubblica la migliore fotografia disponibile.
+- L'incertezza residua su scadenza o disponibilità regionale di alcuni candidati non è motivo per saltare il commit.
+- Non pubblicare soltanto se il JSON finale è invalido o il merge danneggerebbe le altre sezioni. In ogni altro caso il commit è obbligatorio.
 
 WRITE GITHUB
 Aggiorna integralmente `dashboard.json` con `update_file` e la SHA fresca. Usa `create_file` solo se il file non esiste realmente.
