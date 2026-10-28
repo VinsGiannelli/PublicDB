@@ -1,0 +1,81 @@
+OBIETTIVO
+Aggiorna esclusivamente la sezione `sport` del file pubblico:
+- repository: `VinsGiannelli/PublicDB`
+- branch: `main`
+- file: `dashboard.json`
+- URL raw: `https://raw.githubusercontent.com/VinsGiannelli/PublicDB/main/dashboard.json`
+
+Usa il connettore GitHub autorizzato e fonti web/API pubbliche. Fuso operativo: `Europe/Rome`.
+
+SCHEMA DA RISPETTARE
+La root deve contenere esattamente, in quest'ordine:
+`lastModifiedDate`, `timezone`, `games`, `sport`, `eventi`.
+
+La sezione di competenza deve avere esclusivamente:
+{
+  "lastModifiedDate": "<UTC ISO-8601>",
+  "items": []
+}
+
+Non aggiungere `status`, `title`, `period` o altri campi.
+
+PROTEZIONE DELLE ALTRE SEZIONI
+1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido e acquisisci la blob SHA.
+2. I dati già presenti in `sport.items` sono obsoleti: non usarli come fonte e ricostruisci l'array completo.
+3. Non modificare mai `games`, `eventi`, `timezone` o le loro `lastModifiedDate`.
+4. Subito prima del salvataggio rileggi file e SHA. Inserisci la nuova sezione `sport` nell'ultima versione disponibile, preservando integralmente le altre sezioni.
+5. Imposta allo stesso istante UTC ISO-8601 sia la `lastModifiedDate` root sia `sport.lastModifiedDate`.
+
+INTERVALLO
+Calcola una sola volta l'intervallo da oggi a oggi + 14 giorni inclusi in `Europe/Rome`. Non pubblicare eventi fuori intervallo. L'intervallo non va scritto nel JSON.
+
+SPORT DA INCLUDERE
+- SSC Bari: tutte le partite ufficiali nel periodo.
+- Nazionale italiana maschile senior: tutte le gare ufficiali e amichevoli nel periodo.
+- Formula 1: tutte le sessioni ufficiali del weekend nel periodo, secondo il formato effettivo: FP1, FP2, FP3, Sprint Qualifying, Sprint, Qualifiche e Gara.
+
+Non inserire eventi territoriali, concerti, sagre o altri sport.
+
+FLUSSO DI RICERCA RAPIDO
+1. Consulta una fonte ufficiale per ciascun ambito: calendario SSC Bari/competizione, FIGC/UEFA/FIFA e Formula 1.
+2. Usa una seconda fonte solo per risolvere date, orari o formato discordanti.
+3. Recupera insieme tutte le gare/sessioni nell'intervallo; non eseguire una ricerca web separata per ogni item.
+4. Converti gli orari in `Europe/Rome` una sola volta, considerando ora legale/solare e distinguendo correttamente ora locale e UTC.
+
+CAMPI ESATTI DI OGNI ITEM
+`title`, `subtitle`, `text`, `logo`, `link`; `linkDettagliEvento` è facoltativo.
+
+Vietati campi aggiuntivi come `date`, `startTime`, `location`, `category` o `logoURL`.
+
+REGOLE DEI CAMPI
+- `title`: titolo breve della partita o sessione.
+- `subtitle`: data italiana, ad esempio `Venerdì 30 ottobre • 19:30`; ometti l'ora soltanto se non verificabile.
+- `text`: calcio `Competizione • Partita`; Formula 1 `Formula 1 • GP ... • Sessione`.
+- `logo`: esclusivamente `BA`, `ITA` o `F1`.
+- `link`: sempre e soltanto un URL Google Calendar precompilato. Titolo = `title`, descrizione = `text`, luogo = stadio/circuito e città se verificati. Con ora certa crea un evento temporizzato con durata ragionevole; senza ora crea un all-day di un giorno. Converti correttamente Europe/Rome e UTC.
+- `linkDettagliEvento`: URL HTTP/HTTPS specifico ufficiale o attendibile; omettilo se non verificabile.
+
+Ordina gli item cronologicamente usando data e ora effettive prima di generare `subtitle`.
+
+VALIDAZIONE
+- JSON parseabile e leggibile con indentazione.
+- Root e schema esatti.
+- Solo logo `BA`, `ITA`, `F1`.
+- Nessun evento fuori dai 15 giorni inclusivi.
+- Nessuna partita/sessione ufficiale mancante o duplicata.
+- Link Calendar coerenti con data, ora, titolo e luogo.
+- `games` ed `eventi` coincidono con l'ultima versione riletta prima del write.
+- Se i risultati appaiono troncati o inaffidabili, non pubblicarli e segnala il problema.
+
+WRITE GITHUB
+Aggiorna integralmente `dashboard.json` con `update_file` e la SHA fresca. Usa `create_file` solo se il file non esiste realmente.
+
+Commit message esattamente:
+`AUTO - gg/mm/aaaa - hh:mm`
+Data e ora del commit in `Europe/Rome`, sempre a due cifre, senza altro testo.
+
+Se ricevi un conflitto SHA, rileggi la versione corrente, reinserisci soltanto la sezione `sport` appena generata e riprova una sola volta. Se il secondo tentativo fallisce, non forzare la sovrascrittura.
+
+Se il write ha esito incerto, rileggi prima il file: se `sport.lastModifiedDate` coincide con quella generata, non creare un secondo commit.
+
+Dopo il write rileggi il file da GitHub e verifica JSON, schema, conteggio, timestamp e conservazione delle altre sezioni. Riferisci commit SHA ed esito della verifica raw.
