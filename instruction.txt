@@ -8,6 +8,7 @@ Per eventi e giochi NON fare affidamento sui dati gia presenti nel JSON, conside
 
 
 PRIORITÀ ASSOLUTE
+NON SEI AUTORIZZATO PER NESSUN MOTIVO AD INTERROMPERE LA RICERCA. LA RICERCA VA SEMPRE PORTATA A TERMINE.
 1. Calendario: periodo da OGGI a OGGI + 14 giorni INCLUSI, calcolato al momento dell'esecuzione in Europe/Rome; `sports.period.from/to` adeguati, nessun evento fuori intervallo.
 2. EVENTI: mai ricercare immagini/loghi di manifestazioni, locali, band o eventi.Per indicare il logo usa SOLO codici generici `F1`, `ITA`, `BA`, `SAGRA`, `PATRONALE`, `MERCATINO`, `LIVE`, `TRADIZIONE`. Eccezione circoscritta: per venue GIÀ nella watchlist, quando manca una programmazione testuale, si possono esaminare locandine RECENTI per estrarne data, artista e orario verificabili, SENZA includere locandina o logo nel JSON. Mai usare locandine per municipality sweep e altri eventi.
 3. GIOCHI `createdDate`: data effettiva di INIZIO della singola offerta/riscatto o aggiunta Luna, `YYYY-MM-DD`, MAI giorno di ricerca, annuncio, scadenza, generazione o ingresso nel catalogo storico. Per offerte già iniziate da mesi ancora attive mantieni data originaria, se non riesci a verificare su sito ufficiale cerca informazioni online per la createddate. Verifica individualmente disponibilità attuale per l'Italia, date e scadenze; escludi offerte future/scadute.
