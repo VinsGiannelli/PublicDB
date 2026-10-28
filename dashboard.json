@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-10-28T12:16:28.899Z",
+  "lastModifiedDate": "2026-10-28T12:19:10.665Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-10-28T12:16:28.899Z",
+    "lastModifiedDate": "2026-10-28T12:19:10.665Z",
     "items": [
       {
         "title": "Ad Infinitum",
@@ -12,9 +12,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "75%",
+        "steamPrice": "$2.49",
+        "steamUrl": "https://store.steampowered.com/app/1234430/"
       },
       {
         "title": "Caravan SandWitch",
@@ -24,9 +24,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "83%",
+        "steamPrice": "24,99€",
+        "steamUrl": "https://store.steampowered.com/app/1582650/"
       },
       {
         "title": "Conarium",
@@ -36,9 +36,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "74%",
+        "steamPrice": "$2.99",
+        "steamUrl": "https://store.steampowered.com/app/313780/"
       },
       {
         "title": "DOOM",
@@ -48,9 +48,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "94%",
+        "steamPrice": "19,99€",
+        "steamUrl": "https://store.steampowered.com/app/379720/"
       },
       {
         "title": "Five Nights at Freddy's: Into the Pit",
@@ -60,9 +60,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "93%",
+        "steamPrice": "19,50€",
+        "steamUrl": "https://store.steampowered.com/app/2638370/"
       },
       {
         "title": "Havendock",
@@ -72,9 +72,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "76%",
+        "steamPrice": "$19.99",
+        "steamUrl": "https://store.steampowered.com/app/2020710/"
       },
       {
         "title": "High on Life",
@@ -84,9 +84,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "89%",
+        "steamPrice": "$39.99",
+        "steamUrl": "https://store.steampowered.com/app/1583230/"
       },
       {
         "title": "Hue",
@@ -96,9 +96,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "90%",
+        "steamPrice": "$14.99",
+        "steamUrl": "https://store.steampowered.com/app/383270/"
       },
       {
         "title": "The Da Vinci Cryptex",
@@ -108,9 +108,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "53%",
+        "steamPrice": "4,89€",
+        "steamUrl": "https://store.steampowered.com/app/2666270/"
       },
       {
         "title": "Time Travel: Escape Room Game",
@@ -120,9 +120,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "57%",
+        "steamPrice": "8,99€",
+        "steamUrl": "https://store.steampowered.com/app/3094600/"
       },
       {
         "title": "Vampire: The Masquerade - Swansong",
@@ -132,9 +132,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "61%",
+        "steamPrice": "19,99€",
+        "steamUrl": "https://store.steampowered.com/app/1299510/"
       },
       {
         "title": "WarBreeds",
@@ -144,9 +144,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "71%",
+        "steamPrice": "2,99€",
+        "steamUrl": "https://store.steampowered.com/app/2464660/"
       },
       {
         "title": "Weakless",
@@ -156,9 +156,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "69%",
+        "steamPrice": "12,25€",
+        "steamUrl": "https://store.steampowered.com/app/1072620/"
       },
       {
         "title": "Zoria: Age of Shattering",
@@ -168,9 +168,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "74%",
+        "steamPrice": "24,50€",
+        "steamUrl": "https://store.steampowered.com/app/1159090/"
       },
       {
         "title": "Home - A Unique Horror Adventure",
@@ -180,9 +180,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://store.epicgames.com/p/home-19212a",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "65%",
+        "steamPrice": "$0.79",
+        "steamUrl": "https://store.steampowered.com/app/215670/"
       },
       {
         "title": "Sker Ritual",
@@ -192,9 +192,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://store.epicgames.com/p/sker-ritual-aac702",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "79%",
+        "steamPrice": "$6.79",
+        "steamUrl": "https://store.steampowered.com/app/1492070/"
       },
       {
         "title": "STAR WARS: Galactic Racer",
@@ -204,9 +204,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "85%",
+        "steamPrice": "59,99€",
+        "steamUrl": "https://store.steampowered.com/app/4078430/"
       },
       {
         "title": "SONIC X SHADOW GENERATIONS",
@@ -216,9 +216,9 @@
         "giveaway": false,
         "imageUrl": null,
         "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
-        "steamRating": null,
-        "steamPrice": null,
-        "steamUrl": null
+        "steamRating": "94%",
+        "steamPrice": "49,99€",
+        "steamUrl": "https://store.steampowered.com/app/2513280/"
       }
     ]
   },
