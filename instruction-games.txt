@@ -21,7 +21,7 @@ Non aggiungere `status`, `title`, `period` o altri campi.
 
 PROTEZIONE DELLE ALTRE SEZIONI
 1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido e acquisisci la blob SHA.
-2. I dati già presenti in `games.items` sono obsoleti: non usarli come fonte e ricostruisci l'array completo.
+2. I dati già presenti in `games.items` non dimostrano che un'offerta sia ancora attiva. Puoi usarne i titoli soltanto come lista di candidati quando una fonte è temporaneamente irraggiungibile, ma ogni item pubblicato deve essere confermato da fonti correnti.
 3. Non modificare mai `sport`, `eventi`, `timezone` o le loro `lastModifiedDate`.
 4. Subito prima del salvataggio rileggi file e SHA. Inserisci la nuova sezione `games` nell'ultima versione disponibile, preservando integralmente le altre sezioni.
 5. Imposta allo stesso istante UTC ISO-8601 sia la `lastModifiedDate` root sia `games.lastModifiedDate`.
@@ -32,14 +32,21 @@ RICERCA: COSA INCLUDERE
 - Amazon Luna Standard: soltanto le nuove aggiunte del ciclo corrente realmente disponibili, non l'intero catalogo.
 - Steam: offerte temporanee Free-to-Keep di giochi completi che restano permanentemente in libreria. Includi anche offerte giornaliere; escludi weekend gratuiti, demo, DLC senza gioco base e F2P permanenti.
 
-Escludi offerte future, scadute, non disponibili in Italia o non verificabili.
+Escludi soltanto offerte che una fonte attendibile indica come future, scadute o non disponibili in Italia. Un errore della fonte ufficiale o un conflitto tra fonti non è motivo sufficiente per escludere un candidato: completa i dati usando il fallback più attendibile disponibile.
 
 FLUSSO DI RICERCA RAPIDO
-1. Ricava una sola lista di candidati dalle pagine ufficiali dei provider.
+1. Ricava una sola lista di candidati dalle pagine ufficiali dei provider. Se una pagina ufficiale restituisce un errore tecnico, prova una sola volta un endpoint o una pagina ufficiale alternativa e poi passa ai fallback.
 2. Elimina subito duplicati, offerte future/scadute e contenuti esclusi.
 3. Approfondisci soltanto i candidati rimasti: pagina ufficiale dell'offerta, pagina del gioco e dati Steam/SteamDB.
-4. Usa una fonte secondaria solo se manca un dato necessario o le fonti sono in conflitto. Non ripetere ricerche già concluse.
+4. Se la verifica ufficiale non è accessibile, usa la fonte non ufficiale ritenuta più attendibile, corrente e specifica per titolo, piattaforma e scadenza. Quando è rapido, confrontala con un secondo riscontro, ma non renderlo obbligatorio e non bloccare l'item se manca.
 5. Se un dato facoltativo non è verificabile, usa `null`; non prolungare la ricerca e non inventarlo.
+6. Un errore di Amazon, Steam o di qualunque singolo provider non è un errore globale: completa sempre gli altri provider e pubblica tutti gli item verificati.
+
+GESTIONE DEI CASI INCERTI
+- Amazon: se la pagina di claim non funziona, usa una pagina ufficiale alternativa; se anche questa non è accessibile, usa la fonte non ufficiale più attendibile e recente. Per un titolo in scadenza oggi usa l'indicazione temporale più precisa disponibile e non escluderlo soltanto perché la pagina Amazon è in errore.
+- Steam: per stabilire se una promozione è Free-to-Keep permanente usa, in ordine, pagina Steam e package/licenza, SteamDB, tracker specializzato aggiornato, testata affidabile. Se le fonti discordano, scegli quella più recente, specifica e supportata da dati diretti; non escludere il titolo per il solo conflitto.
+- Ordine generale di affidabilità dei fallback: pagina alternativa del provider o publisher; database/tracker specializzato con dati e timestamp; testata riconosciuta con date esplicite; aggregatore aggiornato. Snippet di ricerca e liste storiche sono ultima scelta.
+- Non lasciare `dashboard.json` invariato e non escludere un candidato soltanto perché un provider è irraggiungibile o le fonti sono discordanti.
 
 CAMPI ESATTI DI OGNI ITEM
 `title`, `subtitle`, `text`, `createdDate`, `giveaway`, `imageUrl`, `link`, `steamRating`, `steamPrice`, `steamUrl`.
@@ -63,9 +70,10 @@ VALIDAZIONE
 - Root e schema esatti.
 - Nessun campo mancante negli item.
 - Nessun titolo duplicato.
-- Tutte le offerte risultano attive al momento della verifica.
+- Ogni offerta pubblicata risulta attiva secondo la fonte ufficiale oppure il fallback corrente ritenuto più attendibile.
 - `sport` ed `eventi` coincidono con l'ultima versione riletta prima del write.
-- Se l'array generato è vuoto o appare incompleto per errore di ricerca, non pubblicarlo e segnala il problema.
+- La mancata copertura di un provider per errore tecnico non rende invalido l'intero array: pubblica gli item verificati degli altri provider.
+- Non pubblicare soltanto se il JSON è invalido, il merge danneggerebbe altre sezioni oppure non esiste alcuna fonte utilizzabile per nessun item.
 
 WRITE GITHUB
 Aggiorna integralmente `dashboard.json` con `update_file` e la SHA fresca. Usa `create_file` solo se il file non esiste realmente.
