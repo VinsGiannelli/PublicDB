@@ -75,6 +75,16 @@ REGOLE DEI CAMPI
 
 Per i dati Steam usa questa catena di fallback senza fermarti al primo errore: Steam Store e relativo endpoint/app page; `https://steamdb.info`; tracker prezzi o statistiche Steam specializzato; aggregatore attendibile; cache recente. Scegli il dato più recente e specifico. Non inventare valutazioni, prezzi, AppID o URL.
 
+ULTIMA OPERAZIONE DI RICERCA: RICONTROLLO STEAMDB
+Prima della validazione e del write, esegui obbligatoriamente un ultimo passaggio puntuale su SteamDB per ogni singolo item dell'array finale:
+1. Cerca il gioco per titolo esatto; se necessario prova varianti del titolo e verifica il publisher per evitare omonimie.
+2. Se trovi una corrispondenza, verifica l'AppID e completa `steamUrl`, `steamRating` e `steamPrice` ancora `null` usando i dati SteamDB più recenti disponibili.
+3. Se `imageUrl` è `null` e SteamDB permette di individuare l'header corretto del gioco, completa anche `imageUrl` con l'URL verificato.
+4. Non considerare concluso il passaggio finché ogni item è stato controllato individualmente.
+5. Dopo questo ricontrollo, i tre campi Steam possono restare tutti `null` soltanto per un titolo che non risulta esistere su Steam. Un errore precedente di Steam o di un'altra fonte non giustifica valori `null`.
+
+Questo è l'ultimo passaggio di ricerca: dopo di esso esegui soltanto validazione, merge e write GitHub.
+
 VALIDAZIONE
 - JSON parseabile e leggibile con indentazione.
 - Root e schema esatti.
