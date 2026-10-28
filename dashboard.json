@@ -1,46 +1,6 @@
 {
   "generatedAt": "2026-10-27T08:31:31.118Z",
   "timezone": "Europe/Rome",
-  "whatchlist": [
-    "Midnight Pub Live — Matera",
-    "Chorìa - Note di Puglia — Bari",
-    "Black Horses Pub — Bari",
-    "Malto's — Bari",
-    "La DolceVita Live — Bari",
-    "Crossroad Saloon — Bari",
-    "Nevermind Music Club — Bari",
-    "Summit Club — Bari",
-    "Fix it Culture - City Club — Bari",
-    "Mulata Latin Social Club — Bari",
-    "Central Pub — Matera",
-    "14th American Pub — Matera",
-    "AREA 8 — Matera",
-    "Pecora Nera Country Pub — Cassano delle Murge",
-    "Casa delle Arti — Conversano",
-    "Agrobistrot — Fasano",
-    "Palazzo Pesce — Mola di Bari",
-    "Cittadella degli Artisti — Molfetta",
-    "Teatro Forma — Bari",
-    "Officina degli Esordi — Bari",
-    "Libreria Prinz Zaum — Bari",
-    "Caffè d'arte Dolceamaro — Bari",
-    "Teatro Bravò — Bari",
-    "Santo Graal — Trani"
-  ],
-  "blacklist": [
-    "Duke Jazz Club — Bari",
-    "jazz",
-    "fusion jazz",
-    "jam jazz",
-    "jazz trio",
-    "jazz quartet",
-    "jazz tribute",
-    "palaflorio",
-    "Eremo Club",
-    "Eremo Club — Molfetta",
-    "Palatour",
-    "Palatour — Bitritto"
-  ],
   "games": {
     "status": "ok",
     "title": "Giochi gratuiti e inclusi",
@@ -263,13 +223,159 @@
       }
     ]
   },
-  "sports": {
+  "sport": {
+    "status": "ok",
+    "title": "Sport",
+    "period": {
+      "from": "2026-10-27",
+      "to": "2026-11-10"
+    },
+    "items": [
+      {
+        "title": "GP Messico – Prove libere 1",
+        "subtitle": "Venerdì 30 ottobre • 19:30",
+        "text": "Formula 1 • GP del Messico • Prove libere 1",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%201&dates=20261030T183000Z%2F20261030T193000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      },
+      {
+        "title": "GP Messico – Prove libere 2",
+        "subtitle": "Venerdì 30 ottobre • 23:00",
+        "text": "Formula 1 • GP del Messico • Prove libere 2",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%202&dates=20261030T220000Z%2F20261030T230000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      },
+      {
+        "title": "Bari – Scafatese",
+        "subtitle": "Sabato 31 ottobre • 14:30",
+        "text": "Serie C, girone C • Bari–Scafatese",
+        "logo": "BA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20%E2%80%93%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%2C%20girone%20C%20%E2%80%A2%20Bari%E2%80%93Scafatese&location=Stadio%20San%20Nicola%2C%20Bari",
+        "linkDettagliEvento": "https://www.labaricalcio.it/2026/09/18/bari-le-date-in-campionato-in-anticipo-a-caserta-derby-con-il-foggia-al-sabato/"
+      },
+      {
+        "title": "GP Messico – Prove libere 3",
+        "subtitle": "Sabato 31 ottobre • 18:30",
+        "text": "Formula 1 • GP del Messico • Prove libere 3",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%203&dates=20261031T173000Z%2F20261031T183000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      },
+      {
+        "title": "GP Messico – Qualifiche",
+        "subtitle": "Sabato 31 ottobre • 22:00",
+        "text": "Formula 1 • GP del Messico • Qualifiche",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Qualifiche&dates=20261031T210000Z%2F20261031T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      },
+      {
+        "title": "GP Messico – Gara",
+        "subtitle": "Domenica 1 novembre • 21:00",
+        "text": "Formula 1 • GP del Messico • Gara",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Gara&dates=20261101T200000Z%2F20261101T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      },
+      {
+        "title": "GP Brasile – Prove libere 1",
+        "subtitle": "Venerdì 6 novembre • 16:30",
+        "text": "Formula 1 • GP di São Paulo • Prove libere 1",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%201&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "GP Brasile – Prove libere 2",
+        "subtitle": "Venerdì 6 novembre • 20:00",
+        "text": "Formula 1 • GP di São Paulo • Prove libere 2",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%202&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "GP Brasile – Prove libere 3",
+        "subtitle": "Sabato 7 novembre • 15:30",
+        "text": "Formula 1 • GP di São Paulo • Prove libere 3",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "GP Brasile – Qualifiche",
+        "subtitle": "Sabato 7 novembre • 19:00",
+        "text": "Formula 1 • GP di São Paulo • Qualifiche",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "GP Brasile – Gara",
+        "subtitle": "Domenica 8 novembre • 18:00",
+        "text": "Formula 1 • GP di São Paulo • Gara",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+      },
+      {
+        "title": "Picerno – Bari",
+        "subtitle": "Lunedì 9 novembre • 20:30",
+        "text": "Serie C, girone C • Picerno–Bari",
+        "logo": "BA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20%E2%80%93%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%2C%20girone%20C%20%E2%80%A2%20Picerno%E2%80%93Bari&location=Picerno",
+        "linkDettagliEvento": "https://www.labaricalcio.it/2026/09/18/bari-le-date-in-campionato-in-anticipo-a-caserta-derby-con-il-foggia-al-sabato/"
+      }
+    ]
+  },
+  "eventi": {
     "status": "ok",
     "title": "Eventi",
     "period": {
       "from": "2026-10-27",
       "to": "2026-11-10"
     },
+    "watchlist": [
+      "Midnight Pub Live — Matera",
+      "Chorìa - Note di Puglia — Bari",
+      "Black Horses Pub — Bari",
+      "Malto's — Bari",
+      "La DolceVita Live — Bari",
+      "Crossroad Saloon — Bari",
+      "Nevermind Music Club — Bari",
+      "Summit Club — Bari",
+      "Fix it Culture - City Club — Bari",
+      "Mulata Latin Social Club — Bari",
+      "Central Pub — Matera",
+      "14th American Pub — Matera",
+      "AREA 8 — Matera",
+      "Pecora Nera Country Pub — Cassano delle Murge",
+      "Casa delle Arti — Conversano",
+      "Agrobistrot — Fasano",
+      "Palazzo Pesce — Mola di Bari",
+      "Cittadella degli Artisti — Molfetta",
+      "Teatro Forma — Bari",
+      "Officina degli Esordi — Bari",
+      "Libreria Prinz Zaum — Bari",
+      "Caffè d'arte Dolceamaro — Bari",
+      "Teatro Bravò — Bari",
+      "Santo Graal — Trani"
+    ],
+    "blacklist": [
+      "Duke Jazz Club — Bari",
+      "jazz",
+      "fusion jazz",
+      "jam jazz",
+      "jazz trio",
+      "jazz quartet",
+      "jazz tribute",
+      "palaflorio",
+      "Eremo Club",
+      "Eremo Club — Molfetta",
+      "Palatour",
+      "Palatour — Bitritto"
+    ],
     "items": [
       {
         "title": "Lucio e Lucio – Dalla e Battisti",
@@ -286,14 +392,6 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Recital%20lirico%20Eva%20Mei&dates=20261029T190000Z%2F20261029T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Recital%20degli%20allievi%20di%20Eva%20Mei%20e%20Michele%20D'Elia&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari",
         "linkDettagliEvento": "https://anyplans.in/bari/locali/palazzo-pesce/"
-      },
-      {
-        "title": "GP Messico – Prove libere 1",
-        "subtitle": "Venerdì 30 ottobre • 19:30",
-        "text": "Formula 1 • GP del Messico • Prove libere 1",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%201&dates=20261030T183000Z%2F20261030T193000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
         "title": "Dettagli… senza fine",
@@ -320,14 +418,6 @@
         "linkDettagliEvento": "https://www.teatroforma.org/"
       },
       {
-        "title": "GP Messico – Prove libere 2",
-        "subtitle": "Venerdì 30 ottobre • 23:00",
-        "text": "Formula 1 • GP del Messico • Prove libere 2",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%202&dates=20261030T220000Z%2F20261030T230000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
-      },
-      {
         "title": "LIVE JAM – System of a Down",
         "subtitle": "Venerdì 30 ottobre",
         "text": "Live • Matera • Midnight Pub Live • Concerto tributo ai System of a Down",
@@ -352,22 +442,6 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/"
       },
       {
-        "title": "Bari – Scafatese",
-        "subtitle": "Sabato 31 ottobre • 14:30",
-        "text": "Serie C, girone C • Bari–Scafatese",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20%E2%80%93%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%2C%20girone%20C%20%E2%80%A2%20Bari%E2%80%93Scafatese&location=Stadio%20San%20Nicola%2C%20Bari",
-        "linkDettagliEvento": "https://www.labaricalcio.it/2026/09/18/bari-le-date-in-campionato-in-anticipo-a-caserta-derby-con-il-foggia-al-sabato/"
-      },
-      {
-        "title": "GP Messico – Prove libere 3",
-        "subtitle": "Sabato 31 ottobre • 18:30",
-        "text": "Formula 1 • GP del Messico • Prove libere 3",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%203&dates=20261031T173000Z%2F20261031T183000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
-      },
-      {
         "title": "Happy Days Music Band",
         "subtitle": "Sabato 31 ottobre • 21:30",
         "text": "Live • Bari • La DolceVita Live • Concerto della Happy Days Music Band",
@@ -382,14 +456,6 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SGT.%20FLY%20%2B%20SCURE&dates=20261031T203000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Serata%20rock%20con%20due%20gruppi&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge",
         "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/333621.html"
-      },
-      {
-        "title": "GP Messico – Qualifiche",
-        "subtitle": "Sabato 31 ottobre • 22:00",
-        "text": "Formula 1 • GP del Messico • Qualifiche",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Qualifiche&dates=20261031T210000Z%2F20261031T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
       },
       {
         "title": "Cult of Smiths – The Smiths",
@@ -424,14 +490,6 @@
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/fiera-di-ognissanti-e-villaggio-medievale-70737"
       },
       {
-        "title": "GP Messico – Gara",
-        "subtitle": "Domenica 1 novembre • 21:00",
-        "text": "Formula 1 • GP del Messico • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Gara&dates=20261101T200000Z%2F20261101T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
-      },
-      {
         "title": "HalloWine",
         "subtitle": "Domenica 1 novembre",
         "text": "Sagra • Casamassima • Evento enogastronomico tra degustazioni e vini",
@@ -454,22 +512,6 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic%20%E2%80%93%20Dalla%20e%20De%20Gregori&dates=20261104T200000Z%2F20261104T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Omaggio%20a%20Dalla%2C%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari",
         "linkDettagliEvento": "https://anyplans.in/bari/locali/palazzo-pesce/"
-      },
-      {
-        "title": "GP Brasile – Prove libere 1",
-        "subtitle": "Venerdì 6 novembre • 16:30",
-        "text": "Formula 1 • GP di São Paulo • Prove libere 1",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%201&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
-      },
-      {
-        "title": "GP Brasile – Prove libere 2",
-        "subtitle": "Venerdì 6 novembre • 20:00",
-        "text": "Formula 1 • GP di São Paulo • Prove libere 2",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%202&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
         "title": "EMAN – Magarìa Club Tour",
@@ -504,28 +546,12 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/bari/la-dolcevita-live"
       },
       {
-        "title": "GP Brasile – Prove libere 3",
-        "subtitle": "Sabato 7 novembre • 15:30",
-        "text": "Formula 1 • GP di São Paulo • Prove libere 3",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
-      },
-      {
         "title": "Corteo storico di San Trifone",
         "subtitle": "Sabato 7 novembre • 18:30",
         "text": "Evento tradizionale • Adelfia • Corteo storico e parata dei vessilli",
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20di%20San%20Trifone&dates=20261107T173000Z%2F20261107T190000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli&location=Centro%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "GP Brasile – Qualifiche",
-        "subtitle": "Sabato 7 novembre • 19:00",
-        "text": "Formula 1 • GP di São Paulo • Qualifiche",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
         "title": "Quelli del Clan – Mina e Celentano",
@@ -542,14 +568,6 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T160000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Fiera%20tradizionale%20in%20occasione%20della%20festa%20patronale&location=Centro%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "GP Brasile – Gara",
-        "subtitle": "Domenica 8 novembre • 18:00",
-        "text": "Formula 1 • GP di São Paulo • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
       },
       {
         "title": "Notte Bianca di San Trifone",
@@ -582,14 +600,6 @@
         "logo": "PATRONALE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&dates=20261109T183000Z%2F20261109T210000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20%E2%80%A2%20Luminarie%2C%20processione%20del%20quadro%20e%20lancio%20della%20mongolfiera&location=Centro%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Picerno – Bari",
-        "subtitle": "Lunedì 9 novembre • 20:30",
-        "text": "Serie C, girone C • Picerno–Bari",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20%E2%80%93%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%2C%20girone%20C%20%E2%80%A2%20Picerno%E2%80%93Bari&location=Picerno",
-        "linkDettagliEvento": "https://www.labaricalcio.it/2026/09/18/bari-le-date-in-campionato-in-anticipo-a-caserta-derby-con-il-foggia-al-sabato/"
       },
       {
         "title": "La notte delle lanterne",
