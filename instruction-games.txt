@@ -19,6 +19,12 @@ La sezione di competenza deve avere esclusivamente:
 
 Non aggiungere `status`, `title`, `period` o altri campi.
 
+GATE OBBLIGATORIO PRIMA DEL WRITE
+- Conta gli item con `imageUrl:null` o vuoto: il risultato deve essere sempre `0`. Sostituisci immediatamente ogni residuo con il placeholder deterministico basato sul titolo.
+- Per ogni item con uno dei campi Steam a `null`, esegui la procedura AppID/API descritta sotto. Se esiste un AppID corrispondente, `steamUrl`, `steamRating` e `steamPrice` devono essere tutti valorizzati.
+- I tre campi Steam possono essere tutti `null` solo quando non esiste un AppID corrispondente. Non dichiarare assente un gioco soltanto perché Steam o SteamDB hanno restituito un errore.
+- Non serializzare e non inviare a GitHub il payload finché questo gate non è soddisfatto. Il fallback placeholder rende il controllo immagini sempre risolvibile e non bloccante.
+
 PROTEZIONE DELLE ALTRE SEZIONI
 1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido e acquisisci la blob SHA.
 2. I dati già presenti in `games.items` non dimostrano che un'offerta sia ancora attiva. Puoi usarne i titoli soltanto come lista di candidati quando una fonte è temporaneamente irraggiungibile. Conserva inoltre una mappa temporanea `titolo -> imageUrl precedente`, utilizzabile esclusivamente come fallback immagine.
@@ -66,22 +72,32 @@ REGOLE DEI CAMPI
 - `text`: prima una descrizione specifica in italiano di circa 20-35 parole con genere, ambientazione e gameplay; poi una frase breve con modalità di accesso/riscatto. Aggiungi la scadenza quando reperibile; se non è determinabile, omettila senza escludere l'item.
 - `createdDate`: data effettiva di inizio della singola offerta o aggiunta Luna, formato `YYYY-MM-DD`. Non usare data di ricerca, annuncio o scadenza. Usa `null` solo se non accertabile dopo una ricerca mirata.
 - `giveaway`: `true` soltanto per Steam Free-to-Keep di un gioco completo con riscatto permanente e finestra promozionale non superiore a 24 ore. In tutti gli altri casi `false`.
-- `imageUrl`: obbligatorio e mai `null`. Usa un URL HTTP/HTTPS diretto. Cerca in ordine: Steam header ufficiale; SteamDB; artwork/Open Graph della piattaforma reale di riscatto; sito del publisher; database videoludico attendibile; risultato immagine proveniente da una pagina che identifica chiaramente il titolo; `imageUrl` precedente dello stesso gioco. Come ultima risorsa usa un'immagine ufficiale generica della piattaforma reale. Non inventare path o timestamp.
+- `imageUrl`: obbligatorio e mai `null`. Usa prima `header_image` restituito dall'API Steam per l'AppID verificato, poi SteamDB, artwork/Open Graph della piattaforma reale, publisher, database videoludico, risultato immagine chiaramente associato al titolo e immagine precedente. Se tutti i tentativi falliscono, usa obbligatoriamente `https://placehold.co/460x215?text=<TITOLO_URL_ENCODED>`. Il placeholder è preferibile a `null` e non deve bloccare il commit.
 - `link`: URL ufficiale specifico dell'offerta o del gioco. Per Prime preferisci il link diretto di claim; pagina generica solo come fallback.
 - `steamRating`: se il gioco esiste su Steam è obbligatoria, non può essere `null` e deve essere una percentuale intera con simbolo `%`. Cerca in ordine: pagina Steam, SteamDB, tracker specializzato, aggregatore attendibile o pagina cache recente.
 - `steamPrice`: se il gioco esiste su Steam è obbligatorio e non può essere `null`. Cerca in ordine: prezzo Steam corrente per Italia/area euro, SteamDB, tracker prezzi specializzato, aggregatore attendibile o pagina cache recente. Mantieni valuta e formato della fonte; usa `Gratis` se il gioco è gratuito e `Non disponibile` soltanto se la pagina Steam esiste ma il gioco non è acquistabile.
 - `steamUrl`: se il gioco esiste su Steam è obbligatorio e deve essere l'URL specifico verificato tramite titolo/AppID. Non inventare AppID o URL.
 - Soltanto dopo avere verificato che il titolo non esiste realmente su Steam, imposta insieme `steamRating`, `steamPrice` e `steamUrl` a `null`.
 
-Per i dati Steam usa questa catena di fallback senza fermarti al primo errore: Steam Store e relativo endpoint/app page; `https://steamdb.info`; tracker prezzi o statistiche Steam specializzato; aggregatore attendibile; cache recente. Scegli il dato più recente e specifico. Non inventare valutazioni, prezzi, AppID o URL.
+PROCEDURA DETERMINISTICA PER I DATI STEAM
+Per ogni gioco esegui questi passaggi, senza limitarti a una ricerca generica:
+1. Cerca l'AppID con Steam Store Search/API e, se necessario, con query `site:store.steampowered.com/app "<titolo>"` e `site:steamdb.info/app "<titolo>"`. Prova titolo canonico, varianti e publisher.
+2. Conferma la corrispondenza confrontando titolo e publisher; un timeout o una pagina non accessibile non dimostrano che il gioco non esista su Steam.
+3. Con l'AppID verificato interroga `https://store.steampowered.com/api/appdetails?appids=<APPID>&cc=IT&l=italian`.
+4. Da `appdetails` ricava `steamUrl` come `https://store.steampowered.com/app/<APPID>/`, `imageUrl` da `header_image` e `steamPrice` da `price_overview.final_formatted`. Se `is_free` è vero usa `Gratis`; se la pagina esiste ma non è acquistabile usa `Non disponibile`.
+5. Interroga `https://store.steampowered.com/appreviews/<APPID>?json=1&language=all&purchase_type=all`. Calcola `steamRating` come percentuale intera arrotondata di `total_positive / total_reviews`, aggiungendo `%`.
+6. Se un endpoint Steam fallisce, recupera lo stesso dato da SteamDB, tracker specializzato, aggregatore attendibile o cache recente. Non fermarti al primo errore.
+7. Puoi impostare insieme i tre campi Steam a `null` soltanto dopo una ricerca conclusa che non trova alcun AppID corrispondente. Timeout, blocchi, errori tecnici o tempo insufficiente non autorizzano `null`.
+
+Non inventare valutazioni, prezzi, AppID o URL. I percorsi Steam e CDN possono essere derivati soltanto da un AppID verificato o dai valori restituiti dalle API.
 
 ULTIMA OPERAZIONE DI RICERCA: RICONTROLLO STEAMDB
 Prima della validazione e del write, esegui obbligatoriamente un ultimo passaggio puntuale su SteamDB per ogni singolo item dell'array finale:
-1. Cerca il gioco per titolo esatto; se necessario prova varianti del titolo e verifica il publisher per evitare omonimie.
-2. Se trovi una corrispondenza, verifica l'AppID e completa `steamUrl`, `steamRating` e `steamPrice` ancora `null` usando i dati SteamDB più recenti disponibili.
-3. Se `imageUrl` è `null`, prova l'header SteamDB. Se non è disponibile, continua senza interromperti con artwork/Open Graph della piattaforma, publisher, database videoludico, risultato immagine chiaramente associato al titolo e immagine precedente dello stesso gioco. Come ultimo fallback usa un'immagine ufficiale generica della piattaforma reale.
+1. Cerca il gioco per titolo esatto su SteamDB; se necessario prova varianti del titolo e verifica il publisher per evitare omonimie.
+2. Se trovi una corrispondenza, verifica l'AppID e ripeti `appdetails` e `appreviews` per completare `steamUrl`, `steamRating`, `steamPrice` e `imageUrl` ancora `null`.
+3. Se `imageUrl` è ancora `null`, continua con artwork/Open Graph della piattaforma, publisher, database videoludico, risultato immagine chiaramente associato al titolo e immagine precedente. Se resta `null`, genera immediatamente il placeholder `https://placehold.co/460x215?text=<TITOLO_URL_ENCODED>`.
 4. Non considerare concluso il passaggio finché ogni item è stato controllato individualmente.
-5. Dopo questo ricontrollo, i tre campi Steam possono restare tutti `null` soltanto per un titolo che non risulta esistere su Steam. Un errore precedente di Steam o di un'altra fonte non giustifica valori `null`.
+5. Dopo questo ricontrollo, i tre campi Steam possono restare tutti `null` soltanto se la ricerca non trova alcun AppID corrispondente. Un errore precedente di Steam, SteamDB o di un'altra fonte non giustifica valori `null`.
 6. Prima di passare alla validazione assicurati che ogni item abbia `imageUrl` valorizzato. La difficoltà nel trovare l'immagine ideale non deve mai escludere il gioco, annullare l'array o impedire il commit.
 
 Questo è l'ultimo passaggio di ricerca: dopo di esso esegui soltanto validazione, merge e write GitHub.
