@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-10-29T11:33:38.172Z",
+  "lastModifiedDate": "2026-10-29T11:39:52.070Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-10-29T09:19:02.409Z",
@@ -333,7 +333,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-10-29T11:33:38.172Z",
+    "lastModifiedDate": "2026-10-29T11:39:52.070Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -615,7 +615,7 @@
         "subtitle": "Lunedì 2 novembre",
         "dateTime": "2026-11-02T00:00",
         "text": "Live • Bari • Piazzale Lorusso • Cover band di Vasco Rossi al Monster Day",
-        "logo": "LIVE",
+        "logo": "VASCO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti&dates=20261102%2F20261103&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Cover%20band%20di%20Vasco%20Rossi%20al%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
       },
