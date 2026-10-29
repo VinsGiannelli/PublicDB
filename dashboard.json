@@ -356,7 +356,9 @@
       "Officina degli Esordi — Bari",
       "Libreria Prinz Zaum — Bari",
       "Caffè d'arte Dolceamaro — Bari",
-      "Santo Graal — Trani"
+      "Santo Graal — Trani",
+      "Pooh",
+      "Vasco"
     ],
     "blacklist": [
       "Duke Jazz Club — Bari",
@@ -374,7 +376,12 @@
       "PalaFlorio",
       "PalaFlorio — Bari",
       "Teatro Bravò — Bari",
-      "Teatro Forma — Bari"
+      "Teatro Forma — Bari",
+      "Bandistico",
+      "Bandistici",
+      "Lirica",
+      "Lirico",
+      "Opera"
     ],
     "items": [
       {
