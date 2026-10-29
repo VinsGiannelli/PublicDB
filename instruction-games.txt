@@ -29,7 +29,7 @@ GATE OBBLIGATORIO PRIMA DEL WRITE
 PROTEZIONE DELLE ALTRE SEZIONI
 1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido e acquisisci la blob SHA.
 2. I dati già presenti in `games.items` non dimostrano che un'offerta sia ancora attiva. Puoi usarne i titoli soltanto come lista di candidati quando una fonte è temporaneamente irraggiungibile. Conserva inoltre una mappa temporanea `titolo -> imageUrl precedente`, utilizzabile esclusivamente come fallback immagine.
-3. Non modificare mai `sport`, `eventi`, `timezone` o le loro `lastModifiedDate`.
+3. Non modificare mai `sport`, `eventi`, `timezone` o le loro `lastModifiedDate`. Preserva integralmente tutti i campi annidati di `eventi`, incluso `eventi.watchlistKeywords`.
 4. Subito prima del salvataggio rileggi file e SHA. Inserisci la nuova sezione `games` nell'ultima versione disponibile, preservando integralmente le altre sezioni.
 5. Imposta allo stesso istante UTC ISO-8601 sia la `lastModifiedDate` root sia `games.lastModifiedDate`.
 
@@ -115,7 +115,7 @@ VALIDAZIONE
 - Ogni `steamPrice` numerico deve essere espresso in euro con simbolo `€`. Sono ammessi come valori non numerici soltanto `Gratis` e `Non disponibile`; altre valute non sono ammesse.
 - I tre campi Steam possono essere tutti `null` esclusivamente quando è stata verificata l'assenza del titolo da Steam; non sono ammessi null causati da errori tecnici o ricerche interrotte.
 - Ogni offerta pubblicata risulta attiva secondo la fonte ufficiale oppure il fallback corrente ritenuto più attendibile.
-- `sport` ed `eventi` coincidono con l'ultima versione riletta prima del write.
+- `sport` ed `eventi` coincidono con l'ultima versione riletta prima del write, incluso `eventi.watchlistKeywords` con ordine e grafia invariati.
 - La mancata copertura ufficiale di un provider per errore tecnico non rende invalido l'array: usa i fallback e pubblica la migliore fotografia disponibile.
 - L'incertezza residua su scadenza o disponibilità regionale di alcuni candidati non è motivo per saltare il commit.
 - Non pubblicare soltanto se il JSON finale è invalido o il merge danneggerebbe le altre sezioni. In ogni altro caso il commit è obbligatorio.

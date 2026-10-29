@@ -97,7 +97,7 @@ Un commit riuscito o un JSON soltanto sintatticamente valido non equivalgono all
 PROTEZIONE DELLE ALTRE SEZIONI
 1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido e acquisisci la blob SHA.
 2. I dati già presenti in `sport.items` sono obsoleti: non usarli come fonte e ricostruisci l'array completo.
-3. Non modificare mai `games`, `eventi`, `timezone` o le loro `lastModifiedDate`.
+3. Non modificare mai `games`, `eventi`, `timezone` o le loro `lastModifiedDate`. Preserva integralmente tutti i campi annidati di `eventi`, incluso `eventi.watchlistKeywords`.
 4. Subito prima del salvataggio rileggi file e SHA. Inserisci la nuova sezione `sport` nell'ultima versione disponibile, preservando integralmente le altre sezioni.
 5. Imposta allo stesso istante UTC ISO-8601 sia la `lastModifiedDate` root sia `sport.lastModifiedDate`.
 
@@ -141,7 +141,7 @@ VALIDAZIONE
 - Nessun evento fuori dai 15 giorni inclusivi.
 - Nessuna partita/sessione ufficiale mancante o duplicata.
 - Link Calendar coerenti con data, ora, titolo e luogo.
-- `games` ed `eventi` coincidono con l'ultima versione riletta prima del write.
+- `games` ed `eventi` coincidono con l'ultima versione riletta prima del write, incluso `eventi.watchlistKeywords` con ordine e grafia invariati.
 - Se i risultati appaiono troncati o inaffidabili, non pubblicarli e segnala il problema.
 
 WRITE GITHUB

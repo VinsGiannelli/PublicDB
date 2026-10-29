@@ -15,6 +15,7 @@ La sezione di competenza deve avere esclusivamente:
 {
   "lastModifiedDate": "<UTC ISO-8601>",
   "watchlist": [],
+  "watchlistKeywords": [],
   "blacklist": [],
   "items": []
 }
@@ -22,11 +23,22 @@ La sezione di competenza deve avere esclusivamente:
 Non aggiungere `status`, `title`, `period` o altri campi.
 
 PROTEZIONE DELLE ALTRE SEZIONI
-1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido, acquisisci la blob SHA e recupera `eventi.watchlist` e `eventi.blacklist`.
+1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido, acquisisci la blob SHA e recupera `eventi.watchlist`, `eventi.watchlistKeywords` e `eventi.blacklist`.
 2. I dati già presenti in `eventi.items` sono obsoleti: non usarli come fonte e ricostruisci l'array completo.
 3. Non modificare mai `games`, `sport`, `timezone` o le loro `lastModifiedDate`.
 4. Subito prima del salvataggio rileggi file e SHA. Inserisci la nuova sezione `eventi` nell'ultima versione disponibile, preservando integralmente le altre sezioni.
 5. Imposta allo stesso istante UTC ISO-8601 sia la `lastModifiedDate` root sia `eventi.lastModifiedDate`.
+
+WATCHLIST KEYWORDS
+- `eventi.watchlistKeywords` contiene termini aggiuntivi scelti manualmente da monitorare; non sono nomi di venue e non sostituiscono `eventi.watchlist`.
+- Prima della ricerca crea una checklist con tutte le keyword presenti e processale tutte, senza saltarne nessuna.
+- Per ogni keyword esegui almeno una ricerca mirata nel periodo corrente combinandola con termini pertinenti come `live`, `concerto`, `cover`, `tribute`, `evento`, Bari, comuni entro circa 60 km e Matera.
+- Cerca anche varianti inequivocabili della keyword, ignorando maiuscole, accenti e punteggiatura, ma non ampliare il significato a termini non correlati.
+- Una keyword serve soltanto a scoprire candidati. Ogni risultato deve comunque superare intervallo, territorio, categorie ammesse, verifica delle fonti, deduplica, blacklist e classificazione del logo.
+- La blacklist ha sempre priorità: un risultato trovato tramite keyword viene escluso se locale, tipologia o contenuto corrispondono alla blacklist.
+- Conserva `watchlistKeywords` integralmente, mantenendo valori, grafia e ordine. Non aggiungere, rimuovere, rinominare, deduplicare o riordinare keyword in autonomia.
+- Subito prima del write rileggi il JSON con SHA fresca e usa la versione più recente di `eventi.watchlistKeywords`, così eventuali modifiche concorrenti non vengono perse.
+- La validazione finale deve confermare che tutte le keyword iniziali sono state processate e che `watchlistKeywords` nel payload coincide esattamente con l'ultima versione riletta da GitHub.
 
 INTERVALLO E TERRITORIO
 Calcola una sola volta l'intervallo da oggi a oggi + 14 giorni inclusi in `Europe/Rome`. Non pubblicare eventi fuori intervallo. L'intervallo non va scritto nel JSON.
@@ -58,18 +70,20 @@ La blacklist ha priorità su watchlist, fonti ufficiali, completezza della ricer
 FLUSSO DI RICERCA RAPIDO
 1. MUNICIPALITY SWEEP: per ogni comune rilevante esegui una ricerca combinata con comune, mese, anno e i termini `sagra fiera mercatino festa patronale evento tradizionale manifestazioni`. Privilegia in quest'ordine Comune, Pro Loco/comitato/organizzatore, testata locale; usa aggregatori solo come supporto. Non fare una ricerca separata per ogni categoria.
 2. WATCHLIST LIVE: controlla ogni venue della watchlist con una singola ricerca mirata sul periodo. Prima sito/calendario ufficiale o testo social accessibile, poi un solo fallback attendibile.
-3. DISCOVERY LIVE: usa poche ricerche aggregate per trovare nuovi locali con programmazione ricorrente tramite `live music`, `cover band`, `tribute band`, `rock live`, `concerto`. Aggiungi alla watchlist soltanto venue realmente ricorrenti e verificate.
-4. Approfondisci soltanto candidati con data nell'intervallo. Non riaprire fonti già sufficienti.
-5. Usa una seconda fonte solo quando manca un dato obbligatorio o c'è un conflitto. Se il dato resta ambiguo, omettilo o escludi l'evento; non continuare cicli di ricerca.
+3. KEYWORD WATCHLIST: esegui le ricerche mirate per ogni valore di `watchlistKeywords` e registra nella checklist che la keyword è stata processata.
+4. DISCOVERY LIVE: usa poche ricerche aggregate per trovare nuovi locali con programmazione ricorrente tramite `live music`, `cover band`, `tribute band`, `rock live`, `concerto`. Aggiungi alla watchlist soltanto venue realmente ricorrenti e verificate.
+5. Approfondisci soltanto candidati con data nell'intervallo. Non riaprire fonti già sufficienti.
+6. Usa una seconda fonte solo quando manca un dato obbligatorio o c'è un conflitto. Se il dato resta ambiguo, omettilo o escludi l'evento; non continuare cicli di ricerca.
 
 Non cercare immagini o loghi. Eccezione: soltanto per una venue già presente nella watchlist e priva di programmazione testuale, puoi esaminare una locandina recente per estrarre data, artista e ora chiaramente leggibili. Non inserire mai l'immagine nel JSON. Mai usare locandine per municipality sweep, feste, fiere o live in piazza.
 
-WATCHLIST E BLACKLIST
+WATCHLIST, WATCHLIST KEYWORDS E BLACKLIST
 - Conserva tutte le voci esistenti, anche se non hanno eventi nel periodo, tranne quelle che corrispondono alla blacklist.
 - Aggiungi nuovi locali con musica live ricorrente nel formato `Nome — Comune`.
 - Rimuovi una venue soltanto se corrisponde alla blacklist oppure con conferma affidabile di chiusura o cessazione stabile della musica live.
 - Conserva la blacklist e aggiungi nuove esclusioni soltanto se chiaramente necessarie.
-- Deduplica entrambe le liste senza alterare inutilmente grafia e ordine delle voci esistenti.
+- Conserva `watchlistKeywords` esattamente come riletta da GitHub; è una lista manuale e non deve essere modificata automaticamente.
+- Deduplica watchlist e blacklist senza alterare inutilmente grafia e ordine delle voci esistenti; non deduplicare o riordinare `watchlistKeywords`.
 
 LIVE INTERNI ALLE MANIFESTAZIONI
 Per sagre, patronali, mercatini ed eventi tradizionali consulta il programma testuale e cerca ospiti, concerti, live, band, artisti, tribute e cover.
@@ -96,6 +110,7 @@ CLASSIFICAZIONE DICHIARATIVA E GATE BLOCCANTE DEL LOGO
 Questa è l'unica logica autorizzata per compilare e validare `logo`. Non creare condizioni separate fuori da questo blocco.
 
 Priorità delle regole:
+- band o artista esatto con logo dedicato: 500;
 - artista o soggetto specifico: 400;
 - locale specifico: 300;
 - comune specifico: 200;
@@ -113,6 +128,16 @@ Prima di chiamare `update_file`, esegui realmente questo codice sul payload fina
 
 ```javascript
 const specificLogoRules = [
+  {
+    logo: "KOMANDANTI",
+    priority: 500,
+    groups: [
+      ["i komandanti", "komandanti"],
+      ["vasco rossi", "vasco"],
+      ["cover band", "cover", "tribute", "tributo", "omaggio"]
+    ],
+    excludeTerms: []
+  },
   {
     logo: "VASCO",
     priority: 400,
@@ -217,7 +242,7 @@ if (logoValidation.invalidItems !== 0) {
 Regole operative obbligatorie:
 1. Non assegnare `logo` durante la ricerca con condizioni manuali: raccogli prima `title` e `text`, poi esegui `applyLogoRules(payload)`.
 2. I valori ammessi sono sempre derivati dalla tabella; aggiungere una regola rende automaticamente ammesso il nuovo logo.
-3. Una regola specifica con priorità maggiore sostituisce il logo generico. La regola `VASCO` trasforma quindi una cover band di Vasco da `LIVE` a `VASCO`.
+3. Una regola specifica con priorità maggiore sostituisce il logo generico e le regole meno specifiche. La regola `KOMANDANTI` trasforma un live de I Komandanti dedicato a Vasco in `KOMANDANTI`; le altre cover band di Vasco usano `VASCO`; gli altri concerti usano `LIVE`.
 4. Dopo ogni modifica a `specificLogoRules`, esegui lo stesso classificatore su tutti gli item, non soltanto sui nuovi eventi.
 5. `update_file` è consentito esclusivamente quando `invalidItems === 0`.
 6. Un JSON sintatticamente valido o un logo appartenente all'elenco ammesso non bastano: `actualLogo` deve coincidere con `expectedLogo`.
@@ -236,6 +261,7 @@ VALIDAZIONE
 - Nessun duplicato improprio.
 - Link Calendar coerenti con data, ora, titolo e luogo.
 - `games` e `sport` coincidono con l'ultima versione riletta prima del write.
+- `watchlistKeywords` coincide esattamente, inclusi ordine e grafia, con l'ultima versione riletta da GitHub; tutte le keyword risultano processate nella checklist di ricerca.
 - Se i risultati appaiono troncati o inaffidabili, non pubblicarli e segnala il problema.
 
 WRITE GITHUB
