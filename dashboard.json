@@ -340,11 +340,9 @@
       "Agrobistrot — Fasano",
       "Palazzo Pesce — Mola di Bari",
       "Cittadella degli Artisti — Molfetta",
-      "Teatro Forma — Bari",
       "Officina degli Esordi — Bari",
       "Libreria Prinz Zaum — Bari",
       "Caffè d'arte Dolceamaro — Bari",
-      "Teatro Bravò — Bari",
       "Santo Graal — Trani"
     ],
     "blacklist": [
@@ -359,7 +357,11 @@
       "Eremo Club",
       "Eremo Club — Molfetta",
       "Palatour",
-      "Palatour — Bitritto"
+      "Palatour — Bitritto",
+      "PalaFlorio",
+      "PalaFlorio — Bari",
+      "Teatro Bravò — Bari",
+      "Teatro Forma — Bari"
     ],
     "items": [
       {
