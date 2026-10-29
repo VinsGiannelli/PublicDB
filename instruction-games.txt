@@ -22,6 +22,7 @@ Non aggiungere `status`, `title`, `period` o altri campi.
 GATE OBBLIGATORIO PRIMA DEL WRITE
 - Conta gli item con `imageUrl:null` o vuoto: il risultato deve essere sempre `0`. Sostituisci immediatamente ogni residuo con il placeholder deterministico basato sul titolo.
 - Per ogni item con uno dei campi Steam a `null`, esegui la procedura AppID/API descritta sotto. Se esiste un AppID corrispondente, `steamUrl`, `steamRating` e `steamPrice` devono essere tutti valorizzati.
+- Appena trovi un AppID, apri come prima fonte `https://steamdb.info/app/<APPID>/` e recupera da quella pagina tutti i dati disponibili, incluso il collegamento all'immagine. Non continuare con ricerche generiche prima di avere tentato questa pagina deterministica.
 - I tre campi Steam possono essere tutti `null` solo quando non esiste un AppID corrispondente. Non dichiarare assente un gioco soltanto perché Steam o SteamDB hanno restituito un errore.
 - Non serializzare e non inviare a GitHub il payload finché questo gate non è soddisfatto. Il fallback placeholder rende il controllo immagini sempre risolvibile e non bloccante.
 
@@ -83,11 +84,13 @@ PROCEDURA DETERMINISTICA PER I DATI STEAM
 Per ogni gioco esegui questi passaggi, senza limitarti a una ricerca generica:
 1. Cerca l'AppID con Steam Store Search/API e, se necessario, con query `site:store.steampowered.com/app "<titolo>"` e `site:steamdb.info/app "<titolo>"`. Prova titolo canonico, varianti e publisher.
 2. Conferma la corrispondenza confrontando titolo e publisher; un timeout o una pagina non accessibile non dimostrano che il gioco non esista su Steam.
-3. Con l'AppID verificato interroga `https://store.steampowered.com/api/appdetails?appids=<APPID>&cc=IT&l=italian`.
-4. Da `appdetails` ricava `steamUrl` come `https://store.steampowered.com/app/<APPID>/`, `imageUrl` da `header_image` e `steamPrice` da `price_overview.final_formatted`. Se `is_free` è vero usa `Gratis`; se la pagina esiste ma non è acquistabile usa `Non disponibile`.
-5. Interroga `https://store.steampowered.com/appreviews/<APPID>?json=1&language=all&purchase_type=all`. Calcola `steamRating` come percentuale intera arrotondata di `total_positive / total_reviews`, aggiungendo `%`.
-6. Se un endpoint Steam fallisce, recupera lo stesso dato da SteamDB, tracker specializzato, aggregatore attendibile o cache recente. Non fermarti al primo errore.
-7. Puoi impostare insieme i tre campi Steam a `null` soltanto dopo una ricerca conclusa che non trova alcun AppID corrispondente. Timeout, blocchi, errori tecnici o tempo insufficiente non autorizzano `null`.
+3. Appena l'AppID è verificato, apri per prima cosa `https://steamdb.info/app/<APPID>/`. Da questa pagina recupera tutti i dati disponibili: titolo/app verificato, link Steam, valutazione, prezzo e collegamento all'immagine/header.
+4. Compila immediatamente `steamUrl`, `steamRating`, `steamPrice` e `imageUrl` con i dati ottenuti da SteamDB, senza lasciarli temporaneamente a `null`.
+5. Se SteamDB non è accessibile o manca un dato, interroga `https://store.steampowered.com/api/appdetails?appids=<APPID>&cc=IT&l=italian`.
+6. Da `appdetails` ricava `steamUrl` come `https://store.steampowered.com/app/<APPID>/`, `imageUrl` da `header_image` e `steamPrice` da `price_overview.final_formatted`. Se `is_free` è vero usa `Gratis`; se la pagina esiste ma non è acquistabile usa `Non disponibile`.
+7. Per la valutazione mancante interroga `https://store.steampowered.com/appreviews/<APPID>?json=1&language=all&purchase_type=all`. Calcola `steamRating` come percentuale intera arrotondata di `total_positive / total_reviews`, aggiungendo `%`.
+8. Se anche gli endpoint Steam falliscono, recupera il dato mancante da tracker specializzato, aggregatore attendibile o cache recente. Non fermarti al primo errore.
+9. Puoi impostare insieme i tre campi Steam a `null` soltanto dopo una ricerca conclusa che non trova alcun AppID corrispondente. Timeout, blocchi, errori tecnici o tempo insufficiente non autorizzano `null`.
 
 Non inventare valutazioni, prezzi, AppID o URL. I percorsi Steam e CDN possono essere derivati soltanto da un AppID verificato o dai valori restituiti dalle API.
 
