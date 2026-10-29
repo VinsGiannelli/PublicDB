@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-10-28T21:15:16.409Z",
+  "lastModifiedDate": "2026-10-29T09:19:02.409Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-10-28T21:15:16.409Z",
+    "lastModifiedDate": "2026-10-29T09:19:02.409Z",
     "items": [
       {
         "title": "A Quiet Place: The Road Ahead",
@@ -77,18 +77,6 @@
         "steamUrl": "https://store.steampowered.com/app/2638370/"
       },
       {
-        "title": "Havendock",
-        "subtitle": "Amazon Games App",
-        "text": "Gestionale rilassante su un insediamento galleggiante, con raccolta delle risorse, costruzioni modulari, ricerca tecnologica e bisogni degli abitanti. Riscattabile con Amazon Prime tramite Amazon Games App fino al 28 ottobre 2026.",
-        "createdDate": "2026-08-27",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "81%",
-        "steamPrice": "19,50€",
-        "steamUrl": "https://store.steampowered.com/app/2020710/"
-      },
-      {
         "title": "Hex Reverse",
         "subtitle": "Steam",
         "text": "Roguelike strategico di carte su una griglia esagonale: posiziona carte, confronta i valori dei lati, conquista quelle nemiche e potenzia il mazzo tra una sfida e l'altra. Gratuito da aggiungere a Steam per i primi 30 giorni dal 7 ottobre 2026; una volta riscattato rimane in libreria.",
@@ -99,18 +87,6 @@
         "steamRating": "51%",
         "steamPrice": "Gratis",
         "steamUrl": "https://store.steampowered.com/app/5257350/"
-      },
-      {
-        "title": "High on Life",
-        "subtitle": "Epic Games Store",
-        "text": "Sparatutto comico di fantascienza con armi parlanti, pianeti alieni, missioni e scontri contro un cartello criminale extraterrestre. Riscattabile con Amazon Prime tramite Epic Games Store fino al 28 ottobre 2026.",
-        "createdDate": "2026-09-24",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "89%",
-        "steamPrice": "$39.99",
-        "steamUrl": "https://store.steampowered.com/app/1583230/"
       },
       {
         "title": "Home - A Unique Horror Adventure",
@@ -125,16 +101,16 @@
         "steamUrl": "https://store.steampowered.com/app/215670/"
       },
       {
-        "title": "Hue",
-        "subtitle": "Epic Games Store",
-        "text": "Platform rompicapo in due dimensioni in cui cambiare il colore dello sfondo permette di far apparire o scomparire ostacoli. Riscattabile con Amazon Prime tramite Epic Games Store fino al 28 ottobre 2026.",
-        "createdDate": "2026-09-24",
+        "title": "KIBORG",
+        "subtitle": "Amazon Games App",
+        "text": "Picchiaduro roguelite fantascientifico ambientato in una prigione galattica: affronta combattimenti brutali in terza persona, potenzia il corpo con impianti cibernetici e supera sfide sempre nuove. Riscattabile con Amazon Prime tramite Amazon Games App.",
+        "createdDate": "2026-10-29",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383270/header.jpg",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2405060/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "90%",
-        "steamPrice": "$14.99",
-        "steamUrl": "https://store.steampowered.com/app/383270/"
+        "steamRating": "84%",
+        "steamPrice": "$24.99",
+        "steamUrl": "https://store.steampowered.com/app/2405060/"
       },
       {
         "title": "Kingdomino",
@@ -185,18 +161,6 @@
         "steamUrl": "https://store.steampowered.com/app/4078430/"
       },
       {
-        "title": "The Da Vinci Cryptex",
-        "subtitle": "Legacy Games",
-        "text": "Raccolta di enigmi basati su codici e meccanismi ispirati a Leonardo da Vinci, tra oggetti da esaminare, indizi e rompicapi. Riscattabile con Amazon Prime tramite Legacy Games fino al 28 ottobre 2026.",
-        "createdDate": "2026-09-24",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2666270/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "53%",
-        "steamPrice": "4,89€",
-        "steamUrl": "https://store.steampowered.com/app/2666270/"
-      },
-      {
         "title": "Time Travel: Escape Room Game",
         "subtitle": "Legacy Games",
         "text": "Avventura a enigmi che attraversa epoche differenti: esplora stanze, combina oggetti, risolvi indizi e trova la via d'uscita. Riscattabile con Amazon Prime tramite Legacy Games fino al 25 novembre 2026.",
@@ -207,6 +171,18 @@
         "steamRating": "57%",
         "steamPrice": "$8.99",
         "steamUrl": "https://store.steampowered.com/app/3094600/"
+      },
+      {
+        "title": "Trash Goblin",
+        "subtitle": "Epic Games Store",
+        "text": "Gestionale rilassante in un mondo fantasy, dove ripulire vecchi oggetti, restaurare curiosità e venderle a clienti eccentrici, ampliando progressivamente la propria bottega. Riscattabile con Amazon Prime tramite Epic Games Store.",
+        "createdDate": "2026-10-29",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2407830/header.jpg",
+        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
+        "steamRating": "87%",
+        "steamPrice": "$13.39",
+        "steamUrl": "https://store.steampowered.com/app/2407830/"
       },
       {
         "title": "Vampire: The Masquerade - Swansong",
@@ -231,30 +207,6 @@
         "steamRating": "71%",
         "steamPrice": "$2.99",
         "steamUrl": "https://store.steampowered.com/app/2464660/"
-      },
-      {
-        "title": "Weakless",
-        "subtitle": "GOG",
-        "text": "Avventura puzzle fiabesca con due creature dalle abilità complementari che collaborano per esplorare il mondo e superare ostacoli. Riscattabile con Amazon Prime tramite GOG fino al 28 ottobre 2026.",
-        "createdDate": "2026-07-30",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072620/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "69%",
-        "steamPrice": "12,25€",
-        "steamUrl": "https://store.steampowered.com/app/1072620/"
-      },
-      {
-        "title": "Zoria: Age of Shattering",
-        "subtitle": "GOG",
-        "text": "Gioco di ruolo fantasy tattico con combattimenti a turni, esplorazione di dungeon, formazione del gruppo e sviluppo delle abilità. Riscattabile con Amazon Prime tramite GOG fino al 28 ottobre 2026.",
-        "createdDate": "2026-07-30",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1159090/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "74%",
-        "steamPrice": "24,50€",
-        "steamUrl": "https://store.steampowered.com/app/1159090/"
       }
     ]
   },
