@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-10-29T12:02:39.293Z",
+  "lastModifiedDate": "2026-10-29T14:39:28.741Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-10-29T09:19:02.409Z",
@@ -333,7 +333,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-10-29T12:02:39.293Z",
+    "lastModifiedDate": "2026-10-29T14:39:28.741Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -384,22 +384,13 @@
     ],
     "items": [
       {
-        "title": "Recital lirico Eva Mei",
-        "subtitle": "Giovedì 29 ottobre • 20:00",
-        "dateTime": "2026-10-29T20:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce • Concerto finale della masterclass di canto e pianoforte",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Recital%20lirico%20Eva%20Mei&dates=20261029T190000Z%2F20261029T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Concerto%20finale%20della%20masterclass%20di%20canto%20e%20pianoforte&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/10/20/29-ottobre-2026-recital-lirico-allievi-masterclass-eva-mei-e-michele-delia/"
-      },
-      {
         "title": "Eusebio e Florestano",
         "subtitle": "Giovedì 29 ottobre • 20:30",
         "dateTime": "2026-10-29T20:30",
         "text": "Live • Matera • Le Monacelle • Concerto di musica da camera",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eusebio%20e%20Florestano&dates=20261029T193000Z%2F20261029T213000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Le%20Monacelle%20%E2%80%A2%20Concerto%20di%20musica%20da%20camera&location=Le%20Monacelle%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/basilicata/eventi/329431.html"
+        "linkDettagliEvento": "https://www.sassilive.it/events/concerto-con-luca-tonolli-al-clarinetto-emanuele-sasso-alla-viola-e-andrea-di-cecca-al-pianoforte-vivaverdi-multikulti-le-monacelle-matera/"
       },
       {
         "title": "88TRIB3 – Tributo 883",
@@ -412,12 +403,12 @@
       },
       {
         "title": "The Wonders – Beatles Tribute",
-        "subtitle": "Giovedì 29 ottobre • 21:30",
-        "dateTime": "2026-10-29T21:30",
-        "text": "Live • Bari • Crossroad Saloon • Cover band dei Beatles",
+        "subtitle": "Giovedì 29 ottobre • 22:00",
+        "dateTime": "2026-10-29T22:00",
+        "text": "Live • Bari • Crossroad Saloon • Tributo ai Beatles",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Wonders%20%E2%80%93%20Beatles%20Tribute&dates=20261029T203000Z%2F20261029T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Cover%20band%20dei%20Beatles&location=Crossroad%20Saloon%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://anyplans.in/bari/locali/crossroad-saloon/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Wonders%20%E2%80%93%20Beatles%20Tribute&dates=20261029T210000Z%2F20261029T230000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20ai%20Beatles&location=Crossroad%20Saloon%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://stayhappening.com/e/the-wonders-the-beatles-tribute-live-show-crossroad-saloon-E2IT00M19SW"
       },
       {
         "title": "Dark Entries",
@@ -429,21 +420,30 @@
         "linkDettagliEvento": "https://www.midnightpublive.com/event/live-jam-system-of-a-down-tribute-show/"
       },
       {
+        "title": "Les Amazones d'Afrique",
+        "subtitle": "Venerdì 30 ottobre",
+        "dateTime": "2026-10-30T00:00",
+        "text": "Live • Matera • Piazza Vittorio Veneto • Concerto nel programma Materadio",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les%20Amazones%20d'Afrique&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Concerto%20nel%20programma%20Materadio&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.materacitypass.com/it/events/materadio-les-amazones-dafrique"
+      },
+      {
         "title": "Pinkabbestia",
         "subtitle": "Venerdì 30 ottobre • 19:30",
         "dateTime": "2026-10-30T19:30",
         "text": "Live • Bari • Libreria Prinz Zaum • Dimblue e Simona Valente in concerto",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pinkabbestia&dates=20261030T183000Z%2F20261030T203000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Libreria%20Prinz%20Zaum%20%E2%80%A2%20Dimblue%20e%20Simona%20Valente%20in%20concerto&location=Libreria%20Prinz%20Zaum%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331714.html"
+        "linkDettagliEvento": "https://upposto.it/eventi/cmutdws4m00bnsak4ctlnhbik"
       },
       {
         "title": "Mamma Mia – ABBA Tribute",
         "subtitle": "Venerdì 30 ottobre • 21:00",
         "dateTime": "2026-10-30T21:00",
-        "text": "Live • Bari • Chorìa - Note di Puglia • Tributo musicale agli ABBA",
+        "text": "Live • Bari • Chorìa - Note di Puglia • Cover band degli ABBA",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mamma%20Mia%20%E2%80%93%20ABBA%20Tribute&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Tributo%20musicale%20agli%20ABBA&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mamma%20Mia%20%E2%80%93%20ABBA%20Tribute&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Cover%20band%20degli%20ABBA&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334870.html"
       },
       {
@@ -465,13 +465,31 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334927.html"
       },
       {
-        "title": "Les Amazones d'Afrique",
-        "subtitle": "Venerdì 30 ottobre • 22:30",
-        "dateTime": "2026-10-30T22:30",
-        "text": "Live • Matera • Piazza Vittorio Veneto • Concerto nell'ambito di Materadio",
+        "title": "Wine & Food Festival",
+        "subtitle": "Sabato 31 ottobre",
+        "dateTime": "2026-10-31T00:00",
+        "text": "Sagra • Modugno • Centro storico • Stand gastronomici e specialità locali",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031%2F20261101&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%20e%20specialit%C3%A0%20locali&location=Centro%20storico%2C%20Modugno&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
+      },
+      {
+        "title": "Live Jam – System of a Down",
+        "subtitle": "Sabato 31 ottobre",
+        "dateTime": "2026-10-31T00:00",
+        "text": "Live • Matera • Midnight Pub Live • Tributo ai System of a Down",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les%20Amazones%20d'Afrique&dates=20261030T213000Z%2F20261030T233000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Concerto%20nell'ambito%20di%20Materadio&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.trmtv.it/cultura/musica-cultura/2026_10_26/581432.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Live%20Jam%20%E2%80%93%20System%20of%20a%20Down&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20ai%20System%20of%20a%20Down&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/halloween-night-the-cult-of-smiths-the-cult-the-smiths-the-cure-joy-division-c-b-dj-set-80s-90s-a-seguire/"
+      },
+      {
+        "title": "Happy Days Music Band",
+        "subtitle": "Sabato 31 ottobre",
+        "dateTime": "2026-10-31T00:00",
+        "text": "Live • Bari • La DolceVita Live • Concerto di musica italiana",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Days%20Music%20Band&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Concerto%20di%20musica%20italiana&location=La%20DolceVita%20Live%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/bari/la-dolcevita-live"
       },
       {
         "title": "Antiquariando",
@@ -484,39 +502,30 @@
       },
       {
         "title": "HalloWine",
-        "subtitle": "Sabato 31 ottobre • 18:00",
-        "dateTime": "2026-10-31T18:00",
-        "text": "Sagra • Casamassima • Centro storico • Percorso enogastronomico e musica nel borgo",
+        "subtitle": "Sabato 31 ottobre • 19:00",
+        "dateTime": "2026-10-31T19:00",
+        "text": "Sagra • Casamassima • Centro storico • Percorso enogastronomico nel borgo",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261031T170000Z%2F20261031T190000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20e%20musica%20nel%20borgo&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261031T180000Z%2F20261031T200000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20nel%20borgo&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
       },
       {
-        "title": "Wine & Food Festival",
-        "subtitle": "Sabato 31 ottobre • 19:30",
-        "dateTime": "2026-10-31T19:30",
-        "text": "Sagra • Modugno • Centro storico • Manifestazione enogastronomica con stand gastronomici",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261031T183000Z%2F20261031T203000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Manifestazione%20enogastronomica%20con%20stand%20gastronomici&location=Centro%20storico%2C%20Modugno&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/wine-food-festival-modugno-2026/"
+        "title": "The Rumblers",
+        "subtitle": "Sabato 31 ottobre • 20:00",
+        "dateTime": "2026-10-31T20:00",
+        "text": "Live • Terlizzi • ALLE S.E.R.R.E. • Concerto rockabilly dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Rumblers&dates=20261031T190000Z%2F20261031T210000Z&details=Live%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20ALLE%20S.E.R.R.E.%20%E2%80%A2%20Concerto%20rockabilly%20dal%20vivo&location=ALLE%20S.E.R.R.E.%2C%20Terlizzi&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334252.html"
       },
       {
         "title": "I Sorta Nost",
         "subtitle": "Sabato 31 ottobre • 21:00",
         "dateTime": "2026-10-31T21:00",
-        "text": "Live • Casamassima • Centro storico • Musica dal vivo per HalloWine",
+        "text": "Live • Casamassima • Centro storico • Polistrumentisti in concerto per HalloWine",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261031T200000Z%2F20261031T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20dal%20vivo%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261031T200000Z%2F20261031T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Polistrumentisti%20in%20concerto%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
-      },
-      {
-        "title": "Auroro Borealo",
-        "subtitle": "Sabato 31 ottobre • 21:00",
-        "dateTime": "2026-10-31T21:00",
-        "text": "Live • Conversano • Casa delle Arti • Concerto con Jimmy Tastiera",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Auroro%20Borealo&dates=20261031T200000Z%2F20261031T220000Z&details=Live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Casa%20delle%20Arti%20%E2%80%A2%20Concerto%20con%20Jimmy%20Tastiera&location=Casa%20delle%20Arti%2C%20Conversano&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.rockol.it/concerti-casa-delle-arti-conversano-bari-v-knoro8m9e3w"
       },
       {
         "title": "Carmen Consoli",
@@ -528,21 +537,12 @@
         "linkDettagliEvento": "https://www.basilicataturistica.it/eventi-in-basilicata/matera-carmen-consoli-in-scena-con-sulle-ferite-aperte/"
       },
       {
-        "title": "Happy Days Music Band",
-        "subtitle": "Sabato 31 ottobre • 21:30",
-        "dateTime": "2026-10-31T21:30",
-        "text": "Live • Bari • La DolceVita Live • Concerto di musica italiana",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Days%20Music%20Band&dates=20261031T203000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Concerto%20di%20musica%20italiana&location=La%20DolceVita%20Live%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330512.html"
-      },
-      {
         "title": "Back to the 70's",
         "subtitle": "Sabato 31 ottobre • 21:30",
         "dateTime": "2026-10-31T21:30",
-        "text": "Live • Bari • Chorìa - Note di Puglia • Concerto di musica anni Settanta",
+        "text": "Live • Bari • Chorìa - Note di Puglia • Funk e discomusic suonati dal vivo",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Back%20to%20the%2070's&dates=20261031T203000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Concerto%20di%20musica%20anni%20Settanta&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Back%20to%20the%2070's&dates=20261031T203000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Funk%20e%20discomusic%20suonati%20dal%20vivo&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334684.html"
       },
       {
@@ -555,15 +555,6 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/333621.html"
       },
       {
-        "title": "Live Jam – System of a Down",
-        "subtitle": "Sabato 31 ottobre • 22:00",
-        "dateTime": "2026-10-31T22:00",
-        "text": "Live • Matera • Midnight Pub Live • Tributo ai System of a Down",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Live%20Jam%20%E2%80%93%20System%20of%20a%20Down&dates=20261031T210000Z%2F20261031T230000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20ai%20System%20of%20a%20Down&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/halloween-night-the-cult-of-smiths-the-cult-the-smiths-the-cure-joy-division-c-b-dj-set-80s-90s-a-seguire/"
-      },
-      {
         "title": "Fiera di Ognissanti",
         "subtitle": "Domenica 1 novembre",
         "dateTime": "2026-11-01T00:00",
@@ -573,13 +564,31 @@
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/fiera-di-ognissanti-e-villaggio-medievale-70737"
       },
       {
-        "title": "Festa di San Trifone",
+        "title": "Wine & Food Festival",
         "subtitle": "Domenica 1 novembre",
         "dateTime": "2026-11-01T00:00",
-        "text": "Festa patronale • Adelfia • Borgo Montrone • Avvio delle celebrazioni patronali",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&dates=20261101%2F20261102&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Avvio%20delle%20celebrazioni%20patronali&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+        "text": "Sagra • Modugno • Centro storico • Stand gastronomici e specialità locali",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101%2F20261102&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%20e%20specialit%C3%A0%20locali&location=Centro%20storico%2C%20Modugno&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/wine-food-festival-candidature-per-larea-food/"
+      },
+      {
+        "title": "Gozzovigliando",
+        "subtitle": "Domenica 1 novembre",
+        "dateTime": "2026-11-01T00:00",
+        "text": "Evento tradizionale • Monopoli • Porto Antico • Tradizioni marinare, mercatini e musica folkloristica",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261101%2F20261102&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Tradizioni%20marinare%2C%20mercatini%20e%20musica%20folkloristica&location=Porto%20Antico%2C%20Monopoli&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
+      },
+      {
+        "title": "Mercato dell'antiquariato",
+        "subtitle": "Domenica 1 novembre",
+        "dateTime": "2026-11-01T00:00",
+        "text": "Mercatino • Rutigliano • Piazza XX Settembre • Mercatino di antiquariato e collezionismo",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercato%20dell'antiquariato&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Rutigliano%20%E2%80%A2%20Piazza%20XX%20Settembre%20%E2%80%A2%20Mercatino%20di%20antiquariato%20e%20collezionismo&location=Piazza%20XX%20Settembre%2C%20Rutigliano&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/rutigliano-centro-storico"
       },
       {
         "title": "Il Riciclo dei Ricordi",
@@ -600,273 +609,237 @@
         "linkDettagliEvento": "https://www.cosedicasa.com/mercatini/bari-piazza-giuseppe-massari"
       },
       {
-        "title": "Gozzovigliando",
-        "subtitle": "Domenica 1 novembre • 09:00",
-        "dateTime": "2026-11-01T09:00",
-        "text": "Evento tradizionale • Monopoli • Porto Vecchio • Tradizioni marinare, mercatini e musica popolare",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261101T080000Z%2F20261101T100000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Vecchio%20%E2%80%A2%20Tradizioni%20marinare%2C%20mercatini%20e%20musica%20popolare&location=Porto%20Vecchio%2C%20Monopoli&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Domenica-1-novembre-2026-torna-il-Palio-dei-Gozzi"
-      },
-      {
         "title": "Palio dei Gozzi",
         "subtitle": "Domenica 1 novembre • 11:00",
         "dateTime": "2026-11-01T11:00",
-        "text": "Evento tradizionale • Monopoli • Porto Vecchio • Regata tradizionale delle imbarcazioni locali",
+        "text": "Evento tradizionale • Monopoli • Porto Antico • Regata delle imbarcazioni tradizionali",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T120000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Vecchio%20%E2%80%A2%20Regata%20tradizionale%20delle%20imbarcazioni%20locali&location=Porto%20Vecchio%2C%20Monopoli&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palio%20dei%20Gozzi&dates=20261101T100000Z%2F20261101T120000Z&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Regata%20delle%20imbarcazioni%20tradizionali&location=Porto%20Antico%2C%20Monopoli&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Domenica-1-novembre-2026-torna-il-Palio-dei-Gozzi"
       },
       {
-        "title": "Banda Rulli Frulli",
-        "subtitle": "Domenica 1 novembre • 12:00",
-        "dateTime": "2026-11-01T12:00",
-        "text": "Live • Matera • Piazza Vittorio Veneto • Concerto Vulcano per Materadio",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banda%20Rulli%20Frulli&dates=20261101T110000Z%2F20261101T130000Z&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Concerto%20Vulcano%20per%20Materadio&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.materacitypass.com/it/events/materadio-rulli-frulli"
+        "title": "Festa di San Trifone",
+        "subtitle": "Domenica 1 novembre • 17:00",
+        "dateTime": "2026-11-01T17:00",
+        "text": "Festa patronale • Adelfia • Borgo Montrone • Avvio dei festeggiamenti patronali con fuochi pirotecnici",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&dates=20261101T160000Z%2F20261101T180000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Avvio%20dei%20festeggiamenti%20patronali%20con%20fuochi%20pirotecnici&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "HalloWine",
-        "subtitle": "Domenica 1 novembre • 18:00",
-        "dateTime": "2026-11-01T18:00",
-        "text": "Sagra • Casamassima • Centro storico • Percorso enogastronomico e musica nel borgo",
+        "subtitle": "Domenica 1 novembre • 20:00",
+        "dateTime": "2026-11-01T20:00",
+        "text": "Sagra • Casamassima • Centro storico • Percorso enogastronomico nel borgo",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261101T170000Z%2F20261101T190000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20e%20musica%20nel%20borgo&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.casamassima.ba.it/Vivere-il-comune/Eventi/HalloWine-3-edizione"
-      },
-      {
-        "title": "Wine & Food Festival",
-        "subtitle": "Domenica 1 novembre • 19:30",
-        "dateTime": "2026-11-01T19:30",
-        "text": "Sagra • Modugno • Centro storico • Manifestazione enogastronomica con stand gastronomici",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wine%20%26%20Food%20Festival&dates=20261101T183000Z%2F20261101T203000Z&details=Sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Manifestazione%20enogastronomica%20con%20stand%20gastronomici&location=Centro%20storico%2C%20Modugno&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/wine-food-festival-modugno-2026/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261101T190000Z%2F20261101T210000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20nel%20borgo&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
       },
       {
         "title": "I Sorta Nost",
         "subtitle": "Domenica 1 novembre • 21:00",
         "dateTime": "2026-11-01T21:00",
-        "text": "Live • Casamassima • Centro storico • Musica dal vivo per HalloWine",
+        "text": "Live • Casamassima • Centro storico • Polistrumentisti in concerto per HalloWine",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261101T200000Z%2F20261101T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20dal%20vivo%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261101T200000Z%2F20261101T220000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Polistrumentisti%20in%20concerto%20per%20HalloWine&location=Centro%20storico%2C%20Casamassima&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
       },
       {
-        "title": "I Komandanti",
-        "subtitle": "Domenica 1 novembre • 21:00",
-        "dateTime": "2026-11-01T21:00",
-        "text": "Live • Bari • Piazzale Lorusso • Tributo a Vasco Rossi",
-        "logo": "VASCO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti&dates=20261101T200000Z%2F20261101T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Tributo%20a%20Vasco%20Rossi&location=Piazzale%20Lorusso%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.puglianews24.eu/monster-day-festa-halloween-municipio-ii-bari-104498.html"
-      },
-      {
-        "title": "Sagra della Quartècedde",
-        "subtitle": "Lunedì 2 novembre • 19:30",
-        "dateTime": "2026-11-02T19:30",
-        "text": "Sagra • Terlizzi • Piazza Plebiscito • Degustazioni tipiche per la commemorazione dei defunti",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20della%20Quart%C3%A8cedde&dates=20261102T183000Z%2F20261102T203000Z&details=Sagra%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20Piazza%20Plebiscito%20%E2%80%A2%20Degustazioni%20tipiche%20per%20la%20commemorazione%20dei%20defunti&location=Piazza%20Plebiscito%2C%20Terlizzi&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.terlizziviva.it/notizie/commemorazione-dei-defunti-e-sagra-della-quartecedde-il-programma-degli-appuntamenti/"
-      },
-      {
-        "title": "Banana Republic",
-        "subtitle": "Mercoledì 4 novembre • 21:00",
-        "dateTime": "2026-11-04T21:00",
-        "text": "Live • Mola di Bari • Palazzo Pesce • Omaggio a Dalla, De Gregori e Ron",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&dates=20261104T200000Z%2F20261104T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Omaggio%20a%20Dalla%2C%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/332378.html"
-      },
-      {
-        "title": "The Sound of Magic",
-        "subtitle": "Giovedì 5 novembre",
-        "dateTime": "2026-11-05T00:00",
-        "text": "Live • Altamura • Teatro Mangiatordi • Concerto della Cartoons Orchestra",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Sound%20of%20Magic&dates=20261105%2F20261106&details=Live%20%E2%80%A2%20Altamura%20%E2%80%A2%20Teatro%20Mangiatordi%20%E2%80%A2%20Concerto%20della%20Cartoons%20Orchestra&location=Teatro%20Mangiatordi%2C%20Altamura&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/matera"
-      },
-      {
-        "title": "EMAN – Magarìa Club Tour",
+        "title": "Roy Rogers – Tributo 883",
         "subtitle": "Venerdì 6 novembre",
         "dateTime": "2026-11-06T00:00",
-        "text": "Live • Bari • Officina degli Esordi • Concerto del tour Magarìa",
+        "text": "Live • Matera • Midnight Pub Live • Tribute band di Max Pezzali e 883",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20%E2%80%93%20Magar%C3%ACa%20Club%20Tour&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Concerto%20del%20tour%20Magar%C3%ACa&location=Officina%20degli%20Esordi%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/326174.html"
-      },
-      {
-        "title": "ROY ROGERS – 883 Tribute",
-        "subtitle": "Venerdì 6 novembre",
-        "dateTime": "2026-11-06T00:00",
-        "text": "Live • Matera • Midnight Pub Live • Tributo agli 883",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ROY%20ROGERS%20%E2%80%93%20883%20Tribute&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20agli%20883&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Roy%20Rogers%20%E2%80%93%20Tributo%20883&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tribute%20band%20di%20Max%20Pezzali%20e%20883&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.midnightpublive.com/event/roy-rogers-883-tribute-band/"
       },
       {
-        "title": "San Leonardo",
-        "subtitle": "Venerdì 6 novembre • 17:15",
-        "dateTime": "2026-11-06T17:15",
-        "text": "Festa patronale • Monopoli • Chiesa di San Leonardo • Celebrazione tradizionale con accompagnamento bandistico",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Leonardo&dates=20261106T161500Z%2F20261106T181500Z&details=Festa%20patronale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Chiesa%20di%20San%20Leonardo%20%E2%80%A2%20Celebrazione%20tradizionale%20con%20accompagnamento%20bandistico&location=Chiesa%20di%20San%20Leonardo%2C%20Monopoli&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334708.html"
-      },
-      {
-        "title": "Partenopea Trio",
-        "subtitle": "Venerdì 6 novembre • 20:30",
-        "dateTime": "2026-11-06T20:30",
-        "text": "Live • Bari • La DolceVita Live • Concerto di canzone napoletana",
+        "title": "EMAN – Magarìa Club Tour",
+        "subtitle": "Venerdì 6 novembre • 21:00",
+        "dateTime": "2026-11-06T21:00",
+        "text": "Live • Bari • Officina degli Esordi • Concerto del Magarìa Club Tour",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Partenopea%20Trio&dates=20261106T193000Z%2F20261106T213000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Concerto%20di%20canzone%20napoletana&location=La%20DolceVita%20Live%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333339.html"
-      },
-      {
-        "title": "I Vaskomodi",
-        "subtitle": "Venerdì 6 novembre • 21:30",
-        "dateTime": "2026-11-06T21:30",
-        "text": "Live • Monopoli • Ostinati Pub • Cover band Vasco Rossi",
-        "logo": "VASCO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi&dates=20261106T203000Z%2F20261106T223000Z&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20Pub%20%E2%80%A2%20Cover%20band%20Vasco%20Rossi&location=Ostinati%20Pub%2C%20Monopoli&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333813.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20%E2%80%93%20Magar%C3%ACa%20Club%20Tour&dates=20261106T200000Z%2F20261106T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Concerto%20del%20Magar%C3%ACa%20Club%20Tour&location=Officina%20degli%20Esordi%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-eman-magaria-club-tour-bari-ba/"
       },
       {
         "title": "Maxie Freeman",
         "subtitle": "Venerdì 6 novembre • 22:00",
         "dateTime": "2026-11-06T22:00",
-        "text": "Live • Cassano delle Murge • Pecora Nera Country Pub • Concerto blues dal vivo",
+        "text": "Live • Cassano delle Murge • Pecora Nera Country Pub • Musica dal vivo",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Concerto%20blues%20dal%20vivo&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Musica%20dal%20vivo&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333834.html"
+      },
+      {
+        "title": "Travelin' Band",
+        "subtitle": "Venerdì 6 novembre • 22:00",
+        "dateTime": "2026-11-06T22:00",
+        "text": "Live • Trani • Santo Graal • Tributo ai Creedence Clearwater Revival",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Travelin'%20Band&dates=20261106T210000Z%2F20261106T230000Z&details=Live%20%E2%80%A2%20Trani%20%E2%80%A2%20Santo%20Graal%20%E2%80%A2%20Tributo%20ai%20Creedence%20Clearwater%20Revival&location=Santo%20Graal%2C%20Trani&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/320985.html"
       },
       {
         "title": "Bacco nelle Gnostre",
         "subtitle": "Sabato 7 novembre",
         "dateTime": "2026-11-07T00:00",
-        "text": "Sagra • Noci • Centro storico • Sagra del vino novello e delle caldarroste",
+        "text": "Sagra • Noci • Centro storico • Percorso enogastronomico con vino novello e castagne",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20del%20vino%20novello%20e%20delle%20caldarroste&location=Centro%20storico%2C%20Noci&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20con%20vino%20novello%20e%20castagne&location=Centro%20storico%2C%20Noci&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://bacconellegnostre.it/"
       },
       {
-        "title": "Rocksy – Rock Cover Band",
+        "title": "Sapori d'Autunno",
         "subtitle": "Sabato 7 novembre",
         "dateTime": "2026-11-07T00:00",
-        "text": "Live • Matera • Midnight Pub Live • Cover band rock dal vivo",
+        "text": "Sagra • Binetto • Centro storico • Prodotti tipici e tradizioni autunnali",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d'Autunno&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Prodotti%20tipici%20e%20tradizioni%20autunnali&location=Centro%20storico%2C%20Binetto&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.chesagra.it/puglia/ba/binetto/sapori-d-autunno"
+      },
+      {
+        "title": "Rocksy",
+        "subtitle": "Sabato 7 novembre",
+        "dateTime": "2026-11-07T00:00",
+        "text": "Live • Matera • Midnight Pub Live • Rock cover band",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rocksy%20%E2%80%93%20Rock%20Cover%20Band&dates=20261107%2F20261108&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Cover%20band%20rock%20dal%20vivo&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rocksy&dates=20261107%2F20261108&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Rock%20cover%20band&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.midnightpublive.com/event/rocksy-rock-cover-band/"
+      },
+      {
+        "title": "Quelli del Clan",
+        "subtitle": "Sabato 7 novembre",
+        "dateTime": "2026-11-07T00:00",
+        "text": "Live • Bari • La DolceVita Live • Omaggio musicale a Celentano e Mina",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&dates=20261107%2F20261108&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Omaggio%20musicale%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331740.html"
       },
       {
         "title": "Corteo storico di San Trifone",
         "subtitle": "Sabato 7 novembre • 18:30",
         "dateTime": "2026-11-07T18:30",
-        "text": "Evento tradizionale • Adelfia • Borgo Montrone • Corteo storico per la festa patronale",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20di%20San%20Trifone&dates=20261107T173000Z%2F20261107T193000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Corteo%20storico%20per%20la%20festa%20patronale&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "text": "Festa patronale • Adelfia • Borgo Montrone • Corteo storico e parata dei vessilli della festa patronale",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20di%20San%20Trifone&dates=20261107T173000Z%2F20261107T193000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli%20della%20festa%20patronale&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Quelli del Clan",
-        "subtitle": "Sabato 7 novembre • 21:30",
-        "dateTime": "2026-11-07T21:30",
-        "text": "Live • Bari • La DolceVita Live • Tributo ad Adriano Celentano",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&dates=20261107T203000Z%2F20261107T223000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20ad%20Adriano%20Celentano&location=La%20DolceVita%20Live%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331740.html"
       },
       {
         "title": "Bacco nelle Gnostre",
         "subtitle": "Domenica 8 novembre",
         "dateTime": "2026-11-08T00:00",
-        "text": "Sagra • Noci • Centro storico • Sagra del vino novello e delle caldarroste",
+        "text": "Sagra • Noci • Centro storico • Percorso enogastronomico con vino novello e castagne",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20del%20vino%20novello%20e%20delle%20caldarroste&location=Centro%20storico%2C%20Noci&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20con%20vino%20novello%20e%20castagne&location=Centro%20storico%2C%20Noci&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://bacconellegnostre.it/"
       },
       {
         "title": "Gozzovigliando",
         "subtitle": "Domenica 8 novembre",
         "dateTime": "2026-11-08T00:00",
-        "text": "Evento tradizionale • Monopoli • Porto Vecchio • Tradizioni marinare, mercatini e musica popolare",
+        "text": "Evento tradizionale • Monopoli • Porto Antico • Tradizioni marinare, mercatini e musica folkloristica",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261108%2F20261109&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Vecchio%20%E2%80%A2%20Tradizioni%20marinare%2C%20mercatini%20e%20musica%20popolare&location=Porto%20Vecchio%2C%20Monopoli&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&dates=20261108%2F20261109&details=Evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Tradizioni%20marinare%2C%20mercatini%20e%20musica%20folkloristica&location=Porto%20Antico%2C%20Monopoli&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
+      },
+      {
+        "title": "Sagra dell'agnello e vino novello",
+        "subtitle": "Domenica 8 novembre",
+        "dateTime": "2026-11-08T00:00",
+        "text": "Sagra • Adelfia • Centro storico • Stand gastronomici della festa di San Trifone",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20vino%20novello&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%20della%20festa%20di%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "Fiera di San Trifone",
         "subtitle": "Domenica 8 novembre • 07:00",
         "dateTime": "2026-11-08T07:00",
-        "text": "Mercatino • Adelfia • Borgo Montrone • Fiera tradizionale con espositori e bancarelle",
+        "text": "Mercatino • Adelfia • Borgo Montrone • Fiera tradizionale della festa patronale",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T080000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Fiera%20tradizionale%20con%20espositori%20e%20bancarelle&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&dates=20261108T060000Z%2F20261108T080000Z&details=Mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Fiera%20tradizionale%20della%20festa%20patronale&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "Fiera del Crocifisso",
         "subtitle": "Domenica 8 novembre • 07:00",
         "dateTime": "2026-11-08T07:00",
-        "text": "Mercatino • Modugno • Centro cittadino • Bancarelle, hobbisti, artigianato e antiquariato",
+        "text": "Mercatino • Modugno • Centro urbano • Fiera commerciale tradizionale con hobbisti",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&dates=20261108T060000Z%2F20261108T080000Z&details=Mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Bancarelle%2C%20hobbisti%2C%20artigianato%20e%20antiquariato&location=Centro%20cittadino%2C%20Modugno&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&dates=20261108T060000Z%2F20261108T080000Z&details=Mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20urbano%20%E2%80%A2%20Fiera%20commerciale%20tradizionale%20con%20hobbisti&location=Centro%20urbano%2C%20Modugno&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/fiera-del-crocifisso-2026-spazi-espositivi-per-hobbisti/"
       },
       {
         "title": "Notte Bianca di San Trifone",
         "subtitle": "Domenica 8 novembre • 20:30",
         "dateTime": "2026-11-08T20:30",
-        "text": "Sagra • Adelfia • Borgo Montrone • Sagra dell'agnello e del vino novello",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Notte%20Bianca%20di%20San%20Trifone&dates=20261108T193000Z%2F20261108T213000Z&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Sagra%20dell'agnello%20e%20del%20vino%20novello&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "text": "Festa patronale • Adelfia • Borgo Montrone • Aspettando San Trifone: festa notturna nel borgo",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Notte%20Bianca%20di%20San%20Trifone&dates=20261108T193000Z%2F20261108T213000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Aspettando%20San%20Trifone%3A%20festa%20notturna%20nel%20borgo&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "Sagra dell'agnello e vino novello",
+        "subtitle": "Lunedì 9 novembre",
+        "dateTime": "2026-11-09T00:00",
+        "text": "Sagra • Adelfia • Centro storico • Stand gastronomici della festa di San Trifone",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20vino%20novello&dates=20261109%2F20261110&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%20della%20festa%20di%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/sagra-dellagnello-e-del-vino-novello/"
       },
       {
         "title": "Vigilia di San Trifone",
         "subtitle": "Lunedì 9 novembre • 19:30",
         "dateTime": "2026-11-09T19:30",
-        "text": "Festa patronale • Adelfia • Borgo Montrone • Celebrazioni e appuntamenti della vigilia",
+        "text": "Festa patronale • Adelfia • Borgo Montrone • Accensione delle luminarie e processione patronale",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&dates=20261109T183000Z%2F20261109T203000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Celebrazioni%20e%20appuntamenti%20della%20vigilia&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&dates=20261109T183000Z%2F20261109T203000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Accensione%20delle%20luminarie%20e%20processione%20patronale&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
-        "title": "Gran Galà Bandistico",
-        "subtitle": "Martedì 10 novembre • 08:30",
-        "dateTime": "2026-11-10T08:30",
-        "text": "Live • Adelfia • Borgo Montrone • Esibizioni dei concerti bandistici per San Trifone",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gran%20Gal%C3%A0%20Bandistico&dates=20261110T073000Z%2F20261110T093000Z&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Esibizioni%20dei%20concerti%20bandistici%20per%20San%20Trifone&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "title": "La Notte delle Lanterne",
+        "subtitle": "Lunedì 9 novembre • 21:00",
+        "dateTime": "2026-11-09T21:00",
+        "text": "Evento tradizionale • Adelfia • Piazza Leone XIII • Carosello tradizionale di mongolfiere",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Notte%20delle%20Lanterne&dates=20261109T200000Z%2F20261109T220000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Piazza%20Leone%20XIII%20%E2%80%A2%20Carosello%20tradizionale%20di%20mongolfiere&location=Piazza%20Leone%20XIII%2C%20Adelfia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+      },
+      {
+        "title": "Sagra dell'agnello e vino novello",
+        "subtitle": "Martedì 10 novembre",
+        "dateTime": "2026-11-10T00:00",
+        "text": "Sagra • Adelfia • Centro storico • Stand gastronomici della festa di San Trifone",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20vino%20novello&dates=20261110%2F20261111&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%20della%20festa%20di%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/sagra-dellagnello-e-del-vino-novello/"
       },
       {
         "title": "Festa di San Trifone",
-        "subtitle": "Martedì 10 novembre • 11:30",
-        "dateTime": "2026-11-10T11:30",
-        "text": "Festa patronale • Adelfia • Borgo Montrone • Giornata principale delle celebrazioni patronali",
+        "subtitle": "Martedì 10 novembre • 14:30",
+        "dateTime": "2026-11-10T14:30",
+        "text": "Festa patronale • Adelfia • Borgo Montrone • Celebrazioni patronali e spettacoli pirotecnici",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&dates=20261110T103000Z%2F20261110T123000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Giornata%20principale%20delle%20celebrazioni%20patronali&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&dates=20261110T133000Z%2F20261110T153000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Celebrazioni%20patronali%20e%20spettacoli%20pirotecnici&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
-        "title": "Concerti bandistici San Trifone",
-        "subtitle": "Mercoledì 11 novembre • 08:30",
-        "dateTime": "2026-11-11T08:30",
-        "text": "Live • Adelfia • Borgo Montrone • Concerti bandistici nella giornata conclusiva",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Concerti%20bandistici%20San%20Trifone&dates=20261111T073000Z%2F20261111T093000Z&details=Live%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Concerti%20bandistici%20nella%20giornata%20conclusiva&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+        "title": "Sagra dell'agnello e vino novello",
+        "subtitle": "Mercoledì 11 novembre",
+        "dateTime": "2026-11-11T00:00",
+        "text": "Sagra • Adelfia • Centro storico • Stand gastronomici della festa di San Trifone",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'agnello%20e%20vino%20novello&dates=20261111%2F20261112&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%20della%20festa%20di%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/sagra-dellagnello-e-del-vino-novello/"
       },
       {
-        "title": "San Trifone – Giornata finale",
+        "title": "Festa di San Trifone",
         "subtitle": "Mercoledì 11 novembre • 11:00",
         "dateTime": "2026-11-11T11:00",
-        "text": "Festa patronale • Adelfia • Borgo Montrone • Celebrazioni finali della festa patronale",
+        "text": "Festa patronale • Adelfia • Borgo Montrone • Processione patronale e festeggiamenti tradizionali",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Trifone%20%E2%80%93%20Giornata%20finale&dates=20261111T100000Z%2F20261111T120000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Celebrazioni%20finali%20della%20festa%20patronale&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&dates=20261111T100000Z%2F20261111T120000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Borgo%20Montrone%20%E2%80%A2%20Processione%20patronale%20e%20festeggiamenti%20tradizionali&location=Borgo%20Montrone%2C%20Adelfia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       }
     ]
