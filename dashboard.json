@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-10-29T09:54:29.353Z",
+  "lastModifiedDate": "2026-10-29T10:01:47.951Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-10-29T09:19:02.409Z",
@@ -211,7 +211,7 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-10-29T09:54:10.017Z",
+    "lastModifiedDate": "2026-10-29T10:01:47.951Z",
     "items": [
       {
         "title": "GP del Messico — FP1",
@@ -235,7 +235,7 @@
         "text": "Serie C • Bari - Scafatese",
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%20%E2%80%A2%20Bari%20-%20Scafatese&location=Stadio%20San%20Nicola%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.bariviva.it/sport/tutte-le-partite-del-bari-fino-al-3-gennaio/"
+        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/serie-c-2026/calendario/bari-e2hi197ydanctu9i74tonpt4r/"
       },
       {
         "title": "GP del Messico — FP3",
@@ -303,11 +303,11 @@
       },
       {
         "title": "Picerno - Bari",
-        "subtitle": "Lunedì 9 novembre • 20:30",
+        "subtitle": "Lunedì 9 novembre • 20:45",
         "text": "Serie C • Picerno - Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.bariviva.it/sport/tutte-le-partite-del-bari-fino-al-3-gennaio/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T194500Z%2F20261109T214500Z&details=Serie%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.corrieredellosport.it/squadra/calcio/bari/calendario/t122"
       },
       {
         "title": "Italia - Francia",
@@ -315,7 +315,7 @@
         "text": "UEFA Nations League • Italia - Francia",
         "logo": "ITA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20-%20Francia&dates=20261112T194500Z%2F20261112T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20-%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.figc.it/it/nazionali/news/uefa-nations-league-il-25-settembre-lesordio-degli-azzurri-in-casa-con-il-belgio-poi-le-trasferte-in-turchia-e-francia-mjs52woi"
+        "linkDettagliEvento": "https://www.figc.it/it/nazionali/news/litalia-e-mancini-ripartono-dalla-nations-league-34-convocati-sono-9-i-volti-nuovi-jtrsukbs"
       }
     ]
   },
