@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-10-29T09:45:02.875Z",
+  "lastModifiedDate": "2026-10-29T09:54:10.017Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-10-29T09:19:02.409Z",
@@ -211,124 +211,111 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-10-29T09:34:37.722Z",
+    "lastModifiedDate": "2026-10-29T09:54:10.017Z",
     "items": [
       {
-        "title": "GP Messico – Prove libere 1",
+        "title": "GP del Messico — FP1",
         "subtitle": "Venerdì 30 ottobre • 19:30",
-        "dateTime": "2026-10-30T19:30",
-        "text": "Formula 1 • GP del Messico • Prove libere 1",
+        "text": "Formula 1 • GP del Messico • FP1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%201&dates=20261030T183000Z%2F20261030T193000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20del%20Messico%20%E2%80%94%20FP1&dates=20261030T183000Z%2F20261030T193000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP1&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
       },
       {
-        "title": "GP Messico – Prove libere 2",
+        "title": "GP del Messico — FP2",
         "subtitle": "Venerdì 30 ottobre • 23:00",
-        "dateTime": "2026-10-30T23:00",
-        "text": "Formula 1 • GP del Messico • Prove libere 2",
+        "text": "Formula 1 • GP del Messico • FP2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%202&dates=20261030T220000Z%2F20261030T230000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20del%20Messico%20%E2%80%94%20FP2&dates=20261030T220000Z%2F20261030T230000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP2&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
       },
       {
-        "title": "Bari – Scafatese",
+        "title": "Bari - Scafatese",
         "subtitle": "Sabato 31 ottobre • 14:30",
-        "dateTime": "2026-10-31T14:30",
-        "text": "Serie C • Bari – Scafatese",
+        "text": "Serie C • Bari - Scafatese",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20%E2%80%93%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%20%E2%80%A2%20Bari%20%E2%80%93%20Scafatese&location=Stadio%20San%20Nicola%2C%20Bari",
-        "linkDettagliEvento": "https://www.corrieredellosport.it/squadra/calcio/bari/calendario/t122"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%20%E2%80%A2%20Bari%20-%20Scafatese&location=Stadio%20San%20Nicola%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariviva.it/sport/tutte-le-partite-del-bari-fino-al-3-gennaio/"
       },
       {
-        "title": "GP Messico – Prove libere 3",
+        "title": "GP del Messico — FP3",
         "subtitle": "Sabato 31 ottobre • 18:30",
-        "dateTime": "2026-10-31T18:30",
-        "text": "Formula 1 • GP del Messico • Prove libere 3",
+        "text": "Formula 1 • GP del Messico • FP3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Prove%20libere%203&dates=20261031T173000Z%2F20261031T183000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20del%20Messico%20%E2%80%94%20FP3&dates=20261031T173000Z%2F20261031T183000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP3&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
       },
       {
-        "title": "GP Messico – Qualifiche",
+        "title": "GP del Messico — Qualifiche",
         "subtitle": "Sabato 31 ottobre • 22:00",
-        "dateTime": "2026-10-31T22:00",
         "text": "Formula 1 • GP del Messico • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Qualifiche&dates=20261031T210000Z%2F20261031T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20del%20Messico%20%E2%80%94%20Qualifiche&dates=20261031T210000Z%2F20261031T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
       },
       {
-        "title": "GP Messico – Gara",
+        "title": "GP del Messico — Gara",
         "subtitle": "Domenica 1 novembre • 21:00",
-        "dateTime": "2026-11-01T21:00",
         "text": "Formula 1 • GP del Messico • Gara",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Messico%20%E2%80%93%20Gara&dates=20261101T200000Z%2F20261101T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20del%20Messico%20%E2%80%94%20Gara&dates=20261101T200000Z%2F20261101T220000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
       },
       {
-        "title": "GP Brasile – Prove libere 1",
+        "title": "GP di San Paolo — FP1",
         "subtitle": "Venerdì 6 novembre • 16:30",
-        "dateTime": "2026-11-06T16:30",
-        "text": "Formula 1 • GP del Brasile • Prove libere 1",
+        "text": "Formula 1 • GP di San Paolo • FP1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%201&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20di%20San%20Paolo%20%E2%80%94%20FP1&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP1&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "GP Brasile – Prove libere 2",
+        "title": "GP di San Paolo — FP2",
         "subtitle": "Venerdì 6 novembre • 20:00",
-        "dateTime": "2026-11-06T20:00",
-        "text": "Formula 1 • GP del Brasile • Prove libere 2",
+        "text": "Formula 1 • GP di San Paolo • FP2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%202&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20di%20San%20Paolo%20%E2%80%94%20FP2&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP2&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "GP Brasile – Prove libere 3",
+        "title": "GP di San Paolo — FP3",
         "subtitle": "Sabato 7 novembre • 15:30",
-        "dateTime": "2026-11-07T15:30",
-        "text": "Formula 1 • GP del Brasile • Prove libere 3",
+        "text": "Formula 1 • GP di San Paolo • FP3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20di%20San%20Paolo%20%E2%80%94%20FP3&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP3&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "GP Brasile – Qualifiche",
+        "title": "GP di San Paolo — Qualifiche",
         "subtitle": "Sabato 7 novembre • 19:00",
-        "dateTime": "2026-11-07T19:00",
-        "text": "Formula 1 • GP del Brasile • Qualifiche",
+        "text": "Formula 1 • GP di San Paolo • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20di%20San%20Paolo%20%E2%80%94%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "GP Brasile – Gara",
+        "title": "GP di San Paolo — Gara",
         "subtitle": "Domenica 8 novembre • 18:00",
-        "dateTime": "2026-11-08T18:00",
-        "text": "Formula 1 • GP del Brasile • Gara",
+        "text": "Formula 1 • GP di San Paolo • Gara",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20di%20San%20Paolo%20%E2%80%94%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "Picerno – Bari",
+        "title": "Picerno - Bari",
         "subtitle": "Lunedì 9 novembre • 20:30",
-        "dateTime": "2026-11-09T20:30",
-        "text": "Serie C • Picerno – Bari",
+        "text": "Serie C • Picerno - Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20%E2%80%93%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%20%E2%80%A2%20Picerno%20%E2%80%93%20Bari&location=Picerno",
-        "linkDettagliEvento": "https://www.labaricalcio.it/2026/09/18/bari-le-date-in-campionato-in-anticipo-a-caserta-derby-con-il-foggia-al-sabato/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariviva.it/sport/tutte-le-partite-del-bari-fino-al-3-gennaio/"
       },
       {
-        "title": "Italia – Francia",
+        "title": "Italia - Francia",
         "subtitle": "Giovedì 12 novembre • 20:45",
-        "dateTime": "2026-11-12T20:45",
-        "text": "UEFA Nations League • Italia – Francia",
+        "text": "UEFA Nations League • Italia - Francia",
         "logo": "ITA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20%E2%80%93%20Francia&dates=20261112T194500Z%2F20261112T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20%E2%80%93%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano",
-        "linkDettagliEvento": "https://it.uefa.com/uefanationsleague/teams/66/matches/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20-%20Francia&dates=20261112T194500Z%2F20261112T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20-%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.figc.it/it/nazionali/news/uefa-nations-league-il-25-settembre-lesordio-degli-azzurri-in-casa-con-il-belgio-poi-le-trasferte-in-turchia-e-francia-mjs52woi"
       }
     ]
   },
