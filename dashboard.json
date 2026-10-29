@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-10-29T09:34:37.722Z",
+  "lastModifiedDate": "2026-10-29T09:45:02.875Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-10-29T09:19:02.409Z",
@@ -333,7 +333,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-10-27T08:31:31.118Z",
+    "lastModifiedDate": "2026-10-29T09:45:02.875Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,7 +418,47 @@
         "text": "Live • Bari • Libreria Prinz Zaum • Concerto di Dimblue e Simona Valente",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PINKABBESTIA%3A%20Dimblue%20e%20Valente&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Libreria%20Prinz%20Zaum%20%E2%80%A2%20Concerto%20di%20Dimblue%20e%20Simona%20Valente&location=Libreria%20Prinz%20Zaum%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/"
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/events/2026-10-30/"
+      },
+      {
+        "title": "Soccer96 e System Exclusive",
+        "subtitle": "Venerdì 30 ottobre",
+        "text": "Live • Bari • Officina degli Esordi • Time Zones con Dan Leavers",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Soccer96%20e%20System%20Exclusive&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Time%20Zones%20con%20Dan%20Leavers&location=Officina%20degli%20Esordi%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/bari/officina-degli-esordi"
+      },
+      {
+        "title": "Penny Lane Avenue – Beatles",
+        "subtitle": "Venerdì 30 ottobre • 21:00",
+        "text": "Live • Bari • Black Horses Pub • Tributo ai Beatles",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Penny%20Lane%20Avenue%20%E2%80%93%20Beatles&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Tributo%20ai%20Beatles&location=Black%20Horses%20Pub%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334718.html"
+      },
+      {
+        "title": "Cult of Smiths",
+        "subtitle": "Sabato 31 ottobre",
+        "text": "Live • Matera • Midnight Pub Live • Tributo a The Cult, Smiths, Cure e Joy Division",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cult%20of%20Smiths&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20a%20The%20Cult%2C%20Smiths%2C%20Cure%20e%20Joy%20Division&location=Midnight%20Pub%20Live%2C%20Matera",
+        "linkDettagliEvento": "https://www.midnightpublive.com/events/"
+      },
+      {
+        "title": "HalloWine",
+        "subtitle": "Sabato 31 ottobre • 19:00",
+        "text": "Sagra • Casamassima • Centro storico • Stand gastronomici e cantine",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine&dates=20261031T180000Z%2F20261031T220000Z&details=Sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%20e%20cantine&location=Centro%20storico%2C%20Casamassima",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
+      },
+      {
+        "title": "I Sorta Nost",
+        "subtitle": "Sabato 31 ottobre • 21:00",
+        "text": "Live • Casamassima • Centro storico • Musica itinerante a HalloWine",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Sorta%20Nost&dates=20261031T200000Z%2F20261031T223000Z&details=Live%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Musica%20itinerante%20a%20HalloWine&location=Centro%20storico%2C%20Casamassima",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/hallowine-2026/"
       },
       {
         "title": "Dettagli… senza fine",
@@ -498,7 +538,7 @@
         "dateTime": "2026-11-01T06:00",
         "text": "Mercatino • Valenzano • Vie del centro • Grande fiera tradizionale con bancarelle e artigianato",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101T050000Z%2F20261101T190000Z&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Vie%20del%20centro%20%E2%80%A2%20Grande%20fiera%20tradizionale%20con%20bancarelle%20e%20artigianato&location=Centro%20abitato%2C%20Valenzano",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Vie%20del%20centro%20%E2%80%A2%20Tradizionale%20fiera%20con%20espositori&location=Vie%20del%20centro%2C%20Valenzano",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/fiera-di-ognissanti-2026-70737"
       },
       {
@@ -507,7 +547,7 @@
         "dateTime": "2026-11-01T09:30",
         "text": "Evento tradizionale • Valenzano • Largo Frate Francesco • Rievocazioni, falconeria, spettacoli e laboratori",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20Medievale&dates=20261101T083000Z%2F20261101T123000Z&details=Evento%20tradizionale%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20Frate%20Francesco%20%E2%80%A2%20Rievocazioni%2C%20falconeria%2C%20spettacoli%20e%20laboratori&location=Largo%20Frate%20Francesco%2C%20Valenzano",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20Medievale&dates=20261101T083000Z%2F20261101T123000Z&details=Evento%20tradizionale%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20Frate%20Francesco%20%E2%80%A2%20Rievocazioni%2C%20falconeria%20e%20artigianato&location=Largo%20Frate%20Francesco%2C%20Valenzano",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/fiera-di-ognissanti-e-villaggio-medievale-70737"
       },
       {
@@ -516,7 +556,7 @@
         "dateTime": "2026-11-02T00:00",
         "text": "Sagra • Terlizzi • Piazza Plebiscito • Sapori della tradizione per la commemorazione dei defunti",
         "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20della%20Quartcedd&dates=20261102%2F20261103&details=Sagra%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20Piazza%20Plebiscito%20%E2%80%A2%20Sapori%20della%20tradizione%20per%20la%20commemorazione%20dei%20defunti&location=Piazza%20Plebiscito%2C%20Terlizzi",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20della%20Quartcedd&dates=20261102%2F20261103&details=Sagra%20%E2%80%A2%20Terlizzi%20%E2%80%A2%20Piazza%20Plebiscito%20%E2%80%A2%20Tradizionale%20sagra%20della%20commemorazione%20dei%20defunti&location=Piazza%20Plebiscito%2C%20Terlizzi",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/terlizzi/sagra-della-quartcedd-e-iniziative-per-la-commemorazione-dei-defunti-106062"
       },
       {
@@ -543,8 +583,8 @@
         "dateTime": "2026-11-06T21:00",
         "text": "Live • Bari • Officina degli Esordi • Concerto del cantautore EMAN",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20%E2%80%93%20Magar%C3%ACa%20Club%20Tour&dates=20261106T200000Z%2F20261106T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Concerto%20del%20cantautore%20EMAN&location=Officina%20degli%20Esordi%2C%20Bari",
-        "linkDettagliEvento": "https://anyplans.in/bari/locali/officina-degli-esordi/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20%E2%80%93%20Magar%C3%ACa%20Club%20Tour&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Presentazione%20live%20del%20nuovo%20album&location=Officina%20degli%20Esordi%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/bari/officina-degli-esordi"
       },
       {
         "title": "Laura Masotto e Paolo Buonvino",
@@ -570,8 +610,16 @@
         "dateTime": "2026-11-07T00:00",
         "text": "Live • Bari • La DolceVita Live • Tributo alle canzoni di Mina e Adriano Celentano",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan%20%E2%80%93%20Mina%20e%20Celentano&dates=20261107%2F20261108&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20alle%20canzoni%20di%20Mina%20e%20Adriano%20Celentano&location=La%20DolceVita%20Live%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/bari/la-dolcevita-live"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20Libero%20%E2%80%93%20Battisti%20e%20Mogol&dates=20261107T200000Z%2F20261107T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Concerto%20omaggio%20a%20Battisti%20e%20Mogol&location=Teatro%20Petruzzelli%2C%20Bari",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/canto-libero/"
+      },
+      {
+        "title": "Sagra agnello e vino novello",
+        "subtitle": "Domenica 8 novembre",
+        "text": "Sagra • Adelfia • Centro storico • Terza edizione della sagra",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20agnello%20e%20vino%20novello&dates=20261108%2F20261109&details=Sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Terza%20edizione%20della%20sagra&location=Centro%20storico%2C%20Adelfia",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
         "title": "Corteo storico di San Trifone",
@@ -624,7 +672,7 @@
         "dateTime": "2026-11-09T19:30",
         "text": "Festa patronale • Adelfia • Centro • Luminarie, processione del quadro e lancio della mongolfiera",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&dates=20261109T183000Z%2F20261109T210000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20%E2%80%A2%20Luminarie%2C%20processione%20del%20quadro%20e%20lancio%20della%20mongolfiera&location=Centro%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&dates=20261109T183000Z%2F20261109T203000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20%E2%80%A2%20Processione%20del%20Quadro%20e%20accensione%20luminarie&location=Centro%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -633,7 +681,7 @@
         "dateTime": "2026-11-09T21:00",
         "text": "Evento tradizionale • Adelfia • Piazza Leone XIII • Carosello di mongolfiere della festa di San Trifone",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20notte%20delle%20lanterne&dates=20261109T200000Z%2F20261109T213000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Piazza%20Leone%20XIII%20%E2%80%A2%20Carosello%20di%20mongolfiere%20della%20festa%20di%20San%20Trifone&location=Piazza%20Leone%20XIII%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20notte%20delle%20lanterne&dates=20261109T200000Z%2F20261109T213000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Piazza%20Leone%20XIII%20%E2%80%A2%20Carosello%20di%20mongolfiere&location=Piazza%20Leone%20XIII%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -651,7 +699,7 @@
         "dateTime": "2026-11-10T11:30",
         "text": "Festa patronale • Adelfia • Processione della Sacra Immagine e delle reliquie del Santo",
         "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Trifone&dates=20261110T103000Z%2F20261110T130000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Processione%20della%20Sacra%20Immagine%20e%20delle%20reliquie%20del%20Santo&location=Centro%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Trifone&dates=20261110T103000Z%2F20261110T130000Z&details=Festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20%E2%80%A2%20Processione%20della%20Sacra%20Immagine%20e%20delle%20reliquie&location=Centro%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       },
       {
@@ -660,7 +708,7 @@
         "dateTime": "2026-11-10T21:00",
         "text": "Evento tradizionale • Adelfia • Kermesse pirotecnica notturna e spettacolo piromusicale finale",
         "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fuochi%20di%20San%20Trifone&dates=20261110T200000Z%2F20261110T220000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Kermesse%20pirotecnica%20notturna%20e%20spettacolo%20piromusicale%20finale&location=Centro%2C%20Adelfia",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fuochi%20di%20San%20Trifone&dates=20261110T200000Z%2F20261110T220000Z&details=Evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20%E2%80%A2%20Kermesse%20pirotecnica%20e%20spettacolo%20piromusicale&location=Centro%2C%20Adelfia",
         "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
       }
     ]
