@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-10-29T09:19:02.409Z",
+  "lastModifiedDate": "2026-10-29T09:34:37.722Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-10-29T09:19:02.409Z",
@@ -211,7 +211,7 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-10-27T08:31:31.118Z",
+    "lastModifiedDate": "2026-10-29T09:34:37.722Z",
     "items": [
       {
         "title": "GP Messico – Prove libere 1",
@@ -232,10 +232,10 @@
       {
         "title": "Bari – Scafatese",
         "subtitle": "Sabato 31 ottobre • 14:30",
-        "text": "Serie C, girone C • Bari–Scafatese",
+        "text": "Serie C • Bari – Scafatese",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20%E2%80%93%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%2C%20girone%20C%20%E2%80%A2%20Bari%E2%80%93Scafatese&location=Stadio%20San%20Nicola%2C%20Bari",
-        "linkDettagliEvento": "https://www.labaricalcio.it/2026/09/18/bari-le-date-in-campionato-in-anticipo-a-caserta-derby-con-il-foggia-al-sabato/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20%E2%80%93%20Scafatese&dates=20261031T133000Z%2F20261031T153000Z&details=Serie%20C%20%E2%80%A2%20Bari%20%E2%80%93%20Scafatese&location=Stadio%20San%20Nicola%2C%20Bari",
+        "linkDettagliEvento": "https://www.corrieredellosport.it/squadra/calcio/bari/calendario/t122"
       },
       {
         "title": "GP Messico – Prove libere 3",
@@ -264,50 +264,58 @@
       {
         "title": "GP Brasile – Prove libere 1",
         "subtitle": "Venerdì 6 novembre • 16:30",
-        "text": "Formula 1 • GP di São Paulo • Prove libere 1",
+        "text": "Formula 1 • GP del Brasile • Prove libere 1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%201&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%201&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
         "title": "GP Brasile – Prove libere 2",
         "subtitle": "Venerdì 6 novembre • 20:00",
-        "text": "Formula 1 • GP di São Paulo • Prove libere 2",
+        "text": "Formula 1 • GP del Brasile • Prove libere 2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%202&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%202&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
         "title": "GP Brasile – Prove libere 3",
         "subtitle": "Sabato 7 novembre • 15:30",
-        "text": "Formula 1 • GP di São Paulo • Prove libere 3",
+        "text": "Formula 1 • GP del Brasile • Prove libere 3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Prove%20libere%203&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
         "title": "GP Brasile – Qualifiche",
         "subtitle": "Sabato 7 novembre • 19:00",
-        "text": "Formula 1 • GP di São Paulo • Qualifiche",
+        "text": "Formula 1 • GP del Brasile • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
         "title": "GP Brasile – Gara",
         "subtitle": "Domenica 8 novembre • 18:00",
-        "text": "Formula 1 • GP di São Paulo • Gara",
+        "text": "Formula 1 • GP del Brasile • Gara",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20di%20S%C3%A3o%20Paulo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20S%C3%A3o%20Paulo",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.3nFWRAkowAY3uUyvw6O0eJ"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Brasile%20%E2%80%93%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20del%20Brasile%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
         "title": "Picerno – Bari",
         "subtitle": "Lunedì 9 novembre • 20:30",
-        "text": "Serie C, girone C • Picerno–Bari",
+        "text": "Serie C • Picerno – Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20%E2%80%93%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%2C%20girone%20C%20%E2%80%A2%20Picerno%E2%80%93Bari&location=Picerno",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20%E2%80%93%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%20%E2%80%A2%20Picerno%20%E2%80%93%20Bari&location=Picerno",
         "linkDettagliEvento": "https://www.labaricalcio.it/2026/09/18/bari-le-date-in-campionato-in-anticipo-a-caserta-derby-con-il-foggia-al-sabato/"
+      },
+      {
+        "title": "Italia – Francia",
+        "subtitle": "Giovedì 12 novembre • 20:45",
+        "text": "UEFA Nations League • Italia – Francia",
+        "logo": "ITA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20%E2%80%93%20Francia&dates=20261112T194500Z%2F20261112T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20%E2%80%93%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano",
+        "linkDettagliEvento": "https://it.uefa.com/uefanationsleague/teams/66/matches/"
       }
     ]
   },
