@@ -74,7 +74,7 @@ WATCHLIST E BLACKLIST
 LIVE INTERNI ALLE MANIFESTAZIONI
 Per sagre, patronali, mercatini ed eventi tradizionali consulta il programma testuale e cerca ospiti, concerti, live, band, artisti, tribute e cover.
 
-Se artista o gruppo è riconoscibile e almeno la data è verificata, crea un item live autonomo accanto alla manifestazione principale. Usa `logo:"VASCO"` quando si tratta esplicitamente di una cover/tribute band dedicata a Vasco Rossi; negli altri casi usa `logo:"LIVE"`. Inserisci l'ora soltanto se verificata. Non creare item autonomi per attività musicali minori o generiche.
+Se artista o gruppo è riconoscibile e almeno la data è verificata, crea un item live autonomo accanto alla manifestazione principale. Non assegnare manualmente il campo `logo`: viene calcolato esclusivamente dal classificatore dichiarativo descritto sotto. Inserisci l'ora soltanto se verificata. Non creare item autonomi per attività musicali minori o generiche.
 
 Per manifestazioni su più giorni crea un item distinto per ogni giorno. I live interni restano item separati. Deduplica la stessa manifestazione trovata su più fonti, ma non unire giorni diversi o live autonomi.
 
@@ -87,18 +87,149 @@ REGOLE DEI CAMPI
 - `title`: breve, idealmente entro 30-35 caratteri, senza città, anno o categoria ridondanti.
 - `subtitle`: data italiana, ad esempio `Venerdì 23 ottobre • 22:15`; se l'ora non è verificata usa soltanto giorno e data.
 - `dateTime`: obbligatorio, mai `null`, formato locale ordinabile `YYYY-MM-DDTHH:mm` in `Europe/Rome`, ad esempio `2026-10-23T22:15`. Usa l'orario confermato; se l'orario non è disponibile usa obbligatoriamente `00:00`. Non aggiungere secondi o offset UTC.
-- `text`: `Categoria • Città • Luogo • dettaglio breve`, omettendo elementi non verificati.
-- `logo`: esclusivamente `SAGRA`, `PATRONALE`, `MERCATINO`, `LIVE`, `VASCO`, `TRADIZIONE`. Usa `VASCO` soltanto quando titolo, descrizione o fonte identificano chiaramente una cover band o tribute band dedicata principalmente a Vasco Rossi. Non basta che una normale band includa alcune sue canzoni nel repertorio. Tutti gli altri concerti usano `LIVE`; le fiere ammesse usano `MERCATINO`.
+- `text`: `Categoria • Città • Luogo • dettaglio breve`, omettendo elementi non verificati. Tutte le informazioni che determinano un logo specifico devono comparire esplicitamente in `title` o `text`, così il classificatore può riprodurre la decisione sul JSON finale. Per una cover/tribute band dedicata a Vasco Rossi usa nel dettaglio `Cover band Vasco Rossi` oppure `Tributo a Vasco Rossi`.
+- `logo`: obbligatorio e determinato esclusivamente dalla funzione `classifyLogo`. I valori ammessi derivano automaticamente da `specificLogoRules` e `defaultLogoByCategory`; non mantenere un secondo elenco hardcoded. Le regole specifiche prevalgono sul logo generico della categoria in base alla priorità.
 - `link`: sempre e soltanto un URL Google Calendar precompilato. Titolo = `title`, descrizione = `text`, luogo = luogo e città se verificati. Con ora certa crea un evento temporizzato con durata ragionevole; senza ora crea un all-day di un giorno. Converti correttamente Europe/Rome e UTC.
 - `linkDettagliEvento`: URL HTTP/HTTPS specifico ufficiale o attendibile; omettilo se non verificabile.
+
+CLASSIFICAZIONE DICHIARATIVA E GATE BLOCCANTE DEL LOGO
+Questa è l'unica logica autorizzata per compilare e validare `logo`. Non creare condizioni separate fuori da questo blocco.
+
+Priorità delle regole:
+- artista o soggetto specifico: 400;
+- locale specifico: 300;
+- comune specifico: 200;
+- categoria generica: fallback.
+
+Per aggiungere in futuro un artista, locale o comune, aggiungi soltanto un oggetto a `specificLogoRules`. Non modificare `classifyLogo`, `validateLogoClassification` o un elenco separato di valori ammessi.
+
+Ogni regola contiene:
+- `logo`: valore da scrivere;
+- `priority`: priorità numerica;
+- `groups`: gruppi di termini; ogni gruppo deve avere almeno una corrispondenza;
+- `excludeTerms`: termini facoltativi che impediscono la corrispondenza.
+
+Prima di chiamare `update_file`, esegui realmente questo codice sul payload finale:
+
+```javascript
+const specificLogoRules = [
+  {
+    logo: "VASCO",
+    priority: 400,
+    groups: [
+      ["vasco rossi", "vasco"],
+      ["cover band", "cover", "tribute", "tributo", "omaggio"]
+    ],
+    excludeTerms: []
+  }
+];
+
+const defaultLogoByCategory = {
+  "sagra": "SAGRA",
+  "festa patronale": "PATRONALE",
+  "mercatino": "MERCATINO",
+  "live": "LIVE",
+  "evento tradizionale": "TRADIZIONE"
+};
+
+function normalizeLogoText(value) {
+  return String(value || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function ruleMatches(haystack, rule) {
+  const groupsMatch = rule.groups.every((group) =>
+    group.some((term) => haystack.includes(normalizeLogoText(term)))
+  );
+  const excluded = (rule.excludeTerms || []).some((term) =>
+    haystack.includes(normalizeLogoText(term))
+  );
+  return groupsMatch && !excluded;
+}
+
+function classifyLogo(item) {
+  const haystack = normalizeLogoText((item.title || "") + " " + (item.text || ""));
+  const matchingRule = [...specificLogoRules]
+    .sort((a, b) => b.priority - a.priority)
+    .find((rule) => ruleMatches(haystack, rule));
+  if (matchingRule) return matchingRule.logo;
+  const category = normalizeLogoText(String(item.text || "").split("•")[0]);
+  return defaultLogoByCategory[category] || null;
+}
+
+function applyLogoRules(payloadObject) {
+  if (!payloadObject.eventi || !Array.isArray(payloadObject.eventi.items)) {
+    throw new Error("eventi.items mancante o non valido");
+  }
+  for (const item of payloadObject.eventi.items) {
+    const expectedLogo = classifyLogo(item);
+    if (!expectedLogo) {
+      throw new Error("Logo non determinabile per: " + (item.title || "<senza titolo>"));
+    }
+    item.logo = expectedLogo;
+  }
+}
+
+function validateLogoClassification(jsonText) {
+  const parsed = JSON.parse(jsonText);
+  if (!parsed.eventi || !Array.isArray(parsed.eventi.items)) {
+    throw new Error("eventi.items mancante o non valido");
+  }
+  const allowedLogos = new Set([
+    ...specificLogoRules.map((rule) => rule.logo),
+    ...Object.values(defaultLogoByCategory)
+  ]);
+  const checks = parsed.eventi.items.map((item) => {
+    const expectedLogo = classifyLogo(item);
+    const invalid = !expectedLogo ||
+      !allowedLogos.has(item.logo) ||
+      item.logo !== expectedLogo;
+    return {
+      title: item.title || "<senza titolo>",
+      actualLogo: item.logo,
+      expectedLogo,
+      invalid
+    };
+  });
+  const invalid = checks.filter((item) => item.invalid);
+  const result = {
+    totalItems: checks.length,
+    validItems: checks.length - invalid.length,
+    invalidItems: invalid.length,
+    invalidItemsDetail: invalid
+  };
+  console.log(JSON.stringify(result, null, 2));
+  return result;
+}
+
+applyLogoRules(payload);
+const finalJson = JSON.stringify(payload, null, 2);
+const logoValidation = validateLogoClassification(finalJson);
+if (logoValidation.invalidItems !== 0) {
+  throw new Error("Classificazione logo non valida: correggere prima di update_file");
+}
+```
+
+Regole operative obbligatorie:
+1. Non assegnare `logo` durante la ricerca con condizioni manuali: raccogli prima `title` e `text`, poi esegui `applyLogoRules(payload)`.
+2. I valori ammessi sono sempre derivati dalla tabella; aggiungere una regola rende automaticamente ammesso il nuovo logo.
+3. Una regola specifica con priorità maggiore sostituisce il logo generico. La regola `VASCO` trasforma quindi una cover band di Vasco da `LIVE` a `VASCO`.
+4. Dopo ogni modifica a `specificLogoRules`, esegui lo stesso classificatore su tutti gli item, non soltanto sui nuovi eventi.
+5. `update_file` è consentito esclusivamente quando `invalidItems === 0`.
+6. Un JSON sintatticamente valido o un logo appartenente all'elenco ammesso non bastano: `actualLogo` deve coincidere con `expectedLogo`.
+7. Se il codice non può essere eseguito, non pubblicare e segnala esplicitamente l'errore.
 
 Ordina gli item in ordine crescente usando direttamente `dateTime`. Gli eventi senza orario vengono quindi ordinati alle `00:00` del relativo giorno.
 
 VALIDAZIONE
 - JSON parseabile e leggibile con indentazione.
 - Root e schema esatti.
-- Solo categorie e logo ammessi.
-- Ogni cover/tribute band dedicata a Vasco Rossi usa `logo:"VASCO"`; nessun altro evento usa questo valore.
+- Ogni `logo` è prodotto da `applyLogoRules` e appartiene all’insieme derivato da `specificLogoRules` e `defaultLogoByCategory`.
+- La validazione generica restituisce `invalidItems: 0`; per ogni item `actualLogo` coincide con `expectedLogo`.
 - Ogni item contiene un `dateTime` valido nel formato `YYYY-MM-DDTHH:mm`; se `subtitle` non contiene un orario, `dateTime` termina con `T00:00`.
 - Nessun evento fuori dai 15 giorni inclusivi.
 - Gate finale blacklist eseguito: zero corrispondenze su venue, titolo, testo, tipologia, luogo, organizzatore e fonte; nessun evento jazz escluso.
@@ -118,4 +249,4 @@ Se ricevi un conflitto SHA, rileggi la versione corrente, reinserisci soltanto l
 
 Se il write ha esito incerto, rileggi prima il file: se `eventi.lastModifiedDate` coincide con quella generata, non creare un secondo commit.
 
-Dopo il write rileggi il file da GitHub e verifica JSON, schema, conteggio, timestamp e conservazione delle altre sezioni. Riferisci commit SHA ed esito della rilettura GitHub. Non verificare l'URL raw.
+Dopo il write rileggi il file direttamente da GitHub, assegna il contenuto pubblicato a `publishedJson` e riesegui `validateLogoClassification(publishedJson)`. L'output deve avere `invalidItems: 0`. Se fallisce, ricalcola tutti i logo con `applyLogoRules`, usa una SHA fresca, esegui un solo write correttivo e valida nuovamente. Riferisci commit SHA e i conteggi `totalItems`, `validItems`, `invalidItems`. Non verificare l'URL raw.
