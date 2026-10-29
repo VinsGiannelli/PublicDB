@@ -1,682 +1,558 @@
 {
-  "lastModifiedDate": "2026-10-29T15:54:00.287Z",
-  "timezone": "Europe/Rome",
-  "games": {
-    "lastModifiedDate": "2026-10-29T09:19:02.409Z",
-    "items": [
-      {
-        "title": "A Quiet Place: The Road Ahead",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Avventura horror in prima persona ambientata in un mondo invaso da creature sensibili al rumore: esplora zone pericolose, gestisci gli oggetti e sopravvivi restando silenzioso. Giocabile in streaming su Amazon Luna Standard incluso con Prime.",
-        "createdDate": "2026-10-25",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2233120/header.jpg",
-        "link": "https://luna.amazon.com/",
-        "steamRating": "72%",
-        "steamPrice": "29,99€",
-        "steamUrl": "https://store.steampowered.com/app/2233120/"
-      },
-      {
-        "title": "Ad Infinitum",
-        "subtitle": "Epic Games Store",
-        "text": "Horror psicologico in prima persona tra trincee della Grande Guerra e incubi surreali, con esplorazione, rompicapi e creature legate ai traumi di un soldato. Riscattabile con Amazon Prime tramite Epic Games Store fino al 25 novembre 2026.",
-        "createdDate": "2026-10-22",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "75%",
-        "steamPrice": "2,49€",
-        "steamUrl": "https://store.steampowered.com/app/1234430/"
-      },
-      {
-        "title": "Caravan SandWitch",
-        "subtitle": "Amazon Games App",
-        "text": "Avventura esplorativa fantascientifica su un pianeta desertico: guida un furgone, attraversa insediamenti e rovine, aiuta gli abitanti e cerca una persona scomparsa. Riscattabile con Amazon Prime tramite Amazon Games App fino al 16 dicembre 2026.",
-        "createdDate": "2026-10-15",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "88%",
-        "steamPrice": "24,99€",
-        "steamUrl": "https://store.steampowered.com/app/1582650/"
-      },
-      {
-        "title": "Conarium",
-        "subtitle": "GOG",
-        "text": "Avventura horror ispirata a Lovecraft, ambientata in una struttura antartica isolata, con indagini, misteri scientifici, enigmi e inquietanti esperienze soprannaturali. Riscattabile con Amazon Prime tramite GOG fino al 11 novembre 2026.",
-        "createdDate": "2026-10-08",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "76%",
-        "steamPrice": "$2.99",
-        "steamUrl": "https://store.steampowered.com/app/313780/"
-      },
-      {
-        "title": "DOOM",
-        "subtitle": "GOG",
-        "text": "Sparatutto in prima persona su Marte, con combattimenti veloci contro orde demoniache, armi devastanti e livelli pieni di segreti. Riscattabile con Amazon Prime tramite GOG fino al 4 novembre 2026.",
-        "createdDate": "2026-10-01",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "94%",
-        "steamPrice": "19,99€",
-        "steamUrl": "https://store.steampowered.com/app/379720/"
-      },
-      {
-        "title": "Five Nights at Freddy's: Into the Pit",
-        "subtitle": "Epic Games Store",
-        "text": "Horror narrativo bidimensionale in pixel art: un ragazzo esplora un passato terrificante, risolve enigmi e sfugge ad animatronici ostili. Riscattabile con Amazon Prime tramite Epic Games Store fino al 4 novembre 2026.",
-        "createdDate": "2026-10-01",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "96%",
-        "steamPrice": "11,70€",
-        "steamUrl": "https://store.steampowered.com/app/2638370/"
-      },
-      {
-        "title": "Hex Reverse",
-        "subtitle": "Steam",
-        "text": "Roguelike strategico di carte su una griglia esagonale: posiziona carte, confronta i valori dei lati, conquista quelle nemiche e potenzia il mazzo tra una sfida e l'altra. Gratuito da aggiungere a Steam per i primi 30 giorni dal 7 ottobre 2026; una volta riscattato rimane in libreria.",
-        "createdDate": "2026-10-07",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/header.jpg",
-        "link": "https://store.steampowered.com/app/5257350/Hex_Reverse/",
-        "steamRating": "51%",
-        "steamPrice": "Gratis",
-        "steamUrl": "https://store.steampowered.com/app/5257350/"
-      },
-      {
-        "title": "Home - A Unique Horror Adventure",
-        "subtitle": "Epic Games Store",
-        "text": "Horror psicologico narrativo in pixel art, in cui esplorare una casa misteriosa, raccogliere indizi e compiere scelte che modificano il finale. Gratis da riscattare su Epic Games Store fino al 29 ottobre 2026.",
-        "createdDate": "2026-10-22",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215670/header.jpg",
-        "link": "https://store.epicgames.com/p/home-19212a",
-        "steamRating": "65%",
-        "steamPrice": "0,79€",
-        "steamUrl": "https://store.steampowered.com/app/215670/"
-      },
-      {
-        "title": "KIBORG",
-        "subtitle": "Amazon Games App",
-        "text": "Picchiaduro roguelite fantascientifico ambientato in una prigione galattica: affronta combattimenti brutali in terza persona, potenzia il corpo con impianti cibernetici e supera sfide sempre nuove. Riscattabile con Amazon Prime tramite Amazon Games App.",
-        "createdDate": "2026-10-29",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2405060/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "84%",
-        "steamPrice": "$24.99",
-        "steamUrl": "https://store.steampowered.com/app/2405060/"
-      },
-      {
-        "title": "Kingdomino",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Strategico da tavolo digitale ambientato in un regno medievale: scegli tessere domino, abbina i paesaggi e raccogli corone per costruire territori e superare gli avversari. Giocabile in streaming con Amazon Luna Standard incluso in Prime.",
-        "createdDate": "2026-10-23",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3029180/header.jpg",
-        "link": "https://luna.amazon.com/game/kingdomino/B0HMJMGD9L",
-        "steamRating": "77%",
-        "steamPrice": "$9.99",
-        "steamUrl": "https://store.steampowered.com/app/3029180/"
-      },
-      {
-        "title": "Sker Ritual",
-        "subtitle": "Epic Games Store",
-        "text": "Sparatutto horror cooperativo a ondate ambientato sull'isola di Sker, con orde di creature, armi potenziabili e abilità soprannaturali. Gratis da riscattare su Epic Games Store fino al 29 ottobre 2026.",
-        "createdDate": "2026-10-22",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1492070/header.jpg",
-        "link": "https://store.epicgames.com/p/sker-ritual-aac702",
-        "steamRating": "79%",
-        "steamPrice": "$6.79",
-        "steamUrl": "https://store.steampowered.com/app/1492070/"
-      },
-      {
-        "title": "SONIC X SHADOW GENERATIONS",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Platform d'azione con Sonic classico e moderno e una nuova campagna dedicata a Shadow, tra livelli rapidi, abilità speciali e sfide. Disponibile in streaming su Amazon Luna Standard incluso con Prime; scadenza non annunciata.",
-        "createdDate": "2026-10-06",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
-        "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
-        "steamRating": "94%",
-        "steamPrice": "$49.99",
-        "steamUrl": "https://store.steampowered.com/app/2513280/"
-      },
-      {
-        "title": "STAR WARS: Galactic Racer",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Gioco di corse nell'universo di Star Wars ambientato nell'Orlo Esterno, tra competizioni clandestine, piloti rivali e percorsi pericolosi. Disponibile in streaming su Amazon Luna Standard incluso con Prime; scadenza non annunciata.",
-        "createdDate": "2026-10-06",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/header.jpg",
-        "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
-        "steamRating": "86%",
-        "steamPrice": "59,99€",
-        "steamUrl": "https://store.steampowered.com/app/4078430/"
-      },
-      {
-        "title": "Time Travel: Escape Room Game",
-        "subtitle": "Legacy Games",
-        "text": "Avventura a enigmi che attraversa epoche differenti: esplora stanze, combina oggetti, risolvi indizi e trova la via d'uscita. Riscattabile con Amazon Prime tramite Legacy Games fino al 25 novembre 2026.",
-        "createdDate": "2026-10-22",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3094600/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "57%",
-        "steamPrice": "$8.99",
-        "steamUrl": "https://store.steampowered.com/app/3094600/"
-      },
-      {
-        "title": "Trash Goblin",
-        "subtitle": "Epic Games Store",
-        "text": "Gestionale rilassante in un mondo fantasy, dove ripulire vecchi oggetti, restaurare curiosità e venderle a clienti eccentrici, ampliando progressivamente la propria bottega. Riscattabile con Amazon Prime tramite Epic Games Store.",
-        "createdDate": "2026-10-29",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2407830/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "87%",
-        "steamPrice": "$13.39",
-        "steamUrl": "https://store.steampowered.com/app/2407830/"
-      },
-      {
-        "title": "Vampire: The Masquerade - Swansong",
-        "subtitle": "Epic Games Store",
-        "text": "Gioco di ruolo narrativo nella Boston dei vampiri, con tre protagonisti, investigazioni, dialoghi, decisioni ramificate e poteri soprannaturali. Riscattabile con Amazon Prime tramite Epic Games Store fino al 18 novembre 2026.",
-        "createdDate": "2026-10-15",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "61%",
-        "steamPrice": "19,99€",
-        "steamUrl": "https://store.steampowered.com/app/1299510/"
-      },
-      {
-        "title": "WarBreeds",
-        "subtitle": "GOG",
-        "text": "Strategico in tempo reale fantascientifico con fazioni aliene, costruzione di basi, raccolta delle risorse e gestione di truppe sul campo. Riscattabile con Amazon Prime tramite GOG fino al 8 gennaio 2027.",
-        "createdDate": "2026-10-08",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "71%",
-        "steamPrice": "$2.99",
-        "steamUrl": "https://store.steampowered.com/app/2464660/"
-      }
-    ]
+  "eventi" : {
+    "items" : [ {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/334828.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=88TRIB3%20%E2%80%93%20Tributo%20883&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Malto's%20Beer%20%E2%80%A2%2088TRIB3%20tribute%20band%20883%20e%20Max%20Pezzali&location=Malto's%20Beer%2C%20Bari&dates=20261029T200000Z/20261029T220000Z&ctz=Europe%2FRome",
+      "logo" : "883",
+      "text" : "live • Bari • Malto's Beer • 88TRIB3 tribute band 883 e Max Pezzali",
+      "dateTime" : "2026-10-29T21:00",
+      "subtitle" : "Giovedì 29 ottobre • 21:00",
+      "title" : "88TRIB3 – Tributo 883"
+    }, {
+      "linkDettagliEvento" : "https://stayhappening.com/e/the-wonders-the-beatles-tribute-live-show-crossroad-saloon-E2IT00M19SW",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Wonders%20%E2%80%93%20The%20Beatles&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20live%20ai%20Beatles&location=Crossroad%20Saloon%2C%20Bari&dates=20261029T210000Z/20261029T230000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Bari • Crossroad Saloon • Tributo live ai Beatles",
+      "dateTime" : "2026-10-29T22:00",
+      "subtitle" : "Giovedì 29 ottobre • 22:00",
+      "title" : "The Wonders – The Beatles"
+    }, {
+      "linkDettagliEvento" : "https://bookalo.it/venues/151-midnight-pub-live",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=System%20of%20a%20Down%20Tribute&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Live%20Jam%20e%20tributo%20ai%20System%20of%20a%20Down&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261030/20261031&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Matera • Midnight Pub Live • Live Jam e tributo ai System of a Down",
+      "dateTime" : "2026-10-30T00:00",
+      "subtitle" : "Venerdì 30 ottobre",
+      "title" : "System of a Down Tribute"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/334870.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mamma%20Mia%20%E2%80%93%20ABBA%20Tribute&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Cover%20band%20dedicata%20agli%20ABBA&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&dates=20261030T200000Z/20261030T220000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Bari • Chorìa - Note di Puglia • Cover band dedicata agli ABBA",
+      "dateTime" : "2026-10-30T21:00",
+      "subtitle" : "Venerdì 30 ottobre • 21:00",
+      "title" : "Mamma Mia – ABBA Tribute"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/334718.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Penny%20Lane%20Avenue&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Tributo%20live%20ai%20Beatles&location=Black%20Horses%20Pub%2C%20Bari&dates=20261030T200000Z/20261030T220000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Bari • Black Horses Pub • Tributo live ai Beatles",
+      "dateTime" : "2026-10-30T21:00",
+      "subtitle" : "Venerdì 30 ottobre • 21:00",
+      "title" : "Penny Lane Avenue"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/334927.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fronte%20del%20Blasco&details=live%20%E2%80%A2%20Trani%20%E2%80%A2%20Senza%20Fretta%20%E2%80%A2%20Tributo%20a%20Vasco%20Rossi%2C%20rock%20dal%20vivo&location=Senza%20Fretta%2C%20Trani&dates=20261030T203000Z/20261030T223000Z&ctz=Europe%2FRome",
+      "logo" : "VASCO",
+      "text" : "live • Trani • Senza Fretta • Tributo a Vasco Rossi, rock dal vivo",
+      "dateTime" : "2026-10-30T21:30",
+      "subtitle" : "Venerdì 30 ottobre • 21:30",
+      "title" : "Fronte del Blasco"
+    }, {
+      "linkDettagliEvento" : "https://bookalo.it/venues/151-midnight-pub-live",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Cult%20of%20Smiths&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Cover%20dal%20vivo%20di%20The%20Cult%2C%20The%20Smiths%2C%20The%20Cure%20e%20Joy%20Division&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261031/20261101&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Matera • Midnight Pub Live • Cover dal vivo di The Cult, The Smiths, The Cure e Joy Division",
+      "dateTime" : "2026-10-31T00:00",
+      "subtitle" : "Sabato 31 ottobre",
+      "title" : "The Cult of Smiths"
+    }, {
+      "linkDettagliEvento" : "https://trovasagre.com/evento/antica-fiera-di-ognissanti-valenzano-ba-2026",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Piazza%20del%20Gusto&details=sagra%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20Plebiscito%20%E2%80%A2%20Stand%20gastronomici%20nella%20festa%20di%20Ognissanti&location=Largo%20Plebiscito%2C%20Valenzano&dates=20261031/20261101&ctz=Europe%2FRome",
+      "logo" : "SAGRA",
+      "text" : "sagra • Valenzano • Largo Plebiscito • Stand gastronomici nella festa di Ognissanti",
+      "dateTime" : "2026-10-31T00:00",
+      "subtitle" : "Sabato 31 ottobre",
+      "title" : "Piazza del Gusto"
+    }, {
+      "linkDettagliEvento" : "https://www.caminvattin.it/event/monster-day-2026/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Festa%20di%20Halloween%20con%20luna%20park%2C%20street%20food%20e%20spettacoli&location=Piazzale%20Lorusso%2C%20Bari&dates=20261031T160000Z/20261031T230000Z&ctz=Europe%2FRome",
+      "logo" : "TRADIZIONE",
+      "text" : "evento tradizionale • Bari • Piazzale Lorusso • Festa di Halloween con luna park, street food e spettacoli",
+      "dateTime" : "2026-10-31T17:00",
+      "subtitle" : "Sabato 31 ottobre • 17:00",
+      "title" : "Monster Day"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/334684.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Back%20to%20the%2070's&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Funk%20e%20disco%20music%20suonata%20dal%20vivo&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&dates=20261031T203000Z/20261031T223000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Bari • Chorìa - Note di Puglia • Funk e disco music suonata dal vivo",
+      "dateTime" : "2026-10-31T21:30",
+      "subtitle" : "Sabato 31 ottobre • 21:30",
+      "title" : "Back to the 70's"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/330512.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Days%20Music%20Band&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Medley%20dal%20vivo%20di%20canzoni%20italiane%20per%20Halloween&location=La%20DolceVita%20Live%2C%20Bari&dates=20261031T203000Z/20261031T223000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Bari • La DolceVita Live • Medley dal vivo di canzoni italiane per Halloween",
+      "dateTime" : "2026-10-31T21:30",
+      "subtitle" : "Sabato 31 ottobre • 21:30",
+      "title" : "Happy Days Music Band"
+    }, {
+      "linkDettagliEvento" : "https://www.comune.valenzano.ba.it/novita/avvisi/avvisi.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&details=mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Fiera%20tradizionale%2C%20artigianato%20e%20mercato%20medievale&location=Centro%20storico%2C%20Valenzano&dates=20261101/20261102&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Valenzano • Centro storico • Fiera tradizionale, artigianato e mercato medievale",
+      "dateTime" : "2026-11-01T00:00",
+      "subtitle" : "Domenica 1 novembre",
+      "title" : "Fiera di Ognissanti"
+    }, {
+      "linkDettagliEvento" : "https://puglia.piazzainfesta.it/polignano-a-mare/mercatino-di-prodotti-artigianali-agroalimentari-e-tipici-pugliesi-125254",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20dei%20prodotti%20pugliesi&details=mercatino%20%E2%80%A2%20Polignano%20a%20Mare%20%E2%80%A2%20Piazza%20Aldo%20Moro%20%E2%80%A2%20Bancarelle%20di%20artigianato%20e%20prodotti%20agroalimentari&location=Piazza%20Aldo%20Moro%2C%20Polignano%20a%20Mare&dates=20261101T090000Z/20261101T190000Z&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Polignano a Mare • Piazza Aldo Moro • Bancarelle di artigianato e prodotti agroalimentari",
+      "dateTime" : "2026-11-01T10:00",
+      "subtitle" : "Domenica 1 novembre • 10:00",
+      "title" : "Mercatino dei prodotti pugliesi"
+    }, {
+      "linkDettagliEvento" : "https://www.caminvattin.it/event/monster-day-2026/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Festa%20di%20Halloween%20e%20D%C3%ADa%20de%20los%20Muertos%2C%20spettacoli%20e%20street%20food&location=Piazzale%20Lorusso%2C%20Bari&dates=20261101T093000Z/20261101T123000Z&ctz=Europe%2FRome",
+      "logo" : "TRADIZIONE",
+      "text" : "evento tradizionale • Bari • Piazzale Lorusso • Festa di Halloween e Día de los Muertos, spettacoli e street food",
+      "dateTime" : "2026-11-01T10:30",
+      "subtitle" : "Domenica 1 novembre • 10:30",
+      "title" : "Monster Day"
+    }, {
+      "linkDettagliEvento" : "https://www.comune.monopoli.ba.it/Novita/Comunicati/Domenica-1-novembre-2026-torna-il-Palio-dei-Gozzi",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando%20%E2%80%93%20Palio%20dei%20Gozzi&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20e%20tradizioni%20marinare%20con%20mercatini%20e%20musica%20folkloristica&location=Porto%20Antico%2C%20Monopoli&dates=20261101T100000Z/20261101T120000Z&ctz=Europe%2FRome",
+      "logo" : "TRADIZIONE",
+      "text" : "evento tradizionale • Monopoli • Porto Antico • Palio e tradizioni marinare con mercatini e musica folkloristica",
+      "dateTime" : "2026-11-01T11:00",
+      "subtitle" : "Domenica 1 novembre • 11:00",
+      "title" : "Gozzovigliando – Palio dei Gozzi"
+    }, {
+      "linkDettagliEvento" : "https://trovasagre.com/evento/antica-fiera-di-ognissanti-valenzano-ba-2026",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Ballo%20del%20Mattoni&details=live%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20San%20Benedetto%20%E2%80%A2%20Concerto%20nel%20programma%20della%20Fiera%20di%20Ognissanti&location=Largo%20San%20Benedetto%2C%20Valenzano&dates=20261101T193000Z/20261101T213000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Valenzano • Largo San Benedetto • Concerto nel programma della Fiera di Ognissanti",
+      "dateTime" : "2026-11-01T20:30",
+      "subtitle" : "Domenica 1 novembre • 20:30",
+      "title" : "Il Ballo del Mattoni"
+    }, {
+      "linkDettagliEvento" : "https://www.caminvattin.it/event/monster-day-2026/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti%20%E2%80%93%20Vasco%20Rossi&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Cover%20band%20Vasco%20Rossi%20al%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari&dates=20261102/20261103&ctz=Europe%2FRome",
+      "logo" : "KOMANDANTI",
+      "text" : "live • Bari • Piazzale Lorusso • Cover band Vasco Rossi al Monster Day",
+      "dateTime" : "2026-11-02T00:00",
+      "subtitle" : "Lunedì 2 novembre",
+      "title" : "I Komandanti – Vasco Rossi"
+    }, {
+      "linkDettagliEvento" : "https://www.caminvattin.it/event/monster-day-2026/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Ultima%20giornata%20del%20festival%20di%20Halloween%20con%20spettacoli%20e%20live&location=Piazzale%20Lorusso%2C%20Bari&dates=20261102T160000Z/20261102T230000Z&ctz=Europe%2FRome",
+      "logo" : "TRADIZIONE",
+      "text" : "evento tradizionale • Bari • Piazzale Lorusso • Ultima giornata del festival di Halloween con spettacoli e live",
+      "dateTime" : "2026-11-02T17:00",
+      "subtitle" : "Lunedì 2 novembre • 17:00",
+      "title" : "Monster Day"
+    }, {
+      "linkDettagliEvento" : "https://palazzopescelocationeventi.com/tag/appuntamenti-a-mola-di-bari/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Omaggio%20a%20Lucio%20Dalla%2C%20Francesco%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&dates=20261104T200000Z/20261104T220000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Mola di Bari • Palazzo Pesce • Omaggio a Lucio Dalla, Francesco De Gregori e Ron",
+      "dateTime" : "2026-11-04T21:00",
+      "subtitle" : "Mercoledì 4 novembre • 21:00",
+      "title" : "Banana Republic"
+    }, {
+      "linkDettagliEvento" : "https://www.promessisposi.info/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261105T150000Z/20261105T200000Z&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
+      "dateTime" : "2026-11-05T16:00",
+      "subtitle" : "Giovedì 5 novembre • 16:00",
+      "title" : "Promessi Sposi"
+    }, {
+      "linkDettagliEvento" : "https://www.promessisposi.info/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261106T150000Z/20261106T200000Z&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
+      "dateTime" : "2026-11-06T16:00",
+      "subtitle" : "Venerdì 6 novembre • 16:00",
+      "title" : "Promessi Sposi"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/333813.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20-%20Nati%20per%20fare%20gli%20Osti%20%E2%80%A2%20Tributo%20a%20Vasco%20Rossi%2C%20rock%20dal%20vivo&location=Ostinati%20-%20Nati%20per%20fare%20gli%20Osti%2C%20Monopoli&dates=20261106T203000Z/20261106T223000Z&ctz=Europe%2FRome",
+      "logo" : "VASCO",
+      "text" : "live • Monopoli • Ostinati - Nati per fare gli Osti • Tributo a Vasco Rossi, rock dal vivo",
+      "dateTime" : "2026-11-06T21:30",
+      "subtitle" : "Venerdì 6 novembre • 21:30",
+      "title" : "I Vaskomodi"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/333834.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Blues%20rock%20live%20con%20band%20dalla%20Svezia&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261106T210000Z/20261106T230000Z&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Cassano delle Murge • Pecora Nera Country Pub • Blues rock live con band dalla Svezia",
+      "dateTime" : "2026-11-06T22:00",
+      "subtitle" : "Venerdì 6 novembre • 22:00",
+      "title" : "Maxie Freeman"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/331740.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20live%20ad%20Adriano%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&dates=20261107/20261108&ctz=Europe%2FRome",
+      "logo" : "LIVE",
+      "text" : "live • Bari • La DolceVita Live • Tributo live ad Adriano Celentano e Mina",
+      "dateTime" : "2026-11-07T00:00",
+      "subtitle" : "Sabato 7 novembre",
+      "title" : "Quelli del Clan"
+    }, {
+      "linkDettagliEvento" : "https://www.promessisposi.info/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261107T090000Z/20261107T200000Z&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
+      "dateTime" : "2026-11-07T10:00",
+      "subtitle" : "Sabato 7 novembre • 10:00",
+      "title" : "Promessi Sposi"
+    }, {
+      "linkDettagliEvento" : "https://bacconellegnostre.it/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20delle%20caldarroste%2C%20vino%20novello%20e%20gastronomia%20tradizionale&location=Centro%20storico%2C%20Noci&dates=20261107T110000Z/20261107T210000Z&ctz=Europe%2FRome",
+      "logo" : "SAGRA",
+      "text" : "sagra • Noci • Centro storico • Sagra delle caldarroste, vino novello e gastronomia tradizionale",
+      "dateTime" : "2026-11-07T12:00",
+      "subtitle" : "Sabato 7 novembre • 12:00",
+      "title" : "Bacco nelle Gnostre"
+    }, {
+      "linkDettagliEvento" : "https://bacconellegnostre.it/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20delle%20caldarroste%2C%20vino%20novello%20e%20gastronomia%20tradizionale&location=Centro%20storico%2C%20Noci&dates=20261108/20261109&ctz=Europe%2FRome",
+      "logo" : "SAGRA",
+      "text" : "sagra • Noci • Centro storico • Sagra delle caldarroste, vino novello e gastronomia tradizionale",
+      "dateTime" : "2026-11-08T00:00",
+      "subtitle" : "Domenica 8 novembre",
+      "title" : "Bacco nelle Gnostre"
+    }, {
+      "linkDettagliEvento" : "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Tradizioni%20marinare%2C%20mercatini%2C%20musica%20folkloristica%20e%20show%20cooking&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli&dates=20261108/20261109&ctz=Europe%2FRome",
+      "logo" : "TRADIZIONE",
+      "text" : "evento tradizionale • Monopoli • Centro storico e Porto Antico • Tradizioni marinare, mercatini, musica folkloristica e show cooking",
+      "dateTime" : "2026-11-08T00:00",
+      "subtitle" : "Domenica 8 novembre",
+      "title" : "Gozzovigliando"
+    }, {
+      "linkDettagliEvento" : "https://www.comune.modugno.ba.it/notizia/sagra-del-crocifisso-per-i-giorni-8-e-15-novembre-2026/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle%2C%20artigianato%20e%20stand%20gastronomici&location=Centro%20storico%2C%20Modugno&dates=20261108T060000Z/20261108T180000Z&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Modugno • Centro storico • Fiera tradizionale con bancarelle, artigianato e stand gastronomici",
+      "dateTime" : "2026-11-08T07:00",
+      "subtitle" : "Domenica 8 novembre • 07:00",
+      "title" : "Fiera del Crocifisso"
+    }, {
+      "linkDettagliEvento" : "https://www.promessisposi.info/",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261108T090000Z/20261108T200000Z&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
+      "dateTime" : "2026-11-08T10:00",
+      "subtitle" : "Domenica 8 novembre • 10:00",
+      "title" : "Promessi Sposi"
+    }, {
+      "linkDettagliEvento" : "https://iltaccodibacco.it/puglia/eventi/333381.html",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Bancarelle%20e%20scambio%20di%20oggetti%20da%20riutilizzare&location=Piazza%20Gramsci%2C%20Capurso&dates=20261108T090000Z/20261108T120000Z&ctz=Europe%2FRome",
+      "logo" : "MERCATINO",
+      "text" : "mercatino • Capurso • Piazza Gramsci • Bancarelle e scambio di oggetti da riutilizzare",
+      "dateTime" : "2026-11-08T10:00",
+      "subtitle" : "Domenica 8 novembre • 10:00",
+      "title" : "Mercatino del riuso"
+    } ],
+    "blacklist" : [ "Duke Jazz Club — Bari", "jazz", "fusion jazz", "jam jazz", "jazz trio", "jazz quartet", "jazz tribute", "PalaFlorio", "Eremo Club", "Eremo Club — Molfetta", "Palatour", "Palatour — Bitritto", "PalaFlorio — Bari", "Teatro Bravò — Bari", "Teatro Forma — Bari", "Bandistico", "Bandistici", "Lirica", "Lirico", "Opera", "Dark Entries", "Pinkabbestia", "Les Amazones d'Afrique", "Time Zones", "Naima Duo", "Scure", "Soul", "Magarìa", "EMAN", "prova" ],
+    "watchlistKeywords" : [ "Pooh", "Vasco", "Komandanti", "883", "Pino Daniele" ],
+    "watchlist" : [ "Midnight Pub Live — Matera", "Chorìa - Note di Puglia — Bari", "Black Horses Pub — Bari", "Malto's — Bari", "La DolceVita Live — Bari", "Crossroad Saloon — Bari", "Nevermind Music Club — Bari", "Summit Club — Bari", "Fix it Culture - City Club — Bari", "Mulata Latin Social Club — Bari", "Central Pub — Matera", "14th American Pub — Matera", "AREA 8 — Matera", "Pecora Nera Country Pub — Cassano delle Murge", "Casa delle Arti — Conversano", "Agrobistrot — Fasano", "Palazzo Pesce — Mola di Bari", "Cittadella degli Artisti — Molfetta", "Officina degli Esordi — Bari", "Libreria Prinz Zaum — Bari", "Caffè d'arte Dolceamaro — Bari", "Santo Graal — Trani", "HUB - Triggiano" ],
+    "lastModifiedDate" : "2026-10-29T16:51:21.716Z"
   },
-  "sport": {
-    "lastModifiedDate": "2026-10-29T11:05:27.948Z",
-    "items": [
-      {
-        "title": "F1 Messico - FP1",
-        "subtitle": "Venerdì 30 ottobre • 19:30",
-        "dateTime": "2026-10-30T19:30",
-        "text": "Formula 1 • GP del Messico • FP1",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20FP1&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP1&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261030T183000Z%2F20261030T193000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
-      },
-      {
-        "title": "F1 Messico - FP2",
-        "subtitle": "Venerdì 30 ottobre • 23:00",
-        "dateTime": "2026-10-30T23:00",
-        "text": "Formula 1 • GP del Messico • FP2",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20FP2&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP2&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261030T220000Z%2F20261030T230000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
-      },
-      {
-        "title": "Bari - Scafatese",
-        "subtitle": "Sabato 31 ottobre • 14:30",
-        "dateTime": "2026-10-31T14:30",
-        "text": "Serie C Girone C • Bari - Scafatese",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Scafatese&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Bari%20-%20Scafatese&location=Stadio%20San%20Nicola%2C%20Bari&dates=20261031T133000Z%2F20261031T153000Z",
-        "linkDettagliEvento": "https://www.corrieredellosport.it/squadra/calcio/bari/calendario/t122"
-      },
-      {
-        "title": "F1 Messico - FP3",
-        "subtitle": "Sabato 31 ottobre • 18:30",
-        "dateTime": "2026-10-31T18:30",
-        "text": "Formula 1 • GP del Messico • FP3",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20FP3&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP3&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261031T173000Z%2F20261031T183000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
-      },
-      {
-        "title": "F1 Messico - Qualifiche",
-        "subtitle": "Sabato 31 ottobre • 22:00",
-        "dateTime": "2026-10-31T22:00",
-        "text": "Formula 1 • GP del Messico • Qualifiche",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Qualifiche&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261031T210000Z%2F20261031T220000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
-      },
-      {
-        "title": "F1 Messico - Gara",
-        "subtitle": "Domenica 1 novembre • 21:00",
-        "dateTime": "2026-11-01T21:00",
-        "text": "Formula 1 • GP del Messico • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Gara&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261101T200000Z%2F20261101T220000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/mexico"
-      },
-      {
-        "title": "F1 Brasile - FP1",
-        "subtitle": "Venerdì 6 novembre • 16:30",
-        "dateTime": "2026-11-06T16:30",
-        "text": "Formula 1 • GP di San Paolo • FP1",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20FP1&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP1&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261106T153000Z%2F20261106T163000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
-      },
-      {
-        "title": "F1 Brasile - FP2",
-        "subtitle": "Venerdì 6 novembre • 20:00",
-        "dateTime": "2026-11-06T20:00",
-        "text": "Formula 1 • GP di San Paolo • FP2",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20FP2&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP2&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261106T190000Z%2F20261106T200000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
-      },
-      {
-        "title": "F1 Brasile - FP3",
-        "subtitle": "Sabato 7 novembre • 15:30",
-        "dateTime": "2026-11-07T15:30",
-        "text": "Formula 1 • GP di San Paolo • FP3",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20FP3&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP3&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261107T143000Z%2F20261107T153000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
-      },
-      {
-        "title": "F1 Brasile - Qualifiche",
-        "subtitle": "Sabato 7 novembre • 19:00",
-        "dateTime": "2026-11-07T19:00",
-        "text": "Formula 1 • GP di San Paolo • Qualifiche",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Qualifiche&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261107T180000Z%2F20261107T190000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
-      },
-      {
-        "title": "F1 Brasile - Gara",
-        "subtitle": "Domenica 8 novembre • 18:00",
-        "dateTime": "2026-11-08T18:00",
-        "text": "Formula 1 • GP di San Paolo • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Gara&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261108T170000Z%2F20261108T190000Z",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
-      },
-      {
-        "title": "Picerno - Bari",
-        "subtitle": "Lunedì 9 novembre • 20:30",
-        "dateTime": "2026-11-09T20:30",
-        "text": "Serie C Girone C • Picerno - Bari",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&dates=20261109T193000Z%2F20261109T213000Z",
-        "linkDettagliEvento": "https://www.tuttobari.com/serie-c/serie-c-ufficializzate-date-orari-gare-20esima-giornata-cammino-bari-137866"
-      },
-      {
-        "title": "Italia - Francia",
-        "subtitle": "Giovedì 12 novembre • 20:45",
-        "dateTime": "2026-11-12T20:45",
-        "text": "UEFA Nations League • Italia - Francia",
-        "logo": "ITA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20-%20Francia&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20-%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano&dates=20261112T194500Z%2F20261112T214500Z",
-        "linkDettagliEvento": "https://www.figc.it/it/nazionali/news/litalia-e-mancini-ripartono-dalla-nations-league-34-convocati-sono-9-i-volti-nuovi-jtrsukbs"
-      }
-    ]
+  "sport" : {
+    "items" : [ {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/mexico",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20FP1&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP1&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261030T183000Z%2F20261030T193000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP del Messico • FP1",
+      "dateTime" : "2026-10-30T19:30",
+      "subtitle" : "Venerdì 30 ottobre • 19:30",
+      "title" : "F1 Messico - FP1"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/mexico",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20FP2&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP2&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261030T220000Z%2F20261030T230000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP del Messico • FP2",
+      "dateTime" : "2026-10-30T23:00",
+      "subtitle" : "Venerdì 30 ottobre • 23:00",
+      "title" : "F1 Messico - FP2"
+    }, {
+      "linkDettagliEvento" : "https://www.corrieredellosport.it/squadra/calcio/bari/calendario/t122",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Scafatese&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Bari%20-%20Scafatese&location=Stadio%20San%20Nicola%2C%20Bari&dates=20261031T133000Z%2F20261031T153000Z",
+      "logo" : "BA",
+      "text" : "Serie C Girone C • Bari - Scafatese",
+      "dateTime" : "2026-10-31T14:30",
+      "subtitle" : "Sabato 31 ottobre • 14:30",
+      "title" : "Bari - Scafatese"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/mexico",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20FP3&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20FP3&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261031T173000Z%2F20261031T183000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP del Messico • FP3",
+      "dateTime" : "2026-10-31T18:30",
+      "subtitle" : "Sabato 31 ottobre • 18:30",
+      "title" : "F1 Messico - FP3"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/mexico",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Qualifiche&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261031T210000Z%2F20261031T220000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP del Messico • Qualifiche",
+      "dateTime" : "2026-10-31T22:00",
+      "subtitle" : "Sabato 31 ottobre • 22:00",
+      "title" : "F1 Messico - Qualifiche"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/mexico",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Messico%20-%20Gara&details=Formula%201%20%E2%80%A2%20GP%20del%20Messico%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Hermanos%20Rodr%C3%ADguez%2C%20Citt%C3%A0%20del%20Messico&dates=20261101T200000Z%2F20261101T220000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP del Messico • Gara",
+      "dateTime" : "2026-11-01T21:00",
+      "subtitle" : "Domenica 1 novembre • 21:00",
+      "title" : "F1 Messico - Gara"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/brazil",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20FP1&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP1&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261106T153000Z%2F20261106T163000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP di San Paolo • FP1",
+      "dateTime" : "2026-11-06T16:30",
+      "subtitle" : "Venerdì 6 novembre • 16:30",
+      "title" : "F1 Brasile - FP1"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/brazil",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20FP2&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP2&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261106T190000Z%2F20261106T200000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP di San Paolo • FP2",
+      "dateTime" : "2026-11-06T20:00",
+      "subtitle" : "Venerdì 6 novembre • 20:00",
+      "title" : "F1 Brasile - FP2"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/brazil",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20FP3&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20FP3&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261107T143000Z%2F20261107T153000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP di San Paolo • FP3",
+      "dateTime" : "2026-11-07T15:30",
+      "subtitle" : "Sabato 7 novembre • 15:30",
+      "title" : "F1 Brasile - FP3"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/brazil",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Qualifiche&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261107T180000Z%2F20261107T190000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP di San Paolo • Qualifiche",
+      "dateTime" : "2026-11-07T19:00",
+      "subtitle" : "Sabato 7 novembre • 19:00",
+      "title" : "F1 Brasile - Qualifiche"
+    }, {
+      "linkDettagliEvento" : "https://www.formula1.com/en/racing/2026/brazil",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Brasile%20-%20Gara&details=Formula%201%20%E2%80%A2%20GP%20di%20San%20Paolo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&dates=20261108T170000Z%2F20261108T190000Z",
+      "logo" : "F1",
+      "text" : "Formula 1 • GP di San Paolo • Gara",
+      "dateTime" : "2026-11-08T18:00",
+      "subtitle" : "Domenica 8 novembre • 18:00",
+      "title" : "F1 Brasile - Gara"
+    }, {
+      "linkDettagliEvento" : "https://www.tuttobari.com/serie-c/serie-c-ufficializzate-date-orari-gare-20esima-giornata-cammino-bari-137866",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&dates=20261109T193000Z%2F20261109T213000Z",
+      "logo" : "BA",
+      "text" : "Serie C Girone C • Picerno - Bari",
+      "dateTime" : "2026-11-09T20:30",
+      "subtitle" : "Lunedì 9 novembre • 20:30",
+      "title" : "Picerno - Bari"
+    }, {
+      "linkDettagliEvento" : "https://www.figc.it/it/nazionali/news/litalia-e-mancini-ripartono-dalla-nations-league-34-convocati-sono-9-i-volti-nuovi-jtrsukbs",
+      "link" : "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20-%20Francia&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20-%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano&dates=20261112T194500Z%2F20261112T214500Z",
+      "logo" : "ITA",
+      "text" : "UEFA Nations League • Italia - Francia",
+      "dateTime" : "2026-11-12T20:45",
+      "subtitle" : "Giovedì 12 novembre • 20:45",
+      "title" : "Italia - Francia"
+    } ],
+    "lastModifiedDate" : "2026-10-29T11:05:27.948Z"
   },
-  "eventi": {
-    "lastModifiedDate": "2026-10-29T15:54:00.287Z",
-    "watchlist": [
-      "Midnight Pub Live — Matera",
-      "Chorìa - Note di Puglia — Bari",
-      "Black Horses Pub — Bari",
-      "Malto's — Bari",
-      "La DolceVita Live — Bari",
-      "Crossroad Saloon — Bari",
-      "Nevermind Music Club — Bari",
-      "Summit Club — Bari",
-      "Fix it Culture - City Club — Bari",
-      "Mulata Latin Social Club — Bari",
-      "Central Pub — Matera",
-      "14th American Pub — Matera",
-      "AREA 8 — Matera",
-      "Pecora Nera Country Pub — Cassano delle Murge",
-      "Casa delle Arti — Conversano",
-      "Agrobistrot — Fasano",
-      "Palazzo Pesce — Mola di Bari",
-      "Cittadella degli Artisti — Molfetta",
-      "Officina degli Esordi — Bari",
-      "Libreria Prinz Zaum — Bari",
-      "Caffè d'arte Dolceamaro — Bari",
-      "Santo Graal — Trani",
-      "HUB - Triggiano"
-    ],
-    "watchlistKeywords": [
-      "Pooh",
-      "Vasco",
-      "Komandanti",
-      "883",
-      "Pino Daniele"
-    ],
-    "blacklist": [
-      "Duke Jazz Club — Bari",
-      "jazz",
-      "fusion jazz",
-      "jam jazz",
-      "jazz trio",
-      "jazz quartet",
-      "jazz tribute",
-      "PalaFlorio",
-      "Eremo Club",
-      "Eremo Club — Molfetta",
-      "Palatour",
-      "Palatour — Bitritto",
-      "PalaFlorio — Bari",
-      "Teatro Bravò — Bari",
-      "Teatro Forma — Bari",
-      "Bandistico",
-      "Bandistici",
-      "Lirica",
-      "Lirico",
-      "Opera",
-      "Dark Entries",
-      "Pinkabbestia",
-      "Les Amazones d'Afrique",
-      "Time Zones",
-      "Naima Duo",
-      "Scure",
-      "Soul",
-      "Magarìa",
-      "EMAN"
-    ],
-    "items": [
-      {
-        "title": "88TRIB3 – Tributo 883",
-        "subtitle": "Giovedì 29 ottobre • 21:00",
-        "dateTime": "2026-10-29T21:00",
-        "text": "live • Bari • Malto's Beer • 88TRIB3 tribute band 883 e Max Pezzali",
-        "logo": "883",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=88TRIB3%20%E2%80%93%20Tributo%20883&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Malto's%20Beer%20%E2%80%A2%2088TRIB3%20tribute%20band%20883%20e%20Max%20Pezzali&location=Malto's%20Beer%2C%20Bari&dates=20261029T200000Z/20261029T220000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334828.html"
-      },
-      {
-        "title": "The Wonders – The Beatles",
-        "subtitle": "Giovedì 29 ottobre • 22:00",
-        "dateTime": "2026-10-29T22:00",
-        "text": "live • Bari • Crossroad Saloon • Tributo live ai Beatles",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Wonders%20%E2%80%93%20The%20Beatles&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20live%20ai%20Beatles&location=Crossroad%20Saloon%2C%20Bari&dates=20261029T210000Z/20261029T230000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://stayhappening.com/e/the-wonders-the-beatles-tribute-live-show-crossroad-saloon-E2IT00M19SW"
-      },
-      {
-        "title": "System of a Down Tribute",
-        "subtitle": "Venerdì 30 ottobre",
-        "dateTime": "2026-10-30T00:00",
-        "text": "live • Matera • Midnight Pub Live • Live Jam e tributo ai System of a Down",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=System%20of%20a%20Down%20Tribute&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Live%20Jam%20e%20tributo%20ai%20System%20of%20a%20Down&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261030/20261031&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bookalo.it/venues/151-midnight-pub-live"
-      },
-      {
-        "title": "Mamma Mia – ABBA Tribute",
-        "subtitle": "Venerdì 30 ottobre • 21:00",
-        "dateTime": "2026-10-30T21:00",
-        "text": "live • Bari • Chorìa - Note di Puglia • Cover band dedicata agli ABBA",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mamma%20Mia%20%E2%80%93%20ABBA%20Tribute&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Cover%20band%20dedicata%20agli%20ABBA&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&dates=20261030T200000Z/20261030T220000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334870.html"
-      },
-      {
-        "title": "Penny Lane Avenue",
-        "subtitle": "Venerdì 30 ottobre • 21:00",
-        "dateTime": "2026-10-30T21:00",
-        "text": "live • Bari • Black Horses Pub • Tributo live ai Beatles",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Penny%20Lane%20Avenue&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Tributo%20live%20ai%20Beatles&location=Black%20Horses%20Pub%2C%20Bari&dates=20261030T200000Z/20261030T220000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334718.html"
-      },
-      {
-        "title": "Fronte del Blasco",
-        "subtitle": "Venerdì 30 ottobre • 21:30",
-        "dateTime": "2026-10-30T21:30",
-        "text": "live • Trani • Senza Fretta • Tributo a Vasco Rossi, rock dal vivo",
-        "logo": "VASCO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fronte%20del%20Blasco&details=live%20%E2%80%A2%20Trani%20%E2%80%A2%20Senza%20Fretta%20%E2%80%A2%20Tributo%20a%20Vasco%20Rossi%2C%20rock%20dal%20vivo&location=Senza%20Fretta%2C%20Trani&dates=20261030T203000Z/20261030T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334927.html"
-      },
-      {
-        "title": "The Cult of Smiths",
-        "subtitle": "Sabato 31 ottobre",
-        "dateTime": "2026-10-31T00:00",
-        "text": "live • Matera • Midnight Pub Live • Cover dal vivo di The Cult, The Smiths, The Cure e Joy Division",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Cult%20of%20Smiths&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Cover%20dal%20vivo%20di%20The%20Cult%2C%20The%20Smiths%2C%20The%20Cure%20e%20Joy%20Division&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261031/20261101&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bookalo.it/venues/151-midnight-pub-live"
-      },
-      {
-        "title": "Piazza del Gusto",
-        "subtitle": "Sabato 31 ottobre",
-        "dateTime": "2026-10-31T00:00",
-        "text": "sagra • Valenzano • Largo Plebiscito • Stand gastronomici nella festa di Ognissanti",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Piazza%20del%20Gusto&details=sagra%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20Plebiscito%20%E2%80%A2%20Stand%20gastronomici%20nella%20festa%20di%20Ognissanti&location=Largo%20Plebiscito%2C%20Valenzano&dates=20261031/20261101&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://trovasagre.com/evento/antica-fiera-di-ognissanti-valenzano-ba-2026"
-      },
-      {
-        "title": "Monster Day",
-        "subtitle": "Sabato 31 ottobre • 17:00",
-        "dateTime": "2026-10-31T17:00",
-        "text": "evento tradizionale • Bari • Piazzale Lorusso • Festa di Halloween con luna park, street food e spettacoli",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Festa%20di%20Halloween%20con%20luna%20park%2C%20street%20food%20e%20spettacoli&location=Piazzale%20Lorusso%2C%20Bari&dates=20261031T160000Z/20261031T230000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
-      },
-      {
-        "title": "Back to the 70's",
-        "subtitle": "Sabato 31 ottobre • 21:30",
-        "dateTime": "2026-10-31T21:30",
-        "text": "live • Bari • Chorìa - Note di Puglia • Funk e disco music suonata dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Back%20to%20the%2070's&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Funk%20e%20disco%20music%20suonata%20dal%20vivo&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&dates=20261031T203000Z/20261031T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334684.html"
-      },
-      {
-        "title": "Happy Days Music Band",
-        "subtitle": "Sabato 31 ottobre • 21:30",
-        "dateTime": "2026-10-31T21:30",
-        "text": "live • Bari • La DolceVita Live • Medley dal vivo di canzoni italiane per Halloween",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Days%20Music%20Band&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Medley%20dal%20vivo%20di%20canzoni%20italiane%20per%20Halloween&location=La%20DolceVita%20Live%2C%20Bari&dates=20261031T203000Z/20261031T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330512.html"
-      },
-      {
-        "title": "Fiera di Ognissanti",
-        "subtitle": "Domenica 1 novembre",
-        "dateTime": "2026-11-01T00:00",
-        "text": "mercatino • Valenzano • Centro storico • Fiera tradizionale, artigianato e mercato medievale",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&details=mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Fiera%20tradizionale%2C%20artigianato%20e%20mercato%20medievale&location=Centro%20storico%2C%20Valenzano&dates=20261101/20261102&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.valenzano.ba.it/novita/avvisi/avvisi.html"
-      },
-      {
-        "title": "Mercatino dei prodotti pugliesi",
-        "subtitle": "Domenica 1 novembre • 10:00",
-        "dateTime": "2026-11-01T10:00",
-        "text": "mercatino • Polignano a Mare • Piazza Aldo Moro • Bancarelle di artigianato e prodotti agroalimentari",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20dei%20prodotti%20pugliesi&details=mercatino%20%E2%80%A2%20Polignano%20a%20Mare%20%E2%80%A2%20Piazza%20Aldo%20Moro%20%E2%80%A2%20Bancarelle%20di%20artigianato%20e%20prodotti%20agroalimentari&location=Piazza%20Aldo%20Moro%2C%20Polignano%20a%20Mare&dates=20261101T090000Z/20261101T190000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/polignano-a-mare/mercatino-di-prodotti-artigianali-agroalimentari-e-tipici-pugliesi-125254"
-      },
-      {
-        "title": "Monster Day",
-        "subtitle": "Domenica 1 novembre • 10:30",
-        "dateTime": "2026-11-01T10:30",
-        "text": "evento tradizionale • Bari • Piazzale Lorusso • Festa di Halloween e Día de los Muertos, spettacoli e street food",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Festa%20di%20Halloween%20e%20D%C3%ADa%20de%20los%20Muertos%2C%20spettacoli%20e%20street%20food&location=Piazzale%20Lorusso%2C%20Bari&dates=20261101T093000Z/20261101T123000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
-      },
-      {
-        "title": "Gozzovigliando – Palio dei Gozzi",
-        "subtitle": "Domenica 1 novembre • 11:00",
-        "dateTime": "2026-11-01T11:00",
-        "text": "evento tradizionale • Monopoli • Porto Antico • Palio e tradizioni marinare con mercatini e musica folkloristica",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando%20%E2%80%93%20Palio%20dei%20Gozzi&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Antico%20%E2%80%A2%20Palio%20e%20tradizioni%20marinare%20con%20mercatini%20e%20musica%20folkloristica&location=Porto%20Antico%2C%20Monopoli&dates=20261101T100000Z/20261101T120000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Domenica-1-novembre-2026-torna-il-Palio-dei-Gozzi"
-      },
-      {
-        "title": "Il Ballo del Mattoni",
-        "subtitle": "Domenica 1 novembre • 20:30",
-        "dateTime": "2026-11-01T20:30",
-        "text": "live • Valenzano • Largo San Benedetto • Concerto nel programma della Fiera di Ognissanti",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Ballo%20del%20Mattoni&details=live%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20San%20Benedetto%20%E2%80%A2%20Concerto%20nel%20programma%20della%20Fiera%20di%20Ognissanti&location=Largo%20San%20Benedetto%2C%20Valenzano&dates=20261101T193000Z/20261101T213000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://trovasagre.com/evento/antica-fiera-di-ognissanti-valenzano-ba-2026"
-      },
-      {
-        "title": "I Komandanti – Vasco Rossi",
-        "subtitle": "Lunedì 2 novembre",
-        "dateTime": "2026-11-02T00:00",
-        "text": "live • Bari • Piazzale Lorusso • Cover band Vasco Rossi al Monster Day",
-        "logo": "KOMANDANTI",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti%20%E2%80%93%20Vasco%20Rossi&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Cover%20band%20Vasco%20Rossi%20al%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari&dates=20261102/20261103&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
-      },
-      {
-        "title": "Monster Day",
-        "subtitle": "Lunedì 2 novembre • 17:00",
-        "dateTime": "2026-11-02T17:00",
-        "text": "evento tradizionale • Bari • Piazzale Lorusso • Ultima giornata del festival di Halloween con spettacoli e live",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20Ultima%20giornata%20del%20festival%20di%20Halloween%20con%20spettacoli%20e%20live&location=Piazzale%20Lorusso%2C%20Bari&dates=20261102T160000Z/20261102T230000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/monster-day-2026/"
-      },
-      {
-        "title": "Banana Republic",
-        "subtitle": "Mercoledì 4 novembre • 21:00",
-        "dateTime": "2026-11-04T21:00",
-        "text": "live • Mola di Bari • Palazzo Pesce • Omaggio a Lucio Dalla, Francesco De Gregori e Ron",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Omaggio%20a%20Lucio%20Dalla%2C%20Francesco%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&dates=20261104T200000Z/20261104T220000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/tag/appuntamenti-a-mola-di-bari/"
-      },
-      {
-        "title": "Promessi Sposi",
-        "subtitle": "Giovedì 5 novembre • 16:00",
-        "dateTime": "2026-11-05T16:00",
-        "text": "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261105T150000Z/20261105T200000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.promessisposi.info/"
-      },
-      {
-        "title": "Promessi Sposi",
-        "subtitle": "Venerdì 6 novembre • 16:00",
-        "dateTime": "2026-11-06T16:00",
-        "text": "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261106T150000Z/20261106T200000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.promessisposi.info/"
-      },
-      {
-        "title": "I Vaskomodi",
-        "subtitle": "Venerdì 6 novembre • 21:30",
-        "dateTime": "2026-11-06T21:30",
-        "text": "live • Monopoli • Ostinati - Nati per fare gli Osti • Tributo a Vasco Rossi, rock dal vivo",
-        "logo": "VASCO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20-%20Nati%20per%20fare%20gli%20Osti%20%E2%80%A2%20Tributo%20a%20Vasco%20Rossi%2C%20rock%20dal%20vivo&location=Ostinati%20-%20Nati%20per%20fare%20gli%20Osti%2C%20Monopoli&dates=20261106T203000Z/20261106T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333813.html"
-      },
-      {
-        "title": "Maxie Freeman",
-        "subtitle": "Venerdì 6 novembre • 22:00",
-        "dateTime": "2026-11-06T22:00",
-        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Blues rock live con band dalla Svezia",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Blues%20rock%20live%20con%20band%20dalla%20Svezia&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261106T210000Z/20261106T230000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333834.html"
-      },
-      {
-        "title": "Quelli del Clan",
-        "subtitle": "Sabato 7 novembre",
-        "dateTime": "2026-11-07T00:00",
-        "text": "live • Bari • La DolceVita Live • Tributo live ad Adriano Celentano e Mina",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20live%20ad%20Adriano%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&dates=20261107/20261108&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331740.html"
-      },
-      {
-        "title": "Promessi Sposi",
-        "subtitle": "Sabato 7 novembre • 10:00",
-        "dateTime": "2026-11-07T10:00",
-        "text": "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261107T090000Z/20261107T200000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.promessisposi.info/"
-      },
-      {
-        "title": "Bacco nelle Gnostre",
-        "subtitle": "Sabato 7 novembre • 12:00",
-        "dateTime": "2026-11-07T12:00",
-        "text": "sagra • Noci • Centro storico • Sagra delle caldarroste, vino novello e gastronomia tradizionale",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20delle%20caldarroste%2C%20vino%20novello%20e%20gastronomia%20tradizionale&location=Centro%20storico%2C%20Noci&dates=20261107T110000Z/20261107T210000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Bacco nelle Gnostre",
-        "subtitle": "Domenica 8 novembre",
-        "dateTime": "2026-11-08T00:00",
-        "text": "sagra • Noci • Centro storico • Sagra delle caldarroste, vino novello e gastronomia tradizionale",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20delle%20caldarroste%2C%20vino%20novello%20e%20gastronomia%20tradizionale&location=Centro%20storico%2C%20Noci&dates=20261108/20261109&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Gozzovigliando",
-        "subtitle": "Domenica 8 novembre",
-        "dateTime": "2026-11-08T00:00",
-        "text": "evento tradizionale • Monopoli • Centro storico e Porto Antico • Tradizioni marinare, mercatini, musica folkloristica e show cooking",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Centro%20storico%20e%20Porto%20Antico%20%E2%80%A2%20Tradizioni%20marinare%2C%20mercatini%2C%20musica%20folkloristica%20e%20show%20cooking&location=Centro%20storico%20e%20Porto%20Antico%2C%20Monopoli&dates=20261108/20261109&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.monopoli.ba.it/Novita/Comunicati/Dal-23-ottobre-all-8-novembre-torna-Gozzovigliando"
-      },
-      {
-        "title": "Fiera del Crocifisso",
-        "subtitle": "Domenica 8 novembre • 07:00",
-        "dateTime": "2026-11-08T07:00",
-        "text": "mercatino • Modugno • Centro storico • Fiera tradizionale con bancarelle, artigianato e stand gastronomici",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle%2C%20artigianato%20e%20stand%20gastronomici&location=Centro%20storico%2C%20Modugno&dates=20261108T060000Z/20261108T180000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/sagra-del-crocifisso-per-i-giorni-8-e-15-novembre-2026/"
-      },
-      {
-        "title": "Promessi Sposi",
-        "subtitle": "Domenica 8 novembre • 10:00",
-        "dateTime": "2026-11-08T10:00",
-        "text": "mercatino • Bari • Fiera del Levante, Nuovo Padiglione • Salone commerciale del matrimonio con espositori",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Promessi%20Sposi&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%20%E2%80%A2%20Salone%20commerciale%20del%20matrimonio%20con%20espositori&location=Fiera%20del%20Levante%2C%20Nuovo%20Padiglione%2C%20Bari&dates=20261108T090000Z/20261108T200000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.promessisposi.info/"
-      },
-      {
-        "title": "Mercatino del riuso",
-        "subtitle": "Domenica 8 novembre • 10:00",
-        "dateTime": "2026-11-08T10:00",
-        "text": "mercatino • Capurso • Piazza Gramsci • Bancarelle e scambio di oggetti da riutilizzare",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Bancarelle%20e%20scambio%20di%20oggetti%20da%20riutilizzare&location=Piazza%20Gramsci%2C%20Capurso&dates=20261108T090000Z/20261108T120000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333381.html"
-      }
-    ]
-  }
+  "games" : {
+    "items" : [ {
+      "steamUrl" : "https://store.steampowered.com/app/2233120/",
+      "steamPrice" : "29,99€",
+      "steamRating" : "72%",
+      "link" : "https://luna.amazon.com/",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2233120/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-25",
+      "text" : "Avventura horror in prima persona ambientata in un mondo invaso da creature sensibili al rumore: esplora zone pericolose, gestisci gli oggetti e sopravvivi restando silenzioso. Giocabile in streaming su Amazon Luna Standard incluso con Prime.",
+      "subtitle" : "Amazon Luna Standard",
+      "title" : "A Quiet Place: The Road Ahead"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/1234430/",
+      "steamPrice" : "2,49€",
+      "steamRating" : "75%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-22",
+      "text" : "Horror psicologico in prima persona tra trincee della Grande Guerra e incubi surreali, con esplorazione, rompicapi e creature legate ai traumi di un soldato. Riscattabile con Amazon Prime tramite Epic Games Store fino al 25 novembre 2026.",
+      "subtitle" : "Epic Games Store",
+      "title" : "Ad Infinitum"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/1582650/",
+      "steamPrice" : "24,99€",
+      "steamRating" : "88%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-15",
+      "text" : "Avventura esplorativa fantascientifica su un pianeta desertico: guida un furgone, attraversa insediamenti e rovine, aiuta gli abitanti e cerca una persona scomparsa. Riscattabile con Amazon Prime tramite Amazon Games App fino al 16 dicembre 2026.",
+      "subtitle" : "Amazon Games App",
+      "title" : "Caravan SandWitch"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/313780/",
+      "steamPrice" : "$2.99",
+      "steamRating" : "76%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-08",
+      "text" : "Avventura horror ispirata a Lovecraft, ambientata in una struttura antartica isolata, con indagini, misteri scientifici, enigmi e inquietanti esperienze soprannaturali. Riscattabile con Amazon Prime tramite GOG fino al 11 novembre 2026.",
+      "subtitle" : "GOG",
+      "title" : "Conarium"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/379720/",
+      "steamPrice" : "19,99€",
+      "steamRating" : "94%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-01",
+      "text" : "Sparatutto in prima persona su Marte, con combattimenti veloci contro orde demoniache, armi devastanti e livelli pieni di segreti. Riscattabile con Amazon Prime tramite GOG fino al 4 novembre 2026.",
+      "subtitle" : "GOG",
+      "title" : "DOOM"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/2638370/",
+      "steamPrice" : "11,70€",
+      "steamRating" : "96%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-01",
+      "text" : "Horror narrativo bidimensionale in pixel art: un ragazzo esplora un passato terrificante, risolve enigmi e sfugge ad animatronici ostili. Riscattabile con Amazon Prime tramite Epic Games Store fino al 4 novembre 2026.",
+      "subtitle" : "Epic Games Store",
+      "title" : "Five Nights at Freddy's: Into the Pit"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/5257350/",
+      "steamPrice" : "Gratis",
+      "steamRating" : "51%",
+      "link" : "https://store.steampowered.com/app/5257350/Hex_Reverse/",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-07",
+      "text" : "Roguelike strategico di carte su una griglia esagonale: posiziona carte, confronta i valori dei lati, conquista quelle nemiche e potenzia il mazzo tra una sfida e l'altra. Gratuito da aggiungere a Steam per i primi 30 giorni dal 7 ottobre 2026; una volta riscattato rimane in libreria.",
+      "subtitle" : "Steam",
+      "title" : "Hex Reverse"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/215670/",
+      "steamPrice" : "0,79€",
+      "steamRating" : "65%",
+      "link" : "https://store.epicgames.com/p/home-19212a",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215670/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-22",
+      "text" : "Horror psicologico narrativo in pixel art, in cui esplorare una casa misteriosa, raccogliere indizi e compiere scelte che modificano il finale. Gratis da riscattare su Epic Games Store fino al 29 ottobre 2026.",
+      "subtitle" : "Epic Games Store",
+      "title" : "Home - A Unique Horror Adventure"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/2405060/",
+      "steamPrice" : "$24.99",
+      "steamRating" : "84%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2405060/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-29",
+      "text" : "Picchiaduro roguelite fantascientifico ambientato in una prigione galattica: affronta combattimenti brutali in terza persona, potenzia il corpo con impianti cibernetici e supera sfide sempre nuove. Riscattabile con Amazon Prime tramite Amazon Games App.",
+      "subtitle" : "Amazon Games App",
+      "title" : "KIBORG"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/3029180/",
+      "steamPrice" : "$9.99",
+      "steamRating" : "77%",
+      "link" : "https://luna.amazon.com/game/kingdomino/B0HMJMGD9L",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3029180/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-23",
+      "text" : "Strategico da tavolo digitale ambientato in un regno medievale: scegli tessere domino, abbina i paesaggi e raccogli corone per costruire territori e superare gli avversari. Giocabile in streaming con Amazon Luna Standard incluso in Prime.",
+      "subtitle" : "Amazon Luna Standard",
+      "title" : "Kingdomino"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/1492070/",
+      "steamPrice" : "$6.79",
+      "steamRating" : "79%",
+      "link" : "https://store.epicgames.com/p/sker-ritual-aac702",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1492070/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-22",
+      "text" : "Sparatutto horror cooperativo a ondate ambientato sull'isola di Sker, con orde di creature, armi potenziabili e abilità soprannaturali. Gratis da riscattare su Epic Games Store fino al 29 ottobre 2026.",
+      "subtitle" : "Epic Games Store",
+      "title" : "Sker Ritual"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/2513280/",
+      "steamPrice" : "$49.99",
+      "steamRating" : "94%",
+      "link" : "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-06",
+      "text" : "Platform d'azione con Sonic classico e moderno e una nuova campagna dedicata a Shadow, tra livelli rapidi, abilità speciali e sfide. Disponibile in streaming su Amazon Luna Standard incluso con Prime; scadenza non annunciata.",
+      "subtitle" : "Amazon Luna Standard",
+      "title" : "SONIC X SHADOW GENERATIONS"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/4078430/",
+      "steamPrice" : "59,99€",
+      "steamRating" : "86%",
+      "link" : "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-06",
+      "text" : "Gioco di corse nell'universo di Star Wars ambientato nell'Orlo Esterno, tra competizioni clandestine, piloti rivali e percorsi pericolosi. Disponibile in streaming su Amazon Luna Standard incluso con Prime; scadenza non annunciata.",
+      "subtitle" : "Amazon Luna Standard",
+      "title" : "STAR WARS: Galactic Racer"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/3094600/",
+      "steamPrice" : "$8.99",
+      "steamRating" : "57%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3094600/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-22",
+      "text" : "Avventura a enigmi che attraversa epoche differenti: esplora stanze, combina oggetti, risolvi indizi e trova la via d'uscita. Riscattabile con Amazon Prime tramite Legacy Games fino al 25 novembre 2026.",
+      "subtitle" : "Legacy Games",
+      "title" : "Time Travel: Escape Room Game"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/2407830/",
+      "steamPrice" : "$13.39",
+      "steamRating" : "87%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2407830/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-29",
+      "text" : "Gestionale rilassante in un mondo fantasy, dove ripulire vecchi oggetti, restaurare curiosità e venderle a clienti eccentrici, ampliando progressivamente la propria bottega. Riscattabile con Amazon Prime tramite Epic Games Store.",
+      "subtitle" : "Epic Games Store",
+      "title" : "Trash Goblin"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/1299510/",
+      "steamPrice" : "19,99€",
+      "steamRating" : "61%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-15",
+      "text" : "Gioco di ruolo narrativo nella Boston dei vampiri, con tre protagonisti, investigazioni, dialoghi, decisioni ramificate e poteri soprannaturali. Riscattabile con Amazon Prime tramite Epic Games Store fino al 18 novembre 2026.",
+      "subtitle" : "Epic Games Store",
+      "title" : "Vampire: The Masquerade - Swansong"
+    }, {
+      "steamUrl" : "https://store.steampowered.com/app/2464660/",
+      "steamPrice" : "$2.99",
+      "steamRating" : "71%",
+      "link" : "https://luna.amazon.com/claims/home?filter=Game&g=s",
+      "imageUrl" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
+      "giveaway" : false,
+      "createdDate" : "2026-10-08",
+      "text" : "Strategico in tempo reale fantascientifico con fazioni aliene, costruzione di basi, raccolta delle risorse e gestione di truppe sul campo. Riscattabile con Amazon Prime tramite GOG fino al 8 gennaio 2027.",
+      "subtitle" : "GOG",
+      "title" : "WarBreeds"
+    } ],
+    "lastModifiedDate" : "2026-10-29T09:19:02.409Z"
+  },
+  "timezone" : "Europe/Rome",
+  "lastModifiedDate" : "2026-10-29T16:51:21.716Z"
 }
