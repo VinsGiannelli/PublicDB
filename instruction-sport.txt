@@ -14,10 +14,29 @@ La root deve contenere esattamente, in quest'ordine:
 La sezione di competenza deve avere esclusivamente:
 {
   "lastModifiedDate": "<UTC ISO-8601>",
-  "items": []
+  "items": [
+    {
+      "title": "<titolo>",
+      "subtitle": "<data italiana>",
+      "dateTime": "YYYY-MM-DDTHH:mm",
+      "text": "<descrizione>",
+      "logo": "BA|ITA|F1",
+      "link": "<Google Calendar>",
+      "linkDettagliEvento": "<URL opzionale>"
+    }
+  ]
 }
 
-Non aggiungere `status`, `title`, `period` o altri campi.
+Non aggiungere `status`, `title` o `period` al livello della sezione. Ogni item deve invece contenere obbligatoriamente tutti i campi indicati, incluso `dateTime`; `linkDettagliEvento` resta l'unico campo facoltativo.
+
+GATE OBBLIGATORIO DATETIME PRIMA DEL WRITE
+1. Durante la creazione di ogni item valorizza subito `dateTime`; non aggiungerlo in un secondo momento facoltativo.
+2. Costruisci `dateTime` dalla data locale dell'evento in `Europe/Rome` nel formato esatto `YYYY-MM-DDTHH:mm`.
+3. Se l'orario è noto usa l'ora locale confermata. Se non è noto usa sempre `00:00`.
+4. Prima di serializzare il JSON, scorri nuovamente tutti gli item di `sport.items`. Se `dateTime` manca, è `null`, è vuoto o ha formato errato, ricostruiscilo immediatamente dalla data dell'evento e dall'orario usato in `subtitle`.
+5. Conta gli item senza `dateTime` valido: il risultato deve essere esattamente `0`.
+6. Non chiamare `update_file` con item privi di `dateTime`. Questo controllo non deve bloccare l'aggiornamento: correggi gli item e prosegui con il commit.
+7. Verifica il payload JSON finale già serializzato, non soltanto gli oggetti temporanei usati durante la ricerca.
 
 PROTEZIONE DELLE ALTRE SEZIONI
 1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido e acquisisci la blob SHA.
