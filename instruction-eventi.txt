@@ -74,7 +74,7 @@ WATCHLIST E BLACKLIST
 LIVE INTERNI ALLE MANIFESTAZIONI
 Per sagre, patronali, mercatini ed eventi tradizionali consulta il programma testuale e cerca ospiti, concerti, live, band, artisti, tribute e cover.
 
-Se artista o gruppo è riconoscibile e almeno la data è verificata, crea un item `LIVE` autonomo accanto alla manifestazione principale. Inserisci l'ora soltanto se verificata. Non creare item autonomi per attività musicali minori o generiche.
+Se artista o gruppo è riconoscibile e almeno la data è verificata, crea un item live autonomo accanto alla manifestazione principale. Usa `logo:"VASCO"` quando si tratta esplicitamente di una cover/tribute band dedicata a Vasco Rossi; negli altri casi usa `logo:"LIVE"`. Inserisci l'ora soltanto se verificata. Non creare item autonomi per attività musicali minori o generiche.
 
 Per manifestazioni su più giorni crea un item distinto per ogni giorno. I live interni restano item separati. Deduplica la stessa manifestazione trovata su più fonti, ma non unire giorni diversi o live autonomi.
 
@@ -88,7 +88,7 @@ REGOLE DEI CAMPI
 - `subtitle`: data italiana, ad esempio `Venerdì 23 ottobre • 22:15`; se l'ora non è verificata usa soltanto giorno e data.
 - `dateTime`: obbligatorio, mai `null`, formato locale ordinabile `YYYY-MM-DDTHH:mm` in `Europe/Rome`, ad esempio `2026-10-23T22:15`. Usa l'orario confermato; se l'orario non è disponibile usa obbligatoriamente `00:00`. Non aggiungere secondi o offset UTC.
 - `text`: `Categoria • Città • Luogo • dettaglio breve`, omettendo elementi non verificati.
-- `logo`: esclusivamente `SAGRA`, `PATRONALE`, `MERCATINO`, `LIVE`, `TRADIZIONE`. Le fiere ammesse usano `MERCATINO`.
+- `logo`: esclusivamente `SAGRA`, `PATRONALE`, `MERCATINO`, `LIVE`, `VASCO`, `TRADIZIONE`. Usa `VASCO` soltanto quando titolo, descrizione o fonte identificano chiaramente una cover band o tribute band dedicata principalmente a Vasco Rossi. Non basta che una normale band includa alcune sue canzoni nel repertorio. Tutti gli altri concerti usano `LIVE`; le fiere ammesse usano `MERCATINO`.
 - `link`: sempre e soltanto un URL Google Calendar precompilato. Titolo = `title`, descrizione = `text`, luogo = luogo e città se verificati. Con ora certa crea un evento temporizzato con durata ragionevole; senza ora crea un all-day di un giorno. Converti correttamente Europe/Rome e UTC.
 - `linkDettagliEvento`: URL HTTP/HTTPS specifico ufficiale o attendibile; omettilo se non verificabile.
 
@@ -98,6 +98,7 @@ VALIDAZIONE
 - JSON parseabile e leggibile con indentazione.
 - Root e schema esatti.
 - Solo categorie e logo ammessi.
+- Ogni cover/tribute band dedicata a Vasco Rossi usa `logo:"VASCO"`; nessun altro evento usa questo valore.
 - Ogni item contiene un `dateTime` valido nel formato `YYYY-MM-DDTHH:mm`; se `subtitle` non contiene un orario, `dateTime` termina con `T00:00`.
 - Nessun evento fuori dai 15 giorni inclusivi.
 - Gate finale blacklist eseguito: zero corrispondenze su venue, titolo, testo, tipologia, luogo, organizzatore e fonte; nessun evento jazz escluso.
