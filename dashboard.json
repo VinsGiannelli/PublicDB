@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-10-29T11:32:02.469Z",
+  "lastModifiedDate": "2026-10-29T11:33:38.172Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-10-29T09:19:02.409Z",
@@ -333,7 +333,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-10-29T11:32:02.469Z",
+    "lastModifiedDate": "2026-10-29T11:33:38.172Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -384,7 +384,7 @@
         "text": "Live • Monopoli • Chiesa di San Domenico • Concerto di musica antica",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20Antiqua%3A%20Ubi%20sunt%20mulieres%3F&dates=20261029T190000Z%2F20261029T210000Z&details=Live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Chiesa%20di%20San%20Domenico%20%E2%80%A2%20Concerto%20di%20musica%20antica&location=Chiesa%20di%20San%20Domenico%2C%20Monopoli&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://andiamoinpuglia.it/valle-d-itria/eventi/"
+        "linkDettagliEvento": "https://andiamoinpuglia.it/eventi/apulia-antiqua-ubi-sunt-mulieres-2026/"
       },
       {
         "title": "Recital lirico Eva Mei",
@@ -393,7 +393,7 @@
         "text": "Live • Mola di Bari • Palazzo Pesce • Concerto finale masterclass canto e pianoforte",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Recital%20lirico%20Eva%20Mei&dates=20261029T190000Z%2F20261029T210000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Concerto%20finale%20masterclass%20canto%20e%20pianoforte&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/it/mola-di-bari/palazzo-pesce"
+        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/10/20/29-ottobre-2026-recital-lirico-allievi-masterclass-eva-mei-e-michele-delia/"
       },
       {
         "title": "88TRIB3 – Tributo 883",
@@ -414,13 +414,13 @@
         "linkDettagliEvento": "https://stayhappening.com/e/the-wonders-the-beatles-tribute-live-show-crossroad-saloon-E2IT00M19SW"
       },
       {
-        "title": "System of a Down Tribute",
+        "title": "Dark Entries",
         "subtitle": "Venerdì 30 ottobre",
         "dateTime": "2026-10-30T00:00",
-        "text": "Live • Matera • Midnight Pub Live • Live Jam tribute show",
+        "text": "Live • Matera • Midnight Pub Live • Concerto dal vivo",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=System%20of%20a%20Down%20Tribute&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Live%20Jam%20tribute%20show&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/events/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dark%20Entries&dates=20261030%2F20261031&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Concerto%20dal%20vivo&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/live-jam-system-of-a-down-tribute-show/"
       },
       {
         "title": "Édith Piaf Project",
@@ -447,25 +447,16 @@
         "text": "Live • Mola di Bari • Palazzo Pesce • Omaggio a Ornella Vanoni e Gino Paoli",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dettagli%E2%80%A6%20Senza%20fine&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Omaggio%20a%20Ornella%20Vanoni%20e%20Gino%20Paoli&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/tag/appuntamenti-a-mola-di-bari/"
+        "linkDettagliEvento": "https://www.eventiamola.it/event/dettaglisenza-fine-ornella-vanoni-e-gino-paoli/"
       },
       {
-        "title": "Time Zones – Dan Leavers e ospiti",
-        "subtitle": "Venerdì 30 ottobre • 21:00",
-        "dateTime": "2026-10-30T21:00",
-        "text": "Live • Bari • Officina degli Esordi • Dan Leavers, Soccer96 e System Exclusive",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Time%20Zones%20%E2%80%93%20Dan%20Leavers%20e%20ospiti&dates=20261030T200000Z%2F20261030T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Dan%20Leavers%2C%20Soccer96%20e%20System%20Exclusive&location=Officina%20degli%20Esordi%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/bari/officina-degli-esordi"
-      },
-      {
-        "title": "Cult of Smiths",
+        "title": "System of a Down Tribute",
         "subtitle": "Sabato 31 ottobre",
         "dateTime": "2026-10-31T00:00",
-        "text": "Live • Matera • Midnight Pub Live • Tributi The Cult, Smiths, Cure e Joy Division",
+        "text": "Live • Matera • Midnight Pub Live • Live Jam tributo ai System of a Down",
         "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cult%20of%20Smiths&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributi%20The%20Cult%2C%20Smiths%2C%20Cure%20e%20Joy%20Division&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/events/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=System%20of%20a%20Down%20Tribute&dates=20261031%2F20261101&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Live%20Jam%20tributo%20ai%20System%20of%20a%20Down&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/halloween-night-the-cult-of-smiths-the-cult-the-smiths-the-cure-joy-division-c-b-dj-set-80s-90s-a-seguire/"
       },
       {
         "title": "Antiquariando",
@@ -510,7 +501,7 @@
         "text": "Live • Mola di Bari • Teatro Van Westerhout • Duo Simon Zhu al violino e Simone Rugani al pianoforte",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Generazione%20Giovani&dates=20261031T194500Z%2F20261031T214500Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Teatro%20Van%20Westerhout%20%E2%80%A2%20Duo%20Simon%20Zhu%20al%20violino%20e%20Simone%20Rugani%20al%20pianoforte&location=Teatro%20Van%20Westerhout%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.eventiamola.it/events/categoria/musica-concerti/"
+        "linkDettagliEvento": "https://www.pugliacreativa.it/event/generazione-giovani/"
       },
       {
         "title": "I Sorta Nost",
@@ -554,8 +545,7 @@
         "dateTime": "2026-11-01T00:00",
         "text": "Mercatino • Valenzano • Fiera annuale degli ambulanti",
         "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Fiera%20annuale%20degli%20ambulanti&location=Valenzano&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.comune.valenzano.ba.it/novita/avvisi/avvisi.html"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20Ognissanti&dates=20261101%2F20261102&details=Mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Fiera%20annuale%20degli%20ambulanti&location=Valenzano&ctz=Europe%2FRome"
       },
       {
         "title": "Mercato dell'Antiquariato",
@@ -654,7 +644,16 @@
         "text": "Live • Mola di Bari • Palazzo Pesce • Omaggio a Dalla, De Gregori e Ron",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&dates=20261104T200000Z%2F20261104T220000Z&details=Live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Omaggio%20a%20Dalla%2C%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.eventiamola.it/events/categoria/musica-concerti/"
+        "linkDettagliEvento": "https://andiamoinpuglia.it/eventi/banana-republic-dalla-de-gregori-ron-mola-di-bari-2026/"
+      },
+      {
+        "title": "Roy Rogers – Tributo 883",
+        "subtitle": "Venerdì 6 novembre",
+        "dateTime": "2026-11-06T00:00",
+        "text": "Live • Matera • Midnight Pub Live • Tributo a Max Pezzali e 883",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Roy%20Rogers%20%E2%80%93%20Tributo%20883&dates=20261106%2F20261107&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20a%20Max%20Pezzali%20e%20883&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/roy-rogers-883-tribute-band/"
       },
       {
         "title": "Partenopea Trio",
@@ -672,7 +671,7 @@
         "text": "Live • Bari • Officina degli Esordi • Concerto dal vivo e nuovo album Magarìa",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EMAN%20%E2%80%93%20Magar%C3%ACa%20Club%20Tour&dates=20261106T200000Z%2F20261106T220000Z&details=Live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Concerto%20dal%20vivo%20e%20nuovo%20album%20Magar%C3%ACa&location=Officina%20degli%20Esordi%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/bari/officina-degli-esordi"
+        "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-eman-magaria-club-tour-bari-ba/"
       },
       {
         "title": "Maxie Freeman",
@@ -700,6 +699,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d'Autunno&dates=20261107%2F20261108&details=Sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Borgo%20antico%20%E2%80%A2%20Stand%20gastronomici%2C%20artigianato%20e%20musica&location=Borgo%20antico%2C%20Binetto&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.chesagra.it/puglia/ba/binetto/sapori-d-autunno"
+      },
+      {
+        "title": "Rocksy – Rock Cover Band",
+        "subtitle": "Sabato 7 novembre",
+        "dateTime": "2026-11-07T00:00",
+        "text": "Live • Matera • Midnight Pub Live • Rock cover dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rocksy%20%E2%80%93%20Rock%20Cover%20Band&dates=20261107%2F20261108&details=Live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Rock%20cover%20dal%20vivo&location=Midnight%20Pub%20Live%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/rocksy-rock-cover-band/"
       },
       {
         "title": "Corteo storico San Trifone",
