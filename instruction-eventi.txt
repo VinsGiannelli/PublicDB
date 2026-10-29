@@ -40,10 +40,20 @@ Cerca a Bari, nei comuni entro circa 60 km e a Matera esclusivamente:
 
 Escludi categorie non riconducibili con certezza a queste cinque tipologie.
 
-BLACKLIST E JAZZ
-- Non cercare né pubblicare locali o keyword presenti in `eventi.blacklist`.
-- Duke Jazz Club di Bari è sempre escluso.
-- Escludi concerti prevalentemente jazz, fusion jazz, jam jazz, trio/quartet jazz e tributi jazz. Influenze occasionali jazz non bastano per escludere un evento.
+GATE ASSOLUTO BLACKLIST
+La blacklist ha priorità su watchlist, fonti ufficiali, completezza della ricerca e qualunque altra regola.
+
+1. Leggi `eventi.blacklist` prima di iniziare qualsiasi ricerca.
+2. Normalizza blacklist e candidati per il confronto: converti in minuscolo, rimuovi accenti e punteggiatura, uniforma apostrofi, trattini e spazi.
+3. Per ogni candidato controlla tutte le voci della blacklist su nome del locale e sue varianti, titolo, testo, genere o tipologia musicale, luogo, organizzatore, nome della fonte, titolo della pagina e URL della fonte.
+4. Escludi l'item se corrisponde a un locale, una keyword, un genere o una tipologia presente in blacklist. La corrispondenza può essere esatta, contenuta o una variante inequivocabile dello stesso nome.
+5. Se una venue compare sia in watchlist sia in blacklist, prevale sempre la blacklist: non cercarla, non pubblicarne eventi e non mantenerla nella watchlist finale.
+6. Non pubblicare eventi di una venue blacklistata anche quando il nome del locale non compare nell'item ma è identificabile dalla pagina o dalla fonte.
+7. Le corrispondenze musicali sono semantiche: `jazz` comprende jazz trio, jazz quartet, fusion jazz, jam jazz, jazz tribute, tributo jazz e formulazioni equivalenti. Influenze occasionali jazz non bastano invece per escludere un evento non prevalentemente jazz.
+8. Duke Jazz Club di Bari è sempre escluso, anche se scritto con grafia, maiuscole o località differenti.
+9. Subito prima del write riesamina ogni item dell'array finale applicando nuovamente tutti i controlli precedenti. Il numero di corrispondenze con la blacklist deve essere zero.
+10. Se il controllo finale trova una corrispondenza, elimina soltanto quell'item e continua validazione e commit; la blacklist non deve bloccare l'intero aggiornamento.
+11. Non eliminare o modificare voci della blacklist durante l'esecuzione. Puoi aggiungere nuove esclusioni soltanto quando sono chiaramente necessarie.
 
 FLUSSO DI RICERCA RAPIDO
 1. MUNICIPALITY SWEEP: per ogni comune rilevante esegui una ricerca combinata con comune, mese, anno e i termini `sagra fiera mercatino festa patronale evento tradizionale manifestazioni`. Privilegia in quest'ordine Comune, Pro Loco/comitato/organizzatore, testata locale; usa aggregatori solo come supporto. Non fare una ricerca separata per ogni categoria.
@@ -55,9 +65,9 @@ FLUSSO DI RICERCA RAPIDO
 Non cercare immagini o loghi. Eccezione: soltanto per una venue già presente nella watchlist e priva di programmazione testuale, puoi esaminare una locandina recente per estrarre data, artista e ora chiaramente leggibili. Non inserire mai l'immagine nel JSON. Mai usare locandine per municipality sweep, feste, fiere o live in piazza.
 
 WATCHLIST E BLACKLIST
-- Conserva tutte le voci esistenti, anche se non hanno eventi nel periodo.
+- Conserva tutte le voci esistenti, anche se non hanno eventi nel periodo, tranne quelle che corrispondono alla blacklist.
 - Aggiungi nuovi locali con musica live ricorrente nel formato `Nome — Comune`.
-- Rimuovi una venue soltanto con conferma affidabile di chiusura o cessazione stabile della musica live.
+- Rimuovi una venue soltanto se corrisponde alla blacklist oppure con conferma affidabile di chiusura o cessazione stabile della musica live.
 - Conserva la blacklist e aggiungi nuove esclusioni soltanto se chiaramente necessarie.
 - Deduplica entrambe le liste senza alterare inutilmente grafia e ordine delle voci esistenti.
 
@@ -90,7 +100,7 @@ VALIDAZIONE
 - Solo categorie e logo ammessi.
 - Ogni item contiene un `dateTime` valido nel formato `YYYY-MM-DDTHH:mm`; se `subtitle` non contiene un orario, `dateTime` termina con `T00:00`.
 - Nessun evento fuori dai 15 giorni inclusivi.
-- Nessun evento in blacklist o jazz escluso.
+- Gate finale blacklist eseguito: zero corrispondenze su venue, titolo, testo, tipologia, luogo, organizzatore e fonte; nessun evento jazz escluso.
 - Nessun duplicato improprio.
 - Link Calendar coerenti con data, ora, titolo e luogo.
 - `games` e `sport` coincidono con l'ultima versione riletta prima del write.
