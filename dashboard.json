@@ -304,7 +304,8 @@
     "lastModifiedDate" : "2026-10-29T16:51:45.762Z",
     "watchlist" : [ "Midnight Pub Live — Matera", "Chorìa - Note di Puglia — Bari", "Black Horses Pub — Bari", "Malto's — Bari", "La DolceVita Live — Bari", "Crossroad Saloon — Bari", "Nevermind Music Club — Bari", "Summit Club — Bari", "Fix it Culture - City Club — Bari", "Mulata Latin Social Club — Bari", "Central Pub — Matera", "14th American Pub — Matera", "AREA 8 — Matera", "Pecora Nera Country Pub — Cassano delle Murge", "Casa delle Arti — Conversano", "Agrobistrot — Fasano", "Palazzo Pesce — Mola di Bari", "Cittadella degli Artisti — Molfetta", "Officina degli Esordi — Bari", "Libreria Prinz Zaum — Bari", "Caffè d'arte Dolceamaro — Bari", "Santo Graal — Trani", "HUB - Triggiano" ],
     "watchlistKeywords" : [ "Pooh", "Vasco", "Komandanti", "883", "Pino Daniele" ],
-    "blacklist" : [ "Duke Jazz Club — Bari", "jazz", "fusion jazz", "jam jazz", "jazz trio", "jazz quartet", "jazz tribute", "PalaFlorio", "Eremo Club", "Eremo Club — Molfetta", "Palatour", "Palatour — Bitritto", "PalaFlorio — Bari", "Teatro Bravò — Bari", "Teatro Forma — Bari", "Bandistico", "Bandistici", "Lirica", "Lirico", "Opera", "Dark Entries", "Pinkabbestia", "Les Amazones d'Afrique", "Time Zones", "Naima Duo", "Scure", "Soul", "Magarìa", "EMAN", "prova", "System of a Down" ],
+    "blacklist" : [ "Duke Jazz Club — Bari", "jazz", "fusion jazz", "jam jazz", "jazz trio", "jazz quartet", "jazz tribute", "PalaFlorio", "Eremo Club", "Eremo Club — Molfetta", "Palatour", "Palatour — Bitritto", "PalaFlorio — Bari", "Teatro Bravò — Bari", "Teatro Forma — Bari", "Bandistico", "Bandistici", "Lirica", "Lirico", "Opera", "Dark Entries", "Pinkabbestia", "Les Amazones d'Afrique", "Time Zones", "Naima Duo", "Scure", "Soul", "Magarìa", "EMAN", "prova", "System of a Down",
+      "abba" ],
     "items" : [ {
       "title" : "88TRIB3 – Tributo 883",
       "subtitle" : "Giovedì 29 ottobre • 21:00",
