@@ -43,24 +43,26 @@ FLUSSO DI RICERCA RAPIDO
 4. Converti gli orari in `Europe/Rome` una sola volta, considerando ora legale/solare e distinguendo correttamente ora locale e UTC.
 
 CAMPI ESATTI DI OGNI ITEM
-`title`, `subtitle`, `text`, `logo`, `link`; `linkDettagliEvento` è facoltativo.
+`title`, `subtitle`, `dateTime`, `text`, `logo`, `link`; `linkDettagliEvento` è facoltativo.
 
-Vietati campi aggiuntivi come `date`, `startTime`, `location`, `category` o `logoURL`.
+Vietati campi aggiuntivi come `date`, `startTime`, `location`, `category` o `logoURL`. `dateTime` è l'unico campo tecnico ammesso per data e ora.
 
 REGOLE DEI CAMPI
 - `title`: titolo breve della partita o sessione.
 - `subtitle`: data italiana, ad esempio `Venerdì 30 ottobre • 19:30`; ometti l'ora soltanto se non verificabile.
+- `dateTime`: obbligatorio, mai `null`, formato locale ordinabile `YYYY-MM-DDTHH:mm` in `Europe/Rome`, ad esempio `2026-10-30T19:30`. Usa l'orario confermato; se l'orario non è disponibile usa obbligatoriamente `00:00`. Non aggiungere secondi o offset UTC.
 - `text`: calcio `Competizione • Partita`; Formula 1 `Formula 1 • GP ... • Sessione`.
 - `logo`: esclusivamente `BA`, `ITA` o `F1`.
 - `link`: sempre e soltanto un URL Google Calendar precompilato. Titolo = `title`, descrizione = `text`, luogo = stadio/circuito e città se verificati. Con ora certa crea un evento temporizzato con durata ragionevole; senza ora crea un all-day di un giorno. Converti correttamente Europe/Rome e UTC.
 - `linkDettagliEvento`: URL HTTP/HTTPS specifico ufficiale o attendibile; omettilo se non verificabile.
 
-Ordina gli item cronologicamente usando data e ora effettive prima di generare `subtitle`.
+Ordina gli item in ordine crescente usando direttamente `dateTime`. Gli eventi senza orario vengono quindi ordinati alle `00:00` del relativo giorno.
 
 VALIDAZIONE
 - JSON parseabile e leggibile con indentazione.
 - Root e schema esatti.
 - Solo logo `BA`, `ITA`, `F1`.
+- Ogni item contiene un `dateTime` valido nel formato `YYYY-MM-DDTHH:mm`; se `subtitle` non contiene un orario, `dateTime` termina con `T00:00`.
 - Nessun evento fuori dai 15 giorni inclusivi.
 - Nessuna partita/sessione ufficiale mancante o duplicata.
 - Link Calendar coerenti con data, ora, titolo e luogo.

@@ -69,24 +69,26 @@ Se artista o gruppo è riconoscibile e almeno la data è verificata, crea un ite
 Per manifestazioni su più giorni crea un item distinto per ogni giorno. I live interni restano item separati. Deduplica la stessa manifestazione trovata su più fonti, ma non unire giorni diversi o live autonomi.
 
 CAMPI ESATTI DI OGNI ITEM
-`title`, `subtitle`, `text`, `logo`, `link`; `linkDettagliEvento` è facoltativo.
+`title`, `subtitle`, `dateTime`, `text`, `logo`, `link`; `linkDettagliEvento` è facoltativo.
 
-Vietati `logoURL`, `category`, `city`, `location`, `parentEvent`, `date`, `startTime`, `distanceKm` e altri campi.
+Vietati `logoURL`, `category`, `city`, `location`, `parentEvent`, `date`, `startTime`, `distanceKm` e altri campi. `dateTime` è l'unico campo tecnico ammesso per data e ora.
 
 REGOLE DEI CAMPI
 - `title`: breve, idealmente entro 30-35 caratteri, senza città, anno o categoria ridondanti.
 - `subtitle`: data italiana, ad esempio `Venerdì 23 ottobre • 22:15`; se l'ora non è verificata usa soltanto giorno e data.
+- `dateTime`: obbligatorio, mai `null`, formato locale ordinabile `YYYY-MM-DDTHH:mm` in `Europe/Rome`, ad esempio `2026-10-23T22:15`. Usa l'orario confermato; se l'orario non è disponibile usa obbligatoriamente `00:00`. Non aggiungere secondi o offset UTC.
 - `text`: `Categoria • Città • Luogo • dettaglio breve`, omettendo elementi non verificati.
 - `logo`: esclusivamente `SAGRA`, `PATRONALE`, `MERCATINO`, `LIVE`, `TRADIZIONE`. Le fiere ammesse usano `MERCATINO`.
 - `link`: sempre e soltanto un URL Google Calendar precompilato. Titolo = `title`, descrizione = `text`, luogo = luogo e città se verificati. Con ora certa crea un evento temporizzato con durata ragionevole; senza ora crea un all-day di un giorno. Converti correttamente Europe/Rome e UTC.
 - `linkDettagliEvento`: URL HTTP/HTTPS specifico ufficiale o attendibile; omettilo se non verificabile.
 
-Ordina gli item cronologicamente usando data e ora effettive prima di generare `subtitle`.
+Ordina gli item in ordine crescente usando direttamente `dateTime`. Gli eventi senza orario vengono quindi ordinati alle `00:00` del relativo giorno.
 
 VALIDAZIONE
 - JSON parseabile e leggibile con indentazione.
 - Root e schema esatti.
 - Solo categorie e logo ammessi.
+- Ogni item contiene un `dateTime` valido nel formato `YYYY-MM-DDTHH:mm`; se `subtitle` non contiene un orario, `dateTime` termina con `T00:00`.
 - Nessun evento fuori dai 15 giorni inclusivi.
 - Nessun evento in blacklist o jazz escluso.
 - Nessun duplicato improprio.
