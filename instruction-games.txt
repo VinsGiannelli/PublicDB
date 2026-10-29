@@ -76,7 +76,7 @@ REGOLE DEI CAMPI
 - `imageUrl`: obbligatorio e mai `null`. Usa prima `header_image` restituito dall'API Steam per l'AppID verificato, poi SteamDB, artwork/Open Graph della piattaforma reale, publisher, database videoludico, risultato immagine chiaramente associato al titolo e immagine precedente. Se tutti i tentativi falliscono, usa obbligatoriamente `https://placehold.co/460x215?text=<TITOLO_URL_ENCODED>`. Il placeholder è preferibile a `null` e non deve bloccare il commit.
 - `link`: URL ufficiale specifico dell'offerta o del gioco. Per Prime preferisci il link diretto di claim; pagina generica solo come fallback.
 - `steamRating`: se il gioco esiste su Steam è obbligatoria, non può essere `null` e deve essere una percentuale intera con simbolo `%`. Cerca in ordine: pagina Steam, SteamDB, tracker specializzato, aggregatore attendibile o pagina cache recente.
-- `steamPrice`: se il gioco esiste su Steam è obbligatorio e non può essere `null`. Cerca in ordine: prezzo Steam corrente per Italia/area euro, SteamDB, tracker prezzi specializzato, aggregatore attendibile o pagina cache recente. Mantieni valuta e formato della fonte; usa `Gratis` se il gioco è gratuito e `Non disponibile` soltanto se la pagina Steam esiste ma il gioco non è acquistabile.
+- `steamPrice`: se il gioco esiste su Steam è obbligatorio e non può essere `null`. Deve mostrare esclusivamente il prezzo corrente per l'Italia in euro, con simbolo `€`; non sono ammessi dollari, sterline o altre valute. Cerca in ordine: Steam Italia, SteamDB con regione/valuta EUR, tracker prezzi specializzato in euro, aggregatore attendibile o pagina cache recente. Usa `Gratis` se il gioco è gratuito e `Non disponibile` soltanto se la pagina Steam esiste ma il gioco non è acquistabile.
 - `steamUrl`: se il gioco esiste su Steam è obbligatorio e deve essere l'URL specifico verificato tramite titolo/AppID. Non inventare AppID o URL.
 - Soltanto dopo avere verificato che il titolo non esiste realmente su Steam, imposta insieme `steamRating`, `steamPrice` e `steamUrl` a `null`.
 
@@ -84,7 +84,7 @@ PROCEDURA DETERMINISTICA PER I DATI STEAM
 Per ogni gioco esegui questi passaggi, senza limitarti a una ricerca generica:
 1. Cerca l'AppID con Steam Store Search/API e, se necessario, con query `site:store.steampowered.com/app "<titolo>"` e `site:steamdb.info/app "<titolo>"`. Prova titolo canonico, varianti e publisher.
 2. Conferma la corrispondenza confrontando titolo e publisher; un timeout o una pagina non accessibile non dimostrano che il gioco non esista su Steam.
-3. Appena l'AppID è verificato, apri per prima cosa `https://steamdb.info/app/<APPID>/`. Da questa pagina recupera tutti i dati disponibili: titolo/app verificato, link Steam, valutazione, prezzo e collegamento all'immagine/header.
+3. Appena l'AppID è verificato, apri per prima cosa `https://steamdb.info/app/<APPID>/`. Da questa pagina recupera tutti i dati disponibili: titolo/app verificato, link Steam, valutazione, prezzo per Italia/area euro in EUR e collegamento all'immagine/header.
 4. Compila immediatamente `steamUrl`, `steamRating`, `steamPrice` e `imageUrl` con i dati ottenuti da SteamDB, senza lasciarli temporaneamente a `null`.
 5. Se SteamDB non è accessibile o manca un dato, interroga `https://store.steampowered.com/api/appdetails?appids=<APPID>&cc=IT&l=italian`.
 6. Da `appdetails` ricava `steamUrl` come `https://store.steampowered.com/app/<APPID>/`, `imageUrl` da `header_image` e `steamPrice` da `price_overview.final_formatted`. Se `is_free` è vero usa `Gratis`; se la pagina esiste ma non è acquistabile usa `Non disponibile`.
@@ -112,6 +112,7 @@ VALIDAZIONE
 - Ogni item ha `imageUrl` valorizzato con un URL HTTP/HTTPS non vuoto; `null` e stringhe vuote non sono ammessi.
 - Nessun titolo duplicato.
 - Se `steamUrl` è valorizzato, anche `steamRating` e `steamPrice` devono essere valorizzati e mai `null`.
+- Ogni `steamPrice` numerico deve essere espresso in euro con simbolo `€`. Sono ammessi come valori non numerici soltanto `Gratis` e `Non disponibile`; altre valute non sono ammesse.
 - I tre campi Steam possono essere tutti `null` esclusivamente quando è stata verificata l'assenza del titolo da Steam; non sono ammessi null causati da errori tecnici o ricerche interrotte.
 - Ogni offerta pubblicata risulta attiva secondo la fonte ufficiale oppure il fallback corrente ritenuto più attendibile.
 - `sport` ed `eventi` coincidono con l'ultima versione riletta prima del write.
