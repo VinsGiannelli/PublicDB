@@ -139,6 +139,14 @@ const specificLogoRules = [
     excludeTerms: []
   },
   {
+    logo: "883",
+    priority: 400,
+    groups: [
+      ["883"]
+    ],
+    excludeTerms: []
+  },
+  {
     logo: "VASCO",
     priority: 400,
     groups: [
@@ -242,7 +250,7 @@ if (logoValidation.invalidItems !== 0) {
 Regole operative obbligatorie:
 1. Non assegnare `logo` durante la ricerca con condizioni manuali: raccogli prima `title` e `text`, poi esegui `applyLogoRules(payload)`.
 2. I valori ammessi sono sempre derivati dalla tabella; aggiungere una regola rende automaticamente ammesso il nuovo logo.
-3. Una regola specifica con priorità maggiore sostituisce il logo generico e le regole meno specifiche. La regola `KOMANDANTI` trasforma un live de I Komandanti dedicato a Vasco in `KOMANDANTI`; le altre cover band di Vasco usano `VASCO`; gli altri concerti usano `LIVE`.
+3. Una regola specifica con priorità maggiore sostituisce il logo generico e le regole meno specifiche. La regola `KOMANDANTI` trasforma un live de I Komandanti dedicato a Vasco in `KOMANDANTI`; le altre cover band di Vasco usano `VASCO`; ogni evento che contiene il termine `883` in `title` o `text` usa `883`; gli altri concerti usano `LIVE`.
 4. Dopo ogni modifica a `specificLogoRules`, esegui lo stesso classificatore su tutti gli item, non soltanto sui nuovi eventi.
 5. `update_file` è consentito esclusivamente quando `invalidItems === 0`.
 6. Un JSON sintatticamente valido o un logo appartenente all'elenco ammesso non bastano: `actualLogo` deve coincidere con `expectedLogo`.
