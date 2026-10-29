@@ -29,14 +29,70 @@ La sezione di competenza deve avere esclusivamente:
 
 Non aggiungere `status`, `title` o `period` al livello della sezione. Ogni item deve invece contenere obbligatoriamente tutti i campi indicati, incluso `dateTime`; `linkDettagliEvento` resta l'unico campo facoltativo.
 
-GATE OBBLIGATORIO DATETIME PRIMA DEL WRITE
-1. Durante la creazione di ogni item valorizza subito `dateTime`; non aggiungerlo in un secondo momento facoltativo.
-2. Costruisci `dateTime` dalla data locale dell'evento in `Europe/Rome` nel formato esatto `YYYY-MM-DDTHH:mm`.
-3. Se l'orario è noto usa l'ora locale confermata. Se non è noto usa sempre `00:00`.
-4. Prima di serializzare il JSON, scorri nuovamente tutti gli item di `sport.items`. Se `dateTime` manca, è `null`, è vuoto o ha formato errato, ricostruiscilo immediatamente dalla data dell'evento e dall'orario usato in `subtitle`.
-5. Conta gli item senza `dateTime` valido: il risultato deve essere esattamente `0`.
-6. Non chiamare `update_file` con item privi di `dateTime`. Questo controllo non deve bloccare l'aggiornamento: correggi gli item e prosegui con il commit.
-7. Verifica il payload JSON finale già serializzato, non soltanto gli oggetti temporanei usati durante la ricerca.
+GATE BLOCCANTE DI VALIDAZIONE DELLO SCHEMA
+Durante la creazione di ogni item valorizza subito `dateTime`. Costruiscilo dalla data locale dell'evento in `Europe/Rome` nel formato esatto `YYYY-MM-DDTHH:mm`; se l'orario non è disponibile usa `00:00`.
+
+Prima di chiamare `update_file` devi obbligatoriamente:
+1. Creare la stringa finale esatta con `finalJson = JSON.stringify(payload, null, 2)`.
+2. Deserializzare e validare proprio `finalJson`, non una struttura temporanea precedente.
+3. Eseguire realmente il seguente codice JavaScript; non simulare, riassumere o dichiarare verbalmente il controllo.
+
+```javascript
+const requiredFields = ["title", "subtitle", "dateTime", "text", "logo", "link"];
+const dateTimePattern = /^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})$/;
+
+function isValidDateTime(value) {
+  if (typeof value !== "string") return false;
+  const match = value.match(dateTimePattern);
+  if (!match) return false;
+  const year = Number(match[1]);
+  const month = Number(match[2]);
+  const day = Number(match[3]);
+  const hour = Number(match[4]);
+  const minute = Number(match[5]);
+  const check = new Date(Date.UTC(year, month - 1, day, hour, minute));
+  return check.getUTCFullYear() === year &&
+    check.getUTCMonth() === month - 1 &&
+    check.getUTCDate() === day &&
+    check.getUTCHours() === hour &&
+    check.getUTCMinutes() === minute;
+}
+
+function validateSportJson(jsonText) {
+  const parsed = JSON.parse(jsonText);
+  if (!parsed.sport || !Array.isArray(parsed.sport.items)) {
+    throw new Error("sport.items mancante o non valido");
+  }
+  const invalidItems = parsed.sport.items.filter((item) => {
+    const missingRequired = requiredFields.some((field) =>
+      !Object.prototype.hasOwnProperty.call(item, field) ||
+      item[field] === null ||
+      item[field] === ""
+    );
+    return missingRequired || !isValidDateTime(item.dateTime);
+  });
+  const result = {
+    totalItems: parsed.sport.items.length,
+    validItems: parsed.sport.items.length - invalidItems.length,
+    invalidItems: invalidItems.length,
+    invalidTitles: invalidItems.map((item) => item.title || "<senza titolo>")
+  };
+  console.log(JSON.stringify(result, null, 2));
+  return result;
+}
+
+const validation = validateSportJson(finalJson);
+if (validation.invalidItems !== 0) {
+  throw new Error("Schema sport non valido: correggere prima di update_file");
+}
+```
+
+4. Se il codice trova item invalidi, ricostruisci ogni `dateTime` dalla data e ora confermate; in assenza dell'ora usa `00:00`.
+5. Rigenera `finalJson` e riesegui lo stesso codice dopo ogni correzione.
+6. `update_file` è consentito esclusivamente quando l'output eseguito riporta `invalidItems: 0`.
+7. Se il codice non può essere eseguito o non raggiunge `invalidItems: 0`, non pubblicare il file e segnala esplicitamente l'errore.
+
+Un commit riuscito o un JSON soltanto sintatticamente valido non equivalgono alla validazione dello schema.
 
 PROTEZIONE DELLE ALTRE SEZIONI
 1. Come prima operazione leggi da GitHub `dashboard.json` su `main`, verifica che sia JSON valido e acquisisci la blob SHA.
@@ -99,4 +155,4 @@ Se ricevi un conflitto SHA, rileggi la versione corrente, reinserisci soltanto l
 
 Se il write ha esito incerto, rileggi prima il file: se `sport.lastModifiedDate` coincide con quella generata, non creare un secondo commit.
 
-Dopo il write rileggi il file da GitHub e verifica JSON, schema, conteggio, timestamp e conservazione delle altre sezioni. Riferisci commit SHA ed esito della rilettura GitHub. Non verificare l'URL raw.
+Dopo il write rileggi il file direttamente da GitHub, assegna il contenuto effettivamente pubblicato a `publishedJson` e riesegui `validateSportJson(publishedJson)`. Anche questo output deve riportare `invalidItems: 0`. Se il controllo fallisce, correggi gli item, rileggi la SHA corrente, esegui un solo write correttivo e valida nuovamente. Riferisci commit SHA e i conteggi `totalItems`, `validItems`, `invalidItems`. Non verificare l'URL raw.
