@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-02T09:45:28.388Z",
+  "lastModifiedDate": "2026-11-02T09:48:38.850Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-10-29T21:10:53.446Z",
+    "lastModifiedDate": "2026-11-02T09:48:38.850Z",
     "items": [
       {
         "title": "A Quiet Place: The Road Ahead",
@@ -29,6 +29,18 @@
         "steamUrl": "https://store.steampowered.com/app/1234430/"
       },
       {
+        "title": "Asleep: Act 1",
+        "subtitle": "Steam",
+        "text": "Survival horror psicologico in pixel art: guida Ana, sfrutta la luce per sfuggire a creature diverse, esplora luoghi inquietanti e risolvi enigmi. Aggiungilo permanentemente alla libreria Steam gratis entro il 2 novembre 2026, ore 19:00 italiane.",
+        "createdDate": "2026-10-30",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583850/header.jpg",
+        "link": "https://store.steampowered.com/app/1583850/",
+        "steamRating": "86%",
+        "steamPrice": "Gratis",
+        "steamUrl": "https://store.steampowered.com/app/1583850/"
+      },
+      {
         "title": "Caravan SandWitch",
         "subtitle": "Amazon Games App",
         "text": "Avventura esplorativa fantascientifica su un pianeta desertico: guida un furgone, attraversa insediamenti e rovine, aiuta gli abitanti e cerca una persona scomparsa. Riscattabile con Amazon Prime tramite Amazon Games App fino al 16 dicembre 2026.",
@@ -36,7 +48,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "88%",
+        "steamRating": "83%",
         "steamPrice": "24,99€",
         "steamUrl": "https://store.steampowered.com/app/1582650/"
       },
@@ -49,8 +61,20 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "76%",
-        "steamPrice": "$2.99",
+        "steamPrice": "2,92€",
         "steamUrl": "https://store.steampowered.com/app/313780/"
+      },
+      {
+        "title": "Dark Mystery",
+        "subtitle": "Epic Games Store",
+        "text": "Platform a enigmi ambientato in un mondo oscuro: aiuta Furry a ritrovare la sua regina affrontando trentacinque livelli e sfide, anche in cooperativa locale. Gratis su Epic Games Store fino all'8 novembre 2026.",
+        "createdDate": "2026-11-01",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/660900/header.jpg",
+        "link": "https://store.epicgames.com/p/dark-mystery-baf914",
+        "steamRating": "54%",
+        "steamPrice": "7,99€",
+        "steamUrl": "https://store.steampowered.com/app/660900/"
       },
       {
         "title": "DOOM",
@@ -63,6 +87,18 @@
         "steamRating": "94%",
         "steamPrice": "19,99€",
         "steamUrl": "https://store.steampowered.com/app/379720/"
+      },
+      {
+        "title": "Epic World - Hunt For Quest",
+        "subtitle": "Epic Games Store",
+        "text": "Platform d'azione fantasy con quarantadue livelli, tre eroi, tesori nascosti e avversari pericolosi: recupera l'oro sottratto dal re degli orchi. Riscattabile gratis su Epic Games Store fino all'8 novembre 2026.",
+        "createdDate": "2026-11-01",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040910/header.jpg",
+        "link": "https://store.epicgames.com/p/epic-world-hunt-for-quest-4500b1",
+        "steamRating": "33%",
+        "steamPrice": "8,19€",
+        "steamUrl": "https://store.steampowered.com/app/1040910/"
       },
       {
         "title": "Five Nights at Freddy's: Into the Pit",
@@ -79,7 +115,7 @@
       {
         "title": "GetHigh.EXE",
         "subtitle": "Epic Games Store",
-        "text": "Platform tridimensionale in prima persona ambientato tra strutture neon e ostacoli sospesi: affronta salti di precisione, piattaforme mobili e una lunga scalata verticale. Gratis da riscattare su Epic Games Store fino al 2 novembre 2026.",
+        "text": "Platform tridimensionale in prima persona con strutture neon e ostacoli sospesi: affronta salti di precisione, piattaforme mobili e una lunga scalata verticale. Gratis su Epic Games Store fino al 2 novembre 2026, ore 17:00 italiane.",
         "createdDate": "2026-10-19",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4331890/header.jpg",
@@ -87,6 +123,18 @@
         "steamRating": "67%",
         "steamPrice": "2,09€",
         "steamUrl": "https://store.steampowered.com/app/4331890/"
+      },
+      {
+        "title": "Gladiator: Blades of Fury",
+        "subtitle": "Epic Games Store",
+        "text": "Picchiaduro medievale con combattimenti corpo a corpo, armi e mosse speciali: scegli guerrieri tra barbari, assassini, cavalieri e nani e affronta tornei. Gratuito da riscattare su Epic Games Store fino all'8 novembre 2026.",
+        "createdDate": "2026-11-01",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1007490/header.jpg",
+        "link": "https://store.epicgames.com/p/gladiator-blades-of-fury-1a745b",
+        "steamRating": "42%",
+        "steamPrice": "8,19€",
+        "steamUrl": "https://store.steampowered.com/app/1007490/"
       },
       {
         "title": "Hex Reverse",
@@ -101,27 +149,39 @@
         "steamUrl": "https://store.steampowered.com/app/5257350/"
       },
       {
-        "title": "Hexologic",
-        "subtitle": "Steam",
-        "text": "Rompicapo logico rilassante ispirato al Sudoku: combina punti su caselle esagonali rispettando le somme indicate lungo tre direzioni, attraverso oltre novanta livelli. Gratis da aggiungere permanentemente a Steam fino al 31 ottobre 2026, ore 18:00 italiane.",
-        "createdDate": "2026-10-29",
+        "title": "Highway Driving",
+        "subtitle": "Epic Games Store",
+        "text": "Gioco di guida arcade tridimensionale su autostrade e piste diverse, con molte vetture, modalità di gara e miglioramenti sbloccabili accumulando punti. Riscattabile gratuitamente su Epic Games Store fino all'8 novembre 2026.",
+        "createdDate": "2026-11-01",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg",
-        "link": "https://store.steampowered.com/app/785890/",
-        "steamRating": "96%",
-        "steamPrice": "Gratis",
-        "steamUrl": "https://store.steampowered.com/app/785890/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2016980/header.jpg",
+        "link": "https://store.epicgames.com/p/highway-driving-140121",
+        "steamRating": "60%",
+        "steamPrice": "8,19€",
+        "steamUrl": "https://store.steampowered.com/app/2016980/"
+      },
+      {
+        "title": "Horse Racing",
+        "subtitle": "Epic Games Store",
+        "text": "Simulatore di corse ippiche con sei cavalli e fantini, tracciati differenti, cinquantacinque eventi e gare multigiocatore locale a schermo diviso. Segnalato gratuitamente riscattabile su Epic Games Store fino all'8 novembre 2026.",
+        "createdDate": "2026-11-01",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/655610/header.jpg",
+        "link": "https://store.epicgames.com/p/horse-racing-4192a0",
+        "steamRating": "40%",
+        "steamPrice": "9,99€",
+        "steamUrl": "https://store.steampowered.com/app/655610/"
       },
       {
         "title": "KIBORG",
         "subtitle": "Amazon Games App",
-        "text": "Picchiaduro roguelite fantascientifico ambientato in una prigione galattica: affronta combattimenti brutali in terza persona, potenzia il corpo con impianti cibernetici e supera sfide sempre nuove. Riscattabile con Amazon Prime tramite Amazon Games App.",
+        "text": "Picchiaduro roguelite fantascientifico ambientato in una prigione galattica: affronta combattimenti brutali in terza persona, potenzia il corpo con impianti cibernetici e supera nuove sfide. Riscattabile con Prime tramite Amazon Games App fino al 2 dicembre 2026.",
         "createdDate": "2026-10-29",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2405060/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "84%",
-        "steamPrice": "$24.99",
+        "steamPrice": "14,70€",
         "steamUrl": "https://store.steampowered.com/app/2405060/"
       },
       {
@@ -133,20 +193,20 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3029180/header.jpg",
         "link": "https://luna.amazon.com/game/kingdomino/B0HMJMGD9L",
         "steamRating": "77%",
-        "steamPrice": "$9.99",
+        "steamPrice": "9,99€",
         "steamUrl": "https://store.steampowered.com/app/3029180/"
       },
       {
-        "title": "MAFIA HOTEL",
+        "title": "Quiztopia: The Ultimate Trivia",
         "subtitle": "Epic Games Store",
-        "text": "Gioco multiplayer di deduzione sociale ambientato in un hotel: fino a sedici ospiti discutono e votano di giorno, mentre di notte la mafia dà la caccia alle vittime. Gratis da riscattare su Epic Games Store fino al 1 novembre 2026.",
-        "createdDate": "2026-10-25",
+        "text": "Gioco educativo di quiz per tutte le età, con domande di matematica, geografia, scienze, inglese e immagini e difficoltà crescente. Riscattabile gratuitamente su Epic Games Store fino all'8 novembre 2026.",
+        "createdDate": "2026-11-01",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5090990/header.jpg",
-        "link": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
-        "steamRating": "0%",
-        "steamPrice": "Non disponibile",
-        "steamUrl": "https://store.steampowered.com/app/5090990/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2912680/header.jpg",
+        "link": "https://store.epicgames.com/p/quiztopia-the-ultimate-trivia-6d42e0",
+        "steamRating": "50%",
+        "steamPrice": "7,79€",
+        "steamUrl": "https://store.steampowered.com/app/2912680/"
       },
       {
         "title": "SONIC X SHADOW GENERATIONS",
@@ -157,7 +217,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
         "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
         "steamRating": "94%",
-        "steamPrice": "$49.99",
+        "steamPrice": "49,99€",
         "steamUrl": "https://store.steampowered.com/app/2513280/"
       },
       {
@@ -168,7 +228,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/header.jpg",
         "link": "https://store.epicgames.com/p/sorry-were-closed-724c86",
-        "steamRating": "98%",
+        "steamRating": "93%",
         "steamPrice": "16,65€",
         "steamUrl": "https://store.steampowered.com/app/1796580/"
       },
@@ -180,7 +240,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/header.jpg",
         "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
-        "steamRating": "86%",
+        "steamRating": "85%",
         "steamPrice": "59,99€",
         "steamUrl": "https://store.steampowered.com/app/4078430/"
       },
@@ -193,19 +253,19 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3094600/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "57%",
-        "steamPrice": "$8.99",
+        "steamPrice": "8,99€",
         "steamUrl": "https://store.steampowered.com/app/3094600/"
       },
       {
         "title": "Trash Goblin",
         "subtitle": "Epic Games Store",
-        "text": "Gestionale rilassante in un mondo fantasy, dove ripulire vecchi oggetti, restaurare curiosità e venderle a clienti eccentrici, ampliando progressivamente la propria bottega. Riscattabile con Amazon Prime tramite Epic Games Store.",
+        "text": "Gestionale rilassante fantasy: ripulisci vecchi oggetti, restaura curiosità e vendile a clienti eccentrici, ampliando gradualmente la tua bottega. Riscattabile con Amazon Prime tramite Epic Games Store fino al 2 dicembre 2026.",
         "createdDate": "2026-10-29",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2407830/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "87%",
-        "steamPrice": "$13.39",
+        "steamPrice": "12,54€",
         "steamUrl": "https://store.steampowered.com/app/2407830/"
       },
       {
@@ -229,7 +289,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "71%",
-        "steamPrice": "$2.99",
+        "steamPrice": "2,99€",
         "steamUrl": "https://store.steampowered.com/app/2464660/"
       }
     ]
