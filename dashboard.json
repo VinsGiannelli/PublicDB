@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-02T09:50:42.386Z",
+  "lastModifiedDate": "2026-11-02T21:45:57.034Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-02T09:48:38.850Z",
+    "lastModifiedDate": "2026-11-02T21:45:57.034Z",
     "items": [
       {
         "title": "A Quiet Place: The Road Ahead",
@@ -25,20 +25,8 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1234430/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "75%",
-        "steamPrice": "2,49€",
+        "steamPrice": "19,99€",
         "steamUrl": "https://store.steampowered.com/app/1234430/"
-      },
-      {
-        "title": "Asleep: Act 1",
-        "subtitle": "Steam",
-        "text": "Survival horror psicologico in pixel art: guida Ana, sfrutta la luce per sfuggire a creature diverse, esplora luoghi inquietanti e risolvi enigmi. Aggiungilo permanentemente alla libreria Steam gratis entro il 2 novembre 2026, ore 19:00 italiane.",
-        "createdDate": "2026-10-30",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583850/header.jpg",
-        "link": "https://store.steampowered.com/app/1583850/",
-        "steamRating": "86%",
-        "steamPrice": "Gratis",
-        "steamUrl": "https://store.steampowered.com/app/1583850/"
       },
       {
         "title": "Caravan SandWitch",
@@ -61,14 +49,14 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "76%",
-        "steamPrice": "2,92€",
+        "steamPrice": "19,50€",
         "steamUrl": "https://store.steampowered.com/app/313780/"
       },
       {
         "title": "Dark Mystery",
         "subtitle": "Epic Games Store",
         "text": "Platform a enigmi ambientato in un mondo oscuro: aiuta Furry a ritrovare la sua regina affrontando trentacinque livelli e sfide, anche in cooperativa locale. Gratis su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-01",
+        "createdDate": "2026-11-02",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/660900/header.jpg",
         "link": "https://store.epicgames.com/p/dark-mystery-baf914",
@@ -92,7 +80,7 @@
         "title": "Epic World - Hunt For Quest",
         "subtitle": "Epic Games Store",
         "text": "Platform d'azione fantasy con quarantadue livelli, tre eroi, tesori nascosti e avversari pericolosi: recupera l'oro sottratto dal re degli orchi. Riscattabile gratis su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-01",
+        "createdDate": "2026-11-02",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040910/header.jpg",
         "link": "https://store.epicgames.com/p/epic-world-hunt-for-quest-4500b1",
@@ -109,20 +97,8 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "96%",
-        "steamPrice": "11,70€",
+        "steamPrice": "19,50€",
         "steamUrl": "https://store.steampowered.com/app/2638370/"
-      },
-      {
-        "title": "GetHigh.EXE",
-        "subtitle": "Epic Games Store",
-        "text": "Platform tridimensionale in prima persona con strutture neon e ostacoli sospesi: affronta salti di precisione, piattaforme mobili e una lunga scalata verticale. Gratis su Epic Games Store fino al 2 novembre 2026, ore 17:00 italiane.",
-        "createdDate": "2026-10-19",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4331890/header.jpg",
-        "link": "https://store.epicgames.com/p/gethighexe-c83d1f",
-        "steamRating": "67%",
-        "steamPrice": "2,09€",
-        "steamUrl": "https://store.steampowered.com/app/4331890/"
       },
       {
         "title": "Gladiator: Blades of Fury",
@@ -144,7 +120,7 @@
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/header.jpg",
         "link": "https://store.steampowered.com/app/5257350/Hex_Reverse/",
-        "steamRating": "51%",
+        "steamRating": "52%",
         "steamPrice": "Gratis",
         "steamUrl": "https://store.steampowered.com/app/5257350/"
       },
@@ -152,7 +128,7 @@
         "title": "Highway Driving",
         "subtitle": "Epic Games Store",
         "text": "Gioco di guida arcade tridimensionale su autostrade e piste diverse, con molte vetture, modalità di gara e miglioramenti sbloccabili accumulando punti. Riscattabile gratuitamente su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-01",
+        "createdDate": "2026-11-02",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2016980/header.jpg",
         "link": "https://store.epicgames.com/p/highway-driving-140121",
@@ -164,11 +140,11 @@
         "title": "Horse Racing",
         "subtitle": "Epic Games Store",
         "text": "Simulatore di corse ippiche con sei cavalli e fantini, tracciati differenti, cinquantacinque eventi e gare multigiocatore locale a schermo diviso. Segnalato gratuitamente riscattabile su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-01",
+        "createdDate": "2026-11-02",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/655610/header.jpg",
         "link": "https://store.epicgames.com/p/horse-racing-4192a0",
-        "steamRating": "40%",
+        "steamRating": "41%",
         "steamPrice": "9,99€",
         "steamUrl": "https://store.steampowered.com/app/655610/"
       },
@@ -217,7 +193,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
         "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
         "steamRating": "94%",
-        "steamPrice": "49,99€",
+        "steamPrice": "31,50€",
         "steamUrl": "https://store.steampowered.com/app/2513280/"
       },
       {
@@ -229,7 +205,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/header.jpg",
         "link": "https://store.epicgames.com/p/sorry-were-closed-724c86",
         "steamRating": "93%",
-        "steamPrice": "16,65€",
+        "steamPrice": "23,79€",
         "steamUrl": "https://store.steampowered.com/app/1796580/"
       },
       {
@@ -277,7 +253,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "61%",
-        "steamPrice": "19,99€",
+        "steamPrice": "16,08€",
         "steamUrl": "https://store.steampowered.com/app/1299510/"
       },
       {
@@ -289,7 +265,7 @@
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2464660/header.jpg",
         "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
         "steamRating": "71%",
-        "steamPrice": "2,99€",
+        "steamPrice": "5,99€",
         "steamUrl": "https://store.steampowered.com/app/2464660/"
       }
     ]
