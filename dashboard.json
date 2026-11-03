@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-03T01:35:21.556Z",
+  "lastModifiedDate": "2026-11-03T01:35:43.006Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-02T21:45:57.034Z",
@@ -357,7 +357,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-02T09:50:42.386Z",
+    "lastModifiedDate": "2026-11-03T01:35:43.006Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -429,508 +429,310 @@
     ],
     "items": [
       {
-        "title": "Banana Republic",
-        "subtitle": "Mercoledì 4 novembre • 21:00",
-        "dateTime": "2026-11-04T21:00",
-        "text": "live • Mola di Bari • Palazzo Pesce • Omaggio musicale ai cantautori Dalla, De Gregori e Ron",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Banana%20Republic&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%20%E2%80%A2%20Omaggio%20musicale%20ai%20cantautori%20Dalla%2C%20De%20Gregori%20e%20Ron&location=Palazzo%20Pesce%2C%20Mola%20di%20Bari&dates=20261104T200000Z%2F20261104T220000Z",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/09/30/4-novembre-2026-banana-republic-dalla-de-gregori-ron-2/"
-      },
-      {
-        "title": "Sex Force One Rock '80",
-        "subtitle": "Venerdì 6 novembre • 21:00",
-        "dateTime": "2026-11-06T21:00",
-        "text": "live • Bari • Black Horses Pub • Rock dal vivo anni Ottanta",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sex%20Force%20One%20Rock%20'80&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Rock%20dal%20vivo%20anni%20Ottanta&location=Black%20Horses%20Pub%2C%20Bari&dates=20261106T200000Z%2F20261106T220000Z",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335268.html"
-      },
-      {
-        "title": "I Vaskomodi – Vasco Tribute",
-        "subtitle": "Venerdì 6 novembre • 21:30",
-        "dateTime": "2026-11-06T21:30",
-        "text": "live • Monopoli • Ostinati, Via S. Angelo 25 • Cover band Vasco Rossi, concerto rock",
-        "logo": "VASCO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi%20%E2%80%93%20Vasco%20Tribute&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%2C%20Via%20S.%20Angelo%2025%20%E2%80%A2%20Cover%20band%20Vasco%20Rossi%2C%20concerto%20rock&location=Ostinati%2C%20Via%20S.%20Angelo%2025%2C%20Monopoli&dates=20261106T203000Z%2F20261106T223000Z",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333813.html"
-      },
-      {
-        "title": "Travelin' Band – CCR",
-        "subtitle": "Venerdì 6 novembre • 22:00",
-        "dateTime": "2026-11-06T22:00",
-        "text": "live • Trani • Santo Graal • Cover band Creedence Clearwater Revival",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Travelin'%20Band%20%E2%80%93%20CCR&details=live%20%E2%80%A2%20Trani%20%E2%80%A2%20Santo%20Graal%20%E2%80%A2%20Cover%20band%20Creedence%20Clearwater%20Revival&location=Santo%20Graal%2C%20Trani&dates=20261106T210000Z%2F20261106T230000Z",
-        "linkDettagliEvento": "https://www.mapulia.org/eventi/travelin-band-creedence-clearwater-revival-cover-band-live-a-evt_8e7314dbad42a07c1bcf"
-      },
-      {
-        "title": "Maxie Freeman",
-        "subtitle": "Venerdì 6 novembre • 22:00",
-        "dateTime": "2026-11-06T22:00",
-        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Concerto dal vivo al pub",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Concerto%20dal%20vivo%20al%20pub&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261106T210000Z%2F20261106T230000Z",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333834.html"
-      },
-      {
-        "title": "Sapori d'Autunno",
-        "subtitle": "Sabato 7 novembre",
-        "dateTime": "2026-11-07T00:00",
-        "text": "sagra • Binetto • Piazza Umberto I e Via Bitetto • Stand gastronomici della Pro Loco",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d'Autunno&details=sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Piazza%20Umberto%20I%20e%20Via%20Bitetto%20%E2%80%A2%20Stand%20gastronomici%20della%20Pro%20Loco&location=Piazza%20Umberto%20I%20e%20Via%20Bitetto%2C%20Binetto&dates=20261107%2F20261108",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/binetto/sapori-d-autunno-127891"
-      },
-      {
-        "title": "Mercatino del riuso",
-        "subtitle": "Sabato 7 novembre • 10:00",
-        "dateTime": "2026-11-07T10:00",
-        "text": "mercatino • Capurso • Piazza Gramsci • Bancarelle del riuso, orari 10:00–13:00 e 17:00–20:00",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Bancarelle%20del%20riuso%2C%20orari%2010%3A00%E2%80%9313%3A00%20e%2017%3A00%E2%80%9320%3A00&location=Piazza%20Gramsci%2C%20Capurso&dates=20261107T090000Z%2F20261107T110000Z",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333380.html"
-      },
-      {
-        "title": "Bacco nelle Gnostre",
-        "subtitle": "Sabato 7 novembre • 11:00",
-        "dateTime": "2026-11-07T11:00",
-        "text": "sagra • Noci • Centro storico • Festa del vino e delle caldarroste, stand e degustazioni",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Festa%20del%20vino%20e%20delle%20caldarroste%2C%20stand%20e%20degustazioni&location=Centro%20storico%2C%20Noci&dates=20261107T100000Z%2F20261107T120000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Mario D'Elia",
-        "subtitle": "Sabato 7 novembre • 13:00",
-        "dateTime": "2026-11-07T13:00",
-        "text": "live • Noci • Piazza Garibaldi • Musica popolare a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mario%20D'Elia&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Musica%20popolare%20a%20Bacco%20nelle%20Gnostre&location=Piazza%20Garibaldi%2C%20Noci&dates=20261107T120000Z%2F20261107T140000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
+        "title": "Monster Day con I Komandanti",
+        "subtitle": "Venerdì 6 novembre",
+        "dateTime": "2026-11-06T00:00",
+        "text": "live • Bari • Piazzale Lorusso • I Komandanti, cover band Vasco Rossi",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monster%20Day%20con%20I%20Komandanti&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20I%20Komandanti%2C%20cover%20band%20Vasco%20Rossi&location=Piazzale%20Lorusso%2C%20Bari&dates=20261106%2F20261107",
+        "linkDettagliEvento": "https://www.upposto.it/eventi/cmvxe101q008d12zmhkj7nccw",
+        "logo": "KOMANDANTI"
       },
       {
         "title": "Corteo storico San Trifone",
         "subtitle": "Sabato 7 novembre • 18:30",
         "dateTime": "2026-11-07T18:30",
-        "text": "evento tradizionale • Adelfia • Centro cittadino • Corteo storico e parata dei vessilli",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20San%20Trifone&details=evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Corteo%20storico%20e%20parata%20dei%20vessilli&location=Centro%20cittadino%2C%20Adelfia&dates=20261107T173000Z%2F20261107T193000Z",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Pizzecuerne",
-        "subtitle": "Sabato 7 novembre • 20:00",
-        "dateTime": "2026-11-07T20:00",
-        "text": "live • Noci • Largo Pozzo Epifani • Musica popolare a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pizzecuerne&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Largo%20Pozzo%20Epifani%20%E2%80%A2%20Musica%20popolare%20a%20Bacco%20nelle%20Gnostre&location=Largo%20Pozzo%20Epifani%2C%20Noci&dates=20261107T190000Z%2F20261107T210000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Tammorra Felice",
-        "subtitle": "Sabato 7 novembre • 21:00",
-        "dateTime": "2026-11-07T21:00",
-        "text": "live • Noci • Sagrato della Chiesa Matrice • Musica popolare a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tammorra%20Felice&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Sagrato%20della%20Chiesa%20Matrice%20%E2%80%A2%20Musica%20popolare%20a%20Bacco%20nelle%20Gnostre&location=Sagrato%20della%20Chiesa%20Matrice%2C%20Noci&dates=20261107T200000Z%2F20261107T220000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Taranta Fil",
-        "subtitle": "Sabato 7 novembre • 21:00",
-        "dateTime": "2026-11-07T21:00",
-        "text": "live • Noci • Via Cavour • Pizzica e taranta a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Taranta%20Fil&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Via%20Cavour%20%E2%80%A2%20Pizzica%20e%20taranta%20a%20Bacco%20nelle%20Gnostre&location=Via%20Cavour%2C%20Noci&dates=20261107T200000Z%2F20261107T220000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Bistrot by Will",
-        "subtitle": "Sabato 7 novembre • 21:00",
-        "dateTime": "2026-11-07T21:00",
-        "text": "live • Noci • Via Principe Umberto • Concerto pop con band a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bistrot%20by%20Will&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Via%20Principe%20Umberto%20%E2%80%A2%20Concerto%20pop%20con%20band%20a%20Bacco%20nelle%20Gnostre&location=Via%20Principe%20Umberto%2C%20Noci&dates=20261107T200000Z%2F20261107T220000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "QUELLI del CLAN",
-        "subtitle": "Sabato 7 novembre • 21:30",
-        "dateTime": "2026-11-07T21:30",
-        "text": "live • Bari • La DolceVita Live • Tributo musicale a Celentano e Mina",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=QUELLI%20del%20CLAN&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20musicale%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&dates=20261107T203000Z%2F20261107T223000Z",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/331740.html"
+        "text": "evento tradizionale • Adelfia • Centro cittadino • Corteo storico e vessilli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corteo%20storico%20San%20Trifone&details=evento%20tradizionale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Corteo%20storico%20e%20vessilli&location=Centro%20cittadino%2C%20Adelfia&dates=20261107T173000Z%2F20261107T193000Z",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html",
+        "logo": "TRADIZIONE"
       },
       {
         "title": "Fiera del Crocifisso",
         "subtitle": "Domenica 8 novembre",
         "dateTime": "2026-11-08T00:00",
-        "text": "mercatino • Modugno • Centro cittadino • Fiera tradizionale e bancarelle nella giornata domenicale",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale%20e%20bancarelle%20nella%20giornata%20domenicale&location=Centro%20cittadino%2C%20Modugno&dates=20261108%2F20261109",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/sagra-del-crocifisso-per-i-giorni-8-e-15-novembre-2026/"
+        "text": "mercatino • Modugno • Centro cittadino • Fiera tradizionale con bancarelle",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle&location=Centro%20cittadino%2C%20Modugno&dates=20261108%2F20261109",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/sagra-del-crocifisso-per-i-giorni-8-e-15-novembre-2026/",
+        "logo": "MERCATINO"
       },
       {
         "title": "Fiera di San Trifone",
         "subtitle": "Domenica 8 novembre • 07:00",
         "dateTime": "2026-11-08T07:00",
-        "text": "mercatino • Adelfia • Centro cittadino • Tradizionale fiera legata alla festa di San Trifone",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&details=mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Tradizionale%20fiera%20legata%20alla%20festa%20di%20San%20Trifone&location=Centro%20cittadino%2C%20Adelfia&dates=20261108T060000Z%2F20261108T080000Z",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Mercatino del riuso",
-        "subtitle": "Domenica 8 novembre • 10:00",
-        "dateTime": "2026-11-08T10:00",
-        "text": "mercatino • Capurso • Piazza Gramsci • Bancarelle del riuso, orario 10:00–13:00",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Bancarelle%20del%20riuso%2C%20orario%2010%3A00%E2%80%9313%3A00&location=Piazza%20Gramsci%2C%20Capurso&dates=20261108T090000Z%2F20261108T110000Z",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333381.html"
-      },
-      {
-        "title": "Bacco nelle Gnostre",
-        "subtitle": "Domenica 8 novembre • 11:00",
-        "dateTime": "2026-11-08T11:00",
-        "text": "sagra • Noci • Centro storico • Festa del vino e delle caldarroste, stand e degustazioni",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Festa%20del%20vino%20e%20delle%20caldarroste%2C%20stand%20e%20degustazioni&location=Centro%20storico%2C%20Noci&dates=20261108T100000Z%2F20261108T120000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Mario D'Elia",
-        "subtitle": "Domenica 8 novembre • 13:00",
-        "dateTime": "2026-11-08T13:00",
-        "text": "live • Noci • Piazza Garibaldi • Musica popolare a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mario%20D'Elia&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Musica%20popolare%20a%20Bacco%20nelle%20Gnostre&location=Piazza%20Garibaldi%2C%20Noci&dates=20261108T120000Z%2F20261108T140000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Power Drum Band",
-        "subtitle": "Domenica 8 novembre • 13:00",
-        "dateTime": "2026-11-08T13:00",
-        "text": "live • Noci • Via Principe Umberto • Esibizioni di percussioni a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Power%20Drum%20Band&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Via%20Principe%20Umberto%20%E2%80%A2%20Esibizioni%20di%20percussioni%20a%20Bacco%20nelle%20Gnostre&location=Via%20Principe%20Umberto%2C%20Noci&dates=20261108T120000Z%2F20261108T140000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Don Bruno",
-        "subtitle": "Domenica 8 novembre • 18:00",
-        "dateTime": "2026-11-08T18:00",
-        "text": "live • Noci • Piazza Garibaldi • Live a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Don%20Bruno&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Live%20a%20Bacco%20nelle%20Gnostre&location=Piazza%20Garibaldi%2C%20Noci&dates=20261108T170000Z%2F20261108T190000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Terraròss",
-        "subtitle": "Domenica 8 novembre • 19:00",
-        "dateTime": "2026-11-08T19:00",
-        "text": "live • Noci • Largo Calvario • Musica popolare a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terrar%C3%B2ss&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Largo%20Calvario%20%E2%80%A2%20Musica%20popolare%20a%20Bacco%20nelle%20Gnostre&location=Largo%20Calvario%2C%20Noci&dates=20261108T180000Z%2F20261108T200000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Qui Quo Quattro.1",
-        "subtitle": "Domenica 8 novembre • 20:00",
-        "dateTime": "2026-11-08T20:00",
-        "text": "live • Noci • Via Cavour • Concerto a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Qui%20Quo%20Quattro.1&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Via%20Cavour%20%E2%80%A2%20Concerto%20a%20Bacco%20nelle%20Gnostre&location=Via%20Cavour%2C%20Noci&dates=20261108T190000Z%2F20261108T210000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
+        "text": "mercatino • Adelfia • Centro cittadino • Fiera tradizionale",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&details=mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale&location=Centro%20cittadino%2C%20Adelfia&dates=20261108T060000Z%2F20261108T080000Z",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html",
+        "logo": "MERCATINO"
       },
       {
         "title": "Sagra agnello e vino novello",
         "subtitle": "Domenica 8 novembre • 20:30",
         "dateTime": "2026-11-08T20:30",
-        "text": "sagra • Adelfia • Centro storico • Degustazioni durante la Notte Bianca Aspettando San Trifone",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20agnello%20e%20vino%20novello&details=sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Degustazioni%20durante%20la%20Notte%20Bianca%20Aspettando%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&dates=20261108T193000Z%2F20261108T213000Z",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Zinharua",
-        "subtitle": "Domenica 8 novembre • 21:00",
-        "dateTime": "2026-11-08T21:00",
-        "text": "live • Noci • Piazza Garibaldi • World music balcanica a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zinharua&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20World%20music%20balcanica%20a%20Bacco%20nelle%20Gnostre&location=Piazza%20Garibaldi%2C%20Noci&dates=20261108T200000Z%2F20261108T220000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Tammorra Felice",
-        "subtitle": "Domenica 8 novembre • 21:00",
-        "dateTime": "2026-11-08T21:00",
-        "text": "live • Noci • Sagrato della Chiesa Matrice • Musica popolare a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tammorra%20Felice&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Sagrato%20della%20Chiesa%20Matrice%20%E2%80%A2%20Musica%20popolare%20a%20Bacco%20nelle%20Gnostre&location=Sagrato%20della%20Chiesa%20Matrice%2C%20Noci&dates=20261108T200000Z%2F20261108T220000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Taranta Fil",
-        "subtitle": "Domenica 8 novembre • 21:00",
-        "dateTime": "2026-11-08T21:00",
-        "text": "live • Noci • Via Cavour • Pizzica e taranta a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Taranta%20Fil&details=live%20%E2%80%A2%20Noci%20%E2%80%A2%20Via%20Cavour%20%E2%80%A2%20Pizzica%20e%20taranta%20a%20Bacco%20nelle%20Gnostre&location=Via%20Cavour%2C%20Noci&dates=20261108T200000Z%2F20261108T220000Z",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
+        "text": "sagra • Adelfia • Centro storico • Notte Bianca Aspettando San Trifone",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20agnello%20e%20vino%20novello&details=sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Notte%20Bianca%20Aspettando%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&dates=20261108T193000Z%2F20261108T213000Z",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html",
+        "logo": "SAGRA"
       },
       {
         "title": "Vigilia di San Trifone",
         "subtitle": "Lunedì 9 novembre • 19:30",
         "dateTime": "2026-11-09T19:30",
-        "text": "festa patronale • Adelfia • Centro cittadino • Accensione luminarie e tradizioni della vigilia",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Accensione%20luminarie%20e%20tradizioni%20della%20vigilia&location=Centro%20cittadino%2C%20Adelfia&dates=20261109T183000Z%2F20261109T203000Z",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
+        "text": "festa patronale • Adelfia • Centro cittadino • Accensione luminarie",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vigilia%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Accensione%20luminarie&location=Centro%20cittadino%2C%20Adelfia&dates=20261109T183000Z%2F20261109T203000Z",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html",
+        "logo": "PATRONALE"
       },
       {
         "title": "Festa di San Trifone",
         "subtitle": "Martedì 10 novembre • 11:30",
         "dateTime": "2026-11-10T11:30",
         "text": "festa patronale • Adelfia • Centro cittadino • Processione e celebrazioni patronali",
-        "logo": "PATRONALE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Processione%20e%20celebrazioni%20patronali&location=Centro%20cittadino%2C%20Adelfia&dates=20261110T103000Z%2F20261110T123000Z",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "San Martino: ogni mosto è vino",
-        "subtitle": "Mercoledì 11 novembre",
-        "dateTime": "2026-11-11T00:00",
-        "text": "evento tradizionale • Santeramo in Colle • Manifestazione tradizionale dedicata al vino novello",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%3A%20ogni%20mosto%20%C3%A8%20vino&details=evento%20tradizionale%20%E2%80%A2%20Santeramo%20in%20Colle%20%E2%80%A2%20Manifestazione%20tradizionale%20dedicata%20al%20vino%20novello&location=Santeramo%20in%20Colle&dates=20261111%2F20261112",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/santeramo-in-colle/san-martino-ogni-mosto-e-un-vino-edizione-2026-129476"
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html",
+        "logo": "PATRONALE"
       },
       {
         "title": "Festa di San Trifone",
         "subtitle": "Mercoledì 11 novembre • 11:00",
         "dateTime": "2026-11-11T11:00",
-        "text": "festa patronale • Adelfia • Centro cittadino • Processione e celebrazioni conclusive",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Processione%20e%20celebrazioni%20conclusive&location=Centro%20cittadino%2C%20Adelfia&dates=20261111T100000Z%2F20261111T120000Z",
-        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html"
-      },
-      {
-        "title": "Valentino Vivace",
-        "subtitle": "Venerdì 13 novembre",
-        "dateTime": "2026-11-13T00:00",
-        "text": "live • Conversano • Piazza Castello • Concerto nel programma Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valentino%20Vivace&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20nel%20programma%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261113%2F20261114",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "festa patronale • Adelfia • Centro cittadino • Processione e celebrazioni",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Processione%20e%20celebrazioni&location=Centro%20cittadino%2C%20Adelfia&dates=20261111T100000Z%2F20261111T120000Z",
+        "linkDettagliEvento": "https://www.santrifone.it/programma-feste-testo/programma-festa-2026.html",
+        "logo": "PATRONALE"
       },
       {
         "title": "Clinique Lacuna",
         "subtitle": "Venerdì 13 novembre",
         "dateTime": "2026-11-13T00:00",
-        "text": "live • Conversano • Piazza Castello • Concerto nel programma Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Clinique%20Lacuna&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20nel%20programma%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261113%2F20261114",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
-      },
-      {
-        "title": "Spelim",
-        "subtitle": "Venerdì 13 novembre",
-        "dateTime": "2026-11-13T00:00",
-        "text": "live • Conversano • Anfiteatro Belvedere • Live nel programma Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spelim&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Live%20nel%20programma%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261113%2F20261114",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "live • Conversano • Piazza Castello • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Clinique%20Lacuna&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261113%2F20261114",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
       },
       {
         "title": "Futura",
         "subtitle": "Venerdì 13 novembre",
         "dateTime": "2026-11-13T00:00",
-        "text": "live • Conversano • Piazza XX Settembre • Live nel programma Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Futura&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20XX%20Settembre%20%E2%80%A2%20Live%20nel%20programma%20Novello%20sotto%20il%20Castello&location=Piazza%20XX%20Settembre%2C%20Conversano&dates=20261113%2F20261114",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "live • Conversano • Piazza XX Settembre • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Futura&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20XX%20Settembre%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20XX%20Settembre%2C%20Conversano&dates=20261113%2F20261114",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
       },
       {
-        "title": "Le Muffe",
+        "title": "Spelim",
         "subtitle": "Venerdì 13 novembre",
         "dateTime": "2026-11-13T00:00",
-        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Concerto dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Le%20Muffe&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Concerto%20dal%20vivo&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261113%2F20261114",
-        "linkDettagliEvento": "https://andiamoinpuglia.it/eventi/le-muffe-live-cassano-delle-murge-2026/"
+        "text": "live • Conversano • Anfiteatro Belvedere • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spelim&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261113%2F20261114",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
       },
       {
-        "title": "Sagra del Fungo Cardoncello",
-        "subtitle": "Venerdì 13 novembre • 18:00",
-        "dateTime": "2026-11-13T18:00",
-        "text": "sagra • Ruvo di Puglia • Piazza Matteotti • Inaugurazione e apertura stand enogastronomici",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Matteotti%20%E2%80%A2%20Inaugurazione%20e%20apertura%20stand%20enogastronomici&location=Piazza%20Matteotti%2C%20Ruvo%20di%20Puglia&dates=20261113T170000Z%2F20261113T190000Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "title": "Valentino Vivace",
+        "subtitle": "Venerdì 13 novembre",
+        "dateTime": "2026-11-13T00:00",
+        "text": "live • Conversano • Piazza Castello • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valentino%20Vivace&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261113%2F20261114",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
       },
       {
         "title": "Novello sotto il Castello",
         "subtitle": "Venerdì 13 novembre • 18:00",
         "dateTime": "2026-11-13T18:00",
-        "text": "evento tradizionale • Conversano • Centro storico • Vino novello, specialità locali e festival musicale",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=evento%20tradizionale%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vino%20novello%2C%20specialit%C3%A0%20locali%20e%20festival%20musicale&location=Centro%20storico%2C%20Conversano&dates=20261113T170000Z%2F20261113T190000Z",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "evento tradizionale • Conversano • Centro storico • Vino novello, mercatini artigianali e musica",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=evento%20tradizionale%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vino%20novello%2C%20mercatini%20artigianali%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261113T170000Z%2F20261113T190000Z",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "TRADIZIONE"
+      },
+      {
+        "title": "Sagra del Fungo Cardoncello",
+        "subtitle": "Venerdì 13 novembre • 18:00",
+        "dateTime": "2026-11-13T18:00",
+        "text": "sagra • Ruvo di Puglia • Piazza Matteotti • Stand enogastronomici",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Matteotti%20%E2%80%A2%20Stand%20enogastronomici&location=Piazza%20Matteotti%2C%20Ruvo%20di%20Puglia&dates=20261113T170000Z%2F20261113T190000Z",
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "SAGRA"
       },
       {
         "title": "Terra – Terra dei Suoni",
         "subtitle": "Venerdì 13 novembre • 20:00",
         "dateTime": "2026-11-13T20:00",
-        "text": "live • Ruvo di Puglia • Piazza Le Monache • Musica dal vivo alla Sagra del Cardoncello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terra%20%E2%80%93%20Terra%20dei%20Suoni&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Le%20Monache%20%E2%80%A2%20Musica%20dal%20vivo%20alla%20Sagra%20del%20Cardoncello&location=Piazza%20Le%20Monache%2C%20Ruvo%20di%20Puglia&dates=20261113T190000Z%2F20261113T210000Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "text": "live • Ruvo di Puglia • Piazza Le Monache • Concerto alla Sagra del Cardoncello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terra%20%E2%80%93%20Terra%20dei%20Suoni&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Le%20Monache%20%E2%80%A2%20Concerto%20alla%20Sagra%20del%20Cardoncello&location=Piazza%20Le%20Monache%2C%20Ruvo%20di%20Puglia&dates=20261113T190000Z%2F20261113T210000Z",
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "LIVE"
       },
       {
-        "title": "BAILA – Zucchero Tribute",
-        "subtitle": "Venerdì 13 novembre • 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Bari • Chorìa - Note di Puglia • Tributo dal vivo a Zucchero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BAILA%20%E2%80%93%20Zucchero%20Tribute&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Zucchero&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&dates=20261113T203000Z%2F20261113T223000Z",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335204.html"
+        "title": "Candlelight: Tributo agli 883",
+        "subtitle": "Venerdì 13 novembre • 21:00",
+        "dateTime": "2026-11-13T21:00",
+        "text": "live • Noicattaro • UNAHOTELS Regina • Concerto tributo agli 883",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Candlelight%3A%20Tributo%20agli%20883&details=live%20%E2%80%A2%20Noicattaro%20%E2%80%A2%20UNAHOTELS%20Regina%20%E2%80%A2%20Concerto%20tributo%20agli%20883&location=UNAHOTELS%20Regina%2C%20Noicattaro&dates=20261113T200000Z%2F20261113T220000Z",
+        "linkDettagliEvento": "https://www.teatro.it/spettacoli/noicattaro/unahotels-regina/2026-2027/candlelight-tributo-agli-883",
+        "logo": "883"
       },
       {
         "title": "Mundial",
         "subtitle": "Sabato 14 novembre",
         "dateTime": "2026-11-14T00:00",
-        "text": "live • Conversano • Piazza Castello • Concerto di musica etno-punk a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mundial&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20di%20musica%20etno-punk%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261114%2F20261115",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "live • Conversano • Piazza Castello • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mundial&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261114%2F20261115",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
+      },
+      {
+        "title": "The Venanzio Brothers",
+        "subtitle": "Sabato 14 novembre",
+        "dateTime": "2026-11-14T00:00",
+        "text": "live • Conversano • Piazza XX Settembre • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Venanzio%20Brothers&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20XX%20Settembre%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20XX%20Settembre%2C%20Conversano&dates=20261114%2F20261115",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
+      },
+      {
+        "title": "Trevize",
+        "subtitle": "Sabato 14 novembre",
+        "dateTime": "2026-11-14T00:00",
+        "text": "live • Conversano • Anfiteatro Belvedere • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Trevize&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261114%2F20261115",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
       },
       {
         "title": "Sagra del Fungo Cardoncello",
         "subtitle": "Sabato 14 novembre • 10:00",
         "dateTime": "2026-11-14T10:00",
-        "text": "sagra • Ruvo di Puglia • Centro storico • Stand enogastronomici e sapori murgiani",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%20e%20sapori%20murgiani&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261114T090000Z%2F20261114T110000Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "text": "sagra • Ruvo di Puglia • Centro storico • Stand enogastronomici",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261114T090000Z%2F20261114T110000Z",
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "SAGRA"
       },
       {
-        "title": "Tamburellisti di Otranto",
+        "title": "Tamburrellisti di Otranto",
         "subtitle": "Sabato 14 novembre • 12:30",
         "dateTime": "2026-11-14T12:30",
-        "text": "live • Ruvo di Puglia • Piazza Le Monache • Concerti di musica popolare alle 12:30 e 19:30",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tamburellisti%20di%20Otranto&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Le%20Monache%20%E2%80%A2%20Concerti%20di%20musica%20popolare%20alle%2012%3A30%20e%2019%3A30&location=Piazza%20Le%20Monache%2C%20Ruvo%20di%20Puglia&dates=20261114T113000Z%2F20261114T133000Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
-      },
-      {
-        "title": "Novello sotto il Castello",
-        "subtitle": "Sabato 14 novembre • 18:00",
-        "dateTime": "2026-11-14T18:00",
-        "text": "evento tradizionale • Conversano • Centro storico • Vino novello, specialità locali e festival musicale",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=evento%20tradizionale%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vino%20novello%2C%20specialit%C3%A0%20locali%20e%20festival%20musicale&location=Centro%20storico%2C%20Conversano&dates=20261114T170000Z%2F20261114T190000Z",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "live • Ruvo di Puglia • Piazza Le Monache • Concerto alla Sagra del Cardoncello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tamburrellisti%20di%20Otranto&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Le%20Monache%20%E2%80%A2%20Concerto%20alla%20Sagra%20del%20Cardoncello&location=Piazza%20Le%20Monache%2C%20Ruvo%20di%20Puglia&dates=20261114T113000Z%2F20261114T133000Z",
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "LIVE"
       },
       {
         "title": "Festa del Vino e Cece Nero",
         "subtitle": "Sabato 14 novembre • 18:00",
         "dateTime": "2026-11-14T18:00",
-        "text": "sagra • Acquaviva delle Fonti • Centro antico • Stand enogastronomici tra Piazza San Paolo e Piazza Don Albertario",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Vino%20e%20Cece%20Nero&details=sagra%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Centro%20antico%20%E2%80%A2%20Stand%20enogastronomici%20tra%20Piazza%20San%20Paolo%20e%20Piazza%20Don%20Albertario&location=Centro%20antico%2C%20Acquaviva%20delle%20Fonti&dates=20261114T170000Z%2F20261114T190000Z",
-        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/"
+        "text": "sagra • Acquaviva delle Fonti • Centro antico • Stand e degustazioni",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Vino%20e%20Cece%20Nero&details=sagra%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Centro%20antico%20%E2%80%A2%20Stand%20e%20degustazioni&location=Centro%20antico%2C%20Acquaviva%20delle%20Fonti&dates=20261114T170000Z%2F20261114T190000Z",
+        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/",
+        "logo": "SAGRA"
+      },
+      {
+        "title": "Novello sotto il Castello",
+        "subtitle": "Sabato 14 novembre • 18:00",
+        "dateTime": "2026-11-14T18:00",
+        "text": "evento tradizionale • Conversano • Centro storico • Vino novello, mercatini artigianali e musica",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=evento%20tradizionale%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vino%20novello%2C%20mercatini%20artigianali%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261114T170000Z%2F20261114T190000Z",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "TRADIZIONE"
       },
       {
         "title": "Le Pezze a Colore",
         "subtitle": "Sabato 14 novembre • 18:30",
         "dateTime": "2026-11-14T18:30",
-        "text": "live • Acquaviva delle Fonti • Piazza Don Albertario • Musica dal vivo alla Festa del Vino Primitivo e Cece Nero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Le%20Pezze%20a%20Colore&details=live%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Piazza%20Don%20Albertario%20%E2%80%A2%20Musica%20dal%20vivo%20alla%20Festa%20del%20Vino%20Primitivo%20e%20Cece%20Nero&location=Piazza%20Don%20Albertario%2C%20Acquaviva%20delle%20Fonti&dates=20261114T173000Z%2F20261114T193000Z",
-        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/"
+        "text": "live • Acquaviva delle Fonti • Piazza Don Albertario • Musica alla Festa del Vino e Cece Nero",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Le%20Pezze%20a%20Colore&details=live%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Piazza%20Don%20Albertario%20%E2%80%A2%20Musica%20alla%20Festa%20del%20Vino%20e%20Cece%20Nero&location=Piazza%20Don%20Albertario%2C%20Acquaviva%20delle%20Fonti&dates=20261114T173000Z%2F20261114T193000Z",
+        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/",
+        "logo": "LIVE"
       },
       {
         "title": "Valerio Barile e band",
         "subtitle": "Sabato 14 novembre • 18:30",
         "dateTime": "2026-11-14T18:30",
-        "text": "live • Acquaviva delle Fonti • Piazza San Paolo • One-man-show e band alla Festa del Vino e Cece Nero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valerio%20Barile%20e%20band&details=live%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Piazza%20San%20Paolo%20%E2%80%A2%20One-man-show%20e%20band%20alla%20Festa%20del%20Vino%20e%20Cece%20Nero&location=Piazza%20San%20Paolo%2C%20Acquaviva%20delle%20Fonti&dates=20261114T173000Z%2F20261114T193000Z",
-        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/"
+        "text": "live • Acquaviva delle Fonti • Piazza San Paolo • Musica alla Festa del Vino e Cece Nero",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valerio%20Barile%20e%20band&details=live%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Piazza%20San%20Paolo%20%E2%80%A2%20Musica%20alla%20Festa%20del%20Vino%20e%20Cece%20Nero&location=Piazza%20San%20Paolo%2C%20Acquaviva%20delle%20Fonti&dates=20261114T173000Z%2F20261114T193000Z",
+        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/",
+        "logo": "LIVE"
+      },
+      {
+        "title": "Tamburrellisti di Otranto",
+        "subtitle": "Sabato 14 novembre • 19:30",
+        "dateTime": "2026-11-14T19:30",
+        "text": "live • Ruvo di Puglia • Piazza Le Monache • Concerto alla Sagra del Cardoncello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tamburrellisti%20di%20Otranto&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Le%20Monache%20%E2%80%A2%20Concerto%20alla%20Sagra%20del%20Cardoncello&location=Piazza%20Le%20Monache%2C%20Ruvo%20di%20Puglia&dates=20261114T183000Z%2F20261114T203000Z",
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "LIVE"
       },
       {
         "title": "Sud Sound System",
         "subtitle": "Sabato 14 novembre • 21:30",
         "dateTime": "2026-11-14T21:30",
         "text": "live • Ruvo di Puglia • Corso Gramsci • Concerto alla Sagra del Cardoncello",
-        "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sud%20Sound%20System&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Corso%20Gramsci%20%E2%80%A2%20Concerto%20alla%20Sagra%20del%20Cardoncello&location=Corso%20Gramsci%2C%20Ruvo%20di%20Puglia&dates=20261114T203000Z%2F20261114T223000Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "LIVE"
       },
       {
         "title": "Fiera del Crocifisso",
         "subtitle": "Domenica 15 novembre",
         "dateTime": "2026-11-15T00:00",
-        "text": "mercatino • Modugno • Centro cittadino • Fiera tradizionale e bancarelle nella giornata domenicale",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale%20e%20bancarelle%20nella%20giornata%20domenicale&location=Centro%20cittadino%2C%20Modugno&dates=20261115%2F20261116",
-        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/sagra-del-crocifisso-per-i-giorni-8-e-15-novembre-2026/"
-      },
-      {
-        "title": "Sagra del Fungo Cardoncello",
-        "subtitle": "Domenica 15 novembre",
-        "dateTime": "2026-11-15T00:00",
-        "text": "sagra • Ruvo di Puglia • Centro storico • Giornata conclusiva con prodotti tipici e stand",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Giornata%20conclusiva%20con%20prodotti%20tipici%20e%20stand&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261115%2F20261116",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "text": "mercatino • Modugno • Centro cittadino • Fiera tradizionale con bancarelle",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle&location=Centro%20cittadino%2C%20Modugno&dates=20261115%2F20261116",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/sagra-del-crocifisso-per-i-giorni-8-e-15-novembre-2026/",
+        "logo": "MERCATINO"
       },
       {
         "title": "Riserva Moac",
         "subtitle": "Domenica 15 novembre",
         "dateTime": "2026-11-15T00:00",
-        "text": "live • Conversano • Anfiteatro Belvedere • Concerto world folk a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Riserva%20Moac&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20world%20folk%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261115%2F20261116",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "live • Conversano • Anfiteatro Belvedere • Concerto a Novello sotto il Castello",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Riserva%20Moac&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261115%2F20261116",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "LIVE"
+      },
+      {
+        "title": "Sagra del Fungo Cardoncello",
+        "subtitle": "Domenica 15 novembre",
+        "dateTime": "2026-11-15T00:00",
+        "text": "sagra • Ruvo di Puglia • Centro storico • Stand enogastronomici",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261115%2F20261116",
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "SAGRA"
       },
       {
         "title": "Novello sotto il Castello",
         "subtitle": "Domenica 15 novembre • 12:00",
         "dateTime": "2026-11-15T12:00",
-        "text": "evento tradizionale • Conversano • Centro storico • Vino novello, specialità locali e festival musicale",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=evento%20tradizionale%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vino%20novello%2C%20specialit%C3%A0%20locali%20e%20festival%20musicale&location=Centro%20storico%2C%20Conversano&dates=20261115T110000Z%2F20261115T130000Z",
-        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/"
+        "text": "evento tradizionale • Conversano • Centro storico • Vino novello, mercatini artigianali e musica",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=evento%20tradizionale%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Vino%20novello%2C%20mercatini%20artigianali%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261115T110000Z%2F20261115T130000Z",
+        "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/01/novello-sotto-il-castello-2026-tutto-pronto-nel-centro-storico-per-la-xvi-edizione-allinsegna-del-sapore-di-suono/",
+        "logo": "TRADIZIONE"
       },
       {
         "title": "Salvatore Galeanda",
         "subtitle": "Domenica 15 novembre • 12:15",
         "dateTime": "2026-11-15T12:15",
         "text": "live • Ruvo di Puglia • Piazza Le Monache • Concerto alla Sagra del Cardoncello",
-        "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Salvatore%20Galeanda&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Le%20Monache%20%E2%80%A2%20Concerto%20alla%20Sagra%20del%20Cardoncello&location=Piazza%20Le%20Monache%2C%20Ruvo%20di%20Puglia&dates=20261115T111500Z%2F20261115T131500Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "LIVE"
       },
       {
         "title": "Sud Folk",
         "subtitle": "Domenica 15 novembre • 20:00",
         "dateTime": "2026-11-15T20:00",
         "text": "live • Ruvo di Puglia • Piazza Le Monache • Concerto alla Sagra del Cardoncello",
-        "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sud%20Folk&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Piazza%20Le%20Monache%20%E2%80%A2%20Concerto%20alla%20Sagra%20del%20Cardoncello&location=Piazza%20Le%20Monache%2C%20Ruvo%20di%20Puglia&dates=20261115T190000Z%2F20261115T210000Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "LIVE"
       },
       {
         "title": "Cipurrid",
         "subtitle": "Domenica 15 novembre • 21:00",
         "dateTime": "2026-11-15T21:00",
         "text": "live • Ruvo di Puglia • Corso Gramsci • Concerto alla Sagra del Cardoncello",
-        "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cipurrid&details=live%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Corso%20Gramsci%20%E2%80%A2%20Concerto%20alla%20Sagra%20del%20Cardoncello&location=Corso%20Gramsci%2C%20Ruvo%20di%20Puglia&dates=20261115T200000Z%2F20261115T220000Z",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/"
+        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "LIVE"
       }
     ]
   }
