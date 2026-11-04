@@ -67,15 +67,29 @@ La blacklist ha priorità su watchlist, fonti ufficiali, completezza della ricer
 10. Se il controllo finale trova una corrispondenza, elimina soltanto quell'item e continua validazione e commit; la blacklist non deve bloccare l'intero aggiornamento.
 11. Non eliminare o modificare voci della blacklist durante l'esecuzione. Puoi aggiungere nuove esclusioni soltanto quando sono chiaramente necessarie.
 
-FLUSSO DI RICERCA RAPIDO
-1. MUNICIPALITY SWEEP: per ogni comune rilevante esegui una ricerca combinata con comune, mese, anno e i termini `sagra fiera mercatino festa patronale evento tradizionale manifestazioni`. Privilegia in quest'ordine Comune, Pro Loco/comitato/organizzatore, testata locale; usa aggregatori solo come supporto. Non fare una ricerca separata per ogni categoria.
-2. WATCHLIST LIVE: controlla ogni venue della watchlist con una singola ricerca mirata sul periodo. Prima sito/calendario ufficiale o testo social accessibile, poi un solo fallback attendibile.
-3. KEYWORD WATCHLIST: esegui le ricerche mirate per ogni valore di `watchlistKeywords` e registra nella checklist che la keyword è stata processata.
+FLUSSO DI RICERCA RAPIDO — ORDINE VINCOLANTE
+1. WATCHLIST LIVE (PRIORITÀ ASSOLUTA): prima di ogni ricerca territoriale controlla sistematicamente TUTTE le venue presenti in `eventi.watchlist` e non escluse dalla blacklist. Per ciascuna esegui una ricerca specifica su nome della venue, comune e intervallo di 15 giorni; consulta prioritariamente sito, calendario o programmazione ufficiale (compreso il testo social pubblicamente accessibile). Se non trovi una programmazione verificabile, effettua almeno un fallback mirato e attendibile. Non sostituire mai le ricerche per singola venue con ricerche generiche su Bari, Matera o musica live.
+2. KEYWORD WATCHLIST: esegui le ricerche mirate per OGNI valore di `watchlistKeywords`, dopo la copertura completa della watchlist; registra l'esito per ciascuna keyword.
+3. MUNICIPALITY SWEEP: soltanto dopo i passaggi 1 e 2, per ogni comune rilevante esegui una ricerca combinata con comune, mese, anno e i termini `sagra fiera mercatino festa patronale evento tradizionale manifestazioni`. Privilegia nell'ordine Comune, Pro Loco/comitato/organizzatore, testata locale; usa aggregatori solo come supporto. Non fare una ricerca separata per ogni categoria.
 4. DISCOVERY LIVE: usa poche ricerche aggregate per trovare nuovi locali con programmazione ricorrente tramite `live music`, `cover band`, `tribute band`, `rock live`, `concerto`. Aggiungi alla watchlist soltanto venue realmente ricorrenti e verificate.
-5. Approfondisci soltanto candidati con data nell'intervallo. Non riaprire fonti già sufficienti.
-6. Usa una seconda fonte solo quando manca un dato obbligatorio o c'è un conflitto. Se il dato resta ambiguo, omettilo o escludi l'evento; non continuare cicli di ricerca.
+5. Approfondisci soltanto candidati con data nell'intervallo. Non riaprire fonti già sufficienti, salvo necessità di verifica.
+6. Usa una seconda fonte per verificare un candidato quando manca un dato obbligatorio o c'è un conflitto. Se il dato resta ambiguo, omettilo o escludi l'evento; non continuare cicli di ricerca. La ricerca fallback per coprire ciascuna venue, prevista dal punto 1, resta comunque obbligatoria se la fonte primaria non dà una programmazione verificabile.
+7. Se risorse, tempo o strumenti non consentono di completare la watchlist, interrompi le fasi a priorità inferiore; NON pubblicare un aggiornamento parziale e dichiara le venue non completate. La quantità di manifestazioni territoriali trovate non giustifica mai la mancata copertura delle venue.
 
 Non cercare immagini o loghi. Eccezione: soltanto per una venue già presente nella watchlist e priva di programmazione testuale, puoi esaminare una locandina recente per estrarre data, artista e ora chiaramente leggibili. Non inserire mai l'immagine nel JSON. Mai usare locandine per municipality sweep, feste, fiere o live in piazza.
+
+GATE BLOCCANTE DI COPERTURA WATCHLIST
+- Prima della ricerca crea un registro operativo di controllo (NON nel JSON) con una riga per ciascuna voce della watchlist letta da GitHub; escludi dal registro soltanto le venue che corrispondono alla blacklist e indica separatamente quali sono state escluse. Non saltare le venue senza eventi già noti. In caso di nomi duplicati o alias puoi riusare le fonti, ma devi registrare esplicitamente la copertura di ogni voce originale.
+- Per ogni venue registra: nome originale, comune se noto, ricerca mirata effettuata, fonte primaria e relativo esito, ricerca/fonte fallback se necessaria, eventuali eventi candidati e decisione finale. Le fonti e i motivi di esclusione devono essere verificabili; non inventare URL né risultati.
+- Assegna ESATTAMENTE uno dei seguenti stati:
+  * `EVENTI VERIFICATI`: almeno un evento nel periodo è confermato da una fonte attendibile e supera le regole di inclusione; registra gli eventi corrispondenti.
+  * `NESSUN EVENTO VERIFICATO`: la ricerca mirata e, in mancanza di programmazione utile, il fallback sono stati realmente eseguiti, senza trovare eventi idonei verificabili nell'intervallo. Questo stato NON significa che la venue sicuramente non abbia eventi.
+  * `VERIFICA INCOMPLETA`: ricerca non eseguita, fonte/fallback non controllati quando necessari, errori degli strumenti, informazioni insufficienti o fonti non accessibili senza riscontri alternativi attendibili. Non trasformare l'assenza di prove in una falsa conferma di assenza eventi.
+- È VIETATO omettere una riga, assegnare uno stato senza eseguire la ricerca oppure considerare la sola presenza della venue in `eventi.watchlist` come controllo completato.
+- Prima del write rileggi da GitHub la watchlist più recente insieme alla SHA e alla blacklist. Riconcilia tutte le voci nuove o modificate: esegui anche per esse la ricerca mirata e aggiorna il registro; applica sempre la blacklist. Non pubblicare se il registro fa riferimento soltanto a una snapshot superata.
+- GATE DI PUBBLICAZIONE: il numero di venue con stato `EVENTI VERIFICATI` + `NESSUN EVENTO VERIFICATO` deve coincidere esattamente con il numero delle venue non blacklistate della watchlist più recente; il numero di `VERIFICA INCOMPLETA` deve essere ZERO. In caso contrario NON chiamare `update_file`: segnala esattamente le venue mancanti o incomplete e i motivi, senza dichiarare riuscito l'aggiornamento.
+- Lo stesso obbligo di completamento si applica alla checklist di TUTTE le `watchlistKeywords`: nessuna keyword può essere segnata come processata se la ricerca mirata non è stata realmente eseguita. Nessun write se resta una keyword non processata.
+- Nel resoconto finale dichiara sempre: totale venue eleggibili, venue con eventi verificati, venue senza eventi verificati, venue con verifica incompleta, eventuali venue blacklistate ed elenco degli eventi della watchlist pubblicati. Riporta anche il conteggio delle keyword processate. Il gate di copertura è distinto e aggiuntivo rispetto alla validazione del logo.
 
 WATCHLIST, WATCHLIST KEYWORDS E BLACKLIST
 - Conserva tutte le voci esistenti, anche se non hanno eventi nel periodo, tranne quelle che corrispondono alla blacklist.
@@ -270,9 +284,12 @@ VALIDAZIONE
 - Link Calendar coerenti con data, ora, titolo e luogo.
 - `games` e `sport` coincidono con l'ultima versione riletta prima del write.
 - `watchlistKeywords` coincide esattamente, inclusi ordine e grafia, con l'ultima versione riletta da GitHub; tutte le keyword risultano processate nella checklist di ricerca.
+- GATE BLOCCANTE WATCHLIST superato: tutte le venue eleggibili dell'ultima versione GitHub hanno una riga nel registro, la ricerca mirata è documentata, ogni fallback necessario è stato eseguito e `VERIFICA INCOMPLETA = 0`. Questo controllo è indipendente da `invalidItems: 0`, che misura solo la correttezza dei logo.
+- Se la copertura della watchlist o delle keyword è incompleta, NON scrivere il file: comunica le voci non verificate e i motivi.
 - Se i risultati appaiono troncati o inaffidabili, non pubblicarli e segnala il problema.
 
 WRITE GITHUB
+Prima di ogni write verifica formalmente TUTTI i gate: copertura completa delle venue, tutte le keyword processate, blacklist senza corrispondenze, logo validati e schema JSON corretto. Se un gate fallisce, non pubblicare e riporta l'errore. Non interpretare un `invalidItems: 0` dei logo come prova di copertura.
 Aggiorna integralmente `dashboard.json` con `update_file` e la SHA fresca. Usa `create_file` solo se il file non esiste realmente.
 
 Commit message esattamente:
