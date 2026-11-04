@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-03T21:26:57.836Z",
+  "lastModifiedDate": "2026-11-04T01:23:14.942Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-03T21:26:57.836Z",
@@ -271,7 +271,7 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-03T01:35:21.556Z",
+    "lastModifiedDate": "2026-11-04T01:23:14.942Z",
     "items": [
       {
         "title": "F1 GP San Paolo - FP1",
@@ -320,12 +320,12 @@
       },
       {
         "title": "Picerno - Bari",
-        "subtitle": "Lunedì 9 novembre • 20:30",
-        "dateTime": "2026-11-09T20:30",
+        "subtitle": "Lunedì 9 novembre • 20:45",
+        "dateTime": "2026-11-09T20:45",
         "text": "Serie C • Picerno - Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T193000Z%2F20261109T213000Z&details=Serie%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/serie-c-2026/calendario/bari-e2hi197ydanctu9i74tonpt4r/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T194500Z%2F20261109T214500Z&details=Serie%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://calcio.it/serie-c-girone-c/squadre/bari-1908"
       },
       {
         "title": "Italia - Francia",
@@ -334,7 +334,7 @@
         "text": "UEFA Nations League • Italia - Francia",
         "logo": "ITA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20-%20Francia&dates=20261112T194500Z%2F20261112T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20-%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.figc.it/en/national-teams/news/uefa-nations-league-italy-to-face-france-in-milan-on-12-november-as-the-azzurri-return-to-the-meazza-lw3kmp7p"
+        "linkDettagliEvento": "https://www.figc.it/it/nazionali/news/litalia-e-mancini-ripartono-dalla-nations-league-34-convocati-sono-9-i-volti-nuovi-jtrsukbs"
       },
       {
         "title": "Bari - Foggia",
@@ -343,7 +343,7 @@
         "text": "Serie C • Bari - Foggia",
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Foggia&dates=20261114T163000Z%2F20261114T183000Z&details=Serie%20C%20%E2%80%A2%20Bari%20-%20Foggia&location=Stadio%20San%20Nicola%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/serie-c-2026/calendario/bari-e2hi197ydanctu9i74tonpt4r/"
+        "linkDettagliEvento": "https://calcio.it/serie-c-girone-c/squadre/bari-1908"
       },
       {
         "title": "Belgio - Italia",
@@ -352,7 +352,7 @@
         "text": "UEFA Nations League • Belgio - Italia",
         "logo": "ITA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Belgio%20-%20Italia&dates=20261115T194500Z%2F20261115T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Belgio%20-%20Italia&location=Stadio%20Re%20Baldovino%2C%20Bruxelles&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.uefa.com/uefanationsleague/teams/66--italy/matches/"
+        "linkDettagliEvento": "https://www.figc.it/it/nazionali/news/litalia-e-mancini-ripartono-dalla-nations-league-34-convocati-sono-9-i-volti-nuovi-jtrsukbs"
       }
     ]
   },
