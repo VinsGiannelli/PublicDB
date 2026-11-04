@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-04T16:22:35.744Z",
+  "lastModifiedDate": "2026-11-04T21:21:39.000Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-03T21:26:57.836Z",
+    "lastModifiedDate": "2026-11-04T21:21:39.000Z",
     "items": [
       {
         "title": "A Quiet Place: The Road Ahead",
@@ -111,18 +111,6 @@
         "steamRating": "42%",
         "steamPrice": "8,19€",
         "steamUrl": "https://store.steampowered.com/app/1007490/"
-      },
-      {
-        "title": "Hex Reverse",
-        "subtitle": "Steam",
-        "text": "Roguelike strategico di carte su una griglia esagonale: posiziona carte, confronta i valori dei lati, conquista quelle nemiche e potenzia il mazzo tra una sfida e l'altra. Gratuito da aggiungere a Steam per i primi 30 giorni dal 7 ottobre 2026; una volta riscattato rimane in libreria.",
-        "createdDate": "2026-10-07",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/header.jpg",
-        "link": "https://store.steampowered.com/app/5257350/Hex_Reverse/",
-        "steamRating": "52%",
-        "steamPrice": "Gratis",
-        "steamUrl": "https://store.steampowered.com/app/5257350/"
       },
       {
         "title": "Highway Driving",
