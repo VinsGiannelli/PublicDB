@@ -1,21 +1,9 @@
 {
-  "lastModifiedDate": "2026-11-05T09:07:11.000Z",
+  "lastModifiedDate": "2026-11-05T21:11:32.826Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-04T21:21:39.000Z",
+    "lastModifiedDate": "2026-11-05T21:11:32.826Z",
     "items": [
-      {
-        "title": "A Quiet Place: The Road Ahead",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Avventura horror in prima persona ambientata in un mondo invaso da creature sensibili al rumore: esplora zone pericolose, gestisci gli oggetti e sopravvivi restando silenzioso. Giocabile in streaming su Amazon Luna Standard incluso con Prime.",
-        "createdDate": "2026-10-25",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2233120/header.jpg",
-        "link": "https://luna.amazon.com/",
-        "steamRating": "72%",
-        "steamPrice": "29,99€",
-        "steamUrl": "https://store.steampowered.com/app/2233120/"
-      },
       {
         "title": "Ad Infinitum",
         "subtitle": "Epic Games Store",
@@ -65,16 +53,28 @@
         "steamUrl": "https://store.steampowered.com/app/660900/"
       },
       {
-        "title": "DOOM",
-        "subtitle": "GOG",
-        "text": "Sparatutto in prima persona su Marte, con combattimenti veloci contro orde demoniache, armi devastanti e livelli pieni di segreti. Riscattabile con Amazon Prime tramite GOG fino al 4 novembre 2026.",
-        "createdDate": "2026-10-01",
+        "title": "Disney Epic Mickey: Rebrushed",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Platform tridimensionale nel mondo dimenticato di Disney: usa pennello e solvente per modificare scenari, risolvere enigmi e influenzare la storia. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
+        "createdDate": "2026-11-05",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "94%",
-        "steamPrice": "19,99€",
-        "steamUrl": "https://store.steampowered.com/app/379720/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1522160/header.jpg",
+        "link": "https://luna.amazon.com/",
+        "steamRating": "89%",
+        "steamPrice": "39,99€",
+        "steamUrl": "https://store.steampowered.com/app/1522160/"
+      },
+      {
+        "title": "EA SPORTS Madden NFL 27",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Simulazione di football americano con squadre NFL, strategie, carriera e gestione delle partite, animazioni personalizzate e condizioni meteorologiche dinamiche. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
+        "createdDate": "2026-11-05",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3940610/header.jpg",
+        "link": "https://luna.amazon.com/",
+        "steamRating": "40%",
+        "steamPrice": "69,99€",
+        "steamUrl": "https://store.steampowered.com/app/3940610/"
       },
       {
         "title": "Epic World - Hunt For Quest",
@@ -89,16 +89,16 @@
         "steamUrl": "https://store.steampowered.com/app/1040910/"
       },
       {
-        "title": "Five Nights at Freddy's: Into the Pit",
+        "title": "Flotsam",
         "subtitle": "Epic Games Store",
-        "text": "Horror narrativo bidimensionale in pixel art: un ragazzo esplora un passato terrificante, risolve enigmi e sfugge ad animatronici ostili. Riscattabile con Amazon Prime tramite Epic Games Store fino al 4 novembre 2026.",
-        "createdDate": "2026-10-01",
+        "text": "Gestionale di colonie galleggianti in un oceano coperto di rifiuti: raccogli risorse, costruisci piattaforme, salva naufraghi e organizza una città mobile. Riscattabile gratuitamente su Epic Games Store fino al 12 novembre 2026.",
+        "createdDate": "2026-11-05",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "96%",
-        "steamPrice": "19,50€",
-        "steamUrl": "https://store.steampowered.com/app/2638370/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/821250/header.jpg",
+        "link": "https://store.epicgames.com/p/flotsam",
+        "steamRating": "79%",
+        "steamPrice": "24,99€",
+        "steamUrl": "https://store.steampowered.com/app/821250/"
       },
       {
         "title": "Gladiator: Blades of Fury",
@@ -149,16 +149,52 @@
         "steamUrl": "https://store.steampowered.com/app/2405060/"
       },
       {
-        "title": "Kingdomino",
+        "title": "Kingdom Come: Deliverance II",
         "subtitle": "Amazon Luna Standard",
-        "text": "Strategico da tavolo digitale ambientato in un regno medievale: scegli tessere domino, abbina i paesaggi e raccogli corone per costruire territori e superare gli avversari. Giocabile in streaming con Amazon Luna Standard incluso in Prime.",
-        "createdDate": "2026-10-23",
+        "text": "Gioco di ruolo storico nella Boemia del Quattrocento: esplora un vasto mondo medievale, affronta duelli realistici e scegli come proseguire la storia di Henry. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
+        "createdDate": "2026-11-05",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3029180/header.jpg",
-        "link": "https://luna.amazon.com/game/kingdomino/B0HMJMGD9L",
-        "steamRating": "77%",
-        "steamPrice": "9,99€",
-        "steamUrl": "https://store.steampowered.com/app/3029180/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+        "link": "https://luna.amazon.com/",
+        "steamRating": "94%",
+        "steamPrice": "59,99€",
+        "steamUrl": "https://store.steampowered.com/app/1771300/"
+      },
+      {
+        "title": "Mixtape",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Avventura narrativa musicale su tre amici alla fine del liceo: rivivi ricordi, esplora scene oniriche e attraversa momenti di crescita accompagnati da canzoni. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
+        "createdDate": "2026-11-05",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2582320/header.jpg",
+        "link": "https://luna.amazon.com/",
+        "steamRating": "87%",
+        "steamPrice": "19,99€",
+        "steamUrl": "https://store.steampowered.com/app/2582320/"
+      },
+      {
+        "title": "NBA THE RUN",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Basket arcade competitivo tre contro tre con stelle NBA, campi urbani internazionali, schiacciate spettacolari e partite multiplayer veloci. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
+        "createdDate": "2026-11-05",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2866670/header.jpg",
+        "link": "https://luna.amazon.com/",
+        "steamRating": "66%",
+        "steamPrice": "30,49€",
+        "steamUrl": "https://store.steampowered.com/app/2866670/"
+      },
+      {
+        "title": "Police Simulator: Patrol Officers",
+        "subtitle": "Amazon Luna Standard",
+        "text": "Simulatore di polizia nella città immaginaria di Brighton: pattuglia le strade, controlla infrazioni, gestisci incidenti e collabora con altri agenti. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
+        "createdDate": "2026-11-05",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
+        "link": "https://luna.amazon.com/",
+        "steamRating": "73%",
+        "steamPrice": "29,99€",
+        "steamUrl": "https://store.steampowered.com/app/997010/"
       },
       {
         "title": "Quiztopia: The Ultimate Trivia",
@@ -173,40 +209,16 @@
         "steamUrl": "https://store.steampowered.com/app/2912680/"
       },
       {
-        "title": "SONIC X SHADOW GENERATIONS",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Platform d'azione con Sonic classico e moderno e una nuova campagna dedicata a Shadow, tra livelli rapidi, abilità speciali e sfide. Disponibile in streaming su Amazon Luna Standard incluso con Prime; scadenza non annunciata.",
-        "createdDate": "2026-10-06",
+        "title": "Squirrel with a Gun",
+        "subtitle": "Amazon Games App",
+        "text": "Sandbox d'azione comico con uno scoiattolo armato: esplora il quartiere, risolvi enigmi, combatti agenti segreti e raccogli ghiande dorate. Riscattabile con Amazon Prime tramite Amazon Games App.",
+        "createdDate": "2026-11-05",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
-        "link": "https://luna.amazon.com/game/sonic-x-shadow-generations/B0HLNB1ZCJ",
-        "steamRating": "94%",
-        "steamPrice": "31,50€",
-        "steamUrl": "https://store.steampowered.com/app/2513280/"
-      },
-      {
-        "title": "Sorry We're Closed",
-        "subtitle": "Epic Games Store",
-        "text": "Survival horror narrativo tra angeli e demoni in una Londra inquietante: esplora ambienti a telecamera fissa, combatti in prima persona e usa il Terzo Occhio per svelare segreti. Gratis da riscattare su Epic Games Store fino al 5 novembre 2026.",
-        "createdDate": "2026-10-29",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/header.jpg",
-        "link": "https://store.epicgames.com/p/sorry-were-closed-724c86",
-        "steamRating": "93%",
-        "steamPrice": "23,79€",
-        "steamUrl": "https://store.steampowered.com/app/1796580/"
-      },
-      {
-        "title": "STAR WARS: Galactic Racer",
-        "subtitle": "Amazon Luna Standard",
-        "text": "Gioco di corse nell'universo di Star Wars ambientato nell'Orlo Esterno, tra competizioni clandestine, piloti rivali e percorsi pericolosi. Disponibile in streaming su Amazon Luna Standard incluso con Prime; scadenza non annunciata.",
-        "createdDate": "2026-10-06",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/header.jpg",
-        "link": "https://luna.amazon.com/game/star-wars-galactic-racer/B0HLN4GG5K",
-        "steamRating": "85%",
-        "steamPrice": "59,99€",
-        "steamUrl": "https://store.steampowered.com/app/4078430/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2067050/header.jpg",
+        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
+        "steamRating": "82%",
+        "steamPrice": "19,99€",
+        "steamUrl": "https://store.steampowered.com/app/2067050/"
       },
       {
         "title": "Time Travel: Escape Room Game",
@@ -255,6 +267,18 @@
         "steamRating": "71%",
         "steamPrice": "5,99€",
         "steamUrl": "https://store.steampowered.com/app/2464660/"
+      },
+      {
+        "title": "WRC Generations",
+        "subtitle": "Epic Games Store",
+        "text": "Simulatore di rally ufficiale con vetture ibride, tracciati internazionali, condizioni meteo variabili e gare tecniche contro il cronometro. Riscattabile con Amazon Prime tramite Epic Games Store.",
+        "createdDate": "2026-11-05",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1953520/header.jpg",
+        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
+        "steamRating": "67%",
+        "steamPrice": "39,99€",
+        "steamUrl": "https://store.steampowered.com/app/1953520/"
       }
     ]
   },
