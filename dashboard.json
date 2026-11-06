@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T10:37:16.591Z",
+  "lastModifiedDate": "2026-11-06T11:09:43.929Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T10:37:16.591Z",
+    "lastModifiedDate": "2026-11-06T11:09:43.929Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -468,9 +468,9 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": null,
-      "lastCompletedAt": null,
-      "cycleDate": null,
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-06T11:09:43.929Z",
+      "cycleDate": "2026-11-06",
       "watchlistHash": null
     },
     "items": [
@@ -538,12 +538,30 @@
         "logo": "LIVE"
       },
       {
+        "title": "Sandra Bautista",
+        "subtitle": "Sabato 7 novembre • 21:00",
+        "dateTime": "2026-11-07T21:00",
+        "text": "live • Matera • Via Casalnuovo • Cantautrice catalana in concerto acustico, ingresso riservato ai soci",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sandra%20Bautista&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Via%20Casalnuovo%20%E2%80%A2%20Cantautrice%20catalana%20in%20concerto%20acustico%2C%20ingresso%20riservato%20ai%20soci&location=Via%20Casalnuovo%2C%20Matera&dates=20261107T200000Z%2F20261107T220000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/basilicata/eventi/335161.html",
+        "logo": "LIVE"
+      },
+      {
         "title": "QUELLI del CLAN",
         "subtitle": "Sabato 7 novembre • 21:30",
         "dateTime": "2026-11-07T21:30",
         "text": "live • Bari • La DolceVita Live • Tributo dal vivo a Celentano e Mina",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=QUELLI%20del%20CLAN&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&dates=20261107T203000Z%2F20261107T223000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/331740.html",
+        "logo": "LIVE"
+      },
+      {
+        "title": "Disco Inferno Party by Phases Band",
+        "subtitle": "Sabato 7 novembre • 21:30",
+        "dateTime": "2026-11-07T21:30",
+        "text": "live • Cassano delle Murge • La Selva di Diana • Phases Band dal vivo: disco music anni 70–2000",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Disco%20Inferno%20Party%20by%20Phases%20Band&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20La%20Selva%20di%20Diana%20%E2%80%A2%20Phases%20Band%20dal%20vivo%3A%20disco%20music%20anni%2070%E2%80%932000&location=La%20Selva%20di%20Diana%2C%20Cassano%20delle%20Murge&dates=20261107T203000Z%2F20261107T223000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335439.html",
         "logo": "LIVE"
       },
       {
@@ -572,6 +590,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261108T090000Z%2F20261108T110000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
         "logo": "TRADIZIONE"
+      },
+      {
+        "title": "Massimo Albanese – Piano Solo Tour",
+        "subtitle": "Domenica 8 novembre • 19:30",
+        "dateTime": "2026-11-08T19:30",
+        "text": "live • Bitritto • Castello Baronale • Concerto pianistico a sostegno del progetto solidale Accanto",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Albanese%20%E2%80%93%20Piano%20Solo%20Tour&details=live%20%E2%80%A2%20Bitritto%20%E2%80%A2%20Castello%20Baronale%20%E2%80%A2%20Concerto%20pianistico%20a%20sostegno%20del%20progetto%20solidale%20Accanto&location=Castello%20Baronale%2C%20Bitritto&dates=20261108T183000Z%2F20261108T203000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/2026-11-08/",
+        "logo": "LIVE"
       },
       {
         "title": "Black Sabbath Legacy",
