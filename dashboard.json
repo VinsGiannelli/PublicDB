@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T18:14:07.000Z",
+  "lastModifiedDate": "2026-11-06T18:42:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T18:14:07.000Z",
+    "lastModifiedDate": "2026-11-06T18:42:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-06T17:38:30.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-06T18:42:00.000Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": "741638a5"
     },
@@ -847,6 +847,15 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Mercatino degli Scambi, Collezionismo e Artigianato",
+        "subtitle": "Sabato 14 novembre, ore 09:00",
+        "dateTime": "2026-11-14T09:00",
+        "text": "mercatino • Matera • Piazza Vittorio Veneto • Collezionismo, antiquariato e manifatture artistiche",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20degli%20Scambi%2C%20Collezionismo%20e%20Artigianato&dates=20261114%2F20261115&details=mercatino%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Collezionismo%2C%20antiquariato%20e%20manifatture%20artistiche&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://esploramercatini.it/eventi/mercatino-degli-scambi-collezionismo-antiquariato-e-manifatture-artistiche-matera-2026-11-14--research-c0f59f19f11f825849cdd7ddc19772e6"
+      },
+      {
         "title": "Festa del Vino Primitivo e del Cece Nero",
         "subtitle": "Sabato 14 novembre • 18:00",
         "dateTime": "2026-11-14T18:00",
@@ -908,6 +917,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=L'Artigianato%20per%20il%20Sociale&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mostra%20mercato%20di%20artigianato%20locale%20e%20riciclo%20con%20finalit%C3%A0%20sociali&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261115T060000%2F20261115T160000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/l-artigianato-per-il-sociale-88121"
+      },
+      {
+        "title": "Mercatino degli Scambi, Collezionismo e Artigianato",
+        "subtitle": "Domenica 15 novembre, ore 09:00",
+        "dateTime": "2026-11-15T09:00",
+        "text": "mercatino • Matera • Piazza Vittorio Veneto • Collezionismo, antiquariato e manifatture artistiche",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20degli%20Scambi%2C%20Collezionismo%20e%20Artigianato&dates=20261115%2F20261116&details=mercatino%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Collezionismo%2C%20antiquariato%20e%20manifatture%20artistiche&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://esploramercatini.it/eventi/mercatino-degli-scambi-collezionismo-antiquariato-e-manifatture-artistiche-matera-2026-11-14--research-c0f59f19f11f825849cdd7ddc19772e6"
       },
       {
         "title": "Novello sotto il Castello",
