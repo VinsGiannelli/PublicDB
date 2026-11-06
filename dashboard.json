@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T11:09:43.929Z",
+  "lastModifiedDate": "2026-11-06T11:45:40.458Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T11:09:43.929Z",
+    "lastModifiedDate": "2026-11-06T11:45:40.458Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -462,9 +462,9 @@
       "Creedence"
     ],
     "sagreExecution": {
-      "lastCompletedStep": null,
-      "lastCompletedAt": null,
-      "cycleDate": null,
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-06T11:45:40.458Z",
+      "cycleDate": "2026-11-06",
       "watchlistHash": null
     },
     "concertiExecution": {
@@ -493,12 +493,30 @@
         "logo": "LIVE"
       },
       {
+        "title": "Festa del Cioccolato Artigianale",
+        "subtitle": "Venerdì 6 novembre • 10:00",
+        "dateTime": "2026-11-06T10:00",
+        "text": "sagra • Bari • Piazza Umberto I • Maestri cioccolatieri e laboratori",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261106T100000%2F20261106T120000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
+        "logo": "SAGRA"
+      },
+      {
         "title": "Mediterranean PlayGround",
         "subtitle": "Venerdì 6 novembre • 18:30",
         "dateTime": "2026-11-06T18:30",
         "text": "evento tradizionale • Matera • Piazza San Giovanni XXIII • Giochi tradizionali del Mediterraneo",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261106T173000Z%2F20261106T193000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
+        "logo": "TRADIZIONE"
+      },
+      {
+        "title": "HalloWine – Notti di Vino e Magia",
+        "subtitle": "Venerdì 6 novembre • 20:00",
+        "dateTime": "2026-11-06T20:00",
+        "text": "evento tradizionale • Casamassima • Borgo Antico • Degustazioni e stand gastronomici",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine%20%E2%80%93%20Notti%20di%20Vino%20e%20Magia&details=evento%20tradizionale%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20Antico%20%E2%80%A2%20Degustazioni%20e%20stand%20gastronomici&location=Borgo%20Antico%2C%20Casamassima&dates=20261106T200000%2F20261106T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333998.html",
         "logo": "TRADIZIONE"
       },
       {
@@ -520,6 +538,24 @@
         "logo": "883"
       },
       {
+        "title": "HalloWine – Notti di Vino e Magia",
+        "subtitle": "Sabato 7 novembre",
+        "dateTime": "2026-11-07T00:00",
+        "text": "evento tradizionale • Casamassima • Borgo Antico • Degustazioni e spettacoli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine%20%E2%80%93%20Notti%20di%20Vino%20e%20Magia&details=evento%20tradizionale%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20Antico%20%E2%80%A2%20Degustazioni%20e%20spettacoli&location=Borgo%20Antico%2C%20Casamassima&dates=20261107%2F20261108&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333998.html",
+        "logo": "TRADIZIONE"
+      },
+      {
+        "title": "Sapori d'Autunno",
+        "subtitle": "Sabato 7 novembre",
+        "dateTime": "2026-11-07T00:00",
+        "text": "sagra • Binetto • Centro storico • Sagra gastronomica con prodotti tipici",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d'Autunno&details=sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20gastronomica%20con%20prodotti%20tipici&location=Centro%20storico%2C%20Binetto&dates=20261107%2F20261108&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://trovasagre.com/evento/sapori-dautunno-binetto-ba-2026",
+        "logo": "SAGRA"
+      },
+      {
         "title": "Mediterranean PlayGround",
         "subtitle": "Sabato 7 novembre • 10:00",
         "dateTime": "2026-11-07T10:00",
@@ -527,6 +563,24 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261107T090000Z%2F20261107T110000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
         "logo": "TRADIZIONE"
+      },
+      {
+        "title": "Festa del Cioccolato Artigianale",
+        "subtitle": "Sabato 7 novembre • 10:00",
+        "dateTime": "2026-11-07T10:00",
+        "text": "sagra • Bari • Piazza Umberto I • Maestri cioccolatieri e laboratori",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261107T100000%2F20261107T120000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
+        "logo": "SAGRA"
+      },
+      {
+        "title": "Bacco nelle Gnostre",
+        "subtitle": "Sabato 7 novembre • 11:00",
+        "dateTime": "2026-11-07T11:00",
+        "text": "sagra • Noci • Centro storico, Piazza Garibaldi • Vino e cucina tradizionale",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Garibaldi%20%E2%80%A2%20Vino%20e%20cucina%20tradizionale&location=Centro%20storico%2C%20Piazza%20Garibaldi%2C%20Noci&dates=20261107T110000%2F20261107T130000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://bacconellegnostre.it/",
+        "logo": "SAGRA"
       },
       {
         "title": "Miguel La Formula",
@@ -583,6 +637,24 @@
         "logo": "TRADIZIONE"
       },
       {
+        "title": "Fiera del Crocifisso",
+        "subtitle": "Domenica 8 novembre • 07:00",
+        "dateTime": "2026-11-08T07:00",
+        "text": "mercatino • Modugno • Piazza Sedile e centro cittadino • Fiera con artigiani e antiquari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Piazza%20Sedile%20e%20centro%20cittadino%20%E2%80%A2%20Fiera%20con%20artigiani%20e%20antiquari&location=Piazza%20Sedile%20e%20centro%20cittadino%2C%20Modugno&dates=20261108T070000%2F20261108T090000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/fiera-del-crocifisso-2026-spazi-espositivi-per-hobbisti/",
+        "logo": "MERCATINO"
+      },
+      {
+        "title": "Fiera di San Trifone",
+        "subtitle": "Domenica 8 novembre • 07:00",
+        "dateTime": "2026-11-08T07:00",
+        "text": "mercatino • Adelfia • Centro cittadino • Fiera tradizionale patronale",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Trifone&details=mercatino%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20cittadino%20%E2%80%A2%20Fiera%20tradizionale%20patronale&location=Centro%20cittadino%2C%20Adelfia&dates=20261108T070000%2F20261108T090000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.santiesagre.com/it/puglia/adelfia/festa-di-san-trifone/",
+        "logo": "MERCATINO"
+      },
+      {
         "title": "Mediterranean PlayGround",
         "subtitle": "Domenica 8 novembre • 10:00",
         "dateTime": "2026-11-08T10:00",
@@ -592,6 +664,24 @@
         "logo": "TRADIZIONE"
       },
       {
+        "title": "Festa del Cioccolato Artigianale",
+        "subtitle": "Domenica 8 novembre • 10:00",
+        "dateTime": "2026-11-08T10:00",
+        "text": "sagra • Bari • Piazza Umberto I • Maestri cioccolatieri e laboratori",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261108T100000%2F20261108T120000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
+        "logo": "SAGRA"
+      },
+      {
+        "title": "Bacco nelle Gnostre",
+        "subtitle": "Domenica 8 novembre • 11:00",
+        "dateTime": "2026-11-08T11:00",
+        "text": "sagra • Noci • Centro storico, Piazza Garibaldi • Vino e cucina tradizionale",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Garibaldi%20%E2%80%A2%20Vino%20e%20cucina%20tradizionale&location=Centro%20storico%2C%20Piazza%20Garibaldi%2C%20Noci&dates=20261108T110000%2F20261108T130000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://bacconellegnostre.it/",
+        "logo": "SAGRA"
+      },
+      {
         "title": "Massimo Albanese – Piano Solo Tour",
         "subtitle": "Domenica 8 novembre • 19:30",
         "dateTime": "2026-11-08T19:30",
@@ -599,6 +689,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Albanese%20%E2%80%93%20Piano%20Solo%20Tour&details=live%20%E2%80%A2%20Bitritto%20%E2%80%A2%20Castello%20Baronale%20%E2%80%A2%20Concerto%20pianistico%20a%20sostegno%20del%20progetto%20solidale%20Accanto&location=Castello%20Baronale%2C%20Bitritto&dates=20261108T183000Z%2F20261108T203000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/2026-11-08/",
         "logo": "LIVE"
+      },
+      {
+        "title": "Sagra dell'Agnello e del Vino Novello",
+        "subtitle": "Domenica 8 novembre • 20:30",
+        "dateTime": "2026-11-08T20:30",
+        "text": "sagra • Adelfia • Centro storico • Sagra nella Notte Bianca Aspettando San Trifone",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'Agnello%20e%20del%20Vino%20Novello&details=sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20nella%20Notte%20Bianca%20Aspettando%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&dates=20261108T203000%2F20261108T223000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.santiesagre.com/it/puglia/adelfia/festa-di-san-trifone/",
+        "logo": "SAGRA"
       },
       {
         "title": "Black Sabbath Legacy",
