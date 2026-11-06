@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T13:09:03.767Z",
+  "lastModifiedDate": "2026-11-06T13:41:49.106Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T13:09:03.767Z",
+    "lastModifiedDate": "2026-11-06T13:41:49.106Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,10 +465,10 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-06T12:41:58.605Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-06T13:41:49.106Z",
       "cycleDate": "2026-11-06",
-      "watchlistHash": null
+      "watchlistHash": "741638a5"
     },
     "concertiExecution": {
       "lastCompletedStep": "O3",
@@ -845,6 +845,33 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=OHM%20Pink%20Floyd&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20live%20ai%20Pink%20Floyd&location=Crossroad%20Saloon%2C%20Via%20N.%20Tridente%2015%2F21%2C%20Bari&dates=20261119T220000%2F20261119T240000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334590.html",
         "logo": "LIVE"
+      },
+      {
+        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
+        "subtitle": "Venerdì 20 novembre",
+        "dateTime": "2026-11-20T00:00",
+        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261120%2F20261121&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
+        "logo": "SAGRA"
+      },
+      {
+        "title": "Villaggio di Natale – Inaugurazione",
+        "subtitle": "Venerdì 20 novembre • 18:00",
+        "dateTime": "2026-11-20T18:00",
+        "text": "evento tradizionale • Matera • Parco del Boschetto • Apertura villaggio natalizio con Casa di Babbo Natale, laboratori e pista di pattinaggio",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20di%20Natale%20%E2%80%93%20Inaugurazione&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Parco%20del%20Boschetto%20%E2%80%A2%20Apertura%20villaggio%20natalizio%20con%20Casa%20di%20Babbo%20Natale%2C%20laboratori%20e%20pista%20di%20pattinaggio&location=Parco%20del%20Boschetto%2C%20Matera&dates=20261120T180000%2F20261120T200000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/matera/iniziative-natalizie-2026-112212",
+        "logo": "TRADIZIONE"
+      },
+      {
+        "title": "San Martino – Ogni mosto diventa vino",
+        "subtitle": "Venerdì 20 novembre • 19:00",
+        "dateTime": "2026-11-20T19:00",
+        "text": "sagra • Putignano • Centro storico, Piazza Teatro • Vini pugliesi, gastronomia, caldarroste e spettacoli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20%E2%80%93%20Ogni%20mosto%20diventa%20vino&details=sagra%20%E2%80%A2%20Putignano%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Teatro%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%2C%20caldarroste%20e%20spettacoli&location=Centro%20storico%2C%20Piazza%20Teatro%2C%20Putignano&dates=20261120T190000%2F20261120T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.puglialive.net/putignano-20-e-21-novembre-la-quinta-edizione-di-san-martino/",
+        "logo": "SAGRA"
       },
       {
         "title": "Francesca Michielin",
