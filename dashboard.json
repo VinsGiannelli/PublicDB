@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-05T21:11:32.826Z",
+  "lastModifiedDate": "2026-11-06T01:22:22.063Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -283,60 +283,60 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-05T01:09:33.309Z",
+    "lastModifiedDate": "2026-11-06T01:22:22.063Z",
     "items": [
       {
-        "title": "F1 GP San Paolo - FP1",
+        "title": "F1 San Paolo - FP1",
         "subtitle": "Venerdì 6 novembre • 16:30",
         "dateTime": "2026-11-06T16:30",
-        "text": "Formula 1 • GP San Paolo • FP1",
+        "text": "Formula 1 • GP San Paolo • Prove libere 1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20GP%20San%20Paolo%20-%20FP1&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20FP1&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20San%20Paolo%20-%20FP1&dates=20261106T153000Z%2F20261106T163000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Prove%20libere%201&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "F1 GP San Paolo - FP2",
+        "title": "F1 San Paolo - FP2",
         "subtitle": "Venerdì 6 novembre • 20:00",
         "dateTime": "2026-11-06T20:00",
-        "text": "Formula 1 • GP San Paolo • FP2",
+        "text": "Formula 1 • GP San Paolo • Prove libere 2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20GP%20San%20Paolo%20-%20FP2&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20FP2&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20San%20Paolo%20-%20FP2&dates=20261106T190000Z%2F20261106T200000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Prove%20libere%202&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "F1 GP San Paolo - FP3",
+        "title": "F1 San Paolo - FP3",
         "subtitle": "Sabato 7 novembre • 15:30",
         "dateTime": "2026-11-07T15:30",
-        "text": "Formula 1 • GP San Paolo • FP3",
+        "text": "Formula 1 • GP San Paolo • Prove libere 3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20GP%20San%20Paolo%20-%20FP3&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20FP3&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20San%20Paolo%20-%20FP3&dates=20261107T143000Z%2F20261107T153000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Prove%20libere%203&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "F1 GP San Paolo - Qualifiche",
+        "title": "F1 San Paolo - Qualifiche",
         "subtitle": "Sabato 7 novembre • 19:00",
         "dateTime": "2026-11-07T19:00",
         "text": "Formula 1 • GP San Paolo • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20GP%20San%20Paolo%20-%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20San%20Paolo%20-%20Qualifiche&dates=20261107T180000Z%2F20261107T190000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Qualifiche&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
-        "title": "F1 GP San Paolo - Gara",
+        "title": "F1 San Paolo - Gara",
         "subtitle": "Domenica 8 novembre • 18:00",
         "dateTime": "2026-11-08T18:00",
         "text": "Formula 1 • GP San Paolo • Gara",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20GP%20San%20Paolo%20-%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20San%20Paolo%20-%20Gara&dates=20261108T170000Z%2F20261108T190000Z&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
         "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
       },
       {
         "title": "Picerno - Bari",
         "subtitle": "Lunedì 9 novembre • 20:45",
         "dateTime": "2026-11-09T20:45",
-        "text": "Serie C • Picerno - Bari",
+        "text": "Serie C Girone C • Picerno - Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T194500Z%2F20261109T214500Z&details=Serie%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T194500Z%2F20261109T214500Z&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno",
         "linkDettagliEvento": "https://www.corrieredellosport.it/squadra/calcio/bari/calendario/t122"
       },
       {
@@ -345,17 +345,17 @@
         "dateTime": "2026-11-12T20:45",
         "text": "UEFA Nations League • Italia - Francia",
         "logo": "ITA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20-%20Francia&dates=20261112T194500Z%2F20261112T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20-%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://it.uefa.com/uefanationsleague/teams/66--italy/matches/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%20-%20Francia&dates=20261112T194500Z%2F20261112T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%20-%20Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano",
+        "linkDettagliEvento": "https://it.uefa.com/uefanationsleague/teams/66/matches/"
       },
       {
         "title": "Bari - Foggia",
         "subtitle": "Sabato 14 novembre • 17:30",
         "dateTime": "2026-11-14T17:30",
-        "text": "Serie C • Bari - Foggia",
+        "text": "Serie C Girone C • Bari - Foggia",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Foggia&dates=20261114T163000Z%2F20261114T183000Z&details=Serie%20C%20%E2%80%A2%20Bari%20-%20Foggia&location=Stadio%20San%20Nicola%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.corrieredellosport.it/squadra/calcio/bari/calendario/t122"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20-%20Foggia&dates=20261114T163000Z%2F20261114T183000Z&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Bari%20-%20Foggia&location=Stadio%20San%20Nicola%2C%20Bari",
+        "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
       },
       {
         "title": "Belgio - Italia",
@@ -363,8 +363,26 @@
         "dateTime": "2026-11-15T20:45",
         "text": "UEFA Nations League • Belgio - Italia",
         "logo": "ITA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Belgio%20-%20Italia&dates=20261115T194500Z%2F20261115T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Belgio%20-%20Italia&location=Stadio%20Re%20Baldovino%2C%20Bruxelles&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://it.uefa.com/uefanationsleague/teams/66--italy/matches/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Belgio%20-%20Italia&dates=20261115T194500Z%2F20261115T214500Z&details=UEFA%20Nations%20League%20%E2%80%A2%20Belgio%20-%20Italia&location=Stadio%20Re%20Baldovino%2C%20Bruxelles",
+        "linkDettagliEvento": "https://it.uefa.com/uefanationsleague/teams/66/matches/"
+      },
+      {
+        "title": "F1 Las Vegas - FP1",
+        "subtitle": "Venerdì 20 novembre • 01:30",
+        "dateTime": "2026-11-20T01:30",
+        "text": "Formula 1 • GP Las Vegas • Prove libere 1",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Las%20Vegas%20-%20FP1&dates=20261120T003000Z%2F20261120T013000Z&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%201&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/las-vegas"
+      },
+      {
+        "title": "F1 Las Vegas - FP2",
+        "subtitle": "Venerdì 20 novembre • 05:00",
+        "dateTime": "2026-11-20T05:00",
+        "text": "Formula 1 • GP Las Vegas • Prove libere 2",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Las%20Vegas%20-%20FP2&dates=20261120T040000Z%2F20261120T050000Z&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%202&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/las-vegas"
       }
     ]
   },
