@@ -113,6 +113,6 @@ ALTRE VALIDAZIONI E WRITE
 - Verifica che tutti gli URL Calendar codifichino il giorno e l'ora corretti e che linkDettagliEvento, se presente, sia una fonte specifica.
 - Se il codice di validazione non è eseguibile, NON pubblicare.
 - Durante fase completata aggiorna lastCompletedStep con O1/O2/O3/WLxx, lastCompletedAt con UTC ora, cycleDate corretta, watchlistHash aggiornato sulla snapshot delle liste attuali (null prima di WL01 se non ancora definito). Su commit parziale non aggiornare nessuno dei quattro campi di stato.
-- Commit message nel formato ESATTO: AUTO - gg/mm/aaaa - hh:mm (Europe/Rome). Non aggiungere testo.
+- Commit message nel formato ESATTO: Aggiornamento Schedulato Sagre - gg/mm/aaaa - hh:mm (Europe/Rome). Non aggiungere testo.
 - Rileggi il file pubblicato; verifica eventi.items, stato, altre sezioni, blacklist, hash liste, codice logo. Se GitHub ha un esito incerto rileggi prima di ritentare per non duplicare il commit.
 - Resoconto sempre: flusso, fase tentata, finestra data o range WL, # venue/#keyword processate, esiti incompleti, nuovi/aggiornati/rimossi, eventi totali nel JSON, SHA commit e fase successiva; esplicita NON PUBBLICATO se il write non è riuscito.
