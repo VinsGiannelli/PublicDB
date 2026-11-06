@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T17:06:08.129Z",
+  "lastModifiedDate": "2026-11-06T17:06:21.826Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T17:06:08.129Z",
+    "lastModifiedDate": "2026-11-06T17:06:21.826Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,20 +472,11 @@
     },
     "concertiExecution": {
       "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-06T17:06:08.129Z",
+      "lastCompletedAt": "2026-11-06T17:06:21.826Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": "4ee97ad2"
     },
     "items": [
-      {
-        "title": "I Komandanti",
-        "subtitle": "Venerdì 6 novembre",
-        "dateTime": "2026-11-06T00:00",
-        "text": "live • Bari • Piazzale Lorusso • I Komandanti, cover band Vasco Rossi al Monster Day",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazzale%20Lorusso%20%E2%80%A2%20I%20Komandanti%2C%20cover%20band%20Vasco%20Rossi%20al%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari&dates=20261106%2F20261107&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://upposto.it/eventi/cmvxe101q008d12zmhkj7nccw",
-        "logo": "KOMANDANTI"
-      },
       {
         "title": "Maxie Freeman",
         "subtitle": "Venerdì 6 novembre",
@@ -550,6 +541,15 @@
         "logo": "LIVE"
       },
       {
+        "title": "I Komandanti",
+        "subtitle": "Venerdì 6 novembre, ore 21:00",
+        "dateTime": "2026-11-06T21:00",
+        "text": "live • Bari • Piazzale Lorusso • Cover band di Vasco Rossi al Monster Day, concerto dalle 21:00 alle 23:00",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti%20%E2%80%93%20Vasco%20Rossi%20Tribute&details=Concerto%20live%20al%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari&dates=20261106T210000%2F20261106T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.giornaledipuglia.com/2026/10/monster-day-dal-6-all8-novembre-la.html",
+        "logo": "KOMANDANTI"
+      },
+      {
         "title": "Sex Force One Rock '80",
         "subtitle": "Venerdì 6 novembre • 21:00",
         "dateTime": "2026-11-06T21:00",
@@ -557,15 +557,6 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sex%20Force%20One%20Rock%20'80&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Concerto%20rock%20anni%20Ottanta&location=Black%20Horses%20Pub%2C%20Bari&dates=20261106T210000%2F20261106T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335268.html",
         "logo": "LIVE"
-      },
-      {
-        "title": "I Komandanti – Vasco Rossi Tribute",
-        "subtitle": "Venerdì 6 novembre, ore 21:00",
-        "dateTime": "2026-11-06T21:00",
-        "text": "live • Bari • Piazzale Lorusso • Cover band di Vasco Rossi al Monster Day, concerto dalle 21:00 alle 23:00",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti%20%E2%80%93%20Vasco%20Rossi%20Tribute&details=Concerto%20live%20al%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari&dates=20261106T210000%2F20261106T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.giornaledipuglia.com/2026/10/monster-day-dal-6-all8-novembre-la.html",
-        "logo": "KOMANDANTI"
       },
       {
         "title": "Na Tazzulella 'e Blues – Pino Daniele Tribute",
