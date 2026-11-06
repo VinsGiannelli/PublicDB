@@ -148,7 +148,7 @@ WRITE GITHUB
 Aggiorna integralmente `dashboard.json` con `update_file` e la SHA fresca. Usa `create_file` solo se il file non esiste realmente.
 
 Commit message esattamente:
-`AUTO - gg/mm/aaaa - hh:mm`
+`Aggiornamento Schedulato Sport - gg/mm/aaaa - hh:mm`
 Data e ora del commit in `Europe/Rome`, sempre a due cifre, senza altro testo.
 
 Se ricevi un conflitto SHA, rileggi la versione corrente, reinserisci soltanto la sezione `sport` appena generata e riprova una sola volta. Se il secondo tentativo fallisce, non forzare la sovrascrittura.
