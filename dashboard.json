@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T01:38:13.722Z",
+  "lastModifiedDate": "2026-11-06T10:37:16.591Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T01:38:13.722Z",
+    "lastModifiedDate": "2026-11-06T10:37:16.591Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,6 +424,8 @@
       "883",
       "Pino Daniele"
     ],
+    "sagreWatchlist": [],
+    "sagreWatchlistKeywords": [],
     "blacklist": [
       "Duke Jazz Club — Bari",
       "jazz",
@@ -459,6 +461,18 @@
       "abba",
       "Creedence"
     ],
+    "sagreExecution": {
+      "lastCompletedStep": null,
+      "lastCompletedAt": null,
+      "cycleDate": null,
+      "watchlistHash": null
+    },
+    "concertiExecution": {
+      "lastCompletedStep": null,
+      "lastCompletedAt": null,
+      "cycleDate": null,
+      "watchlistHash": null
+    },
     "items": [
       {
         "title": "I Komandanti",
