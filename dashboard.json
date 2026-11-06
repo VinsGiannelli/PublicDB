@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T11:45:40.458Z",
+  "lastModifiedDate": "2026-11-06T12:09:02.912Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T11:45:40.458Z",
+    "lastModifiedDate": "2026-11-06T12:09:02.912Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -470,8 +470,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-06T11:09:43.929Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-06T12:09:02.912Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": null
     },
@@ -729,6 +729,15 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Valerio Cosi e The Magpies",
+        "subtitle": "Venerdì 13 novembre • 21:00",
+        "dateTime": "2026-11-13T21:00",
+        "text": "live • Bari • Officina degli Esordi • Concerto di Valerio Cosi e The Magpies",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valerio%20Cosi%20e%20The%20Magpies&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Concerto%20di%20Valerio%20Cosi%20e%20The%20Magpies&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261113T210000%2F20261113T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://songkick.com/concerts/43497336-valerio-cosi-at-officina-degli-esordi",
+        "logo": "LIVE"
+      },
+      {
         "title": "BAILA – Zucchero Tribute",
         "subtitle": "Venerdì 13 novembre • 21:30",
         "dateTime": "2026-11-13T21:30",
@@ -754,6 +763,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20folklore%20e%20musica&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261114%2F20261115&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Freddie - The Show Must Go On",
+        "subtitle": "Sabato 14 novembre • 21:00",
+        "dateTime": "2026-11-14T21:00",
+        "text": "live • Bari • AncheCinema • Spettacolo tributo a Freddie Mercury con musica dal vivo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Freddie%20-%20The%20Show%20Must%20Go%20On&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20AncheCinema%20%E2%80%A2%20Spettacolo%20tributo%20a%20Freddie%20Mercury%20con%20musica%20dal%20vivo&location=AncheCinema%2C%20Corso%20Italia%20112%2C%20Bari&dates=20261114T210000%2F20261114T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/329997.html",
+        "logo": "LIVE"
       },
       {
         "title": "Sagra del Fungo Cardoncello",
