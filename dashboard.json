@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T15:38:24.321Z",
+  "lastModifiedDate": "2026-11-06T16:06:45.589Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T15:38:24.321Z",
+    "lastModifiedDate": "2026-11-06T16:06:45.589Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": "741638a5"
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL02",
-      "lastCompletedAt": "2026-11-06T15:08:41.036Z",
+      "lastCompletedStep": "WL03",
+      "lastCompletedAt": "2026-11-06T16:06:45.589Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": "4ee97ad2"
     },
@@ -557,6 +557,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sex%20Force%20One%20Rock%20'80&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Concerto%20rock%20anni%20Ottanta&location=Black%20Horses%20Pub%2C%20Bari&dates=20261106T210000%2F20261106T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335268.html",
         "logo": "LIVE"
+      },
+      {
+        "title": "I Vaskomodi – Vasco Rossi Tribute",
+        "subtitle": "Venerdì 6 novembre • 21:30",
+        "dateTime": "2026-11-06T21:30",
+        "text": "live • Monopoli • Ostinati, Via Sant'Angelo 25 • Tributo dal vivo a Vasco Rossi",
+        "logo": "VASCO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi%20%E2%80%93%20Vasco%20Rossi%20Tribute&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%2C%20Via%20Sant'Angelo%2025%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Vasco%20Rossi&location=Ostinati%2C%20Via%20Sant'Angelo%2025%2C%20Monopoli&dates=20261106T213000%2F20261106T233000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333813.html"
       },
       {
         "title": "Roy Rogers – 883 Tribute",
