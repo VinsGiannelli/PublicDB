@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T19:41:44.000Z",
+  "lastModifiedDate": "2026-11-06T20:09:24.731Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T19:41:44.000Z",
+    "lastModifiedDate": "2026-11-06T20:09:24.731Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": "741638a5"
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-06T19:07:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-06T20:09:24.731Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": null
     },
@@ -989,6 +989,24 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Riserva%20Moac&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261115T210000%2F20261115T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
+      },
+      {
+        "title": "Brunori Sas – TUTTOBRUNORI",
+        "subtitle": "Martedì 17 novembre, ore 21:00",
+        "dateTime": "2026-11-17T21:00",
+        "text": "live • Bari • Teatro Petruzzelli • TUTTOBRUNORI, canzoni e monologhi",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brunori%20Sas%20%E2%80%93%20TUTTOBRUNORI&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20TUTTOBRUNORI%2C%20canzoni%20e%20monologhi&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261117210000%2F20261117230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ticketone.it/event/brunori-sas-tuttobrunori-canzoni-e-monologhi-teatro-petruzzelli-20999851/",
+        "logo": "LIVE"
+      },
+      {
+        "title": "Brunori Sas – TUTTOBRUNORI",
+        "subtitle": "Mercoledì 18 novembre, ore 21:00",
+        "dateTime": "2026-11-18T21:00",
+        "text": "live • Bari • Teatro Petruzzelli • TUTTOBRUNORI, canzoni e monologhi",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brunori%20Sas%20%E2%80%93%20TUTTOBRUNORI&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20TUTTOBRUNORI%2C%20canzoni%20e%20monologhi&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261118210000%2F20261118230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ticketone.it/event/brunori-sas-tuttobrunori-canzoni-e-monologhi-teatro-petruzzelli-20935477/",
+        "logo": "LIVE"
       },
       {
         "title": "OHM Pink Floyd",
