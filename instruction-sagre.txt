@@ -1,6 +1,6 @@
 ISTRUZIONI OPERATIVE — SAGRE, FESTE PATRONALI, MERCATINI E TRADIZIONI
 VERSIONE: 1.0 | 2026-11-06
-Queste istruzioni sono autonome e sostituiscono, PER QUESTO FLUSSO, quelle di instruction-eventi.txt. NON eseguire le regole di ricostruzione completa di instruction-eventi.txt. Non modificare instruction-eventi.txt.
+Queste istruzioni sono autonome. Il flusso esegue esclusivamente aggiornamenti incrementali e preserva gli eventi già pubblicati secondo le regole qui definite.
 
 OBIETTIVO
 Aggiorna incrementalmene il file unico VinsGiannelli/PublicDB, branch main, dashboard.json, esclusivamente per la ricerca di sagre ed eventi tradizionali.
@@ -116,6 +116,3 @@ ALTRE VALIDAZIONI E WRITE
 - Commit message nel formato ESATTO: AUTO - gg/mm/aaaa - hh:mm (Europe/Rome). Non aggiungere testo.
 - Rileggi il file pubblicato; verifica eventi.items, stato, altre sezioni, blacklist, hash liste, codice logo. Se GitHub ha un esito incerto rileggi prima di ritentare per non duplicare il commit.
 - Resoconto sempre: flusso, fase tentata, finestra data o range WL, # venue/#keyword processate, esiti incompleti, nuovi/aggiornati/rimossi, eventi totali nel JSON, SHA commit e fase successiva; esplicita NON PUBBLICATO se il write non è riuscito.
-
-NOTA DI COMPATIBILITÀ
-instruction-eventi.txt è un file storico immutato: non invocarlo con un'automazione attiva in parallelo a questi due flussi, perché imporrebbe ricostruzione completa degli item e schema privo dei nuovi checkpoint. I nuovi file di istruzioni sono autonomi.
