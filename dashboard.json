@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T14:38:47.786Z",
+  "lastModifiedDate": "2026-11-06T15:08:41.036Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T14:38:47.786Z",
+    "lastModifiedDate": "2026-11-06T15:08:41.036Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": "741638a5"
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL01",
-      "lastCompletedAt": "2026-11-06T14:08:37.253Z",
+      "lastCompletedStep": "WL02",
+      "lastCompletedAt": "2026-11-06T15:08:41.036Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": "4ee97ad2"
     },
@@ -559,15 +559,6 @@
         "logo": "LIVE"
       },
       {
-        "title": "OZZMOSYS",
-        "subtitle": "Venerdì 6 novembre • 22:00",
-        "dateTime": "2026-11-06T22:00",
-        "text": "live • Bari • Crossroad Saloon • Tributo a Ozzy Osbourne",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=OZZMOSYS&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20a%20Ozzy%20Osbourne&location=Crossroad%20Saloon%2C%20Bari&dates=20261106T210000Z%2F20261106T230000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://happeningnext.com/event/ozzmosys-ozzy-osbourne-tribute-band-live-show-crossroad-saloon-eid3a0e95xnxr",
-        "logo": "LIVE"
-      },
-      {
         "title": "Roy Rogers – 883 Tribute",
         "subtitle": "Venerdì 6 novembre • 22:15",
         "dateTime": "2026-11-06T22:15",
@@ -646,15 +637,6 @@
         "text": "live • Bari • Mulata Latin Social Club • Percussioni dal vivo nell'80’s Dinner Show",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miguel%20La%20Formula&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Mulata%20Latin%20Social%20Club%20%E2%80%A2%20Percussioni%20dal%20vivo%20nell'80%E2%80%99s%20Dinner%20Show&location=Mulata%20Latin%20Social%20Club%2C%20Bari&dates=20261107T193000Z%2F20261107T213000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://nightz.it/eventi/80s-dinner-show/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Sandra Bautista",
-        "subtitle": "Sabato 7 novembre • 21:00",
-        "dateTime": "2026-11-07T21:00",
-        "text": "live • Matera • Via Casalnuovo • Cantautrice catalana in concerto acustico, ingresso riservato ai soci",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sandra%20Bautista&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Via%20Casalnuovo%20%E2%80%A2%20Cantautrice%20catalana%20in%20concerto%20acustico%2C%20ingresso%20riservato%20ai%20soci&location=Via%20Casalnuovo%2C%20Matera&dates=20261107T200000Z%2F20261107T220000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/basilicata/eventi/335161.html",
         "logo": "LIVE"
       },
       {
@@ -781,15 +763,6 @@
         "text": "live • Matera • Midnight Pub Live • Tributo ai Black Sabbath",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Black%20Sabbath%20Legacy&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20ai%20Black%20Sabbath&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261113%2F20261114&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.midnightpublive.com/event/black-sabbath-legacy-black-sabbath-tribute-band-2/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Le Muffe",
-        "subtitle": "Venerdì 13 novembre",
-        "dateTime": "2026-11-13T00:00",
-        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Punk blues garage live",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Le%20Muffe&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Punk%20blues%20garage%20live&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261113%2F20261114&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://andiamoinpuglia.it/eventi/le-muffe-live-cassano-delle-murge-2026/",
         "logo": "LIVE"
       },
       {
