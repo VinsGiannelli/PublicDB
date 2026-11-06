@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T15:08:41.036Z",
+  "lastModifiedDate": "2026-11-06T15:38:24.321Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T15:08:41.036Z",
+    "lastModifiedDate": "2026-11-06T15:38:24.321Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-06T14:38:47.786Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-06T15:38:24.321Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": "741638a5"
     },
@@ -872,6 +872,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra%20Hobbismo%20e%20Scambio&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Mercato%20San%20Filippo%20Neri%2C%20Carbonara%20%E2%80%A2%20Mostra%20mercato%20con%2045%20bancarelle%20di%20hobbismo%20e%20scambio&location=Mercato%20San%20Filippo%20Neri%2C%20Carbonara%2C%20Bari&dates=20261115T050000Z%2F20261115T070000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-carbonara-69721",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "L'Artigianato per il Sociale",
+        "subtitle": "Domenica 15 novembre, ore 06:00",
+        "dateTime": "2026-11-15T06:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mostra mercato di artigianato locale e riciclo con finalità sociali",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=L'Artigianato%20per%20il%20Sociale&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mostra%20mercato%20di%20artigianato%20locale%20e%20riciclo%20con%20finalit%C3%A0%20sociali&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261115T060000%2F20261115T160000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/l-artigianato-per-il-sociale-88121"
       },
       {
         "title": "Novello sotto il Castello",
