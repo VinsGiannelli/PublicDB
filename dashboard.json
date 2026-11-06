@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T22:43:19.094Z",
+  "lastModifiedDate": "2026-11-06T23:08:01.313Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T22:43:19.094Z",
+    "lastModifiedDate": "2026-11-06T23:08:01.313Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL02",
-      "lastCompletedAt": "2026-11-06T22:14:31.668Z",
+      "lastCompletedStep": "WL03",
+      "lastCompletedAt": "2026-11-06T23:08:01.313Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": "3ab9b5d6"
     },
@@ -854,6 +854,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Futura&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20XX%20Settembre%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20XX%20Settembre%2C%20Conversano&dates=20261113T213000%2F20261113T233000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
+      },
+      {
+        "title": "Astradelta – Feel the Music Festival",
+        "subtitle": "Venerdì 13 novembre, ore 21:30",
+        "dateTime": "2026-11-13T21:30",
+        "text": "live • Trani • Santo Graal • Astradelta in concerto, ingresso gratuito",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Astradelta%20%E2%80%93%20Feel%20the%20Music%20Festival&dates=20261113T213000%2F20261113T223000&details=Astradelta%20in%20concerto%20al%20Santo%20Graal%20di%20Trani&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/335621.html"
       },
       {
         "title": "Clinique Lacuna",
