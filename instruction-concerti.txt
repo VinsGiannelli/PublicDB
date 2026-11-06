@@ -1,0 +1,121 @@
+ISTRUZIONI OPERATIVE — CONCERTI E MUSICA LIVE
+VERSIONE: 1.0 | 2026-11-06
+Queste istruzioni sono autonome e sostituiscono, PER QUESTO FLUSSO, quelle di instruction-eventi.txt. NON eseguire le regole di ricostruzione completa di instruction-eventi.txt. Non modificare instruction-eventi.txt.
+
+OBIETTIVO
+Aggiorna incrementalmene il file unico VinsGiannelli/PublicDB, branch main, dashboard.json, esclusivamente per la ricerca di concerti e musica dal vivo.
+Usa GitHub connesso e fonti pubbliche web/API. Timezone di riferimento: Europe/Rome.
+L'esecuzione schedulata deve elaborare UNA SOLA FASE alla volta, calcolata dai checkpoint dentro eventi. Non elaborare tutto il ciclo nello stesso run.
+Non modificare games, sport, timezone, le rispettive date interne, né lo stato dell'altro flusso.
+Conserva la root con chiavi in ordine: lastModifiedDate, timezone, games, sport, eventi.
+
+CAMPI DI INPUT DEL FLUSSO
+- venues: eventi.watchlist (lista attuale dei locali live)
+- keywords: eventi.watchlistKeywords (lista attuale delle parole chiave musicali)
+- stato: eventi.concertiExecution
+La blacklist condivisa si trova in eventi.blacklist e prevale sempre. Le watchlist sono liste di input manuali: non eliminarne, rinominarne o riordinarne le voci; non convertirne le keyword in luoghi. Se una voce è in blacklist, escludila soltanto dall'elaborazione.
+Non usare i campi dell'altro processo come input della tua watchlist.
+
+SCHEMA STATO
+L'oggetto stato del processo contiene esattamente: lastCompletedStep (stringa o null), lastCompletedAt (UTC ISO-8601 o null), cycleDate (YYYY-MM-DD o null, data in Europe/Rome di inizio ciclo), watchlistHash (stringa esadecimale o null). Inizialmente lastCompletedStep=null -> prossimo O1.
+Modifica ESCLUSIVAMENTE il tuo oggetto stato. Un campo null non segnala un'esecuzione già completata.
+
+CICLO DI RICERCA
+O1 = ricerca GENERALE nei giorni 0–4 inclusi; O2 = ricerca GENERALE nei giorni 5–9 inclusi; O3 = ricerca GENERALE nei giorni 10–14 inclusi. Queste fasi NON effettuano il giro individuale della watchlist e NON trattano ogni keyword manuale, anche se possono scoprire eventi che le riguardano incidentalmente.
+Il giorno 0 è cycleDate. Quando inizia O1 di un nuovo ciclo, imposta cycleDate alla data corrente in Europe/Rome; O2/O3 e WL riusano quella data per identificare l'orizzonte di 15 giorni. Non pubblicare eventi fuori dall'intervallo valido attuale (oggi ... oggi+14), anche se il ciclo è passato oltre la mezzanotte.
+Dopo O3 avvia WL01 se ci sono elementi eleggibili; altrimenti torna a O1. Dopo l'ultimo WLnn torna a O1.
+Se una data di ciclo è più vecchia di 2 giorni e il processo non può completare finestre ormai superate, ricomincia da O1 in un nuovo ciclo, senza cancellare eventi per mancata verifica. Documenta il riavvio.
+
+BATCH WATCHLIST — MASSIMO 10 ELEMENTI
+Costruisci sempre due array tipizzati, preservando ordine e grafia: [ {type:"venue",value:...}, ... ] dalla tua watchlist e [ {type:"keyword",value:...}, ... ] dalle tue keyword. Escludi le sole venue inequivocabilmente blacklistate dalla ricerca, ma conserva le liste originali nel JSON.
+N = numero venue eleggibili + numero keyword eleggibili. B = Math.ceil(N/10). Se N=0 non eseguire fasi WL.
+Suddividi stabilmente mantenendo separati i tipi quando possibile: bV=Math.ceil(numeroVenue/10), bK=Math.ceil(numeroKeyword/10). Se bV+bK == B, ripartisci le venue in bV gruppi bilanciati e poi le keyword in bK gruppi bilanciati; se bV+bK > B, concatena venue e keyword e ripartisci tutto in B gruppi bilanciati. Per "bilanciati": ogni gruppo contiene floor(NGruppo/BGruppi) elementi, e i primi NGRuppo % BGruppi gruppi ne contengono uno in più; ciascun gruppo deve avere 1..10 elementi. Non creare raggruppamenti arbitrari.
+Denomina i gruppi WL01, WL02, ... con progressivo a due cifre come minimo. Esempio: 27 venue e 5 keyword -> WL01, WL02, WL03 (9 venue ciascuno), WL04 (5 keyword); 21 venue sole -> tre gruppi da 7.
+Calcola watchlistHash come fingerprint FNV-1a a 32 bit della serializzazione JSON UTF-16 della sequenza ordinata di coppie [type,value] composta dalle tue due liste eleggibili. Algoritmo: h=2166136261 unsigned; per ogni unità charCodeAt della stringa JSON, h=Math.imul(h ^ code,16777619)>>>0; formatta h in 8 cifre esadecimali. Usa sempre lo stesso algoritmo.
+Al passaggio O3->WL01 registra il fingerprint della snapshot; se in una WL successiva la watchlist cambia rispetto a watchlistHash, ricostruisci i batch aggiornati e riparti da WL01; evita salti di righe. Se hai finito l'ultima WL, il passo successivo è O1.
+Per venue: ricerca mirata per nome, comune e calendario/programmazione, con verifica della fonte primaria e fallback quando manca evidenza. Per keyword: ricerca per parola chiave, varianti inequivocabili, periodo e territorio, NON ricerca di una sede o locale omonimo. Ogni batch copre tutti i 15 giorni, non soltanto O1/O2/O3.
+Durante WL elabora tutti gli elementi del batch, costruendo un registro interno con: elemento, tipo, query, fonte, risultato, eventuale fallback e stato verificato/incompleto. Se un elemento non può essere effettivamente cercato o richiede un fallback non eseguito, la fase è INCOMPLETA.
+
+REGOLA DI AVANZAMENTO / FALLIMENTI
+Una fase è COMPLETATA solo dopo tutte le ricerche previste per quella fase, validazione del JSON, commit GitHub riuscito e rilettura di conferma. Nessun evento trovato è un esito valido SE le verifiche sono state realmente eseguite.
+Se una fonte è inaccessibile, cerca almeno un'alternativa pertinente e cambia query/fonte; non interpretare "nessun risultato" come annullamento. Se il run raggiunge un limite tecnico, effettua un commit parziale solo per gli eventi verificati e NON avanzare lastCompletedStep; alla successiva esecuzione oraria riprova la stessa fase.
+Non promettere prosecuzioni oltre il tempo consentito dall'ambiente. Ogni run termina con un report dello stato reale; la schedulazione successiva fa il retry automatico leggendo il checkpoint persistente.
+Non marcare una fase come completata se una sua venue/keyword non è stata cercata o ha ricerca non conclusa. Non bloccare gli altri flussi. Non cambiare il checkpoint prima che la pubblicazione sia confermata. Un checkpoint e gli item nuovi devono essere scritti atomicamente nello STESSO commit quando la fase termina.
+Ogni run riparte esclusivamente dal checkpoint più recente su GitHub, non da memoria della chat.
+
+POLITICA INCREMENTALE E INTEGRITÀ
+1. Leggi dashboard.json su main e la relativa blob SHA. Controlla JSON, schema, liste e stato. Conserva una snapshot degli item già presenti. Non ricostruire mai da zero eventi.items.
+2. Crea candidati documentati e verificati, rispettando territorio, periodo, blacklist, schema e deduplica. Usa gli eventi esistenti solo come dati pubblicati da preservare e confrontare; non come prove nuove di una programmazione.
+3. Associa gli eventi con una chiave di confronto derivata da giorno locale + titolo normalizzato + luogo/città normalizzati; usa URL fonte e contesto per disambiguare cambi di orario o denominazione. Conflitti e duplicati richiedono verifica, non cancellazioni massive.
+4. Aggiungi gli eventi nuovi e aggiorna eventi esistenti soltanto se possiedi informazioni nuove e affidabili. Non eliminare eventi solo perché non sono stati ritrovati nella ricerca del batch. Rimuovi eventi scaduti (data locale precedente a oggi) e quelli annullati con prova attendibile; non eliminare eventi futuri appartenenti a finestre non cercate o all'altro flusso. Mantieni eventi validi entro oggi+14; per eventi oltre orizzonte non applicare cancellazioni indiscriminate.
+5. Il flusso concerti gestisce gli item la cui categoria testuale inizia con "live •"; il flusso sagre gestisce "sagra •", "festa patronale •", "mercatino •", "evento tradizionale •". Un eventuale live con artista certo trovato nel programma di una sagra può essere AGGIUNTO dal flusso sagre come eccezione, ma non deve modificare/rimuovere altri live già pubblicati; il flusso concerti ne assume poi l'aggiornamento. Deduplica trasversale obbligatoria.
+6. Le altre sezioni e l'altro stato di esecuzione devono restare IDENTICI alla versione fresca riletta immediatamente prima del write. Non alterare liste manuali o blacklist (a meno che l'utente abbia chiesto espressamente modifiche).
+7. Recupera SEMPRE dashboard.json e blob SHA fresca subito prima del write, riesegui la fusione sul documento più recente e rivalida il payload. Se hai un conflitto SHA, rileggi/reconcilia e ritenta al massimo tre scritture. Non fare force push e non sovrascrivere modifiche concorrenti.
+8. Conserva la forma della root: lastModifiedDate, timezone, games, sport, eventi. Nella sezione eventi: lastModifiedDate, watchlist, watchlistKeywords, sagreWatchlist, sagreWatchlistKeywords, blacklist, sagreExecution, concertiExecution, items. Aggiorna lastModifiedDate root ed eventi allo stesso timestamp UTC quando pubblichi.
+9. Prima del commit verifica JSON parseabile, campi obbligatori, date, link, blacklist, deduplica e classificazione dei logo. Verifica di nuovo dopo la pubblicazione rileggendo il file con GitHub. Non dichiarare PUBBLICATO senza riscontro.
+10. Per ogni evento i soli campi permessi sono: title, subtitle, dateTime, text, logo, link; linkDettagliEvento facoltativo. Non aggiungere category, city, id, source, parentEvent o altri campi ai singoli item.
+
+FORMATO EVENTI
+title breve, senza città/anno ridondanti. subtitle giorno e data in italiano e ora solo se verificata. dateTime locale Europe/Rome in formato YYYY-MM-DDTHH:mm, senza offset; se ora ignota T00:00. text = "categoria • città • luogo • dettagli" con categoria in minuscolo e solo dati verificati.
+link = URL Google Calendar precompilato (action=TEMPLATE), con titolo, descrizione, luogo, data e fuso Europe/Rome corretti. Con orario certo evento temporizzato; senza orario evento all-day. linkDettagliEvento = URL specifico HTTP(S) verificato, facoltativo.
+Non inserire immagini o URL di logo. Non inventare date, luoghi, fonti o durate.
+
+BLACKLIST E TERRITORIO
+La blacklist di eventi.blacklist prevale su ogni risultato: escludi venue, artisti, generi, organizzatori, titoli o fonti espressamente vietati, dopo normalizzazione di maiuscole, accenti e segni. Controlla tutti gli item nuovi e rivaluta quelli esistenti senza rimuoverli per semplici ambiguità. Duke Jazz Club e i concerti prevalentemente jazz rimangono esclusi secondo blacklist. Non eliminare o riscrivere la blacklist.
+Territorio: Bari, comuni entro circa 60 km, e Matera. Orizzonte per ogni ciclo 15 giorni inclusi (giorni 0..14). Per la watchlist rispetta sempre la stessa finestra temporale. Non includere eventi fuori territorio o data.
+
+CLASSIFICATORE LOGO OBBLIGATORIO — ESEGUIRE, NON SIMULARE
+Le regole sono condivise fra sagre e concerti; validare TUTTI gli item del JSON finale. Non hardcodare loghi manualmente fuori da questo codice.
+
+RICERCA SPECIFICA — CONCERTI
+In O1/O2/O3 cerca musica dal vivo, concerti, cover band e tribute/tributi, rock e altri live idonei, in luoghi e città del territorio. Usa poche query territoriali mirate per ciascun sottointervallo, poi approfondisci ciascun candidato attendibile nel relativo periodo. NON eseguire una ricerca puntuale per tutte le venue/keyword in queste tre fasi: quella è competenza WL.
+In WL venue cerca programmazione testuale ufficiale/social accessibile e ricerca alternativa per locale+comune+periodo. In WL keyword cerca la parola chiave come artista/tributo/cover nel territorio e nell'intervallo; non confonderla con venue. Ogni keyword ha ricerca dedicata anche in assenza di risultati; eventuale seconda fonte per dati obbligatori.
+Applica tutte le esclusioni musicali della blacklist: jazz prevalente, locali vietati e artisti esclusi. Non includere DJ-set generici, spettacoli senza musica dal vivo, né appuntamenti la cui natura live non sia verificata.
+Gestisci esclusivamente item "live •", salva anche live verificati nei programmi di manifestazioni quando la data e l'artista sono certi. Non modificare categorie non-live.
+
+const specificLogoRules = [
+ {logo:"KOMANDANTI",priority:500,groups:[["i komandanti","komandanti"],["vasco rossi","vasco"],["cover band","cover","tribute","tributo","omaggio"]],excludeTerms:[]},
+ {logo:"883",priority:400,groups:[["883"]],excludeTerms:[]},
+ {logo:"VASCO",priority:400,groups:[["vasco rossi","vasco"],["cover band","cover","tribute","tributo","omaggio"]],excludeTerms:[]}
+];
+const defaultLogoByCategory = {"sagra":"SAGRA","festa patronale":"PATRONALE","mercatino":"MERCATINO","live":"LIVE","evento tradizionale":"TRADIZIONE"};
+function normalizeLogoText(v){return String(v||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();}
+function ruleMatches(h,r){return r.groups.every(g=>g.some(t=>h.includes(normalizeLogoText(t)))) && !(r.excludeTerms||[]).some(t=>h.includes(normalizeLogoText(t)));}
+function classifyLogo(it){
+ const h=normalizeLogoText((it.title||"")+" "+(it.text||""));
+ const rule=[...specificLogoRules].sort((a,b)=>b.priority-a.priority).find(r=>ruleMatches(h,r));
+ if(rule)return rule.logo;
+ const c=normalizeLogoText(String(it.text||"").split("•")[0]);
+ return defaultLogoByCategory[c]||null;
+}
+function applyLogoRules(payload){
+ if(!payload.eventi||!Array.isArray(payload.eventi.items))throw Error("eventi.items non valido");
+ for(const it of payload.eventi.items){
+   const expected=classifyLogo(it);if(!expected)throw Error("logo sconosciuto: "+it.title);
+   it.logo=expected;
+ }
+}
+function validateLogoClassification(jsonText){
+ const p=JSON.parse(jsonText);
+ const allowed=new Set([...specificLogoRules.map(r=>r.logo),...Object.values(defaultLogoByCategory)]);
+ const invalid=p.eventi.items.filter(it=>!allowed.has(it.logo)||it.logo!==classifyLogo(it));
+ return {totalItems:p.eventi.items.length,validItems:p.eventi.items.length-invalid.length,invalidItems:invalid.length,invalidItemsDetail:invalid.map(it=>it.title)};
+}
+// Esegui sul payload FINALE prima del write:
+applyLogoRules(payload);
+const finalJson=JSON.stringify(payload,null,2);
+const logoValidation=validateLogoClassification(finalJson);
+if(logoValidation.invalidItems!==0)throw Error("Logo invalidi");
+
+ALTRE VALIDAZIONI E WRITE
+- Esegui realmente il classificatore sopra su payload; validateLogoClassification deve dare invalidItems=0. Il blocco di codice è parte integrante delle istruzioni; non si limita a una descrizione testuale.
+- Tutti gli item ordinati per dateTime crescente. Confronto blacklists su testo/fonte/luogo/organizzatore/URL e varianti pertinenti.
+- Verifica che tutti gli URL Calendar codifichino il giorno e l'ora corretti e che linkDettagliEvento, se presente, sia una fonte specifica.
+- Se il codice di validazione non è eseguibile, NON pubblicare.
+- Durante fase completata aggiorna lastCompletedStep con O1/O2/O3/WLxx, lastCompletedAt con UTC ora, cycleDate corretta, watchlistHash aggiornato sulla snapshot delle liste attuali (null prima di WL01 se non ancora definito). Su commit parziale non aggiornare nessuno dei quattro campi di stato.
+- Commit message nel formato ESATTO: AUTO - gg/mm/aaaa - hh:mm (Europe/Rome). Non aggiungere testo.
+- Rileggi il file pubblicato; verifica eventi.items, stato, altre sezioni, blacklist, hash liste, codice logo. Se GitHub ha un esito incerto rileggi prima di ritentare per non duplicare il commit.
+- Resoconto sempre: flusso, fase tentata, finestra data o range WL, # venue/#keyword processate, esiti incompleti, nuovi/aggiornati/rimossi, eventi totali nel JSON, SHA commit e fase successiva; esplicita NON PUBBLICATO se il write non è riuscito.
+
+NOTA DI COMPATIBILITÀ
+instruction-eventi.txt è un file storico immutato: non invocarlo con un'automazione attiva in parallelo a questi due flussi, perché imporrebbe ricostruzione completa degli item e schema privo dei nuovi checkpoint. I nuovi file di istruzioni sono autonomi.
