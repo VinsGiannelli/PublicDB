@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T12:09:02.912Z",
+  "lastModifiedDate": "2026-11-06T12:41:58.605Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T12:09:02.912Z",
+    "lastModifiedDate": "2026-11-06T12:41:58.605Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-06T11:45:40.458Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-06T12:41:58.605Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": null
     },
@@ -559,15 +559,6 @@
         "logo": "SAGRA"
       },
       {
-        "title": "Mediterranean PlayGround",
-        "subtitle": "Sabato 7 novembre • 10:00",
-        "dateTime": "2026-11-07T10:00",
-        "text": "evento tradizionale • Matera • Piazza San Giovanni XXIII • Giochi tradizionali del Mediterraneo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261107T090000Z%2F20261107T110000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
-        "logo": "TRADIZIONE"
-      },
-      {
         "title": "Festa del Cioccolato Artigianale",
         "subtitle": "Sabato 7 novembre • 10:00",
         "dateTime": "2026-11-07T10:00",
@@ -575,6 +566,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261107T100000%2F20261107T120000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Mediterranean PlayGround",
+        "subtitle": "Sabato 7 novembre • 10:00",
+        "dateTime": "2026-11-07T10:00",
+        "text": "evento tradizionale • Matera • Piazza San Giovanni XXIII • Giochi tradizionali del Mediterraneo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261107T090000Z%2F20261107T110000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
+        "logo": "TRADIZIONE"
       },
       {
         "title": "Bacco nelle Gnostre",
@@ -604,21 +604,21 @@
         "logo": "LIVE"
       },
       {
-        "title": "QUELLI del CLAN",
-        "subtitle": "Sabato 7 novembre • 21:30",
-        "dateTime": "2026-11-07T21:30",
-        "text": "live • Bari • La DolceVita Live • Tributo dal vivo a Celentano e Mina",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=QUELLI%20del%20CLAN&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&dates=20261107T203000Z%2F20261107T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/331740.html",
-        "logo": "LIVE"
-      },
-      {
         "title": "Disco Inferno Party by Phases Band",
         "subtitle": "Sabato 7 novembre • 21:30",
         "dateTime": "2026-11-07T21:30",
         "text": "live • Cassano delle Murge • La Selva di Diana • Phases Band dal vivo: disco music anni 70–2000",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Disco%20Inferno%20Party%20by%20Phases%20Band&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20La%20Selva%20di%20Diana%20%E2%80%A2%20Phases%20Band%20dal%20vivo%3A%20disco%20music%20anni%2070%E2%80%932000&location=La%20Selva%20di%20Diana%2C%20Cassano%20delle%20Murge&dates=20261107T203000Z%2F20261107T223000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335439.html",
+        "logo": "LIVE"
+      },
+      {
+        "title": "QUELLI del CLAN",
+        "subtitle": "Sabato 7 novembre • 21:30",
+        "dateTime": "2026-11-07T21:30",
+        "text": "live • Bari • La DolceVita Live • Tributo dal vivo a Celentano e Mina",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=QUELLI%20del%20CLAN&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&dates=20261107T203000Z%2F20261107T223000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/331740.html",
         "logo": "LIVE"
       },
       {
@@ -658,15 +658,6 @@
         "logo": "MERCATINO"
       },
       {
-        "title": "Mediterranean PlayGround",
-        "subtitle": "Domenica 8 novembre • 10:00",
-        "dateTime": "2026-11-08T10:00",
-        "text": "evento tradizionale • Matera • Piazza San Giovanni XXIII • Giochi tradizionali del Mediterraneo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261108T090000Z%2F20261108T110000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
-        "logo": "TRADIZIONE"
-      },
-      {
         "title": "Festa del Cioccolato Artigianale",
         "subtitle": "Domenica 8 novembre • 10:00",
         "dateTime": "2026-11-08T10:00",
@@ -674,6 +665,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261108T100000%2F20261108T120000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Mediterranean PlayGround",
+        "subtitle": "Domenica 8 novembre • 10:00",
+        "dateTime": "2026-11-08T10:00",
+        "text": "evento tradizionale • Matera • Piazza San Giovanni XXIII • Giochi tradizionali del Mediterraneo",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261108T090000Z%2F20261108T110000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
+        "logo": "TRADIZIONE"
       },
       {
         "title": "Bacco nelle Gnostre",
@@ -703,6 +703,15 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Festa patronale di San Trifone",
+        "subtitle": "Mercoledì 11 novembre • 11:00",
+        "dateTime": "2026-11-11T11:00",
+        "text": "festa patronale • Adelfia • Rione Montrone • Processione della Sacra Immagine e delle reliquie; fuochi alle 23:00",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Rione%20Montrone%20%E2%80%A2%20Processione%20della%20Sacra%20Immagine%20e%20delle%20reliquie%3B%20fuochi%20alle%2023%3A00&location=Rione%20Montrone%2C%20Adelfia&dates=20261111110000%2F20261111T130000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/san-trifone-2026/",
+        "logo": "PATRONALE"
+      },
+      {
         "title": "Black Sabbath Legacy",
         "subtitle": "Venerdì 13 novembre",
         "dateTime": "2026-11-13T00:00",
@@ -727,6 +736,15 @@
         "text": "sagra • Ruvo di Puglia • Centro storico • Stand gastronomici, folklore e musica",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20folklore%20e%20musica&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261113%2F20261114&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
+        "logo": "SAGRA"
+      },
+      {
+        "title": "Novello sotto il Castello",
+        "subtitle": "Venerdì 13 novembre • 18:00",
+        "dateTime": "2026-11-13T18:00",
+        "text": "sagra • Conversano • Centro storico • Percorso enogastronomico, vino novello, street food e musica",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%2C%20vino%20novello%2C%20street%20food%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261113180000%2F20261113T200000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
         "logo": "SAGRA"
       },
       {
@@ -766,6 +784,24 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Festa del Vino Primitivo e del Cece Nero",
+        "subtitle": "Sabato 14 novembre • 18:00",
+        "dateTime": "2026-11-14T18:00",
+        "text": "sagra • Acquaviva delle Fonti • Piazza San Paolo e Piazza Don Albertario • Stand di cece nero, vino Primitivo, castagne e musica",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Vino%20Primitivo%20e%20del%20Cece%20Nero&details=sagra%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Piazza%20San%20Paolo%20e%20Piazza%20Don%20Albertario%20%E2%80%A2%20Stand%20di%20cece%20nero%2C%20vino%20Primitivo%2C%20castagne%20e%20musica&location=Piazza%20San%20Paolo%20e%20Piazza%20Don%20Albertario%2C%20Acquaviva%20delle%20Fonti&dates=20261114180000%2F20261114T200000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/",
+        "logo": "SAGRA"
+      },
+      {
+        "title": "Novello sotto il Castello",
+        "subtitle": "Sabato 14 novembre • 18:00",
+        "dateTime": "2026-11-14T18:00",
+        "text": "sagra • Conversano • Centro storico • Percorso enogastronomico, vino novello, street food e musica",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%2C%20vino%20novello%2C%20street%20food%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261114180000%2F20261114T200000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
+        "logo": "SAGRA"
+      },
+      {
         "title": "Freddie - The Show Must Go On",
         "subtitle": "Sabato 14 novembre • 21:00",
         "dateTime": "2026-11-14T21:00",
@@ -791,6 +827,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra%20Hobbismo%20e%20Scambio&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Mercato%20San%20Filippo%20Neri%2C%20Carbonara%20%E2%80%A2%20Mostra%20mercato%20con%2045%20bancarelle%20di%20hobbismo%20e%20scambio&location=Mercato%20San%20Filippo%20Neri%2C%20Carbonara%2C%20Bari&dates=20261115T050000Z%2F20261115T070000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-carbonara-69721",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Novello sotto il Castello",
+        "subtitle": "Domenica 15 novembre • 12:00",
+        "dateTime": "2026-11-15T12:00",
+        "text": "sagra • Conversano • Centro storico • Stand enogastronomici, laboratori tradizionali e spettacoli",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%2C%20laboratori%20tradizionali%20e%20spettacoli&location=Centro%20storico%2C%20Conversano&dates=20261115120000%2F20261115T140000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
+        "logo": "SAGRA"
       }
     ]
   }
