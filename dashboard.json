@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-06T14:08:37.253Z",
+  "lastModifiedDate": "2026-11-06T14:38:47.786Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-05T21:11:32.826Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-06T14:08:37.253Z",
+    "lastModifiedDate": "2026-11-06T14:38:47.786Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-06T13:41:49.106Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-06T14:38:47.786Z",
       "cycleDate": "2026-11-06",
       "watchlistHash": "741638a5"
     },
@@ -496,6 +496,15 @@
         "logo": "LIVE"
       },
       {
+        "title": "Calici nel Borgo Antico",
+        "subtitle": "Venerdì 6 novembre",
+        "dateTime": "2026-11-06T00:00",
+        "text": "evento tradizionale • Bisceglie • Centro storico • Percorso enogastronomico con vini pugliesi, prodotti tipici e musica",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20nel%20Borgo%20Antico&dates=20261106%2F20261107&details=evento%20tradizionale%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20con%20vini%20pugliesi%2C%20prodotti%20tipici%20e%20musica&location=Centro%20storico%2C%20Bisceglie&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bisceglieviva.it/notizie/calici-nel-borgo-antico-torna-a-bisceglie-dal-6-all-8-novembre-tre-serate-tra-vini-pugliesi-gastronomia-e-musica/"
+      },
+      {
         "title": "Festa del Cioccolato Artigianale",
         "subtitle": "Venerdì 6 novembre • 10:00",
         "dateTime": "2026-11-06T10:00",
@@ -503,6 +512,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261106T100000%2F20261106T120000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Festeggiamenti di San Leonardo",
+        "subtitle": "Venerdì 6 novembre • 17:15",
+        "dateTime": "2026-11-06T17:15",
+        "text": "evento tradizionale • Monopoli • Chiesa di San Leonardo, borgo antico • Festeggiamenti tradizionali con banda, celebrazione religiosa e intrattenimento musicale",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festeggiamenti%20di%20San%20Leonardo&dates=20261106T161500Z%2F20261106T181500Z&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Chiesa%20di%20San%20Leonardo%2C%20borgo%20antico%20%E2%80%A2%20Festeggiamenti%20tradizionali%20con%20banda%2C%20celebrazione%20religiosa%20e%20intrattenimento%20musicale&location=Chiesa%20di%20San%20Leonardo%2C%20borgo%20antico%2C%20Monopoli&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334708.html"
       },
       {
         "title": "Mediterranean PlayGround",
@@ -575,6 +593,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d'Autunno&details=sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20gastronomica%20con%20prodotti%20tipici&location=Centro%20storico%2C%20Binetto&dates=20261107%2F20261108&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://trovasagre.com/evento/sapori-dautunno-binetto-ba-2026",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Calici nel Borgo Antico",
+        "subtitle": "Sabato 7 novembre",
+        "dateTime": "2026-11-07T00:00",
+        "text": "evento tradizionale • Bisceglie • Centro storico • Percorso enogastronomico con vini pugliesi, prodotti tipici e musica",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20nel%20Borgo%20Antico&dates=20261107%2F20261108&details=evento%20tradizionale%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20con%20vini%20pugliesi%2C%20prodotti%20tipici%20e%20musica&location=Centro%20storico%2C%20Bisceglie&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bisceglieviva.it/notizie/calici-nel-borgo-antico-torna-a-bisceglie-dal-6-all-8-novembre-tre-serate-tra-vini-pugliesi-gastronomia-e-musica/"
       },
       {
         "title": "Festa del Cioccolato Artigianale",
@@ -665,6 +692,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gozzovigliando&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Porto%20Vecchio%20%E2%80%A2%20Gozzi%2C%20tradizioni%20marinare%20e%20mercatini&location=Porto%20Vecchio%2C%20Monopoli&dates=20261108%2F20261109&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://monopolix.it/gozzovigliando-2026",
         "logo": "TRADIZIONE"
+      },
+      {
+        "title": "Calici nel Borgo Antico",
+        "subtitle": "Domenica 8 novembre",
+        "dateTime": "2026-11-08T00:00",
+        "text": "evento tradizionale • Bisceglie • Centro storico • Percorso enogastronomico con vini pugliesi, prodotti tipici e musica",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20nel%20Borgo%20Antico&dates=20261108%2F20261109&details=evento%20tradizionale%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20con%20vini%20pugliesi%2C%20prodotti%20tipici%20e%20musica&location=Centro%20storico%2C%20Bisceglie&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bisceglieviva.it/notizie/calici-nel-borgo-antico-torna-a-bisceglie-dal-6-all-8-novembre-tre-serate-tra-vini-pugliesi-gastronomia-e-musica/"
       },
       {
         "title": "Fiera del Crocifisso",
