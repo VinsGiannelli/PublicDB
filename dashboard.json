@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T01:06:15.000Z",
+  "lastModifiedDate": "2026-11-07T01:40:02.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T01:06:15.000Z",
+    "lastModifiedDate": "2026-11-07T01:40:02.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-07T00:43:11.763Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-07T01:40:02.000Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -1007,6 +1007,33 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesca%20Michielin&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Live%20nei%20Teatri%202026%2C%20concerto%20pop%20con%20band%20dal%20vivo&location=Teatro%20Petruzzelli%2C%20Corso%20Cavour%2C%20Bari&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330267.html",
         "logo": "LIVE"
+      },
+      {
+        "title": "Il Cardoncello Novello",
+        "subtitle": "Sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "sagra • Gravina in Puglia • Centro storico • Fungo cardoncello, vino novello e musica popolare",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Cardoncello%20Novello&details=sagra%20%E2%80%A2%20Gravina%20in%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Fungo%20cardoncello%2C%20vino%20novello%20e%20musica%20popolare&location=%20Gravina%20in%20Puglia%20%2C%20Centro%20storico%20&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.gravinalife.it/eventi/a-gravina-sagra-del-fungo-cardoncello/"
+      },
+      {
+        "title": "San Martino – Ogni mosto diventa vino",
+        "subtitle": "Sabato 21 novembre, ore 19:00",
+        "dateTime": "2026-11-21T19:00",
+        "text": "sagra • Putignano • Centro storico, Piazza Teatro • Vini pugliesi, gastronomia e caldarroste",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20%E2%80%93%20Ogni%20mosto%20diventa%20vino&details=sagra%20%E2%80%A2%20Putignano%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Teatro%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%20e%20caldarroste&location=%20Putignano%20%2C%20Centro%20storico%2C%20Piazza%20Teatro%20&dates=20261121T190000%2F20261121T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335026.html"
+      },
+      {
+        "title": "Terraross",
+        "subtitle": "Sabato 21 novembre, ore 21:30",
+        "dateTime": "2026-11-21T21:30",
+        "text": "live • Putignano • Piazza Teatro • Concerto alla festa di San Martino",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terraross&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20Piazza%20Teatro%20%E2%80%A2%20Concerto%20alla%20festa%20di%20San%20Martino&location=%20Putignano%20%2C%20Piazza%20Teatro%20&dates=20261121T213000%2F20261121T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335026.html"
       }
     ]
   }
