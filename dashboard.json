@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T20:40:47.950Z",
+  "lastModifiedDate": "2026-11-07T21:12:18.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T20:40:47.950Z",
+    "lastModifiedDate": "2026-11-07T21:12:18.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL02",
-      "lastCompletedAt": "2026-11-07T20:12:40.000Z",
+      "lastCompletedStep": "WL03",
+      "lastCompletedAt": "2026-11-07T21:12:18.000Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": "4ee97ad2"
     },
@@ -820,6 +820,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Nuovo%20Mondo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Auditorium%20Nino%20Rota%20%E2%80%A2%20Concerto%20dell'Orchestra%20Sinfonica%20Metropolitana%20di%20Bari&location=Auditorium%20Nino%20Rota%2C%20Bari&dates=20261112T200000%2F20261112T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ticketone.it/city/bari-221/venue/auditorium-nino-rota-87752/"
+      },
+      {
+        "title": "La JAM Session del Santo Graal",
+        "subtitle": "Giovedì 12 novembre, ore 21:30",
+        "dateTime": "2026-11-12T21:30",
+        "text": "live • Trani • Santo Graal • Jam session con resident band Rainbow Bridge",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20JAM%20Session%20del%20Santo%20Graal&dates=20261112T213000%2F20261112T233000&ctz=Europe%2FRome&details=Jam%20session%20con%20resident%20band%20Rainbow%20Bridge&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335412.html"
       },
       {
         "title": "Black Sabbath Legacy",
