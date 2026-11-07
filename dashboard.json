@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T15:08:00.000Z",
+  "lastModifiedDate": "2026-11-07T15:43:45.362Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T15:08:00.000Z",
+    "lastModifiedDate": "2026-11-07T15:43:45.362Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-07T14:36:20.518Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-07T15:43:45.362Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -910,6 +910,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Freddie%20-%20The%20Show%20Must%20Go%20On&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20AncheCinema%20%E2%80%A2%20Spettacolo%20tributo%20a%20Freddie%20Mercury%20con%20musica%20dal%20vivo&location=AncheCinema%2C%20Corso%20Italia%20112%2C%20Bari&dates=20261114T210000%2F20261114T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/329997.html",
         "logo": "LIVE"
+      },
+      {
+        "title": "Festa di San Martino – Cibo, musica e divertimento",
+        "subtitle": "Sabato 14 novembre, ore 21:00",
+        "dateTime": "2026-11-14T21:00",
+        "text": "sagra • Locorotondo • Contrada Lamie di Olimpia • Vino novello, castagne, salsiccia, artigianato e musica dal vivo",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Martino%20%E2%80%93%20Cibo%2C%20musica%20e%20divertimento&details=Festa%20di%20San%20Martino%20con%20gastronomia%2C%20artigianato%20e%20musica%20dal%20vivo&location=Contrada%20Lamie%20di%20Olimpia%2C%20Locorotondo%20(BA)&dates=20261114T210000%2F20261114T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335684.html"
       },
       {
         "title": "POVERI MA RICCHI...DENTRO",
