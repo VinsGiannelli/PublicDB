@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T20:12:40.000Z",
+  "lastModifiedDate": "2026-11-07T20:40:47.950Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T20:12:40.000Z",
+    "lastModifiedDate": "2026-11-07T20:40:47.950Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-07T19:37:03.654Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-07T20:40:47.950Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -712,6 +712,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261108T090000Z%2F20261108T110000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
         "logo": "TRADIZIONE"
+      },
+      {
+        "title": "Fiera delle Autoproduzioni",
+        "subtitle": "Domenica 8 novembre, ore 10:00",
+        "dateTime": "2026-11-08T10:00",
+        "text": "mercatino • Bisceglie • Corso Umberto I • Artigianato e autoproduzioni locali, dalle 10:00 alle 20:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20delle%20Autoproduzioni&details=mercatino%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Corso%20Umberto%20I%20%E2%80%A2%20Artigianato%20e%20autoproduzioni%20locali%2C%20dalle%2010%3A00%20alle%2020%3A00&location=Corso%20Umberto%20I%2C%20Bisceglie&dates=20261108T100000%2F20261108T200000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bisceglie/fiera-delle-autoproduzioni-136071"
       },
       {
         "title": "Bacco nelle Gnostre",
