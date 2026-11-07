@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T01:51:34.000Z",
+  "lastModifiedDate": "2026-11-07T02:06:07.334Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T01:40:02.000Z",
+    "lastModifiedDate": "2026-11-07T02:06:07.334Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-07T01:06:15.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-07T02:06:07.334Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -703,6 +703,15 @@
         "logo": "PATRONALE"
       },
       {
+        "title": "Il Nuovo Mondo",
+        "subtitle": "Giovedì 12 novembre, ore 20:00",
+        "dateTime": "2026-11-12T20:00",
+        "text": "live • Bari • Auditorium Nino Rota • Concerto dell'Orchestra Sinfonica Metropolitana di Bari",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Nuovo%20Mondo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Auditorium%20Nino%20Rota%20%E2%80%A2%20Concerto%20dell'Orchestra%20Sinfonica%20Metropolitana%20di%20Bari&location=Auditorium%20Nino%20Rota%2C%20Bari&dates=20261112T200000%2F20261112T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ticketone.it/city/bari-221/venue/auditorium-nino-rota-87752/"
+      },
+      {
         "title": "Black Sabbath Legacy",
         "subtitle": "Venerdì 13 novembre",
         "dateTime": "2026-11-13T00:00",
@@ -818,6 +827,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20folklore%20e%20musica&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261114%2F20261115&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Toni Zeno",
+        "subtitle": "Sabato 14 novembre",
+        "dateTime": "2026-11-14T00:00",
+        "text": "live • Bari • Spazio 13 • Concerto rap con Gentle T e Zeboh",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Toni%20Zeno&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Spazio%2013%20%E2%80%A2%20Concerto%20rap%20con%20Gentle%20T%20e%20Zeboh&location=Spazio%2013%2C%20Bari&dates=20261114%2F20261115&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.concertino.fm/en/events/seqfhl"
       },
       {
         "title": "Mercatino degli Scambi, Collezionismo e Artigianato",
