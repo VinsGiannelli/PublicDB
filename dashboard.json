@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T07:12:27.182Z",
+  "lastModifiedDate": "2026-11-07T07:36:10.030Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T07:12:27.182Z",
+    "lastModifiedDate": "2026-11-07T07:36:10.030Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-07T06:45:16.567Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-07T07:36:10.030Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -1070,6 +1070,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20%E2%80%93%20Ogni%20mosto%20diventa%20vino&details=sagra%20%E2%80%A2%20Putignano%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Teatro%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%20e%20caldarroste&location=%20Putignano%20%2C%20Centro%20storico%2C%20Piazza%20Teatro%20&dates=20261121T190000%2F20261121T210000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335026.html"
+      },
+      {
+        "title": "I Calici di San Martino",
+        "subtitle": "Sabato 21 novembre • 19:30",
+        "dateTime": "2026-11-21T19:30",
+        "text": "evento tradizionale • Gioia del Colle • Centro storico • Percorso enogastronomico dedicato al Primitivo e ai prodotti tipici",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Calici%20di%20San%20Martino&details=evento%20tradizionale%20%E2%80%A2%20Gioia%20del%20Colle%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20dedicato%20al%20Primitivo%20e%20ai%20prodotti%20tipici&location=Centro%20storico%2C%20Gioia%20del%20Colle&dates=20261121T193000%2F20261121T213000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.istintoprimitivo.it/index.php/tutti-gli-eventi/2468-calici-di-san-martino/2026-11-21-19-30"
       },
       {
         "title": "Sonoria Live Band e Filippo Alberga",
