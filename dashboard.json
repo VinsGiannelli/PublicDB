@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T14:07:53.718Z",
+  "lastModifiedDate": "2026-11-07T14:36:20.518Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T14:07:53.718Z",
+    "lastModifiedDate": "2026-11-07T14:36:20.518Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-07T13:44:24.436Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-07T14:36:20.518Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -721,6 +721,24 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Rione%20Montrone%20%E2%80%A2%20Processione%20della%20Sacra%20Immagine%20e%20delle%20reliquie%3B%20fuochi%20alle%2023%3A00&location=Rione%20Montrone%2C%20Adelfia&dates=20261111110000%2F20261111T130000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/san-trifone-2026/",
         "logo": "PATRONALE"
+      },
+      {
+        "title": "San Martino – Ogni mosto è un vino",
+        "subtitle": "Mercoledì 11 novembre, ore 19:00",
+        "dateTime": "2026-11-11T19:00",
+        "text": "sagra • Santeramo in Colle • Piazza Garibaldi • Festa di San Martino con vino novello, balli e tradizioni locali",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20%E2%80%93%20Ogni%20mosto%20%C3%A8%20un%20vino&dates=20261111T190000%2F20261111T210000&details=sagra%20%E2%80%A2%20Santeramo%20in%20Colle%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Festa%20di%20San%20Martino%20con%20vino%20novello%2C%20balli%20e%20tradizioni%20locali&location=Piazza%20Garibaldi%2C%20Santeramo%20in%20Colle&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.istintoprimitivo.it/index.php/tutti-gli-eventi/2496-san-martino-ogni-mosto-e-vino-2026/2026-11-11-19-00"
+      },
+      {
+        "title": "San Martino Cibo e Vino – 2ª Edizione",
+        "subtitle": "Mercoledì 11 novembre, ore 19:30",
+        "dateTime": "2026-11-11T19:30",
+        "text": "sagra • Casamassima • Lattavino in Vigna • Vini locali e specialità gastronomiche del territorio",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20Cibo%20e%20Vino%20%E2%80%93%202%C2%AA%20Edizione&dates=20261111T193000%2F20261111T213000&details=sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Lattavino%20in%20Vigna%20%E2%80%A2%20Vini%20locali%20e%20specialit%C3%A0%20gastronomiche%20del%20territorio&location=Lattavino%20in%20Vigna%2C%20Circonvallazione%20F.%20Latilla%2C%20Casamassima&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/casamassima/san-martino-cibo-e-vino-2-edizione-134481"
       },
       {
         "title": "Il Nuovo Mondo",
