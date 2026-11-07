@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T00:07:33.210Z",
+  "lastModifiedDate": "2026-11-07T00:43:11.763Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T00:07:33.210Z",
+    "lastModifiedDate": "2026-11-07T00:43:11.763Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-06T23:44:08.138Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-07T00:43:11.763Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -477,114 +477,6 @@
       "watchlistHash": "3ab9b5d6"
     },
     "items": [
-      {
-        "title": "Maxie Freeman",
-        "subtitle": "Venerdì 6 novembre",
-        "dateTime": "2026-11-06T00:00",
-        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Concerto rock blues",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maxie%20Freeman&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Concerto%20rock%20blues&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261106%2F20261107&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://andiamoinpuglia.it/eventi/maxie-freeman-live-cassano-delle-murge-2026/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Calici nel Borgo Antico",
-        "subtitle": "Venerdì 6 novembre",
-        "dateTime": "2026-11-06T00:00",
-        "text": "evento tradizionale • Bisceglie • Centro storico • Percorso enogastronomico con vini pugliesi, prodotti tipici e musica",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20nel%20Borgo%20Antico&dates=20261106%2F20261107&details=evento%20tradizionale%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20con%20vini%20pugliesi%2C%20prodotti%20tipici%20e%20musica&location=Centro%20storico%2C%20Bisceglie&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.bisceglieviva.it/notizie/calici-nel-borgo-antico-torna-a-bisceglie-dal-6-all-8-novembre-tre-serate-tra-vini-pugliesi-gastronomia-e-musica/"
-      },
-      {
-        "title": "Festa del Cioccolato Artigianale",
-        "subtitle": "Venerdì 6 novembre • 10:00",
-        "dateTime": "2026-11-06T10:00",
-        "text": "sagra • Bari • Piazza Umberto I • Maestri cioccolatieri e laboratori",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261106T100000%2F20261106T120000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Festeggiamenti di San Leonardo",
-        "subtitle": "Venerdì 6 novembre • 17:15",
-        "dateTime": "2026-11-06T17:15",
-        "text": "evento tradizionale • Monopoli • Chiesa di San Leonardo, borgo antico • Festeggiamenti tradizionali con banda, celebrazione religiosa e intrattenimento musicale",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festeggiamenti%20di%20San%20Leonardo&dates=20261106T161500Z%2F20261106T181500Z&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Chiesa%20di%20San%20Leonardo%2C%20borgo%20antico%20%E2%80%A2%20Festeggiamenti%20tradizionali%20con%20banda%2C%20celebrazione%20religiosa%20e%20intrattenimento%20musicale&location=Chiesa%20di%20San%20Leonardo%2C%20borgo%20antico%2C%20Monopoli&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334708.html"
-      },
-      {
-        "title": "Mediterranean PlayGround",
-        "subtitle": "Venerdì 6 novembre • 18:30",
-        "dateTime": "2026-11-06T18:30",
-        "text": "evento tradizionale • Matera • Piazza San Giovanni XXIII • Giochi tradizionali del Mediterraneo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261106T173000Z%2F20261106T193000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
-        "logo": "TRADIZIONE"
-      },
-      {
-        "title": "HalloWine – Notti di Vino e Magia",
-        "subtitle": "Venerdì 6 novembre • 20:00",
-        "dateTime": "2026-11-06T20:00",
-        "text": "evento tradizionale • Casamassima • Borgo Antico • Degustazioni e stand gastronomici",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine%20%E2%80%93%20Notti%20di%20Vino%20e%20Magia&details=evento%20tradizionale%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20Antico%20%E2%80%A2%20Degustazioni%20e%20stand%20gastronomici&location=Borgo%20Antico%2C%20Casamassima&dates=20261106T200000%2F20261106T220000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333998.html",
-        "logo": "TRADIZIONE"
-      },
-      {
-        "title": "PARTENOPEA TRIO",
-        "subtitle": "Venerdì 6 novembre • 20:30",
-        "dateTime": "2026-11-06T20:30",
-        "text": "live • Bari • La DolceVita Live • Trio dal vivo con repertorio di musica napoletana",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PARTENOPEA%20TRIO&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Trio%20dal%20vivo%20con%20repertorio%20di%20musica%20napoletana&location=La%20DolceVita%20Live%2C%20Bari&dates=20261106T203000%2F20261106T223000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.upposto.it/eventi/cmuqinob2009ju6m9eua6lcof",
-        "logo": "LIVE"
-      },
-      {
-        "title": "I Komandanti",
-        "subtitle": "Venerdì 6 novembre, ore 21:00",
-        "dateTime": "2026-11-06T21:00",
-        "text": "live • Bari • Piazzale Lorusso • Cover band di Vasco Rossi al Monster Day, concerto dalle 21:00 alle 23:00",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Komandanti%20%E2%80%93%20Vasco%20Rossi%20Tribute&details=Concerto%20live%20al%20Monster%20Day&location=Piazzale%20Lorusso%2C%20Bari&dates=20261106T210000%2F20261106T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.giornaledipuglia.com/2026/10/monster-day-dal-6-all8-novembre-la.html",
-        "logo": "KOMANDANTI"
-      },
-      {
-        "title": "Sex Force One Rock '80",
-        "subtitle": "Venerdì 6 novembre • 21:00",
-        "dateTime": "2026-11-06T21:00",
-        "text": "live • Bari • Black Horses Pub • Concerto rock anni Ottanta",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sex%20Force%20One%20Rock%20'80&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Concerto%20rock%20anni%20Ottanta&location=Black%20Horses%20Pub%2C%20Bari&dates=20261106T210000%2F20261106T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335268.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Na Tazzulella 'e Blues – Pino Daniele Tribute",
-        "subtitle": "Venerdì 6 novembre, ore 21:00",
-        "dateTime": "2026-11-06T21:00",
-        "text": "live • Bisceglie • Ristorante da Sergio e Davide • Tributo dal vivo a Pino Daniele con Perla Catucci, ingresso libero",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Na%20Tazzulella%20'e%20Blues%20%E2%80%93%20Pino%20Daniele%20Tribute&details=Tributo%20live%20a%20Pino%20Daniele%20con%20Perla%20Catucci&location=Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie&dates=20261106T210000%2F20261106T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.perlacatucci.it/gallery-4-columns-widejoined/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "I Vaskomodi – Vasco Rossi Tribute",
-        "subtitle": "Venerdì 6 novembre • 21:30",
-        "dateTime": "2026-11-06T21:30",
-        "text": "live • Monopoli • Ostinati, Via Sant'Angelo 25 • Tributo dal vivo a Vasco Rossi",
-        "logo": "VASCO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi%20%E2%80%93%20Vasco%20Rossi%20Tribute&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%2C%20Via%20Sant'Angelo%2025%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Vasco%20Rossi&location=Ostinati%2C%20Via%20Sant'Angelo%2025%2C%20Monopoli&dates=20261106T213000%2F20261106T233000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333813.html"
-      },
-      {
-        "title": "Roy Rogers – 883 Tribute",
-        "subtitle": "Venerdì 6 novembre • 22:15",
-        "dateTime": "2026-11-06T22:15",
-        "text": "live • Matera • Midnight Pub Live • Tributo agli 883 dal vivo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Roy%20Rogers%20%E2%80%93%20883%20Tribute&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20agli%20883%20dal%20vivo&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261106T211500Z%2F20261106T231500Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/events/",
-        "logo": "883"
-      },
       {
         "title": "HalloWine – Notti di Vino e Magia",
         "subtitle": "Sabato 7 novembre",
