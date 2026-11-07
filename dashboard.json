@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T04:38:17.595Z",
+  "lastModifiedDate": "2026-11-07T05:14:25.520Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T04:38:17.595Z",
+    "lastModifiedDate": "2026-11-07T05:14:25.520Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL01",
-      "lastCompletedAt": "2026-11-07T04:08:48.506Z",
+      "lastCompletedStep": "WL02",
+      "lastCompletedAt": "2026-11-07T05:14:25.520Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": "4ee97ad2"
     },
@@ -1070,6 +1070,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20%E2%80%93%20Ogni%20mosto%20diventa%20vino&details=sagra%20%E2%80%A2%20Putignano%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Teatro%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%20e%20caldarroste&location=%20Putignano%20%2C%20Centro%20storico%2C%20Piazza%20Teatro%20&dates=20261121T190000%2F20261121T210000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335026.html"
+      },
+      {
+        "title": "Sonoria Live Band e Filippo Alberga",
+        "subtitle": "Sabato 21 novembre, ore 20:30",
+        "dateTime": "2026-11-21T20:30",
+        "text": "live • Bari • Mulata Latin Social Club • Cena spettacolo con musica dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonoria%20Live%20Band%20e%20Filippo%20Alberga&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Mulata%20Latin%20Social%20Club%20%E2%80%A2%20Cena%20spettacolo%20con%20musica%20dal%20vivo&location=Mulata%20Latin%20Social%20Club%2C%20Strada%20La%20Grava%2012%2C%20Bari&dates=20261121T203000%2F20261121T223000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://nightz.it/eventi/cena-spettacolo-con-sonoria-live-band/"
       },
       {
         "title": "Terraross",
