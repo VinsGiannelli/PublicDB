@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T19:37:03.654Z",
+  "lastModifiedDate": "2026-11-07T20:12:40.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T19:37:03.654Z",
+    "lastModifiedDate": "2026-11-07T20:12:40.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL01",
-      "lastCompletedAt": "2026-11-07T19:12:00.000Z",
+      "lastCompletedStep": "WL02",
+      "lastCompletedAt": "2026-11-07T20:12:40.000Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": "4ee97ad2"
     },
@@ -586,6 +586,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frask%C3%A8t%20%E2%80%93%20Live%20Cena%20Spettacolo&dates=20261107T203000%2F20261107T223000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Fix%20it%20Culture%20-%20City%20Club%20%E2%80%A2%20Musica%20inedita%20e%20cover%20dal%20vivo%20con%20ospite%20Bala%3B%20apertura%20ore%2020%3A30&location=Fix%20it%20Culture%2C%20Viale%20Einaudi%2060%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335465.html"
+      },
+      {
+        "title": "80’s Dinner Show – Miguel La Formula",
+        "subtitle": "Sabato 7 novembre • 20:30",
+        "dateTime": "2026-11-07T20:30",
+        "text": "live • Bari • Mulata Latin Social Club • 80’s Dinner Show con percussioni e musica dal vivo di Miguel La Formula; inizio serata alle 20:30",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=80%E2%80%99s%20Dinner%20Show%20%E2%80%93%20Miguel%20La%20Formula&dates=20261107T203000%2F20261107T223000&ctz=Europe%2FRome&location=Mulata%20Latin%20Social%20Club%2C%20Strada%20La%20Grava%2012%2C%20Bari&details=Serata%20anni%2080%20con%20percussioni%20e%20musica%20dal%20vivo%20di%20Miguel%20La%20Formula.%20Inizio%20serata%20ore%2020%3A30%3B%20orario%20esatto%20del%20live%20non%20specificato.",
+        "linkDettagliEvento": "https://nightz.it/eventi/80s-dinner-show/"
       },
       {
         "title": "Rekkiabilly",
