@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T02:06:07.334Z",
+  "lastModifiedDate": "2026-11-07T02:37:38.811Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T02:06:07.334Z",
+    "lastModifiedDate": "2026-11-07T02:37:38.811Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-07T01:40:02.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-07T02:37:38.811Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -683,6 +683,15 @@
         "logo": "PATRONALE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Rione%20Montrone%20%E2%80%A2%20Processione%20del%20Quadro%20di%20San%20Trifone%20e%20lancio%20della%20mongolfiera&location=Rione%20Montrone%2C%20Adelfia&dates=20261109T193000/20261109T203000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/san-trifone-2026/"
+      },
+      {
+        "title": "Solennità di San Leone Magno",
+        "subtitle": "Martedì 10 novembre",
+        "dateTime": "2026-11-10T00:00",
+        "text": "festa patronale • Castellana Grotte • Chiesa Madre di San Leone Magno • Celebrazioni solenni e benedizione delle porte restaurate della chiesa",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Solennit%C3%A0%20di%20San%20Leone%20Magno&dates=20261110%2F20261111&ctz=Europe%2FRome&details=festa%20patronale%20%E2%80%A2%20Castellana%20Grotte%20%E2%80%A2%20Chiesa%20Madre%20di%20San%20Leone%20Magno%20%E2%80%A2%20Celebrazioni%20solenni%20e%20benedizione%20delle%20porte%20restaurate%20della%20chiesa&location=Chiesa%20Madre%20di%20San%20Leone%20Magno%2C%20Castellana%20Grotte",
+        "linkDettagliEvento": "https://www.vivicastellanagrotte.it/index.php/cultura/eventi/23819-festeggiamenti-in-onore-di-san-leone-magno"
       },
       {
         "title": "Festa patronale di San Trifone",
