@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T07:36:10.030Z",
+  "lastModifiedDate": "2026-11-07T08:08:57.903Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T07:36:10.030Z",
+    "lastModifiedDate": "2026-11-07T08:08:57.903Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,10 +471,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-07T07:12:27.182Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-07T08:08:57.903Z",
       "cycleDate": "2026-11-07",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": null
     },
     "items": [
       {
@@ -557,6 +557,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20Libero%20%E2%80%93%20Omaggio%20a%20Battisti%20e%20Mogol&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Concerto%20tributo%20a%20Battisti%20e%20Mogol&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261107203000%2F20261107223000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://auroraeventi.net/eventi/canto-libero-canto-libero-omaggio-alle-canzoni-di-battisti-e-mogol-bari-teatro-petruzzelli-07-11-2026-20-30/"
+      },
+      {
+        "title": "Da Casella all’Antica a Stravinsky",
+        "subtitle": "Sabato 7 novembre, ore 20:30",
+        "dateTime": "2026-11-07T20:30",
+        "text": "live • Matera • Auditorium R. Gervasio • Orchestra Sinfonica di Matera, Andrea Di Cecca al pianoforte, direzione Pasquale Corrado",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Da%20Casella%20all%E2%80%99Antica%20a%20Stravinsky&dates=20261107T203000%2F20261107T223000&ctz=Europe%2FRome&details=Concerto%20sinfonico%20con%20Andrea%20Di%20Cecca%20e%20Pasquale%20Corrado&location=Auditorium%20R.%20Gervasio%2C%20Matera",
+        "linkDettagliEvento": "https://www.orchestrasinfonicamatera.it/calendario/"
       },
       {
         "title": "Disco Inferno Party by Phases Band",
