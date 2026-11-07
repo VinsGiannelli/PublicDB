@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T12:14:38.592Z",
+  "lastModifiedDate": "2026-11-07T12:42:32.950Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T12:14:38.592Z",
+    "lastModifiedDate": "2026-11-07T12:42:32.950Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-07T11:39:54.401Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-07T12:42:32.950Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -946,6 +946,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=L'Artigianato%20per%20il%20Sociale&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mostra%20mercato%20di%20artigianato%20locale%20e%20riciclo%20con%20finalit%C3%A0%20sociali&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261115T060000%2F20261115T160000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/l-artigianato-per-il-sociale-88121"
+      },
+      {
+        "title": "Fiera del Crocifisso",
+        "subtitle": "Domenica 15 novembre, ore 07:00",
+        "dateTime": "2026-11-15T07:00",
+        "text": "mercatino • Modugno • Centro urbano e Piazza Sedile • Fiera tradizionale con bancarelle, prodotti tipici, antiquariato e artigianato",
+        "logo": "MERCATINO",
+        "link": "https://www.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&dates=20261115T070000/20261115T190000&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20urbano%20e%20Piazza%20Sedile%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle%2C%20prodotti%20tipici%2C%20antiquariato%20e%20artigianato&location=Centro%20urbano%2C%20Modugno",
+        "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/fiera-del-crocifisso-2026-spazi-espositivi-per-hobbisti/"
       },
       {
         "title": "Mercatino degli Scambi, Collezionismo e Artigianato",
