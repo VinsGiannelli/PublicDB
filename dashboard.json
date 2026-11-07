@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T09:38:38.000Z",
+  "lastModifiedDate": "2026-11-07T10:06:27.831Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T09:38:38.000Z",
+    "lastModifiedDate": "2026-11-07T10:06:27.831Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-07T09:12:07.334Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-07T10:06:27.831Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -1072,6 +1072,15 @@
         "linkDettagliEvento": "https://www.gravinalife.it/eventi/a-gravina-sagra-del-fungo-cardoncello/"
       },
       {
+        "title": "Fallen – Evanescence Tribute",
+        "subtitle": "sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "live • Matera • Midnight Pub Live • Tributo dal vivo agli Evanescence",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fallen%20%E2%80%93%20Evanescence%20Tribute&details=Tributo%20dal%20vivo%20agli%20Evanescence&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.tributenation.it/event/fallen-live-midnight-club-mt/"
+      },
+      {
         "title": "San Martino – Ogni mosto diventa vino",
         "subtitle": "Sabato 21 novembre, ore 19:00",
         "dateTime": "2026-11-21T19:00",
@@ -1097,6 +1106,24 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonoria%20Live%20Band%20e%20Filippo%20Alberga&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Mulata%20Latin%20Social%20Club%20%E2%80%A2%20Cena%20spettacolo%20con%20musica%20dal%20vivo&location=Mulata%20Latin%20Social%20Club%2C%20Strada%20La%20Grava%2012%2C%20Bari&dates=20261121T203000%2F20261121T223000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://nightz.it/eventi/cena-spettacolo-con-sonoria-live-band/"
+      },
+      {
+        "title": "YELLOW RIVER",
+        "subtitle": "sabato 21 novembre, ore 21:00",
+        "dateTime": "2026-11-21T21:00",
+        "text": "live • Matera • Auditorium Raffaele Gervasio • Sophia Liu al pianoforte e Orchestra ICO Magna Grecia diretta da Gianluca Marcianò",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=YELLOW%20RIVER&details=Sophia%20Liu%20al%20pianoforte%20e%20Orchestra%20ICO%20Magna%20Grecia%20diretta%20da%20Gianluca%20Marcian%C3%B2&location=Auditorium%20Raffaele%20Gervasio%2C%20Matera&dates=20261121T210000%2F20261121T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.orchestramagnagrecia.info/events/categoria/spettacolo/mese/"
+      },
+      {
+        "title": "Celentano – The Tribute Show",
+        "subtitle": "sabato 21 novembre, ore 21:00",
+        "dateTime": "2026-11-21T21:00",
+        "text": "live • Bari • Teatro Showville • Tributo musicale ad Adriano Celentano",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Celentano%20%E2%80%93%20The%20Tribute%20Show&details=Tributo%20musicale%20ad%20Adriano%20Celentano&location=Teatro%20Showville%2C%20Bari&dates=20261121T210000%2F20261121T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.cittando.com/it/eventi/bari/concerti"
       },
       {
         "title": "Terraross",
