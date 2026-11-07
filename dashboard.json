@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T02:37:38.811Z",
+  "lastModifiedDate": "2026-11-07T03:10:23.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T02:37:38.811Z",
+    "lastModifiedDate": "2026-11-07T03:10:23.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,8 +471,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-07T02:06:07.334Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-07T03:10:23.000Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -1009,6 +1009,15 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Kateryna Ukhatiuk – Le star del futuro",
+        "subtitle": "Venerdì 20 novembre • ore 11:00",
+        "dateTime": "2026-11-20T11:00",
+        "text": "live • Bari • Teatro Kursaal Santa Lucia, Bari • Recital pianistico con musiche di Prokof'ev e Liszt",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kateryna%20Ukhatiuk%20%E2%80%93%20Le%20star%20del%20futuro&dates=20261120T110000%2F20261120T120000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Prokof'ev%20e%20Liszt&location=Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333699.html"
+      },
+      {
         "title": "Villaggio di Natale – Inaugurazione",
         "subtitle": "Venerdì 20 novembre • 18:00",
         "dateTime": "2026-11-20T18:00",
@@ -1025,6 +1034,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20%E2%80%93%20Ogni%20mosto%20diventa%20vino&details=sagra%20%E2%80%A2%20Putignano%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Teatro%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%2C%20caldarroste%20e%20spettacoli&location=Centro%20storico%2C%20Piazza%20Teatro%2C%20Putignano&dates=20261120T190000%2F20261120T210000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.puglialive.net/putignano-20-e-21-novembre-la-quinta-edizione-di-san-martino/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Pierluigi Camicia – Star internazionali",
+        "subtitle": "Venerdì 20 novembre • ore 20:00",
+        "dateTime": "2026-11-20T20:00",
+        "text": "live • Bari • Teatro Kursaal Santa Lucia, Bari • Recital pianistico con musiche di Bach, Mozart, Schumann, Brahms e Ravel",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pierluigi%20Camicia%20%E2%80%93%20Star%20internazionali&dates=20261120T200000%2F20261120T210000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Bach%2C%20Mozart%2C%20Schumann%2C%20Brahms%20e%20Ravel&location=Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333818.html"
       },
       {
         "title": "Francesca Michielin",
