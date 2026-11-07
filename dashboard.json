@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T17:38:44.897Z",
+  "lastModifiedDate": "2026-11-07T18:06:29.784Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T17:38:44.897Z",
+    "lastModifiedDate": "2026-11-07T18:06:29.784Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-07T17:11:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-07T18:06:29.784Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
@@ -1126,6 +1126,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesca%20Michielin&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Live%20nei%20Teatri%202026%2C%20concerto%20pop%20con%20band%20dal%20vivo&location=Teatro%20Petruzzelli%2C%20Corso%20Cavour%2C%20Bari&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330267.html",
         "logo": "LIVE"
+      },
+      {
+        "title": "Legend The Show – Michael Jackson Tribute",
+        "subtitle": "Venerdì 20 novembre, ore 21:00",
+        "dateTime": "2026-11-20T21:00",
+        "text": "live • Bari • Teatro Team • Tributo a Michael Jackson con Wendel Gama, Jennifer Batten, live band e orchestra",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Legend%20The%20Show%20%E2%80%93%20Michael%20Jackson%20Tribute&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Tributo%20a%20Michael%20Jackson%20con%20Wendel%20Gama%2C%20Jennifer%20Batten%2C%20live%20band%20e%20orchestra&location=Teatro%20Team%2C%20Bari&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ticketone.it/en/event/legend-the-show-live-in-orchestra-legend-the-show-in-orchestra-with-jennifer-batten-and-wendel-gama-teatro-team-21301740/"
       },
       {
         "title": "Il Cardoncello Novello",
