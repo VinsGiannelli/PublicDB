@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T18:38:30.623Z",
+  "lastModifiedDate": "2026-11-07T19:12:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T18:38:30.623Z",
+    "lastModifiedDate": "2026-11-07T19:12:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,10 +473,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-07T18:06:29.784Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-07T19:12:00.000Z",
       "cycleDate": "2026-11-07",
-      "watchlistHash": null
+      "watchlistHash": "4ee97ad2"
     },
     "items": [
       {
@@ -579,6 +579,15 @@
         "linkDettagliEvento": "https://www.orchestrasinfonicamatera.it/calendario/"
       },
       {
+        "title": "Fraskèt – Live Cena Spettacolo",
+        "subtitle": "Sabato 7 novembre 2026 • ore 20:30",
+        "dateTime": "2026-11-07T20:30",
+        "text": "live • Bari • Fix it Culture - City Club • Musica inedita e cover dal vivo con ospite Bala; apertura ore 20:30",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frask%C3%A8t%20%E2%80%93%20Live%20Cena%20Spettacolo&dates=20261107T203000%2F20261107T223000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Fix%20it%20Culture%20-%20City%20Club%20%E2%80%A2%20Musica%20inedita%20e%20cover%20dal%20vivo%20con%20ospite%20Bala%3B%20apertura%20ore%2020%3A30&location=Fix%20it%20Culture%2C%20Viale%20Einaudi%2060%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335465.html"
+      },
+      {
         "title": "Rekkiabilly",
         "subtitle": "Sabato 7 novembre • 21:00",
         "dateTime": "2026-11-07T21:00",
@@ -615,6 +624,15 @@
         "logo": "LIVE"
       },
       {
+        "title": "Quelli del Clan – Celentano e Mina Tribute",
+        "subtitle": "Sabato 7 novembre 2026 • ore 21:30",
+        "dateTime": "2026-11-07T21:30",
+        "text": "live • Bari • La DolceVita Live • Concerto tributo a Celentano e Mina",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan%20%E2%80%93%20Celentano%20e%20Mina%20Tribute&dates=20261107T213000%2F20261107T233000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Concerto%20tributo%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Via%20Albanese%2041%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/331740.html"
+      },
+      {
         "title": "ROCKSY",
         "subtitle": "Sabato 7 novembre • 22:15",
         "dateTime": "2026-11-07T22:15",
@@ -622,6 +640,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ROCKSY&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Rock%20cover%20band%20italiana&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261107T211500Z%2F20261107T231500Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.midnightpublive.com/event/rocksy-rock-cover-band/",
         "logo": "LIVE"
+      },
+      {
+        "title": "Rocksy – Italian Rock Cover Band",
+        "subtitle": "Sabato 7 novembre 2026 • ore 22:15",
+        "dateTime": "2026-11-07T22:15",
+        "text": "live • Matera • Midnight Pub Live • Cover rock di successi della musica italiana, ingresso gratuito",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rocksy%20%E2%80%93%20Italian%20Rock%20Cover%20Band&dates=20261107T221500%2F20261108T001500&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Cover%20rock%20di%20successi%20della%20musica%20italiana%2C%20ingresso%20gratuito&location=Midnight%20Pub%20Live%2C%20Via%20dell'Agricoltura%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-rocksy-italian-rock-cover-band-matera-mt/"
       },
       {
         "title": "Gozzovigliando",
