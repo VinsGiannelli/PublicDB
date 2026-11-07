@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T00:43:11.763Z",
+  "lastModifiedDate": "2026-11-07T01:06:15.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T00:43:11.763Z",
+    "lastModifiedDate": "2026-11-07T01:06:15.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -471,10 +471,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-07T00:07:33.210Z",
-      "cycleDate": "2026-11-06",
-      "watchlistHash": "3ab9b5d6"
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-07T01:06:15.000Z",
+      "cycleDate": "2026-11-07",
+      "watchlistHash": null
     },
     "items": [
       {
@@ -548,6 +548,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miguel%20La%20Formula&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Mulata%20Latin%20Social%20Club%20%E2%80%A2%20Percussioni%20dal%20vivo%20nell'80%E2%80%99s%20Dinner%20Show&location=Mulata%20Latin%20Social%20Club%2C%20Bari&dates=20261107T193000Z%2F20261107T213000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://nightz.it/eventi/80s-dinner-show/",
         "logo": "LIVE"
+      },
+      {
+        "title": "Canto Libero – Omaggio a Battisti e Mogol",
+        "subtitle": "Sabato 7 novembre, ore 20:30",
+        "dateTime": "2026-11-07T20:30",
+        "text": "live • Bari • Teatro Petruzzelli • Concerto tributo a Battisti e Mogol",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20Libero%20%E2%80%93%20Omaggio%20a%20Battisti%20e%20Mogol&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Concerto%20tributo%20a%20Battisti%20e%20Mogol&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261107203000%2F20261107223000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://auroraeventi.net/eventi/canto-libero-canto-libero-omaggio-alle-canzoni-di-battisti-e-mogol-bari-teatro-petruzzelli-07-11-2026-20-30/"
       },
       {
         "title": "Disco Inferno Party by Phases Band",
@@ -656,6 +665,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'Agnello%20e%20del%20Vino%20Novello&details=sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20nella%20Notte%20Bianca%20Aspettando%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&dates=20261108T203000%2F20261108T223000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santiesagre.com/it/puglia/adelfia/festa-di-san-trifone/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Massimo Ranieri – Tutti i sogni ancora in volo",
+        "subtitle": "Domenica 8 novembre, ore 20:30",
+        "dateTime": "2026-11-08T20:30",
+        "text": "live • Bari • Teatro Petruzzelli • Concerto di Massimo Ranieri",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Ranieri%20%E2%80%93%20Tutti%20i%20sogni%20ancora%20in%20volo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Concerto%20di%20Massimo%20Ranieri&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261108203000%2F20261108223000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ticketone.it/artist/massimo-ranieri/massimo-ranieri-tutti-i-sogni-ancora-in-volo-tour-3064653/"
       },
       {
         "title": "Festa patronale di San Trifone",
