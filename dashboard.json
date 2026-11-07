@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-07T05:14:25.520Z",
+  "lastModifiedDate": "2026-11-07T05:40:06.863Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-06T21:08:00.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-07T05:14:25.520Z",
+    "lastModifiedDate": "2026-11-07T05:40:06.863Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -465,8 +465,8 @@
       "Sandra Bautista"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-07T04:38:17.595Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-07T05:40:06.863Z",
       "cycleDate": "2026-11-07",
       "watchlistHash": null
     },
