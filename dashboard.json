@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T22:44:49.118Z",
+  "lastModifiedDate": "2026-11-08T23:14:22.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-08T21:14:30.368Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T22:44:49.118Z",
+    "lastModifiedDate": "2026-11-08T23:14:22.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-08T22:15:20.771Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-08T23:14:22.000Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
@@ -552,33 +552,6 @@
         "logo": "SAGRA"
       },
       {
-        "title": "Terraròss – Bacco nelle Gnostre",
-        "subtitle": "Domenica 8 novembre, ore 19:00",
-        "dateTime": "2026-11-08T19:00",
-        "text": "live • Noci • Largo Calvario • Concerto di musica popolare dei Terraròss",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terrar%C3%B2ss%20%E2%80%93%20Bacco%20nelle%20Gnostre&details=Concerto%20di%20musica%20popolare%20dei%20Terrar%C3%B2ss&location=Largo%20Calvario%2C%20Noci&dates=20261108T190000%2F20261108T200000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Massimo Albanese – Piano Solo Tour",
-        "subtitle": "Domenica 8 novembre • 19:30",
-        "dateTime": "2026-11-08T19:30",
-        "text": "live • Bitritto • Castello Baronale • Concerto pianistico a sostegno del progetto solidale Accanto",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Albanese%20%E2%80%93%20Piano%20Solo%20Tour&details=live%20%E2%80%A2%20Bitritto%20%E2%80%A2%20Castello%20Baronale%20%E2%80%A2%20Concerto%20pianistico%20a%20sostegno%20del%20progetto%20solidale%20Accanto&location=Castello%20Baronale%2C%20Bitritto&dates=20261108T183000Z%2F20261108T203000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/2026-11-08/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Qui Quo Quattro.1 – Bacco nelle Gnostre",
-        "subtitle": "Domenica 8 novembre, ore 20:00",
-        "dateTime": "2026-11-08T20:00",
-        "text": "live • Noci • Via Cavour • Esibizione della live band Qui Quo Quattro.1",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Qui%20Quo%20Quattro.1%20%E2%80%93%20Bacco%20nelle%20Gnostre&details=Esibizione%20della%20live%20band%20Qui%20Quo%20Quattro.1&location=Via%20Cavour%2C%20Noci&dates=20261108T200000%2F20261108T210000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
         "title": "Sagra dell'Agnello e del Vino Novello",
         "subtitle": "Domenica 8 novembre • 20:30",
         "dateTime": "2026-11-08T20:30",
@@ -586,15 +559,6 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20dell'Agnello%20e%20del%20Vino%20Novello&details=sagra%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20nella%20Notte%20Bianca%20Aspettando%20San%20Trifone&location=Centro%20storico%2C%20Adelfia&dates=20261108T203000%2F20261108T223000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.santiesagre.com/it/puglia/adelfia/festa-di-san-trifone/",
         "logo": "SAGRA"
-      },
-      {
-        "title": "Massimo Ranieri – Tutti i sogni ancora in volo",
-        "subtitle": "Domenica 8 novembre, ore 20:30",
-        "dateTime": "2026-11-08T20:30",
-        "text": "live • Bari • Teatro Petruzzelli • Concerto di Massimo Ranieri",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Ranieri%20%E2%80%93%20Tutti%20i%20sogni%20ancora%20in%20volo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Concerto%20di%20Massimo%20Ranieri&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261108203000%2F20261108223000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ticketone.it/artist/massimo-ranieri/massimo-ranieri-tutti-i-sogni-ancora-in-volo-tour-3064653/"
       },
       {
         "title": "Festa patronale di San Trifone",
