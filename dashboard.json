@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T03:44:29.686Z",
+  "lastModifiedDate": "2026-11-08T04:06:53.994Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T03:44:29.686Z",
+    "lastModifiedDate": "2026-11-08T04:06:53.994Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL02",
-      "lastCompletedAt": "2026-11-08T03:13:38.000Z",
+      "lastCompletedStep": "WL03",
+      "lastCompletedAt": "2026-11-08T04:06:53.994Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": "4ee97ad2"
     },
@@ -928,6 +928,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brunori%20Sas%20%E2%80%93%20TUTTOBRUNORI&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20TUTTOBRUNORI%2C%20canzoni%20e%20monologhi&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261118210000%2F20261118230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ticketone.it/event/brunori-sas-tuttobrunori-canzoni-e-monologhi-teatro-petruzzelli-20935477/",
         "logo": "LIVE"
+      },
+      {
+        "title": "La JAM Session del Santo Graal",
+        "subtitle": "Giovedì 19 novembre, ore 21:30",
+        "dateTime": "2026-11-19T21:30",
+        "text": "live • Trani • Santo Graal • Jam session con resident band Rainbow Bridge",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20JAM%20Session%20del%20Santo%20Graal&dates=20261119T213000%2F20261119T223000&ctz=Europe%2FRome&details=Jam%20session%20con%20resident%20band%20Rainbow%20Bridge&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335413.html"
       },
       {
         "title": "OHM Pink Floyd",
