@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T19:36:20.171Z",
+  "lastModifiedDate": "2026-11-08T20:11:27.418Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T19:36:20.171Z",
+    "lastModifiedDate": "2026-11-08T20:11:27.418Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL03",
-      "lastCompletedAt": "2026-11-08T19:13:33.217Z",
+      "lastCompletedStep": "WL04",
+      "lastCompletedAt": "2026-11-08T20:11:27.418Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": "4ee97ad2"
     },
@@ -694,6 +694,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%2C%20vino%20novello%2C%20street%20food%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261113180000%2F20261113T200000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Musicanti – Omaggio a Pino Daniele",
+        "subtitle": "Venerdì 13 novembre, ore 20:30",
+        "dateTime": "2026-11-13T20:30",
+        "text": "live • Terlizzi • ALLE S.E.R.R.E. • Musicanti, omaggio a Pino Daniele; ingresso 12 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Musicanti%20%E2%80%93%20Omaggio%20a%20Pino%20Daniele&dates=20261113T203000%2F20261113T213000&ctz=Europe%2FRome&details=Musicanti%20dal%20vivo%20in%20omaggio%20a%20Pino%20Daniele.%20Ingresso%2012%20euro%2C%20panzerotto%20e%20bevanda%20inclusi.%20Orario%20finale%20indicativo.&location=ALLE%20S.E.R.R.E.%2C%20Contrada%20Parco%2C%20Terlizzi",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335869.html"
       },
       {
         "title": "Valerio Cosi e The Magpies",
