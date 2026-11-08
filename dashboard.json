@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T01:19:50.000Z",
+  "lastModifiedDate": "2026-11-08T01:39:21.456Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T01:07:00.610Z",
+    "lastModifiedDate": "2026-11-08T01:39:21.456Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-08T00:40:42.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-08T01:39:21.456Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
@@ -1081,6 +1081,24 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terraross&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20Piazza%20Teatro%20%E2%80%A2%20Concerto%20alla%20festa%20di%20San%20Martino&location=%20Putignano%20%2C%20Piazza%20Teatro%20&dates=20261121T213000%2F20261121T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335026.html"
+      },
+      {
+        "title": "Il Cardoncello Novello",
+        "subtitle": "Domenica 22 novembre",
+        "dateTime": "2026-11-22T00:00",
+        "text": "sagra • Gravina in Puglia • Centro storico • Fungo cardoncello, vino novello e musica popolare",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Cardoncello%20Novello&details=Fungo%20cardoncello%2C%20vino%20novello%20e%20musica%20popolare&location=Centro%20storico%2C%20Gravina%20in%20Puglia&dates=20261122%2F20261123&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.gravinalife.it/eventi/a-gravina-sagra-del-fungo-cardoncello/"
+      },
+      {
+        "title": "Autunno nell'arte",
+        "subtitle": "Domenica 22 novembre",
+        "dateTime": "2026-11-22T00:00",
+        "text": "mercatino • Trani • Piazza della Repubblica • Mercatino vintage e artigianato",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Autunno%20nell'arte&details=Mercatino%20vintage%20e%20artigianato&location=Piazza%20della%20Repubblica%2C%20Trani&dates=20261122%2F20261123&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/eventi/mercatini"
       }
     ]
   }
