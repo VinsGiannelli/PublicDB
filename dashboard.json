@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T15:06:00.000Z",
+  "lastModifiedDate": "2026-11-08T15:38:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T15:06:00.000Z",
+    "lastModifiedDate": "2026-11-08T15:38:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-08T14:36:00.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-08T15:38:00.000Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
@@ -820,6 +820,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%2C%20vino%20novello%2C%20street%20food%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261114180000%2F20261114T200000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "5ª Festa di San Martino – Novello e Cardoncello",
+        "subtitle": "Sabato 14 novembre, ore 19:30",
+        "dateTime": "2026-11-14T19:30",
+        "text": "sagra • Toritto • Quasano • Degustazioni di cardoncelli, vino novello e specialità locali",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=5%C2%AA%20Festa%20di%20San%20Martino%20%E2%80%93%20Novello%20e%20Cardoncello&dates=20261114T193000%2F20261114T223000&details=sagra%20%E2%80%A2%20Toritto%20%E2%80%A2%20Quasano%20%E2%80%A2%20Degustazioni%20di%20cardoncelli%2C%20vino%20novello%20e%20specialit%C3%A0%20locali&location=Quasano%2C%20Toritto&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ilborghista.it/events/5-festa-di-san-martino-novello-e-cardoncello-2026-comune-di-toritto"
       },
       {
         "title": "Freddie - The Show Must Go On",
