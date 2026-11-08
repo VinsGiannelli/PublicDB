@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T05:42:37.260Z",
+  "lastModifiedDate": "2026-11-08T06:13:25.209Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T05:42:37.260Z",
+    "lastModifiedDate": "2026-11-08T06:13:25.209Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,10 +473,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-08T05:06:20.832Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-08T06:13:25.209Z",
       "cycleDate": "2026-11-08",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": null
     },
     "items": [
       {
@@ -552,6 +552,15 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Terraròss – Bacco nelle Gnostre",
+        "subtitle": "Domenica 8 novembre, ore 19:00",
+        "dateTime": "2026-11-08T19:00",
+        "text": "live • Noci • Largo Calvario • Concerto di musica popolare dei Terraròss",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terrar%C3%B2ss%20%E2%80%93%20Bacco%20nelle%20Gnostre&details=Concerto%20di%20musica%20popolare%20dei%20Terrar%C3%B2ss&location=Largo%20Calvario%2C%20Noci&dates=20261108T190000%2F20261108T200000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://bacconellegnostre.it/"
+      },
+      {
         "title": "Massimo Albanese – Piano Solo Tour",
         "subtitle": "Domenica 8 novembre • 19:30",
         "dateTime": "2026-11-08T19:30",
@@ -559,6 +568,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Massimo%20Albanese%20%E2%80%93%20Piano%20Solo%20Tour&details=live%20%E2%80%A2%20Bitritto%20%E2%80%A2%20Castello%20Baronale%20%E2%80%A2%20Concerto%20pianistico%20a%20sostegno%20del%20progetto%20solidale%20Accanto&location=Castello%20Baronale%2C%20Bitritto&dates=20261108T183000Z%2F20261108T203000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/2026-11-08/",
         "logo": "LIVE"
+      },
+      {
+        "title": "Qui Quo Quattro.1 – Bacco nelle Gnostre",
+        "subtitle": "Domenica 8 novembre, ore 20:00",
+        "dateTime": "2026-11-08T20:00",
+        "text": "live • Noci • Via Cavour • Esibizione della live band Qui Quo Quattro.1",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Qui%20Quo%20Quattro.1%20%E2%80%93%20Bacco%20nelle%20Gnostre&details=Esibizione%20della%20live%20band%20Qui%20Quo%20Quattro.1&location=Via%20Cavour%2C%20Noci&dates=20261108T200000%2F20261108T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://bacconellegnostre.it/"
       },
       {
         "title": "Sagra dell'Agnello e del Vino Novello",
