@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T00:40:42.000Z",
+  "lastModifiedDate": "2026-11-08T01:07:00.610Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T00:40:42.000Z",
+    "lastModifiedDate": "2026-11-08T01:07:00.610Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,138 +473,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-08T00:11:39.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-08T01:07:00.610Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
     "items": [
-      {
-        "title": "Pizzecuerne",
-        "subtitle": "Sabato 7 novembre • 20:00",
-        "dateTime": "2026-11-07T20:00",
-        "text": "live • Noci • Largo Pozzo Epifani • Musica popolare dal vivo a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pizzecuerne&dates=20261107T200000%2F20261107T210000&details=Musica%20popolare%20dal%20vivo%20a%20Bacco%20nelle%20Gnostre&location=Largo%20Pozzo%20Epifani%2C%20Noci&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Fraskèt Live – Cena Spettacolo",
-        "subtitle": "Sabato 7 novembre • 20:30",
-        "dateTime": "2026-11-07T20:30",
-        "text": "live • Bari • Fix It Culture • Brani originali e cover dal vivo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frask%C3%A8t%20Live%20%E2%80%93%20Cena%20Spettacolo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Fix%20It%20Culture%20%E2%80%A2%20Brani%20originali%20e%20cover%20dal%20vivo&location=Fix%20It%20Culture%2C%20Bari&dates=20261107T203000%2F20261107T223000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://nightz.it/eventi/frasket-live-cena-spettacolo/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Miguel La Formula",
-        "subtitle": "Sabato 7 novembre • 20:30",
-        "dateTime": "2026-11-07T20:30",
-        "text": "live • Bari • Mulata Latin Social Club • Percussioni dal vivo nell'80’s Dinner Show",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Miguel%20La%20Formula&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Mulata%20Latin%20Social%20Club%20%E2%80%A2%20Percussioni%20dal%20vivo%20nell'80%E2%80%99s%20Dinner%20Show&location=Mulata%20Latin%20Social%20Club%2C%20Bari&dates=20261107T193000Z%2F20261107T213000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://nightz.it/eventi/80s-dinner-show/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Canto Libero – Omaggio a Battisti e Mogol",
-        "subtitle": "Sabato 7 novembre, ore 20:30",
-        "dateTime": "2026-11-07T20:30",
-        "text": "live • Bari • Teatro Petruzzelli • Concerto tributo a Battisti e Mogol",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20Libero%20%E2%80%93%20Omaggio%20a%20Battisti%20e%20Mogol&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Concerto%20tributo%20a%20Battisti%20e%20Mogol&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261107203000%2F20261107223000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://auroraeventi.net/eventi/canto-libero-canto-libero-omaggio-alle-canzoni-di-battisti-e-mogol-bari-teatro-petruzzelli-07-11-2026-20-30/"
-      },
-      {
-        "title": "Da Casella all’Antica a Stravinsky",
-        "subtitle": "Sabato 7 novembre, ore 20:30",
-        "dateTime": "2026-11-07T20:30",
-        "text": "live • Matera • Auditorium R. Gervasio • Orchestra Sinfonica di Matera, Andrea Di Cecca al pianoforte, direzione Pasquale Corrado",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Da%20Casella%20all%E2%80%99Antica%20a%20Stravinsky&dates=20261107T203000%2F20261107T223000&ctz=Europe%2FRome&details=Concerto%20sinfonico%20con%20Andrea%20Di%20Cecca%20e%20Pasquale%20Corrado&location=Auditorium%20R.%20Gervasio%2C%20Matera",
-        "linkDettagliEvento": "https://www.orchestrasinfonicamatera.it/calendario/"
-      },
-      {
-        "title": "Fraskèt – Live Cena Spettacolo",
-        "subtitle": "Sabato 7 novembre 2026 • ore 20:30",
-        "dateTime": "2026-11-07T20:30",
-        "text": "live • Bari • Fix it Culture - City Club • Musica inedita e cover dal vivo con ospite Bala; apertura ore 20:30",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frask%C3%A8t%20%E2%80%93%20Live%20Cena%20Spettacolo&dates=20261107T203000%2F20261107T223000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Fix%20it%20Culture%20-%20City%20Club%20%E2%80%A2%20Musica%20inedita%20e%20cover%20dal%20vivo%20con%20ospite%20Bala%3B%20apertura%20ore%2020%3A30&location=Fix%20it%20Culture%2C%20Viale%20Einaudi%2060%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335465.html"
-      },
-      {
-        "title": "80’s Dinner Show – Miguel La Formula",
-        "subtitle": "Sabato 7 novembre • 20:30",
-        "dateTime": "2026-11-07T20:30",
-        "text": "live • Bari • Mulata Latin Social Club • 80’s Dinner Show con percussioni e musica dal vivo di Miguel La Formula; inizio serata alle 20:30",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=80%E2%80%99s%20Dinner%20Show%20%E2%80%93%20Miguel%20La%20Formula&dates=20261107T203000%2F20261107T223000&ctz=Europe%2FRome&location=Mulata%20Latin%20Social%20Club%2C%20Strada%20La%20Grava%2012%2C%20Bari&details=Serata%20anni%2080%20con%20percussioni%20e%20musica%20dal%20vivo%20di%20Miguel%20La%20Formula.%20Inizio%20serata%20ore%2020%3A30%3B%20orario%20esatto%20del%20live%20non%20specificato.",
-        "linkDettagliEvento": "https://nightz.it/eventi/80s-dinner-show/"
-      },
-      {
-        "title": "Rekkiabilly",
-        "subtitle": "Sabato 7 novembre • 21:00",
-        "dateTime": "2026-11-07T21:00",
-        "text": "live • Noci • Piazza Garibaldi • Rockabilly e swing dal vivo a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rekkiabilly&dates=20261107T210000%2F20261107T220000&details=Rockabilly%20e%20swing%20dal%20vivo%20a%20Bacco%20nelle%20Gnostre&location=Piazza%20Garibaldi%2C%20Noci&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Tammorra Felice",
-        "subtitle": "Sabato 7 novembre • 21:00",
-        "dateTime": "2026-11-07T21:00",
-        "text": "live • Noci • Sagrato della Chiesa Matrice • Musica popolare dal vivo a Bacco nelle Gnostre",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tammorra%20Felice&dates=20261107T210000%2F20261107T220000&details=Musica%20popolare%20dal%20vivo%20a%20Bacco%20nelle%20Gnostre&location=Sagrato%20della%20Chiesa%20Matrice%2C%20Noci&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/"
-      },
-      {
-        "title": "Disco Inferno Party by Phases Band",
-        "subtitle": "Sabato 7 novembre • 21:30",
-        "dateTime": "2026-11-07T21:30",
-        "text": "live • Cassano delle Murge • La Selva di Diana • Phases Band dal vivo: disco music anni 70–2000",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Disco%20Inferno%20Party%20by%20Phases%20Band&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20La%20Selva%20di%20Diana%20%E2%80%A2%20Phases%20Band%20dal%20vivo%3A%20disco%20music%20anni%2070%E2%80%932000&location=La%20Selva%20di%20Diana%2C%20Cassano%20delle%20Murge&dates=20261107T203000Z%2F20261107T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335439.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "QUELLI del CLAN",
-        "subtitle": "Sabato 7 novembre • 21:30",
-        "dateTime": "2026-11-07T21:30",
-        "text": "live • Bari • La DolceVita Live • Tributo dal vivo a Celentano e Mina",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=QUELLI%20del%20CLAN&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Bari&dates=20261107T203000Z%2F20261107T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/331740.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Quelli del Clan – Celentano e Mina Tribute",
-        "subtitle": "Sabato 7 novembre 2026 • ore 21:30",
-        "dateTime": "2026-11-07T21:30",
-        "text": "live • Bari • La DolceVita Live • Concerto tributo a Celentano e Mina",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quelli%20del%20Clan%20%E2%80%93%20Celentano%20e%20Mina%20Tribute&dates=20261107T213000%2F20261107T233000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%20%E2%80%A2%20Concerto%20tributo%20a%20Celentano%20e%20Mina&location=La%20DolceVita%20Live%2C%20Via%20Albanese%2041%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/331740.html"
-      },
-      {
-        "title": "ROCKSY",
-        "subtitle": "Sabato 7 novembre • 22:15",
-        "dateTime": "2026-11-07T22:15",
-        "text": "live • Matera • Midnight Pub Live • Rock cover band italiana",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ROCKSY&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Rock%20cover%20band%20italiana&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261107T211500Z%2F20261107T231500Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/rocksy-rock-cover-band/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Rocksy – Italian Rock Cover Band",
-        "subtitle": "Sabato 7 novembre 2026 • ore 22:15",
-        "dateTime": "2026-11-07T22:15",
-        "text": "live • Matera • Midnight Pub Live • Cover rock di successi della musica italiana, ingresso gratuito",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rocksy%20%E2%80%93%20Italian%20Rock%20Cover%20Band&dates=20261107T221500%2F20261108T001500&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Cover%20rock%20di%20successi%20della%20musica%20italiana%2C%20ingresso%20gratuito&location=Midnight%20Pub%20Live%2C%20Via%20dell'Agricoltura%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-rocksy-italian-rock-cover-band-matera-mt/"
-      },
       {
         "title": "Gozzovigliando",
         "subtitle": "Domenica 8 novembre",
