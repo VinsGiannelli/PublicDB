@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T16:08:00.000Z",
+  "lastModifiedDate": "2026-11-08T16:42:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T16:08:00.000Z",
+    "lastModifiedDate": "2026-11-08T16:42:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-08T15:38:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-08T16:42:00.000Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
@@ -1074,6 +1074,15 @@
         "linkDettagliEvento": "https://www.tributenation.it/event/fallen-live-midnight-club-mt/"
       },
       {
+        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
+        "subtitle": "Sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
+        "logo": "SAGRA"
+      },
+      {
         "title": "San Martino – Ogni mosto diventa vino",
         "subtitle": "Sabato 21 novembre, ore 19:00",
         "dateTime": "2026-11-21T19:00",
@@ -1153,6 +1162,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Autunno%20nell'arte&details=Mercatino%20vintage%20e%20artigianato&location=Piazza%20della%20Repubblica%2C%20Trani&dates=20261122%2F20261123&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/eventi/mercatini"
+      },
+      {
+        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
+        "subtitle": "Domenica 22 novembre",
+        "dateTime": "2026-11-22T00:00",
+        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261122%2F20261123&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
+        "logo": "SAGRA"
       }
     ]
   }
