@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T15:38:00.000Z",
+  "lastModifiedDate": "2026-11-08T16:08:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T15:38:00.000Z",
+    "lastModifiedDate": "2026-11-08T16:08:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-08T15:06:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-08T16:08:00.000Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
@@ -1047,6 +1047,15 @@
         "linkDettagliEvento": "https://www.ticketone.it/en/event/legend-the-show-live-in-orchestra-legend-the-show-in-orchestra-with-jennifer-batten-and-wendel-gama-teatro-team-21301740/"
       },
       {
+        "title": "Music for Humans – Gianni Masci, Onisaiba e The Verol",
+        "subtitle": "Venerdì 20 novembre • 21:00",
+        "dateTime": "2026-11-20T21:00",
+        "text": "live • Putignano • I MAKE - Ex Macello • Concerti dal vivo di Gianni Masci, Onisaiba e The Verol",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Music%20for%20Humans%20%E2%80%93%20Gianni%20Masci%2C%20Onisaiba%20e%20The%20Verol&dates=20261120T200000Z%2F20261120T220000Z&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20I%20MAKE%20-%20Ex%20Macello%20%E2%80%A2%20Concerti%20dal%20vivo%20di%20Gianni%20Masci%2C%20Onisaiba%20e%20The%20Verol&location=Putignano%2C%20I%20MAKE%20-%20Ex%20Macello",
+        "linkDettagliEvento": "https://iltaccodibacco.it/putignano/concerti/"
+      },
+      {
         "title": "Il Cardoncello Novello",
         "subtitle": "Sabato 21 novembre",
         "dateTime": "2026-11-21T00:00",
@@ -1108,6 +1117,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Celentano%20%E2%80%93%20The%20Tribute%20Show&details=Tributo%20musicale%20ad%20Adriano%20Celentano&location=Teatro%20Showville%2C%20Bari&dates=20261121T210000%2F20261121T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.cittando.com/it/eventi/bari/concerti"
+      },
+      {
+        "title": "Tributo a Biagio Antonacci – Katia Lamparelli e Xavi",
+        "subtitle": "Sabato 21 novembre • 21:00",
+        "dateTime": "2026-11-21T21:00",
+        "text": "live • Bari • Villa Rotondo, Corso Alcide De Gasperi 431 • Cover band di Biagio Antonacci con Katia Lamparelli e Xavi; DJ set successivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tributo%20a%20Biagio%20Antonacci%20%E2%80%93%20Katia%20Lamparelli%20e%20Xavi&dates=20261121T200000Z%2F20261121T220000Z&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Villa%20Rotondo%2C%20Corso%20Alcide%20De%20Gasperi%20431%20%E2%80%A2%20Cover%20band%20di%20Biagio%20Antonacci%20con%20Katia%20Lamparelli%20e%20Xavi%3B%20DJ%20set%20successivo&location=Bari%2C%20Villa%20Rotondo%2C%20Corso%20Alcide%20De%20Gasperi%20431",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335873.html"
       },
       {
         "title": "Terraross",
