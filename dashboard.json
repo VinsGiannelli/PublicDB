@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T00:11:39.000Z",
+  "lastModifiedDate": "2026-11-08T00:40:42.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T00:11:39.000Z",
+    "lastModifiedDate": "2026-11-08T00:40:42.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-07T23:37:05.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-08T00:40:42.000Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
@@ -479,60 +479,6 @@
       "watchlistHash": null
     },
     "items": [
-      {
-        "title": "HalloWine – Notti di Vino e Magia",
-        "subtitle": "Sabato 7 novembre",
-        "dateTime": "2026-11-07T00:00",
-        "text": "evento tradizionale • Casamassima • Borgo Antico • Degustazioni e spettacoli",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HalloWine%20%E2%80%93%20Notti%20di%20Vino%20e%20Magia&details=evento%20tradizionale%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Borgo%20Antico%20%E2%80%A2%20Degustazioni%20e%20spettacoli&location=Borgo%20Antico%2C%20Casamassima&dates=20261107%2F20261108&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333998.html",
-        "logo": "TRADIZIONE"
-      },
-      {
-        "title": "Sapori d'Autunno",
-        "subtitle": "Sabato 7 novembre",
-        "dateTime": "2026-11-07T00:00",
-        "text": "sagra • Binetto • Centro storico • Sagra gastronomica con prodotti tipici",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d'Autunno&details=sagra%20%E2%80%A2%20Binetto%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Sagra%20gastronomica%20con%20prodotti%20tipici&location=Centro%20storico%2C%20Binetto&dates=20261107%2F20261108&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://trovasagre.com/evento/sapori-dautunno-binetto-ba-2026",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Calici nel Borgo Antico",
-        "subtitle": "Sabato 7 novembre",
-        "dateTime": "2026-11-07T00:00",
-        "text": "evento tradizionale • Bisceglie • Centro storico • Percorso enogastronomico con vini pugliesi, prodotti tipici e musica",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Calici%20nel%20Borgo%20Antico&dates=20261107%2F20261108&details=evento%20tradizionale%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%20con%20vini%20pugliesi%2C%20prodotti%20tipici%20e%20musica&location=Centro%20storico%2C%20Bisceglie&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.bisceglieviva.it/notizie/calici-nel-borgo-antico-torna-a-bisceglie-dal-6-all-8-novembre-tre-serate-tra-vini-pugliesi-gastronomia-e-musica/"
-      },
-      {
-        "title": "Festa del Cioccolato Artigianale",
-        "subtitle": "Sabato 7 novembre • 10:00",
-        "dateTime": "2026-11-07T10:00",
-        "text": "sagra • Bari • Piazza Umberto I • Maestri cioccolatieri e laboratori",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Cioccolato%20Artigianale&details=sagra%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Maestri%20cioccolatieri%20e%20laboratori&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261107T100000%2F20261107T120000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/ritorna-a-bari-la-festa-del-cioccolato-artigianale/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Mediterranean PlayGround",
-        "subtitle": "Sabato 7 novembre • 10:00",
-        "dateTime": "2026-11-07T10:00",
-        "text": "evento tradizionale • Matera • Piazza San Giovanni XXIII • Giochi tradizionali del Mediterraneo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mediterranean%20PlayGround&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20San%20Giovanni%20XXIII%20%E2%80%A2%20Giochi%20tradizionali%20del%20Mediterraneo&location=Piazza%20San%20Giovanni%20XXIII%2C%20Matera&dates=20261107T090000Z%2F20261107T110000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/fr/matera/mediterranean-playground-jeux-anciens-132036",
-        "logo": "TRADIZIONE"
-      },
-      {
-        "title": "Bacco nelle Gnostre",
-        "subtitle": "Sabato 7 novembre • 11:00",
-        "dateTime": "2026-11-07T11:00",
-        "text": "sagra • Noci • Centro storico, Piazza Garibaldi • Vino e cucina tradizionale",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bacco%20nelle%20Gnostre&details=sagra%20%E2%80%A2%20Noci%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Garibaldi%20%E2%80%A2%20Vino%20e%20cucina%20tradizionale&location=Centro%20storico%2C%20Piazza%20Garibaldi%2C%20Noci&dates=20261107T110000%2F20261107T130000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://bacconellegnostre.it/",
-        "logo": "SAGRA"
-      },
       {
         "title": "Pizzecuerne",
         "subtitle": "Sabato 7 novembre • 20:00",
