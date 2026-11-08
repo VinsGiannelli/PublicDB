@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T21:37:00.000Z",
+  "lastModifiedDate": "2026-11-08T22:15:20.771Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-08T21:14:30.368Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T21:37:00.000Z",
+    "lastModifiedDate": "2026-11-08T22:15:20.771Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -473,8 +473,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-08T21:05:48.620Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-08T22:15:20.771Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
