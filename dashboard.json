@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-08T19:13:33.217Z",
+  "lastModifiedDate": "2026-11-08T19:36:20.171Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-07T21:38:31.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-08T19:13:33.217Z",
+    "lastModifiedDate": "2026-11-08T19:36:20.171Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-08T18:42:54.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-08T19:36:20.171Z",
       "cycleDate": "2026-11-08",
       "watchlistHash": null
     },
