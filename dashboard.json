@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-09T21:08:38.838Z",
+  "lastModifiedDate": "2026-11-09T21:20:35.098Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-08T21:14:30.368Z",
+    "lastModifiedDate": "2026-11-09T21:20:35.098Z",
     "items": [
       {
         "title": "Ad Infinitum",
@@ -41,18 +41,6 @@
         "steamUrl": "https://store.steampowered.com/app/313780/"
       },
       {
-        "title": "Dark Mystery",
-        "subtitle": "Epic Games Store",
-        "text": "Platform a enigmi ambientato in un mondo oscuro: aiuta Furry a ritrovare la sua regina affrontando trentacinque livelli e sfide, anche in cooperativa locale. Gratis su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-02",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/660900/header.jpg",
-        "link": "https://store.epicgames.com/p/dark-mystery-baf914",
-        "steamRating": "54%",
-        "steamPrice": "7,99€",
-        "steamUrl": "https://store.steampowered.com/app/660900/"
-      },
-      {
         "title": "Disney Epic Mickey: Rebrushed",
         "subtitle": "Amazon Luna Standard",
         "text": "Platform tridimensionale nel mondo dimenticato di Disney: usa pennello e solvente per modificare scenari, risolvere enigmi e influenzare la storia. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
@@ -77,18 +65,6 @@
         "steamUrl": "https://store.steampowered.com/app/3940610/"
       },
       {
-        "title": "Epic World - Hunt For Quest",
-        "subtitle": "Epic Games Store",
-        "text": "Platform d'azione fantasy con quarantadue livelli, tre eroi, tesori nascosti e avversari pericolosi: recupera l'oro sottratto dal re degli orchi. Riscattabile gratis su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-02",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040910/header.jpg",
-        "link": "https://store.epicgames.com/p/epic-world-hunt-for-quest-4500b1",
-        "steamRating": "33%",
-        "steamPrice": "8,19€",
-        "steamUrl": "https://store.steampowered.com/app/1040910/"
-      },
-      {
         "title": "Flotsam",
         "subtitle": "Epic Games Store",
         "text": "Gestionale di colonie galleggianti in un oceano coperto di rifiuti: raccogli risorse, costruisci piattaforme, salva naufraghi e organizza una città mobile. Riscattabile gratuitamente su Epic Games Store fino al 12 novembre 2026.",
@@ -99,42 +75,6 @@
         "steamRating": "79%",
         "steamPrice": "24,99€",
         "steamUrl": "https://store.steampowered.com/app/821250/"
-      },
-      {
-        "title": "Gladiator: Blades of Fury",
-        "subtitle": "Epic Games Store",
-        "text": "Picchiaduro medievale con combattimenti corpo a corpo, armi e mosse speciali: scegli guerrieri tra barbari, assassini, cavalieri e nani e affronta tornei. Gratuito da riscattare su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-01",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1007490/header.jpg",
-        "link": "https://store.epicgames.com/p/gladiator-blades-of-fury-1a745b",
-        "steamRating": "42%",
-        "steamPrice": "8,19€",
-        "steamUrl": "https://store.steampowered.com/app/1007490/"
-      },
-      {
-        "title": "Highway Driving",
-        "subtitle": "Epic Games Store",
-        "text": "Gioco di guida arcade tridimensionale su autostrade e piste diverse, con molte vetture, modalità di gara e miglioramenti sbloccabili accumulando punti. Riscattabile gratuitamente su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-02",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2016980/header.jpg",
-        "link": "https://store.epicgames.com/p/highway-driving-140121",
-        "steamRating": "60%",
-        "steamPrice": "8,19€",
-        "steamUrl": "https://store.steampowered.com/app/2016980/"
-      },
-      {
-        "title": "Horse Racing",
-        "subtitle": "Epic Games Store",
-        "text": "Simulatore di corse ippiche con sei cavalli e fantini, tracciati differenti, cinquantacinque eventi e gare multigiocatore locale a schermo diviso. Segnalato gratuitamente riscattabile su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-02",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/655610/header.jpg",
-        "link": "https://store.epicgames.com/p/horse-racing-4192a0",
-        "steamRating": "41%",
-        "steamPrice": "9,99€",
-        "steamUrl": "https://store.steampowered.com/app/655610/"
       },
       {
         "title": "KIBORG",
@@ -195,18 +135,6 @@
         "steamRating": "73%",
         "steamPrice": "29,99€",
         "steamUrl": "https://store.steampowered.com/app/997010/"
-      },
-      {
-        "title": "Quiztopia: The Ultimate Trivia",
-        "subtitle": "Epic Games Store",
-        "text": "Gioco educativo di quiz per tutte le età, con domande di matematica, geografia, scienze, inglese e immagini e difficoltà crescente. Riscattabile gratuitamente su Epic Games Store fino all'8 novembre 2026.",
-        "createdDate": "2026-11-01",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2912680/header.jpg",
-        "link": "https://store.epicgames.com/p/quiztopia-the-ultimate-trivia-6d42e0",
-        "steamRating": "50%",
-        "steamPrice": "7,79€",
-        "steamUrl": "https://store.steampowered.com/app/2912680/"
       },
       {
         "title": "Squirrel with a Gun",
