@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-09T00:07:22.988Z",
+  "lastModifiedDate": "2026-11-09T00:36:36.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-08T21:14:30.368Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-09T00:07:22.988Z",
+    "lastModifiedDate": "2026-11-09T00:36:36.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -467,8 +467,8 @@
       "Petruzzelli"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-08T23:36:00.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-09T00:36:36.000Z",
       "cycleDate": "2026-11-09",
       "watchlistHash": null
     },
@@ -901,6 +901,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%2C%20laboratori%20tradizionali%20e%20spettacoli&location=Centro%20storico%2C%20Conversano&dates=20261115120000%2F20261115T140000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Wonders Beatles Tribute",
+        "subtitle": "Domenica 15 novembre • 20:00",
+        "dateTime": "2026-11-15T20:00",
+        "text": "live • Modugno • Corso Umberto I • Concerto tributo ai Beatles durante la Fiera del Crocifisso",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wonders%20Beatles%20Tribute&dates=20261115T200000%2F20261115T220000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Modugno%20%E2%80%A2%20Corso%20Umberto%20I%20%E2%80%A2%20Concerto%20tributo%20ai%20Beatles%20durante%20la%20Fiera%20del%20Crocifisso&location=Corso%20Umberto%20I%2C%20Modugno%20(BA)",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-del-crocifisso-2026-modugno/"
       },
       {
         "title": "Riserva Moac",
