@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-09T12:40:47.465Z",
+  "lastModifiedDate": "2026-11-09T13:10:23.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-08T21:14:30.368Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-09T12:40:47.465Z",
+    "lastModifiedDate": "2026-11-09T13:10:23.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -466,8 +466,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-09T12:13:59.327Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-09T13:10:23.000Z",
       "cycleDate": "2026-11-09",
       "watchlistHash": null
     },
@@ -923,6 +923,15 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333818.html"
       },
       {
+        "title": "ORNELLA – Omaggio a Ornella Vanoni",
+        "subtitle": "venerdì 20 novembre 2026, ore 20:30",
+        "dateTime": "2026-11-20T20:30",
+        "text": "live • Mola di Bari • Teatro Van Westerhout • Lisa Angelillo e ensemble acustico in concerto-spettacolo dedicato a Ornella Vanoni",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ORNELLA%20%E2%80%93%20Omaggio%20a%20Ornella%20Vanoni&dates=20261120T203000%2F20261120T213000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Teatro%20Van%20Westerhout%20%E2%80%A2%20Lisa%20Angelillo%20e%20ensemble%20acustico%20in%20concerto-spettacolo%20dedicato%20a%20Ornella%20Vanoni&location=Teatro%20Van%20Westerhout%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.diyticket.it/events/Musica/34274/ornella"
+      },
+      {
         "title": "Francesca Michielin",
         "subtitle": "Venerdì 20 novembre • 21:00",
         "dateTime": "2026-11-20T21:00",
@@ -1002,6 +1011,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonoria%20Live%20Band%20e%20Filippo%20Alberga&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Mulata%20Latin%20Social%20Club%20%E2%80%A2%20Cena%20spettacolo%20con%20musica%20dal%20vivo&location=Mulata%20Latin%20Social%20Club%2C%20Strada%20La%20Grava%2012%2C%20Bari&dates=20261121T203000%2F20261121T223000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://nightz.it/eventi/cena-spettacolo-con-sonoria-live-band/"
+      },
+      {
+        "title": "ORNELLA – Omaggio a Ornella Vanoni",
+        "subtitle": "sabato 21 novembre 2026, ore 20:30",
+        "dateTime": "2026-11-21T20:30",
+        "text": "live • Mola di Bari • Teatro Van Westerhout • Lisa Angelillo e ensemble acustico con Francesca Leone in concerto-spettacolo dedicato a Ornella Vanoni",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ORNELLA%20%E2%80%93%20Omaggio%20a%20Ornella%20Vanoni&dates=20261121T203000%2F20261121T213000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Teatro%20Van%20Westerhout%20%E2%80%A2%20Lisa%20Angelillo%20e%20ensemble%20acustico%20con%20Francesca%20Leone%20in%20concerto-spettacolo%20dedicato%20a%20Ornella%20Vanoni&location=Teatro%20Van%20Westerhout%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.diyticket.it/events/Musica/34274/ornella"
       },
       {
         "title": "YELLOW RIVER",
