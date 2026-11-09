@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-09T23:14:39.000Z",
+  "lastModifiedDate": "2026-11-09T23:43:16.300Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-09T21:20:35.098Z",
@@ -306,7 +306,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-09T23:14:39.000Z",
+    "lastModifiedDate": "2026-11-09T23:43:16.300Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -388,9 +388,9 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-09T22:43:49.620Z",
-      "cycleDate": "2026-11-09",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-09T23:43:16.300Z",
+      "cycleDate": "2026-11-10",
       "watchlistHash": null
     },
     "concertiExecution": {
@@ -400,15 +400,6 @@
       "watchlistHash": "4ee97ad2"
     },
     "items": [
-      {
-        "title": "Festa patronale di San Trifone",
-        "subtitle": "Lunedì 9 novembre",
-        "dateTime": "2026-11-09T19:30",
-        "text": "festa patronale • Adelfia • Rione Montrone • Processione del Quadro di San Trifone e lancio della mongolfiera",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Trifone&details=festa%20patronale%20%E2%80%A2%20Adelfia%20%E2%80%A2%20Rione%20Montrone%20%E2%80%A2%20Processione%20del%20Quadro%20di%20San%20Trifone%20e%20lancio%20della%20mongolfiera&location=Rione%20Montrone%2C%20Adelfia&dates=20261109T193000/20261109T203000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/san-trifone-2026/"
-      },
       {
         "title": "Solennità di San Leone Magno",
         "subtitle": "Martedì 10 novembre",
