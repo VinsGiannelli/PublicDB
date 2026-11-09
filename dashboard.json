@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-09T01:35:31.773Z",
+  "lastModifiedDate": "2026-11-09T01:38:15.160Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-08T21:14:30.368Z",
@@ -283,17 +283,8 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-08T01:19:50.000Z",
+    "lastModifiedDate": "2026-11-09T01:38:15.160Z",
     "items": [
-      {
-        "title": "F1 San Paolo - Gara",
-        "subtitle": "Domenica 8 novembre • 18:00",
-        "dateTime": "2026-11-08T18:00",
-        "text": "Formula 1 • GP San Paolo • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20San%20Paolo%20-%20Gara&dates=20261108T170000Z%2F20261108T190000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20San%20Paolo%20%E2%80%A2%20Gara&location=Aut%C3%B3dromo%20Jos%C3%A9%20Carlos%20Pace%2C%20San%20Paolo",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/brazil"
-      },
       {
         "title": "Picerno - Bari",
         "subtitle": "Lunedì 9 novembre • 20:45",
