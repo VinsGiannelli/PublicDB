@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-09T17:37:43.554Z",
+  "lastModifiedDate": "2026-11-09T18:10:13.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-08T21:14:30.368Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-09T17:37:43.554Z",
+    "lastModifiedDate": "2026-11-09T18:10:13.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -466,10 +466,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-09T17:08:09.686Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-09T18:10:13.000Z",
       "cycleDate": "2026-11-09",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": null
     },
     "items": [
       {
@@ -608,6 +608,15 @@
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
       },
       {
+        "title": "Sinceramente… Mi ami o mi odi? – Annalisa & Elodie Tribute",
+        "subtitle": "Venerdì 13 novembre 2026 • ore 21:00",
+        "dateTime": "2026-11-13T21:00",
+        "text": "live • Bari • Black Horses Pub • Tribute show Annalisa ed Elodie; ingresso libero con consumazione obbligatoria",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sinceramente%E2%80%A6%20Mi%20ami%20o%20mi%20odi%3F%20%E2%80%93%20Annalisa%20%26%20Elodie%20Tribute&dates=20261113210000%2F20261113230000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Tribute%20show%20Annalisa%20ed%20Elodie%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria%0Ahttps%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F335923.html&location=Bari%2C%20Black%20Horses%20Pub",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335923.html"
+      },
+      {
         "title": "BAILA – Zucchero Tribute",
         "subtitle": "Venerdì 13 novembre • 21:30",
         "dateTime": "2026-11-13T21:30",
@@ -642,6 +651,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Astradelta%20%E2%80%93%20Feel%20the%20Music%20Festival&dates=20261113T213000%2F20261113T223000&details=Astradelta%20in%20concerto%20al%20Santo%20Graal%20di%20Trani&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/335621.html"
+      },
+      {
+        "title": "Depeche Mode Experience – Tribute Show",
+        "subtitle": "Venerdì 13 novembre 2026 • ore 21:30",
+        "dateTime": "2026-11-13T21:30",
+        "text": "live • Bari • Walden, via Giovanni Amendola • Tribute show dal vivo dei Depeche Mode; ingresso libero con consumazione obbligatoria",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Depeche%20Mode%20Experience%20%E2%80%93%20Tribute%20Show&dates=20261113213000%2F20261113233000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Walden%2C%20via%20Giovanni%20Amendola%20%E2%80%A2%20Tribute%20show%20dal%20vivo%20dei%20Depeche%20Mode%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria%0Ahttps%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F333163.html&location=Bari%2C%20Walden%2C%20via%20Giovanni%20Amendola",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333163.html"
       },
       {
         "title": "Clinique Lacuna",
