@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-10T01:15:02.000Z",
+  "lastModifiedDate": "2026-11-10T01:26:27.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-09T21:20:35.098Z",
@@ -211,17 +211,8 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-09T01:38:15.160Z",
+    "lastModifiedDate": "2026-11-10T01:26:27.000Z",
     "items": [
-      {
-        "title": "Picerno - Bari",
-        "subtitle": "Lunedì 9 novembre • 20:45",
-        "dateTime": "2026-11-09T20:45",
-        "text": "Serie C Girone C • Picerno - Bari",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Picerno%20-%20Bari&dates=20261109T194500Z%2F20261109T214500Z&ctz=Europe%2FRome&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Picerno%20-%20Bari&location=Stadio%20Donato%20Curcio%2C%20Picerno",
-        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/serie-c-2026/calendario/bari-e2hi197ydanctu9i74tonpt4r/"
-      },
       {
         "title": "Italia - Francia",
         "subtitle": "Giovedì 12 novembre • 20:45",
