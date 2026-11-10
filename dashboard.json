@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-10T12:10:40.921Z",
+  "lastModifiedDate": "2026-11-10T12:43:15.479Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-09T21:20:35.098Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-10T12:10:40.921Z",
+    "lastModifiedDate": "2026-11-10T12:43:15.479Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -379,8 +379,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-10T11:41:45.675Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-10T12:43:15.479Z",
       "cycleDate": "2026-11-10",
       "watchlistHash": null
     },
@@ -741,6 +741,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20degli%20Scambi%2C%20Collezionismo%20e%20Artigianato&dates=20261115%2F20261116&details=mercatino%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Collezionismo%2C%20antiquariato%20e%20manifatture%20artistiche&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://esploramercatini.it/eventi/mercatino-degli-scambi-collezionismo-antiquariato-e-manifatture-artistiche-matera-2026-11-14--research-c0f59f19f11f825849cdd7ddc19772e6"
+      },
+      {
+        "title": "La Parata del Frutto Pendente",
+        "subtitle": "Domenica 15 novembre, ore 10:00",
+        "dateTime": "2026-11-15T10:00",
+        "text": "mercatino • Noci • Piazza Garibaldi • Piccolo mercato agricolo, scambio di semi e talee, mostra pomologica e laboratori",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Parata%20del%20Frutto%20Pendente&dates=20261115T100000%2F20261115T133000&details=Piccolo%20mercato%20agricolo%2C%20scambio%20semi%20e%20talee%2C%20mostra%20pomologica%20e%20laboratori.&location=Piazza%20Garibaldi%2C%20Noci%20(BA)&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.upposto.it/eventi/cmw7ecm8z00az6iu0me4kwovc"
       },
       {
         "title": "Novello sotto il Castello",
