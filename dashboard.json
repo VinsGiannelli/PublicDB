@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-10T07:10:39.194Z",
+  "lastModifiedDate": "2026-11-10T07:38:46.199Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-09T21:20:35.098Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-10T07:10:39.194Z",
+    "lastModifiedDate": "2026-11-10T07:38:46.199Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -379,8 +379,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-10T06:38:04.446Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-10T07:38:46.199Z",
       "cycleDate": "2026-11-10",
       "watchlistHash": null
     },
@@ -1056,6 +1056,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261124%2F20261125&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Fiera di San Flaviano",
+        "subtitle": "Martedì 24 novembre",
+        "dateTime": "2026-11-24T00:00",
+        "text": "mercatino • Conversano • Vie P.M. Accolti Gil, Pietro Nenni, Palmiro Togliatti, Marco Polo, Giuseppe Lacalandra e Michelangelo Buonarroti • Fiera tradizionale con circa 320 posteggi di commercio ambulante non alimentare",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Flaviano&dates=20261124%2F20261125&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Conversano%20%E2%80%A2%20Vie%20P.M.%20Accolti%20Gil%2C%20Pietro%20Nenni%2C%20Palmiro%20Togliatti%2C%20Marco%20Polo%2C%20Giuseppe%20Lacalandra%20e%20Michelangelo%20Buonarroti%20%E2%80%A2%20Fiera%20tradizionale%20con%20circa%20320%20posteggi%20di%20commercio%20ambulante%20non%20alimentare&location=Vie%20P.M.%20Accolti%20Gil%20e%20Pietro%20Nenni%2C%20Conversano",
+        "linkDettagliEvento": "https://www.comune.conversano.ba.it/novita/concessione-dei-posteggi-fiera-di-san-flaviano-24-11-2026/"
       }
     ]
   }
