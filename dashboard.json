@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-10T00:40:21.474Z",
+  "lastModifiedDate": "2026-11-10T01:15:02.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-09T21:20:35.098Z",
@@ -306,7 +306,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-10T00:40:21.474Z",
+    "lastModifiedDate": "2026-11-10T01:15:02.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -394,10 +394,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-10T00:06:34.672Z",
-      "cycleDate": "2026-11-09",
-      "watchlistHash": "4ee97ad2"
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-10T01:15:02.000Z",
+      "cycleDate": "2026-11-10",
+      "watchlistHash": null
     },
     "items": [
       {
@@ -444,6 +444,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20Cibo%20e%20Vino%20%E2%80%93%202%C2%AA%20Edizione&dates=20261111T193000%2F20261111T213000&details=sagra%20%E2%80%A2%20Casamassima%20%E2%80%A2%20Lattavino%20in%20Vigna%20%E2%80%A2%20Vini%20locali%20e%20specialit%C3%A0%20gastronomiche%20del%20territorio&location=Lattavino%20in%20Vigna%2C%20Circonvallazione%20F.%20Latilla%2C%20Casamassima&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/casamassima/san-martino-cibo-e-vino-2-edizione-134481"
+      },
+      {
+        "title": "Serata brasiliana: Edinho canta Chico Buarque",
+        "subtitle": "Giovedì 12 novembre • 19:00",
+        "dateTime": "2026-11-12T19:00",
+        "text": "live • Bari • Libreria Liberrima • Edinho interpreta Chico Buarque; concerto e aperitivo, ingresso 30 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Serata%20brasiliana%3A%20Edinho%20canta%20Chico%20Buarque&dates=20261112T190000%2F20261112T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Libreria%20Liberrima%20%E2%80%A2%20Edinho%20interpreta%20Chico%20Buarque%3B%20concerto%20e%20aperitivo%2C%20ingresso%2030%20%E2%82%AC&location=Libreria%20Liberrima%2C%20Via%20Alessandro%20Maria%20Calefati%2012%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335930.html"
       },
       {
         "title": "Il Nuovo Mondo",
