@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-11T13:40:19.000Z",
+  "lastModifiedDate": "2026-11-11T14:10:29.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-10T21:55:29.457Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-11T13:40:19.000Z",
+    "lastModifiedDate": "2026-11-11T14:10:29.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,10 +385,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-11T13:09:33.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-11T14:10:29.000Z",
       "cycleDate": "2026-11-11",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": null
     },
     "items": [
       {
@@ -561,6 +561,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Depeche%20Mode%20Experience%20%E2%80%93%20Tribute%20Show&dates=20261113213000%2F20261113233000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Walden%2C%20via%20Giovanni%20Amendola%20%E2%80%A2%20Tribute%20show%20dal%20vivo%20dei%20Depeche%20Mode%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria%0Ahttps%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F333163.html&location=Bari%2C%20Walden%2C%20via%20Giovanni%20Amendola",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333163.html"
+      },
+      {
+        "title": "BACK TO THE 70’s – Disco & Funky Live",
+        "subtitle": "Venerdì 13 novembre • ore 21:30",
+        "dateTime": "2026-11-13T21:30",
+        "text": "live • Bari • Malto's Beer • Concerto dal vivo tributo alla disco music e al funky anni '70; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BACK%20TO%20THE%2070%E2%80%99s%20%E2%80%93%20Disco%20%26%20Funky%20Live&dates=20261113T213000%2F20261113T223000&ctz=Europe%2FRome&details=Concerto%20disco%20e%20funky%20anni%20'70%20dal%20vivo&location=Malto's%20Beer%2C%20Via%20A.%20Carrante%201%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335557.html"
       },
       {
         "title": "Clinique Lacuna",
