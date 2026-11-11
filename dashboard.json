@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-11T17:06:11.000Z",
+  "lastModifiedDate": "2026-11-11T17:40:55.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-10T21:55:29.457Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-11T17:06:11.000Z",
+    "lastModifiedDate": "2026-11-11T17:40:55.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -379,8 +379,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-11T16:38:34.755Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-11T17:40:55.000Z",
       "cycleDate": "2026-11-11",
       "watchlistHash": null
     },
@@ -462,6 +462,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20folklore%20e%20musica&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261113%2F20261114&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Sagra d'Autunno",
+        "subtitle": "Venerdì 13 novembre",
+        "dateTime": "2026-11-13T00:00",
+        "text": "sagra • Bitonto • Via A. Manzoni, Palombaio • organizzata dall'Oratorio S. Gaspare Bertoni ANSPI APS-ETS",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20d'Autunno&dates=20261113%2F20261114&details=Sagra%20d'Autunno%20organizzata%20dall'Oratorio%20S.%20Gaspare%20Bertoni%20ANSPI%20APS-ETS%20a%20Palombaio&location=Via%20A.%20Manzoni%2C%20Palombaio%2C%20Bitonto&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bitonto/sagra-d-autunno-140919"
       },
       {
         "title": "Novello sotto il Castello",
