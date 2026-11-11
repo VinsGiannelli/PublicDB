@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-11T00:39:00.089Z",
+  "lastModifiedDate": "2026-11-11T01:10:15.738Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-10T21:55:29.457Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-11T00:39:00.089Z",
+    "lastModifiedDate": "2026-11-11T01:10:15.738Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,10 +385,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-11T00:05:28.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-11T01:10:15.738Z",
       "cycleDate": "2026-11-10",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": "3ab9b5d6"
     },
     "items": [
       {
@@ -786,6 +786,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20JAM%20Session%20del%20Santo%20Graal&dates=20261119T213000%2F20261119T223000&ctz=Europe%2FRome&details=Jam%20session%20con%20resident%20band%20Rainbow%20Bridge&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335413.html"
+      },
+      {
+        "title": "SheRocks90s – Tributo alle voci femminili anni '90",
+        "subtitle": "Giovedì 19 novembre • 21:30",
+        "dateTime": "2026-11-19T21:30",
+        "text": "live • Bari • Malto's Beer, via A. Carrante 1 • SheRocks90s, tributo rock e pop-rock alle voci femminili degli anni '90",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SheRocks90s%20%E2%80%93%20Tributo%20alle%20voci%20femminili%20anni%20'90&dates=20261119T213000%2F20261119T233000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Malto's%20Beer%2C%20via%20A.%20Carrante%201%20%E2%80%A2%20SheRocks90s%2C%20tributo%20rock%20e%20pop-rock%20alle%20voci%20femminili%20degli%20anni%20'90&location=Malto's%20Beer%2C%20Via%20A.%20Carrante%201%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336256.html"
       },
       {
         "title": "OHM Pink Floyd",
