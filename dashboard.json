@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-10T23:44:38.000Z",
+  "lastModifiedDate": "2026-11-11T00:05:28.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-10T21:55:29.457Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-10T23:44:38.000Z",
+    "lastModifiedDate": "2026-11-11T00:05:28.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-10T23:09:48.712Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-11T00:05:28.000Z",
       "cycleDate": "2026-11-10",
       "watchlistHash": "4ee97ad2"
     },
@@ -1056,6 +1056,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Flaviano&dates=20261124%2F20261125&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Conversano%20%E2%80%A2%20Vie%20P.M.%20Accolti%20Gil%2C%20Pietro%20Nenni%2C%20Palmiro%20Togliatti%2C%20Marco%20Polo%2C%20Giuseppe%20Lacalandra%20e%20Michelangelo%20Buonarroti%20%E2%80%A2%20Fiera%20tradizionale%20con%20circa%20320%20posteggi%20di%20commercio%20ambulante%20non%20alimentare&location=Vie%20P.M.%20Accolti%20Gil%20e%20Pietro%20Nenni%2C%20Conversano",
         "linkDettagliEvento": "https://www.comune.conversano.ba.it/novita/concessione-dei-posteggi-fiera-di-san-flaviano-24-11-2026/"
+      },
+      {
+        "title": "Max Gazzè",
+        "subtitle": "Martedì 24 novembre • 21:00",
+        "dateTime": "2026-11-24T21:00",
+        "text": "live • Bari • Teatro Piccinni • Concerto di Max Gazzè",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max%20Gazz%C3%A8&dates=20261124T200000Z%2F20261124T220000Z&ctz=Europe%2FRome&details=Concerto%20di%20Max%20Gazz%C3%A8&location=Teatro%20Piccinni%2C%20Bari",
+        "linkDettagliEvento": "https://bassculture.it/bc-new/max-gazze-italy-tour-2026/"
       }
     ]
   }
