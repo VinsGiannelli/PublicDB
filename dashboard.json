@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-11T08:43:00.000Z",
+  "lastModifiedDate": "2026-11-11T09:07:43.486Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-10T21:55:29.457Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-11T08:43:00.000Z",
+    "lastModifiedDate": "2026-11-11T09:07:43.486Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-11T08:06:08.623Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-11T09:07:43.486Z",
       "cycleDate": "2026-11-11",
       "watchlistHash": null
     },
@@ -1073,6 +1073,15 @@
         "text": "live • Bari • Teatro Piccinni • Concerto di Max Gazzè",
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max%20Gazz%C3%A8&dates=20261124T200000Z%2F20261124T220000Z&ctz=Europe%2FRome&details=Concerto%20di%20Max%20Gazz%C3%A8&location=Teatro%20Piccinni%2C%20Bari",
+        "linkDettagliEvento": "https://bassculture.it/bc-new/max-gazze-italy-tour-2026/"
+      },
+      {
+        "title": "Max Gazzè",
+        "subtitle": "Mercoledì 25 novembre • 21:00",
+        "dateTime": "2026-11-25T21:00",
+        "text": "live • Bari • Teatro Piccinni • L'ornamento delle cose secondarie, concerto dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max%20Gazz%C3%A8&dates=20261125T200000Z%2F20261125T220000Z&ctz=Europe%2FRome&details=Max%20Gazz%C3%A8%20-%20L'ornamento%20delle%20cose%20secondarie%2C%20concerto%20dal%20vivo&location=Teatro%20Piccinni%2C%20Corso%20Vittorio%20Emanuele%20II%2084%2C%20Bari",
         "linkDettagliEvento": "https://bassculture.it/bc-new/max-gazze-italy-tour-2026/"
       }
     ]
