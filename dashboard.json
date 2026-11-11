@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-11T13:09:33.000Z",
+  "lastModifiedDate": "2026-11-11T13:40:19.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-10T21:55:29.457Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-11T13:09:33.000Z",
+    "lastModifiedDate": "2026-11-11T13:40:19.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -379,8 +379,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-11T12:43:10.519Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-11T13:40:19.000Z",
       "cycleDate": "2026-11-11",
       "watchlistHash": null
     },
@@ -1074,6 +1074,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max%20Gazz%C3%A8&dates=20261124T200000Z%2F20261124T220000Z&ctz=Europe%2FRome&details=Concerto%20di%20Max%20Gazz%C3%A8&location=Teatro%20Piccinni%2C%20Bari",
         "linkDettagliEvento": "https://bassculture.it/bc-new/max-gazze-italy-tour-2026/"
+      },
+      {
+        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
+        "subtitle": "Mercoledì 25 novembre",
+        "dateTime": "2026-11-25T00:00",
+        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261125%2F20261126&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
+        "logo": "SAGRA"
       },
       {
         "title": "Max Gazzè",
