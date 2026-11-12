@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T01:36:02.359Z",
+  "lastModifiedDate": "2026-11-12T02:05:17.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T01:36:02.359Z",
+    "lastModifiedDate": "2026-11-12T02:05:17.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-12T01:06:19.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-12T02:05:17.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": null
     },
@@ -1029,6 +1029,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra%20Hobbismo%20e%20Scambio%20a%20Piazza%20Massari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Massari%20%E2%80%A2%2040%20bancarelle%20di%20collezionismo%2C%20artigianato%20e%20hobbistica&location=Piazza%20Massari%2C%20Bari&dates=20261122T060000%2F20261122T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-piazza-massari-78178"
+      },
+      {
+        "title": "Voyage – Rihlet El-Hayat",
+        "subtitle": "Domenica 22 novembre • 17:30",
+        "dateTime": "2026-11-22T17:30",
+        "text": "live • Matera • Hotel La Suite • Badrya Razem (voce) e Domenico Lopez (chitarra), musiche del Mediterraneo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Voyage%20%E2%80%93%20Rihlet%20El-Hayat&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Hotel%20La%20Suite%20%E2%80%A2%20Badrya%20Razem%20(voce)%20e%20Domenico%20Lopez%20(chitarra)%2C%20musiche%20del%20Mediterraneo&location=Hotel%20La%20Suite%2C%20Via%20Lucana%20137%2C%20Matera&dates=20261122T173000%2F20261122T183000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://events.materawelcome.it/events/view/musica/8733/voyage-_rihlet_el-hayat"
       },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
