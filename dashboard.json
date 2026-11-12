@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T13:39:04.000Z",
+  "lastModifiedDate": "2026-11-12T14:10:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T13:39:04.000Z",
+    "lastModifiedDate": "2026-11-12T14:10:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-12T13:08:58.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-12T14:10:00.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": "4ee97ad2"
     },
@@ -815,6 +815,24 @@
         "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-del-crocifisso-2026-modugno/"
       },
       {
+        "title": "Giuseppe Mattia Larato – Orienti",
+        "subtitle": "domenica 15 novembre 2026 • ore 20:00",
+        "dateTime": "2026-11-15T20:00",
+        "text": "live • Matera • Santuario di San Francesco da Paola, via XX Settembre 13 • Fadiesis Accordion Festival, concerto di fisarmonica, ingresso gratuito",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giuseppe%20Mattia%20Larato%20%E2%80%93%20Orienti&dates=20261115T200000%2F20261115T220000&ctz=Europe%2FRome&details=Fadiesis%20Accordion%20Festival%2C%20concerto%20di%20fisarmonica%2C%20ingresso%20gratuito&location=Santuario%20di%20San%20Francesco%20da%20Paola%2C%20via%20XX%20Settembre%2013%2C%20Matera",
+        "linkDettagliEvento": "https://www.puglialive.net/faf-2026-il-fadiesis-accordion-festival-torna-a-matera-domenica-15-novembre-il-concerto-del-giovane-talento-giuseppe-mattia-larato/"
+      },
+      {
+        "title": "Francesco D’Orazio e L’Astrée – Anima Mea",
+        "subtitle": "domenica 15 novembre 2026 • ore 20:30",
+        "dateTime": "2026-11-15T20:30",
+        "text": "live • Sannicandro di Bari • Scuderie del Castello • Festival Anima Mea, musiche di Tartini e della sua scuola",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%20D%E2%80%99Orazio%20e%20L%E2%80%99Astr%C3%A9e%20%E2%80%93%20Anima%20Mea&dates=20261115T203000%2F20261115T223000&ctz=Europe%2FRome&details=Festival%20Anima%20Mea%2C%20musiche%20di%20Tartini%20e%20della%20sua%20scuola&location=Scuderie%20del%20Castello%2C%20Sannicandro%20di%20Bari",
+        "linkDettagliEvento": "https://www.puglialive.net/festival-anima-mea-il-15-16-e-17-novembre-a-sannicandro-andria-e-bari-il-violinista-francesco-dorazio-celebra-giuseppe-tartini-con-lensemble-lastree/"
+      },
+      {
         "title": "Riserva Moac",
         "subtitle": "Domenica 15 novembre, ore 21:00",
         "dateTime": "2026-11-15T21:00",
@@ -822,6 +840,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Riserva%20Moac&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261115T210000%2F20261115T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
+      },
+      {
+        "title": "Francesco D’Orazio e L’Astrée – Anima Mea",
+        "subtitle": "lunedì 16 novembre 2026 • ore 20:30",
+        "dateTime": "2026-11-16T20:30",
+        "text": "live • Andria • Chiesa di Sant’Anna • Festival Anima Mea, musiche di Tartini e della sua scuola",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%20D%E2%80%99Orazio%20e%20L%E2%80%99Astr%C3%A9e%20%E2%80%93%20Anima%20Mea&dates=20261116T203000%2F20261116T223000&ctz=Europe%2FRome&details=Festival%20Anima%20Mea%2C%20musiche%20di%20Tartini%20e%20della%20sua%20scuola&location=Chiesa%20di%20Sant%E2%80%99Anna%2C%20Andria",
+        "linkDettagliEvento": "https://www.puglialive.net/festival-anima-mea-il-15-16-e-17-novembre-a-sannicandro-andria-e-bari-il-violinista-francesco-dorazio-celebra-giuseppe-tartini-con-lensemble-lastree/"
       },
       {
         "title": "Brunori Sas – TUTTOBRUNORI",
