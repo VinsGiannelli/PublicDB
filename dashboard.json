@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T23:13:25.000Z",
+  "lastModifiedDate": "2026-11-12T23:37:51.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -309,7 +309,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T23:13:25.000Z",
+    "lastModifiedDate": "2026-11-12T23:37:51.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -391,9 +391,9 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-12T22:41:48.000Z",
-      "cycleDate": "2026-11-12",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-12T23:37:51.000Z",
+      "cycleDate": "2026-11-13",
       "watchlistHash": null
     },
     "concertiExecution": {
@@ -681,6 +681,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holy%20Tongue%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T200000%2F20261114T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
+      },
+      {
+        "title": "In Taberna Quando Sumus",
+        "subtitle": "Sabato 14 novembre, ore 20:00",
+        "dateTime": "2026-11-14T20:00",
+        "text": "evento tradizionale • Cassano delle Murge • Centro storico • Vini locali, gastronomia tipica e folklore medievale",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=In%20Taberna%20Quando%20Sumus&dates=20261114T200000%2F20261114T230000&ctz=Europe%2FRome&details=Degustazioni%20di%20vini%20locali%2C%20gastronomia%20tipica%20e%20folklore%20medievale&location=Centro%20storico%2C%20Cassano%20delle%20Murge%20(BA)",
+        "linkDettagliEvento": "https://www.istintoprimitivo.it/index.php/tutti-gli-eventi/2465-in-taberna-quando-sumus-5/2026-11-01-20-00?iccaldate=2026-3-1&s=02812282097500"
       },
       {
         "title": "I grandi temi del cinema internazionale",
