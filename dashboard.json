@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T15:44:49.000Z",
+  "lastModifiedDate": "2026-11-12T16:09:54.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T15:44:49.000Z",
+    "lastModifiedDate": "2026-11-12T16:09:54.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-12T15:13:56.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-12T16:09:54.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": "4ee97ad2"
     },
@@ -1166,6 +1166,15 @@
         "linkDettagliEvento": "https://events.materawelcome.it/events/view/musica/8733/voyage-_rihlet_el-hayat"
       },
       {
+        "title": "Gidon Kremer",
+        "subtitle": "domenica 22 novembre 2026 ore 20:00",
+        "dateTime": "2026-11-22T20:00",
+        "text": "live • Bari • Teatro Kursaal Santalucia • Concerto cameristico con Katrīna Anna Pelnēna, Mauro Paolo Monopoli e Massimiliano Monopoli",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gidon%20Kremer&dates=20261122T200000%2F20261122T213000&details=Concerto%20cameristico%20con%20Katr%C4%ABna%20Anna%20Peln%C4%93na%2C%20Mauro%20Paolo%20Monopoli%20e%20Massimiliano%20Monopoli&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334620.html"
+      },
+      {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
         "subtitle": "Lunedì 23 novembre",
         "dateTime": "2026-11-23T00:00",
@@ -1236,6 +1245,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261126%2F20261127&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Sergei Babayan",
+        "subtitle": "giovedì 26 novembre 2026 ore 20:00",
+        "dateTime": "2026-11-26T20:00",
+        "text": "live • Bari • Teatro Kursaal Santalucia • Recital pianistico al Festival Pianistico Internazionale del Mediterraneo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sergei%20Babayan&dates=20261126T200000%2F20261126T213000&details=Recital%20pianistico%20al%20Festival%20Pianistico%20Internazionale%20del%20Mediterraneo&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://visitabari.com/eventi/festival-pianistico-internazionale-del-mediterraneo-al-kursaal-santalucia-a-madonnella/"
       }
     ]
   }
