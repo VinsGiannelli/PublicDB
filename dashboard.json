@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T22:41:48.000Z",
+  "lastModifiedDate": "2026-11-12T23:13:25.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -309,7 +309,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T22:41:48.000Z",
+    "lastModifiedDate": "2026-11-12T23:13:25.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -397,48 +397,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-12T22:14:45.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-12T23:13:25.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": null
     },
     "items": [
-      {
-        "title": "Serata brasiliana: Edinho canta Chico Buarque",
-        "subtitle": "Giovedì 12 novembre • 19:00",
-        "dateTime": "2026-11-12T19:00",
-        "text": "live • Bari • Libreria Liberrima • Edinho interpreta Chico Buarque; concerto e aperitivo, ingresso 30 €",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Serata%20brasiliana%3A%20Edinho%20canta%20Chico%20Buarque&dates=20261112T190000%2F20261112T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Libreria%20Liberrima%20%E2%80%A2%20Edinho%20interpreta%20Chico%20Buarque%3B%20concerto%20e%20aperitivo%2C%20ingresso%2030%20%E2%82%AC&location=Libreria%20Liberrima%2C%20Via%20Alessandro%20Maria%20Calefati%2012%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335930.html"
-      },
-      {
-        "title": "Il Nuovo Mondo",
-        "subtitle": "Giovedì 12 novembre, ore 20:00",
-        "dateTime": "2026-11-12T20:00",
-        "text": "live • Bari • Auditorium Nino Rota • Concerto dell'Orchestra Sinfonica Metropolitana di Bari",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Nuovo%20Mondo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Auditorium%20Nino%20Rota%20%E2%80%A2%20Concerto%20dell'Orchestra%20Sinfonica%20Metropolitana%20di%20Bari&location=Auditorium%20Nino%20Rota%2C%20Bari&dates=20261112T200000%2F20261112T220000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ticketone.it/city/bari-221/venue/auditorium-nino-rota-87752/"
-      },
-      {
-        "title": "Salotto Acustico – Dimaggio live",
-        "subtitle": "Giovedì 12 novembre • 21:00",
-        "dateTime": "2026-11-12T21:00",
-        "text": "live • Putignano • I MAKE - ex macello • Salotto Acustico QUADRO, Dimaggio dal vivo; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Salotto%20Acustico%20%E2%80%93%20Dimaggio%20live&dates=20261112T210000%2F20261112T230000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20I%20MAKE%20-%20ex%20macello%20%E2%80%A2%20Salotto%20Acustico%20QUADRO%2C%20Dimaggio%20dal%20vivo%3B%20ingresso%20libero&location=I%20MAKE%20-%20ex%20macello%2C%20Via%20Santa%20Caterina%20da%20Siena%2C%20Putignano",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/335993.html"
-      },
-      {
-        "title": "La JAM Session del Santo Graal",
-        "subtitle": "Giovedì 12 novembre, ore 21:30",
-        "dateTime": "2026-11-12T21:30",
-        "text": "live • Trani • Santo Graal • Jam session con resident band Rainbow Bridge",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20JAM%20Session%20del%20Santo%20Graal&dates=20261112T213000%2F20261112T233000&ctz=Europe%2FRome&details=Jam%20session%20con%20resident%20band%20Rainbow%20Bridge&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335412.html"
-      },
       {
         "title": "Black Sabbath Legacy",
         "subtitle": "Venerdì 13 novembre",
