@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T21:43:06.000Z",
+  "lastModifiedDate": "2026-11-12T22:14:45.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -309,7 +309,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T21:43:06.000Z",
+    "lastModifiedDate": "2026-11-12T22:14:45.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -397,8 +397,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-12T21:12:13.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-12T22:14:45.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": null
     },
@@ -899,6 +899,15 @@
         "logo": "LIVE"
       },
       {
+        "title": "Stefano Palmieri – ACCIAO live",
+        "subtitle": "mercoledì 18 novembre",
+        "dateTime": "2026-11-18T00:00",
+        "text": "live • Bari • Spazio 13 • Via Colonnello de Cristoforis 8; concerto dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stefano%20Palmieri%20%E2%80%93%20ACCIAO%20live&dates=20261118%2F20261119&details=Via%20Colonnello%20de%20Cristoforis%208%3B%20concerto%20dal%20vivo&location=Spazio%2013%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.rockol.it/concerto-stefano-palmieri-spazio-13-via-colonnello-de-cristoforis-8-bari-ba-18-novembre-2026-c-j9e9nyy0pd6"
+      },
+      {
         "title": "Brunori Sas – TUTTOBRUNORI",
         "subtitle": "Mercoledì 18 novembre, ore 21:00",
         "dateTime": "2026-11-18T21:00",
@@ -1158,6 +1167,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tributo%20a%20Biagio%20Antonacci%20%E2%80%93%20Katia%20Lamparelli%20e%20Xavi&dates=20261121T200000Z%2F20261121T220000Z&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Villa%20Rotondo%2C%20Corso%20Alcide%20De%20Gasperi%20431%20%E2%80%A2%20Cover%20band%20di%20Biagio%20Antonacci%20con%20Katia%20Lamparelli%20e%20Xavi%3B%20DJ%20set%20successivo&location=Bari%2C%20Villa%20Rotondo%2C%20Corso%20Alcide%20De%20Gasperi%20431",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335873.html"
+      },
+      {
+        "title": "Jo Carley and The Old Dry Skulls",
+        "subtitle": "sabato 21 novembre, ore 21:00",
+        "dateTime": "2026-11-21T21:00",
+        "text": "live • Ruvo di Puglia • Scarlatti Caffè • concerto blues e rockabilly dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jo%20Carley%20and%20The%20Old%20Dry%20Skulls&dates=20261121T210000%2F20261121T220000&details=concerto%20blues%20e%20rockabilly%20dal%20vivo&location=Scarlatti%20Caff%C3%A8%2C%20Ruvo%20di%20Puglia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bandsintown.com/e/109018922-jo-carley-and-the-old-dry-skulls-at-scarlatti-caffe?came_from=297"
       },
       {
         "title": "Terraross",
