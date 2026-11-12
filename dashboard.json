@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T14:42:36.000Z",
+  "lastModifiedDate": "2026-11-12T15:13:56.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T14:42:36.000Z",
+    "lastModifiedDate": "2026-11-12T15:13:56.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-12T14:10:00.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-12T15:13:56.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": "4ee97ad2"
     },
@@ -1110,6 +1110,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terraross&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20Piazza%20Teatro%20%E2%80%A2%20Concerto%20alla%20festa%20di%20San%20Martino&location=%20Putignano%20%2C%20Piazza%20Teatro%20&dates=20261121T213000%2F20261121T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335026.html"
+      },
+      {
+        "title": "Depeche Mode Experience – Tribute Show",
+        "subtitle": "Sabato 21 novembre • 21:30",
+        "dateTime": "2026-11-21T21:30",
+        "text": "live • Mola di Bari • BorgonovArt, Via Giuseppe Parini 18 • Tributo dal vivo ai Depeche Mode; ingresso libero con consumazione obbligatoria",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Depeche%20Mode%20Experience%20%E2%80%93%20Tribute%20Show&dates=20261121T213000%2F20261121T223000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20BorgonovArt%2C%20Via%20Giuseppe%20Parini%2018%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Depeche%20Mode%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria&location=BorgonovArt%2C%20Via%20Giuseppe%20Parini%2018%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333163.html"
       },
       {
         "title": "Il Cardoncello Novello",
