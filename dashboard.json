@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T05:38:51.581Z",
+  "lastModifiedDate": "2026-11-12T06:15:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T05:38:51.581Z",
+    "lastModifiedDate": "2026-11-12T06:15:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL03",
-      "lastCompletedAt": "2026-11-12T05:11:05.000Z",
+      "lastCompletedStep": "WL04",
+      "lastCompletedAt": "2026-11-12T06:15:00.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": "4ee97ad2"
     },
@@ -507,6 +507,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sinceramente%E2%80%A6%20Mi%20ami%20o%20mi%20odi%3F%20%E2%80%93%20Annalisa%20%26%20Elodie%20Tribute&dates=20261113210000%2F20261113230000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Tribute%20show%20Annalisa%20ed%20Elodie%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria%0Ahttps%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F335923.html&location=Bari%2C%20Black%20Horses%20Pub",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335923.html"
+      },
+      {
+        "title": "Poohland Trio – Tributo ai Pooh",
+        "subtitle": "Venerdì 13 novembre, ore 21:00",
+        "dateTime": "2026-11-13T21:00",
+        "text": "live • Bisceglie • Da Sergio e Davide • Poohland Trio, tributo ai Pooh; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Poohland%20Trio%20%E2%80%93%20Tributo%20ai%20Pooh&dates=20261113T210000%2F20261113T220000&ctz=Europe%2FRome&details=Inizio%20verificato%20alle%2021%3A00%3B%20durata%20indicativa%20nel%20calendario.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F336052.html&location=Da%20Sergio%20e%20Davide%2C%20Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336052.html"
       },
       {
         "title": "BAILA – Zucchero Tribute",
