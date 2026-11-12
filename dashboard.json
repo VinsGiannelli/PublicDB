@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-12T21:12:13.000Z",
+  "lastModifiedDate": "2026-11-12T21:13:54.000Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-11T21:20:08.551Z",
+    "lastModifiedDate": "2026-11-12T21:13:54.000Z",
     "items": [
       {
         "title": "Ad Infinitum",
@@ -29,18 +29,6 @@
         "steamUrl": "https://store.steampowered.com/app/1582650/"
       },
       {
-        "title": "Conarium",
-        "subtitle": "GOG",
-        "text": "Avventura horror ispirata a Lovecraft, ambientata in una struttura antartica isolata, con indagini, misteri scientifici, enigmi e inquietanti esperienze soprannaturali. Riscattabile con Amazon Prime tramite GOG fino al 11 novembre 2026.",
-        "createdDate": "2026-10-08",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "76%",
-        "steamPrice": "19,50€",
-        "steamUrl": "https://store.steampowered.com/app/313780/"
-      },
-      {
         "title": "Disney Epic Mickey: Rebrushed",
         "subtitle": "Amazon Luna Standard",
         "text": "Platform tridimensionale nel mondo dimenticato di Disney: usa pennello e solvente per modificare scenari, risolvere enigmi e influenzare la storia. Disponibile in streaming su Amazon Luna Standard incluso con Prime.",
@@ -65,16 +53,16 @@
         "steamUrl": "https://store.steampowered.com/app/3940610/"
       },
       {
-        "title": "Flotsam",
+        "title": "Jurassic World Evolution 2",
         "subtitle": "Epic Games Store",
-        "text": "Gestionale di colonie galleggianti in un oceano coperto di rifiuti: raccogli risorse, costruisci piattaforme, salva naufraghi e organizza una città mobile. Riscattabile gratuitamente su Epic Games Store fino al 12 novembre 2026.",
-        "createdDate": "2026-11-05",
+        "text": "Gestionale di parchi preistorici ispirato ai film Jurassic World: costruisci habitat, alleva dinosauri, gestisci sicurezza, visitatori e ricerca scientifica affrontando campagne e scenari alternativi. Riscattabile con Amazon Prime tramite Epic Games Store.",
+        "createdDate": "2026-11-12",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/821250/header.jpg",
-        "link": "https://store.epicgames.com/p/flotsam",
-        "steamRating": "79%",
-        "steamPrice": "24,99€",
-        "steamUrl": "https://store.steampowered.com/app/821250/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg",
+        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
+        "steamRating": "90%",
+        "steamPrice": "59,99€",
+        "steamUrl": "https://store.steampowered.com/app/1244460/"
       },
       {
         "title": "KIBORG",
@@ -99,6 +87,18 @@
         "steamRating": "94%",
         "steamPrice": "59,99€",
         "steamUrl": "https://store.steampowered.com/app/1771300/"
+      },
+      {
+        "title": "Knightica",
+        "subtitle": "Epic Games Store",
+        "text": "Strategico roguelike fantasy con battaglie automatiche: recluta unità, schierale tatticamente, combina incantesimi e abilità per superare mostri e liberare i regni. Riscattabile gratuitamente su Epic Games Store fino al 19 novembre 2026.",
+        "createdDate": "2026-11-12",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3093400/header.jpg",
+        "link": "https://store.epicgames.com/p/knightica",
+        "steamRating": "74%",
+        "steamPrice": "14,99€",
+        "steamUrl": "https://store.steampowered.com/app/3093400/"
       },
       {
         "title": "Mixtape",
@@ -135,6 +135,18 @@
         "steamRating": "73%",
         "steamPrice": "29,99€",
         "steamUrl": "https://store.steampowered.com/app/997010/"
+      },
+      {
+        "title": "Radiolight",
+        "subtitle": "Epic Games Store",
+        "text": "Thriller investigativo ambientato nel 1985: nei panni di un poliziotto esplora un parco nazionale, segui misteriose trasmissioni radio e indaga sulla scomparsa di un bambino. Riscattabile con Amazon Prime tramite Epic Games Store.",
+        "createdDate": "2026-11-12",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1342690/e1dfebf1a87f453712b55035a4613336a6c2394e/header.jpg",
+        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
+        "steamRating": "90%",
+        "steamPrice": "14,79€",
+        "steamUrl": "https://store.steampowered.com/app/1342690/"
       },
       {
         "title": "Squirrel with a Gun",
