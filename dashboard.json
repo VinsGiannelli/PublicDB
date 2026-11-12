@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T06:39:26.000Z",
+  "lastModifiedDate": "2026-11-12T07:13:23.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T06:39:26.000Z",
+    "lastModifiedDate": "2026-11-12T07:13:23.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,10 +385,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-12T06:15:00.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-12T07:13:23.000Z",
       "cycleDate": "2026-11-12",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": null
     },
     "items": [
       {
@@ -455,6 +455,15 @@
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bitonto/sagra-d-autunno-140919"
       },
       {
+        "title": "Radiodervish",
+        "subtitle": "Venerdì 13 novembre • 17:00",
+        "dateTime": "2026-11-13T17:00",
+        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Radiodervish%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261113T170000%2F20261113T180000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
+      },
+      {
         "title": "Novello sotto il Castello",
         "subtitle": "Venerdì 13 novembre • 18:00",
         "dateTime": "2026-11-13T18:00",
@@ -464,6 +473,15 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Quartetto Lomax",
+        "subtitle": "Venerdì 13 novembre • 18:15",
+        "dateTime": "2026-11-13T18:15",
+        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quartetto%20Lomax%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261113T181500%2F20261113T191500&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
+      },
+      {
         "title": "Musicanti – Omaggio a Pino Daniele",
         "subtitle": "Venerdì 13 novembre, ore 20:30",
         "dateTime": "2026-11-13T20:30",
@@ -471,6 +489,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Musicanti%20%E2%80%93%20Omaggio%20a%20Pino%20Daniele&dates=20261113T203000%2F20261113T213000&ctz=Europe%2FRome&details=Musicanti%20dal%20vivo%20in%20omaggio%20a%20Pino%20Daniele.%20Ingresso%2012%20euro%2C%20panzerotto%20e%20bevanda%20inclusi.%20Orario%20finale%20indicativo.&location=ALLE%20S.E.R.R.E.%2C%20Contrada%20Parco%2C%20Terlizzi",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335869.html"
+      },
+      {
+        "title": "Kyoto",
+        "subtitle": "Venerdì 13 novembre • 20:30",
+        "dateTime": "2026-11-13T20:30",
+        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kyoto%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261113T203000%2F20261113T213000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
       },
       {
         "title": "Valerio Cosi e The Magpies",
@@ -635,6 +662,24 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Agenda dei buoni propositi",
+        "subtitle": "Sabato 14 novembre • 18:00",
+        "dateTime": "2026-11-14T18:00",
+        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Agenda%20dei%20buoni%20propositi%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T180000%2F20261114T190000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
+      },
+      {
+        "title": "Clap! Clap!",
+        "subtitle": "Sabato 14 novembre • 19:00",
+        "dateTime": "2026-11-14T19:00",
+        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Clap!%20Clap!%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T190000%2F20261114T200000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
+      },
+      {
         "title": "5ª Festa di San Martino – Novello e Cardoncello",
         "subtitle": "Sabato 14 novembre, ore 19:30",
         "dateTime": "2026-11-14T19:30",
@@ -642,6 +687,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=5%C2%AA%20Festa%20di%20San%20Martino%20%E2%80%93%20Novello%20e%20Cardoncello&dates=20261114T193000%2F20261114T223000&details=sagra%20%E2%80%A2%20Toritto%20%E2%80%A2%20Quasano%20%E2%80%A2%20Degustazioni%20di%20cardoncelli%2C%20vino%20novello%20e%20specialit%C3%A0%20locali&location=Quasano%2C%20Toritto&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ilborghista.it/events/5-festa-di-san-martino-novello-e-cardoncello-2026-comune-di-toritto"
+      },
+      {
+        "title": "Holy Tongue",
+        "subtitle": "Sabato 14 novembre • 20:00",
+        "dateTime": "2026-11-14T20:00",
+        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holy%20Tongue%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T200000%2F20261114T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
       },
       {
         "title": "Freddie - The Show Must Go On",
