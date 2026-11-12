@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-11T23:37:46.000Z",
+  "lastModifiedDate": "2026-11-12T00:05:53.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-11T23:37:46.000Z",
+    "lastModifiedDate": "2026-11-12T00:05:53.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,10 +385,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-11T23:06:44.000Z",
-      "cycleDate": "2026-11-11",
-      "watchlistHash": "4ee97ad2"
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-12T00:05:53.000Z",
+      "cycleDate": "2026-11-12",
+      "watchlistHash": null
     },
     "items": [
       {
@@ -408,6 +408,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Nuovo%20Mondo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Auditorium%20Nino%20Rota%20%E2%80%A2%20Concerto%20dell'Orchestra%20Sinfonica%20Metropolitana%20di%20Bari&location=Auditorium%20Nino%20Rota%2C%20Bari&dates=20261112T200000%2F20261112T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ticketone.it/city/bari-221/venue/auditorium-nino-rota-87752/"
+      },
+      {
+        "title": "Salotto Acustico – Dimaggio live",
+        "subtitle": "Giovedì 12 novembre • 21:00",
+        "dateTime": "2026-11-12T21:00",
+        "text": "live • Putignano • I MAKE - ex macello • Salotto Acustico QUADRO, Dimaggio dal vivo; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Salotto%20Acustico%20%E2%80%93%20Dimaggio%20live&dates=20261112T210000%2F20261112T230000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20I%20MAKE%20-%20ex%20macello%20%E2%80%A2%20Salotto%20Acustico%20QUADRO%2C%20Dimaggio%20dal%20vivo%3B%20ingresso%20libero&location=I%20MAKE%20-%20ex%20macello%2C%20Via%20Santa%20Caterina%20da%20Siena%2C%20Putignano",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/335993.html"
       },
       {
         "title": "La JAM Session del Santo Graal",
