@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T16:41:34.497Z",
+  "lastModifiedDate": "2026-11-12T17:08:13.344Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T16:41:34.497Z",
+    "lastModifiedDate": "2026-11-12T17:08:13.344Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-12T16:09:54.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-12T17:08:13.344Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": "4ee97ad2"
     },
@@ -869,6 +869,15 @@
         "logo": "LIVE"
       },
       {
+        "title": "Renato Ciardo – Musica e cabaret",
+        "subtitle": "Giovedì 19 novembre • 21:00",
+        "dateTime": "2026-11-19T21:00",
+        "text": "live • Bari • Chorìa - Note di Puglia • Spettacolo con musica dal vivo, cabaret e racconti • Ingresso 8 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Renato%20Ciardo%20%E2%80%93%20Musica%20e%20cabaret&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Spettacolo%20con%20musica%20dal%20vivo%2C%20cabaret%20e%20racconti%20%E2%80%A2%20Ingresso%208%20%E2%82%AC&location=Chor%C3%ACa%2C%20Via%20Giulio%20Petroni%20127%2FA%2C%20Bari&dates=20261119T200000Z%2F20261119T220000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336314.html"
+      },
+      {
         "title": "La JAM Session del Santo Graal",
         "subtitle": "Giovedì 19 novembre, ore 21:30",
         "dateTime": "2026-11-19T21:30",
@@ -912,6 +921,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261120%2F20261121&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Guns N' Roses Tribute Night",
+        "subtitle": "Venerdì 20 novembre",
+        "dateTime": "2026-11-20T00:00",
+        "text": "live • Bari • Crossroad Saloon • Tributo dal vivo ai Guns N' Roses • Orario del concerto non comunicato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guns%20N'%20Roses%20Tribute%20Night&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Guns%20N'%20Roses%20%E2%80%A2%20Orario%20del%20concerto%20non%20comunicato&location=Crossroad%20Saloon%2C%20Via%20Nicola%20Tridente%2015%2C%20Bari&dates=20261120%2F20261121&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://anyplans.in/en/bari/guns-n-roses-tribute-night-da-crossroad-saloon/"
       },
       {
         "title": "Kateryna Ukhatiuk – Le star del futuro",
