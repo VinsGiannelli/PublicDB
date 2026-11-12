@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T20:42:24.989Z",
+  "lastModifiedDate": "2026-11-12T21:12:13.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T20:42:24.989Z",
+    "lastModifiedDate": "2026-11-12T21:12:13.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,10 +385,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-12T20:11:20.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-12T21:12:13.000Z",
       "cycleDate": "2026-11-12",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": null
     },
     "items": [
       {
@@ -644,6 +644,15 @@
         "linkDettagliEvento": "https://esploramercatini.it/eventi/mercatino-degli-scambi-collezionismo-antiquariato-e-manifatture-artistiche-matera-2026-11-14--research-c0f59f19f11f825849cdd7ddc19772e6"
       },
       {
+        "title": "Omaggio a Marta Grilletti",
+        "subtitle": "sabato 14 novembre, ore 17:00",
+        "dateTime": "2026-11-14T17:00",
+        "text": "live • Bari • Biblioteca nazionale Sagarriga Visconti Volpi • concerto omaggio, ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Omaggio%20a%20Marta%20Grilletti&dates=20261114T170000%2F20261114T190000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Biblioteca%20nazionale%20Sagarriga%20Visconti%20Volpi%20%E2%80%A2%20concerto%20omaggio%2C%20ingresso%20libero&location=Biblioteca%20nazionale%20Sagarriga%20Visconti%20Volpi%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/319261.html"
+      },
+      {
         "title": "Festa del Vino Primitivo e del Cece Nero",
         "subtitle": "Sabato 14 novembre • 18:00",
         "dateTime": "2026-11-14T18:00",
@@ -696,6 +705,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holy%20Tongue%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T200000%2F20261114T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
+      },
+      {
+        "title": "I grandi temi del cinema internazionale",
+        "subtitle": "sabato 14 novembre, ore 20:30",
+        "dateTime": "2026-11-14T20:30",
+        "text": "live • Molfetta • Auditorium Madonna della Rosa • Orchestra di Chitarre De Falla e Lucia Posa, colonne sonore",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20grandi%20temi%20del%20cinema%20internazionale&dates=20261114T203000%2F20261114T223000&details=live%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Auditorium%20Madonna%20della%20Rosa%20%E2%80%A2%20Orchestra%20di%20Chitarre%20De%20Falla%20e%20Lucia%20Posa%2C%20colonne%20sonore&location=Auditorium%20Madonna%20della%20Rosa%2C%20Molfetta&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://oooh.events/evento/defalla-biglietti/"
       },
       {
         "title": "Freddie - The Show Must Go On",
@@ -822,6 +840,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giuseppe%20Mattia%20Larato%20%E2%80%93%20Orienti&dates=20261115T200000%2F20261115T220000&ctz=Europe%2FRome&details=Fadiesis%20Accordion%20Festival%2C%20concerto%20di%20fisarmonica%2C%20ingresso%20gratuito&location=Santuario%20di%20San%20Francesco%20da%20Paola%2C%20via%20XX%20Settembre%2013%2C%20Matera",
         "linkDettagliEvento": "https://www.puglialive.net/faf-2026-il-fadiesis-accordion-festival-torna-a-matera-domenica-15-novembre-il-concerto-del-giovane-talento-giuseppe-mattia-larato/"
+      },
+      {
+        "title": "Il suono del respiro – Omaggio a Giuliana e Bruno Calvani",
+        "subtitle": "domenica 15 novembre, ore 20:00",
+        "dateTime": "2026-11-15T20:00",
+        "text": "live • Mola di Bari • Chiesa del Santissimo Rosario in San Domenico • Paolo Daniele e Margherita Sciddurlo, ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20suono%20del%20respiro%20%E2%80%93%20Omaggio%20a%20Giuliana%20e%20Bruno%20Calvani&dates=20261115T200000%2F20261115T220000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20del%20Santissimo%20Rosario%20in%20San%20Domenico%20%E2%80%A2%20Paolo%20Daniele%20e%20Margherita%20Sciddurlo%2C%20ingresso%20libero&location=Chiesa%20del%20Santissimo%20Rosario%20in%20San%20Domenico%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336053.html"
       },
       {
         "title": "Francesco D’Orazio e L’Astrée – Anima Mea",
