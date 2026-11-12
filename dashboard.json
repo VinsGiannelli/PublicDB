@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-12T11:36:10.252Z",
+  "lastModifiedDate": "2026-11-12T12:13:25.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-11T21:20:08.551Z",
@@ -297,7 +297,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-12T11:36:10.252Z",
+    "lastModifiedDate": "2026-11-12T12:13:25.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -385,8 +385,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL02",
-      "lastCompletedAt": "2026-11-12T11:12:08.319Z",
+      "lastCompletedStep": "WL03",
+      "lastCompletedAt": "2026-11-12T12:13:25.000Z",
       "cycleDate": "2026-11-12",
       "watchlistHash": "4ee97ad2"
     },
@@ -984,6 +984,33 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261121%2F20261122&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Odioeffe",
+        "subtitle": "Sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "live • Bari • Officina degli Esordi • BIG WAVE / Bari International Gender Festival, esibizione dal vivo; orario individuale non comunicato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Odioeffe&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20BIG%20WAVE%20%2F%20Bari%20International%20Gender%20Festival%2C%20esibizione%20dal%20vivo%3B%20orario%20individuale%20non%20comunicato&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.rockol.it/concerto-odioeffe-officina-degli-esordi-bari-21-novembre-2026-c-xad4v33qmd0"
+      },
+      {
+        "title": "Ava Hangar",
+        "subtitle": "Sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "live • Bari • Officina degli Esordi • BIG WAVE / Bari International Gender Festival, esibizione dal vivo; orario individuale non comunicato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ava%20Hangar&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20BIG%20WAVE%20%2F%20Bari%20International%20Gender%20Festival%2C%20esibizione%20dal%20vivo%3B%20orario%20individuale%20non%20comunicato&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.rockol.it/concerto-ava-hangar-officina-degli-esordi-bari-21-novembre-2026-c-o3dnxww5vex"
+      },
+      {
+        "title": "Dahlia Doll",
+        "subtitle": "Sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "live • Bari • Officina degli Esordi • BIG WAVE / Bari International Gender Festival, esibizione dal vivo; orario individuale non comunicato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dahlia%20Doll&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20BIG%20WAVE%20%2F%20Bari%20International%20Gender%20Festival%2C%20esibizione%20dal%20vivo%3B%20orario%20individuale%20non%20comunicato&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.rockol.it/concerto-dahlia-doll-officina-degli-esordi-bari-21-novembre-2026-c-l8r8nwwmwrk"
       },
       {
         "title": "San Martino – Ogni mosto diventa vino",
