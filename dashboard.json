@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T17:10:14.000Z",
+  "lastModifiedDate": "2026-11-13T17:37:23.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-13T17:10:14.000Z",
+    "lastModifiedDate": "2026-11-13T17:37:23.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -400,8 +400,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-13T16:37:09.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-13T17:37:23.000Z",
       "cycleDate": "2026-11-13",
       "watchlistHash": null
     },
@@ -796,7 +796,7 @@
         "dateTime": "2026-11-15T07:00",
         "text": "mercatino • Modugno • Centro urbano e Piazza Sedile • Fiera tradizionale con bancarelle, prodotti tipici, antiquariato e artigianato",
         "logo": "MERCATINO",
-        "link": "https://www.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&dates=20261115T070000/20261115T190000&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20urbano%20e%20Piazza%20Sedile%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle%2C%20prodotti%20tipici%2C%20antiquariato%20e%20artigianato&location=Centro%20urbano%2C%20Modugno",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20del%20Crocifisso&dates=20261115T070000/20261115T190000&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20urbano%20e%20Piazza%20Sedile%20%E2%80%A2%20Fiera%20tradizionale%20con%20bancarelle%2C%20prodotti%20tipici%2C%20antiquariato%20e%20artigianato&location=Centro%20urbano%2C%20Modugno",
         "linkDettagliEvento": "https://www.comune.modugno.ba.it/notizia/fiera-del-crocifisso-2026-spazi-espositivi-per-hobbisti/"
       },
       {
