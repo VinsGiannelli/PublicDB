@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T13:47:05.736Z",
+  "lastModifiedDate": "2026-11-13T14:13:33.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-13T13:47:05.736Z",
+    "lastModifiedDate": "2026-11-13T14:13:33.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -406,8 +406,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-13T13:11:33.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-13T14:13:33.000Z",
       "cycleDate": "2026-11-13",
       "watchlistHash": "4ee97ad2"
     },
@@ -1347,6 +1347,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261127%2F20261128&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-a-matera-il-tartufo-prende-il-volo-dieci-giorni-di-gusto-nella-citta-dei-sassi/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Hybrid Light & Fallen – Linkin Park & Evanescence Tribute",
+        "subtitle": "Venerdì 27 novembre",
+        "dateTime": "2026-11-27T00:00",
+        "text": "live • Matera • Midnight Pub Live • Tributi dal vivo a Linkin Park ed Evanescence",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hybrid%20Light%20%26%20Fallen%20%E2%80%93%20Linkin%20Park%20%26%20Evanescence%20Tribute&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributi%20dal%20vivo%20a%20Linkin%20Park%20ed%20Evanescence&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261127%2F20261128&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/hybrid-light-fallen-linkin-park-evanescence-tribute-band/",
+        "logo": "LIVE"
       },
       {
         "title": "Canto libero – Mina e Battisti",
