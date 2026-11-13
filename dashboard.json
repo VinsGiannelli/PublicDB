@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T12:14:51.000Z",
+  "lastModifiedDate": "2026-11-13T12:43:42.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-13T12:14:51.000Z",
+    "lastModifiedDate": "2026-11-13T12:43:42.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -400,8 +400,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-13T11:43:17.564Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-13T12:43:42.000Z",
       "cycleDate": "2026-11-13",
       "watchlistHash": null
     },
@@ -1097,6 +1097,15 @@
         "linkDettagliEvento": "https://www.rockol.it/concerto-dahlia-doll-officina-degli-esordi-bari-21-novembre-2026-c-l8r8nwwmwrk"
       },
       {
+        "title": "Mercatino del riuso",
+        "subtitle": "Sabato 21 novembre",
+        "dateTime": "2026-11-21T10:00",
+        "text": "mercatino • Capurso • Piazza Gramsci • Riuso e sostenibilità; orari 10:00-13:00 e 17:00-20:00",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Riuso%20e%20sostenibilit%C3%A0%3B%20orari%2010%3A00-13%3A00%20e%2017%3A00-20%3A00&location=Piazza%20Gramsci%2C%20Capurso&dates=20261121T100000%2F20261121T130000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333390.html",
+        "logo": "MERCATINO"
+      },
+      {
         "title": "San Martino – Ogni mosto diventa vino",
         "subtitle": "Sabato 21 novembre, ore 19:00",
         "dateTime": "2026-11-21T19:00",
@@ -1221,6 +1230,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra%20Hobbismo%20e%20Scambio%20a%20Piazza%20Massari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Massari%20%E2%80%A2%2040%20bancarelle%20di%20collezionismo%2C%20artigianato%20e%20hobbistica&location=Piazza%20Massari%2C%20Bari&dates=20261122T060000%2F20261122T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-piazza-massari-78178"
+      },
+      {
+        "title": "Mercatino del riuso",
+        "subtitle": "Domenica 22 novembre",
+        "dateTime": "2026-11-22T10:00",
+        "text": "mercatino • Capurso • Piazza Gramsci • Riuso e sostenibilità; orari 10:00-13:00",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Riuso%20e%20sostenibilit%C3%A0%3B%20orari%2010%3A00-13%3A00&location=Piazza%20Gramsci%2C%20Capurso&dates=20261122T100000%2F20261122T130000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333392.html",
+        "logo": "MERCATINO"
       },
       {
         "title": "Voyage – Rihlet El-Hayat",
