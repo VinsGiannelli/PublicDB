@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T16:08:13.000Z",
+  "lastModifiedDate": "2026-11-13T16:37:09.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-13T16:08:13.000Z",
+    "lastModifiedDate": "2026-11-13T16:37:09.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -400,8 +400,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-13T15:36:43.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-13T16:37:09.000Z",
       "cycleDate": "2026-11-13",
       "watchlistHash": null
     },
@@ -1293,6 +1293,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Flaviano&dates=20261124%2F20261125&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Conversano%20%E2%80%A2%20Vie%20P.M.%20Accolti%20Gil%2C%20Pietro%20Nenni%2C%20Palmiro%20Togliatti%2C%20Marco%20Polo%2C%20Giuseppe%20Lacalandra%20e%20Michelangelo%20Buonarroti%20%E2%80%A2%20Fiera%20tradizionale%20con%20circa%20320%20posteggi%20di%20commercio%20ambulante%20non%20alimentare&location=Vie%20P.M.%20Accolti%20Gil%20e%20Pietro%20Nenni%2C%20Conversano",
         "linkDettagliEvento": "https://www.comune.conversano.ba.it/novita/concessione-dei-posteggi-fiera-di-san-flaviano-24-11-2026/"
+      },
+      {
+        "title": "Festa patronale di San Flaviano – Processione",
+        "subtitle": "Martedì 24 novembre • ore 19:00",
+        "dateTime": "2026-11-24T19:00",
+        "text": "festa patronale • Conversano • Basilica Cattedrale e Piazza XX Settembre • Processione di gala e tradizionale consegna delle chiavi della città al Santo Patrono",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Flaviano%20%E2%80%93%20Processione&dates=20261124T190000/20261124T200000&ctz=Europe%2FRome&details=Processione%20di%20gala%20e%20consegna%20delle%20chiavi%20della%20citt%C3%A0%20al%20Santo%20Patrono.%20https%3A%2F%2Fwww.apulianblogger.it%2Ffesta-san-flaviano-conversano-2026-programma%2F&location=Basilica%20Cattedrale%20e%20Piazza%20XX%20Settembre%2C%20Conversano",
+        "linkDettagliEvento": "https://www.apulianblogger.it/festa-san-flaviano-conversano-2026-programma/"
       },
       {
         "title": "Max Gazzè",
