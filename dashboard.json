@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T01:39:23.000Z",
+  "lastModifiedDate": "2026-11-13T01:55:50.145Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -223,24 +223,15 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-12T01:26:12.000Z",
+    "lastModifiedDate": "2026-11-13T01:55:50.145Z",
     "items": [
-      {
-        "title": "Italia–Francia",
-        "subtitle": "Giovedì 12 novembre • 20:45",
-        "dateTime": "2026-11-12T20:45",
-        "text": "UEFA Nations League • Italia–Francia",
-        "logo": "ITA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Italia%E2%80%93Francia&details=UEFA%20Nations%20League%20%E2%80%A2%20Italia%E2%80%93Francia&location=Stadio%20Giuseppe%20Meazza%2C%20Milano&dates=20261112T194500Z%2F20261112T214500Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/uefa-nations-league-2026/calendario/italia-t119/"
-      },
       {
         "title": "Bari–Foggia",
         "subtitle": "Sabato 14 novembre • 17:30",
         "dateTime": "2026-11-14T17:30",
         "text": "Serie C • Bari–Foggia",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%E2%80%93Foggia&details=Serie%20C%20%E2%80%A2%20Bari%E2%80%93Foggia&location=Stadio%20San%20Nicola%2C%20Bari&dates=20261114T163000Z%2F20261114T183000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%E2%80%93Foggia&dates=20261114T163000Z%2F20261114T183000Z&ctz=Europe%2FRome&details=Serie%20C%20%E2%80%A2%20Bari%E2%80%93Foggia&location=Stadio%20San%20Nicola%2C%20Bari",
         "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
       },
       {
@@ -249,34 +240,34 @@
         "dateTime": "2026-11-15T20:45",
         "text": "UEFA Nations League • Belgio–Italia",
         "logo": "ITA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Belgio%E2%80%93Italia&details=UEFA%20Nations%20League%20%E2%80%A2%20Belgio%E2%80%93Italia&location=Stadio%20Re%20Baldovino%2C%20Bruxelles&dates=20261115T194500Z%2F20261115T214500Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/uefa-nations-league-2026/calendario/italia-t119/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Belgio%E2%80%93Italia&dates=20261115T194500Z%2F20261115T214500Z&ctz=Europe%2FRome&details=UEFA%20Nations%20League%20%E2%80%A2%20Belgio%E2%80%93Italia&location=Stadio%20Re%20Baldovino%2C%20Bruxelles",
+        "linkDettagliEvento": "https://www.uefa.com/uefanationsleague/match/2047900--belgium-vs-italy/"
       },
       {
-        "title": "GP Las Vegas – Prove libere 1",
+        "title": "GP Las Vegas – FP1",
         "subtitle": "Venerdì 20 novembre • 01:30",
         "dateTime": "2026-11-20T01:30",
         "text": "Formula 1 • GP Las Vegas • Prove libere 1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20Prove%20libere%201&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%201&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261120T003000Z%2F20261120T013000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20FP1&dates=20261120T003000Z%2F20261120T013000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%201&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
       },
       {
-        "title": "GP Las Vegas – Prove libere 2",
+        "title": "GP Las Vegas – FP2",
         "subtitle": "Venerdì 20 novembre • 05:00",
         "dateTime": "2026-11-20T05:00",
         "text": "Formula 1 • GP Las Vegas • Prove libere 2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20Prove%20libere%202&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%202&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261120T040000Z%2F20261120T050000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20FP2&dates=20261120T040000Z%2F20261120T050000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%202&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
       },
       {
-        "title": "GP Las Vegas – Prove libere 3",
+        "title": "GP Las Vegas – FP3",
         "subtitle": "Sabato 21 novembre • 01:30",
         "dateTime": "2026-11-21T01:30",
         "text": "Formula 1 • GP Las Vegas • Prove libere 3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20Prove%20libere%203&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%203&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261121T003000Z%2F20261121T013000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20FP3&dates=20261121T003000Z%2F20261121T013000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Prove%20libere%203&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
       },
       {
@@ -285,7 +276,7 @@
         "dateTime": "2026-11-21T05:00",
         "text": "Formula 1 • GP Las Vegas • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20Qualifiche&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Qualifiche&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261121T040000Z%2F20261121T050000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20Qualifiche&dates=20261121T040000Z%2F20261121T050000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Qualifiche&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
       },
       {
@@ -294,7 +285,7 @@
         "dateTime": "2026-11-22T05:00",
         "text": "Formula 1 • GP Las Vegas • Gara",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20Gara&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Gara&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261122T040000Z%2F20261122T060000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Las%20Vegas%20%E2%80%93%20Gara&dates=20261122T040000Z%2F20261122T060000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Gara&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
       },
       {
@@ -303,8 +294,26 @@
         "dateTime": "2026-11-22T15:00",
         "text": "Serie C • Catania–Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Catania%E2%80%93Bari&details=Serie%20C%20%E2%80%A2%20Catania%E2%80%93Bari&location=Stadio%20Angelo%20Massimino%2C%20Catania&dates=20261122T140000Z%2F20261122T160000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Catania%E2%80%93Bari&dates=20261122T140000Z%2F20261122T160000Z&ctz=Europe%2FRome&details=Serie%20C%20%E2%80%A2%20Catania%E2%80%93Bari&location=Stadio%20Angelo%20Massimino%2C%20Catania",
         "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
+      },
+      {
+        "title": "GP Qatar – FP1",
+        "subtitle": "Venerdì 27 novembre • 14:30",
+        "dateTime": "2026-11-27T14:30",
+        "text": "Formula 1 • GP Qatar • Prove libere 1",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Qatar%20%E2%80%93%20FP1&dates=20261127T133000Z%2F20261127T143000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Prove%20libere%201&location=Lusail%20International%20Circuit%2C%20Lusail",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+      },
+      {
+        "title": "GP Qatar – FP2",
+        "subtitle": "Venerdì 27 novembre • 18:00",
+        "dateTime": "2026-11-27T18:00",
+        "text": "Formula 1 • GP Qatar • Prove libere 2",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Qatar%20%E2%80%93%20FP2&dates=20261127T170000Z%2F20261127T180000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Prove%20libere%202&location=Lusail%20International%20Circuit%2C%20Lusail",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
       }
     ]
   },
