@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T10:44:07.000Z",
+  "lastModifiedDate": "2026-11-13T11:13:02.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-12T21:13:54.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-13T10:44:07.000Z",
+    "lastModifiedDate": "2026-11-13T11:13:02.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -406,8 +406,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-13T10:12:00.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-13T11:13:02.000Z",
       "cycleDate": "2026-11-13",
       "watchlistHash": "4ee97ad2"
     },
@@ -582,6 +582,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BACK%20TO%20THE%2070%E2%80%99s%20%E2%80%93%20Disco%20%26%20Funky%20Live&dates=20261113T213000%2F20261113T223000&ctz=Europe%2FRome&details=Concerto%20disco%20e%20funky%20anni%20'70%20dal%20vivo&location=Malto's%20Beer%2C%20Via%20A.%20Carrante%201%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335557.html"
+      },
+      {
+        "title": "A Violet Pine",
+        "subtitle": "Venerdì 13 novembre, ore 21:30",
+        "dateTime": "2026-11-13T21:30",
+        "text": "live • Bari • Circolo Arci Gramigna • Trio post-rock e shoegaze, ingresso riservato ai soci ARCI",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Violet%20Pine&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Circolo%20Arci%20Gramigna%20%E2%80%A2%20Trio%20post-rock%20e%20shoegaze%2C%20ingresso%20riservato%20ai%20soci%20ARCI&location=Circolo%20Arci%20Gramigna%2C%20Via%20Adige%2034%2C%20Bari&dates=20261113%2F20261114&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335611.html",
+        "logo": "LIVE"
       },
       {
         "title": "Clinique Lacuna",
