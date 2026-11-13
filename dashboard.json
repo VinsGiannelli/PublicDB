@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T23:14:33.000Z",
+  "lastModifiedDate": "2026-11-13T23:37:36.696Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-13T23:14:33.000Z",
+    "lastModifiedDate": "2026-11-13T23:37:36.696Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -400,9 +400,9 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-13T22:39:50.966Z",
-      "cycleDate": "2026-11-13",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-13T23:37:36.696Z",
+      "cycleDate": "2026-11-14",
       "watchlistHash": null
     },
     "concertiExecution": {
@@ -422,24 +422,6 @@
         "logo": "LIVE"
       },
       {
-        "title": "Sagra del Fungo Cardoncello",
-        "subtitle": "Venerdì 13 novembre",
-        "dateTime": "2026-11-13T00:00",
-        "text": "sagra • Ruvo di Puglia • Centro storico • Stand gastronomici, folklore e musica",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20folklore%20e%20musica&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261113%2F20261114&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Sagra d'Autunno",
-        "subtitle": "Venerdì 13 novembre",
-        "dateTime": "2026-11-13T00:00",
-        "text": "sagra • Bitonto • Via A. Manzoni, Palombaio • organizzata dall'Oratorio S. Gaspare Bertoni ANSPI APS-ETS",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20d'Autunno&dates=20261113%2F20261114&details=Sagra%20d'Autunno%20organizzata%20dall'Oratorio%20S.%20Gaspare%20Bertoni%20ANSPI%20APS-ETS%20a%20Palombaio&location=Via%20A.%20Manzoni%2C%20Palombaio%2C%20Bitonto&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bitonto/sagra-d-autunno-140919"
-      },
-      {
         "title": "Radiodervish",
         "subtitle": "Venerdì 13 novembre • 17:00",
         "dateTime": "2026-11-13T17:00",
@@ -447,15 +429,6 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Radiodervish%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261113T170000%2F20261113T180000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
-      },
-      {
-        "title": "Novello sotto il Castello",
-        "subtitle": "Venerdì 13 novembre • 18:00",
-        "dateTime": "2026-11-13T18:00",
-        "text": "sagra • Conversano • Centro storico • Percorso enogastronomico, vino novello, street food e musica",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%2C%20vino%20novello%2C%20street%20food%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261113180000%2F20261113T200000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
-        "logo": "SAGRA"
       },
       {
         "title": "Quartetto Lomax",
