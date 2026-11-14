@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T22:36:00.000Z",
+  "lastModifiedDate": "2026-11-14T23:11:32.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T22:36:00.000Z",
+    "lastModifiedDate": "2026-11-14T23:11:32.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,21 +424,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-14T22:05:40.787Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-14T23:11:32.000Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": "4ee97ad2"
     },
     "items": [
-      {
-        "title": "DEATHWISH",
-        "subtitle": "Sabato 14 novembre",
-        "dateTime": "2026-11-14T00:00",
-        "text": "live • Matera • Midnight Pub Live • Tributo a Sting e Police",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DEATHWISH&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20a%20Sting%20e%20Police&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261114%2F20261115&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/deathwish-sting-the-police-tribute-band/",
-        "logo": "LIVE"
-      },
       {
         "title": "Sagra del Fungo Cardoncello",
         "subtitle": "Sabato 14 novembre",
@@ -449,15 +440,6 @@
         "logo": "SAGRA"
       },
       {
-        "title": "Toni Zeno",
-        "subtitle": "Sabato 14 novembre",
-        "dateTime": "2026-11-14T00:00",
-        "text": "live • Bari • Spazio 13 • Concerto rap con Gentle T e Zeboh",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Toni%20Zeno&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Spazio%2013%20%E2%80%A2%20Concerto%20rap%20con%20Gentle%20T%20e%20Zeboh&location=Spazio%2013%2C%20Bari&dates=20261114%2F20261115&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.concertino.fm/en/events/seqfhl"
-      },
-      {
         "title": "Mercatino degli Scambi, Collezionismo e Artigianato",
         "subtitle": "Sabato 14 novembre, ore 09:00",
         "dateTime": "2026-11-14T09:00",
@@ -465,15 +447,6 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20degli%20Scambi%2C%20Collezionismo%20e%20Artigianato&dates=20261114%2F20261115&details=mercatino%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Collezionismo%2C%20antiquariato%20e%20manifatture%20artistiche&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://esploramercatini.it/eventi/mercatino-degli-scambi-collezionismo-antiquariato-e-manifatture-artistiche-matera-2026-11-14--research-c0f59f19f11f825849cdd7ddc19772e6"
-      },
-      {
-        "title": "Omaggio a Marta Grilletti",
-        "subtitle": "sabato 14 novembre, ore 17:00",
-        "dateTime": "2026-11-14T17:00",
-        "text": "live • Bari • Biblioteca nazionale Sagarriga Visconti Volpi • concerto omaggio, ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Omaggio%20a%20Marta%20Grilletti&dates=20261114T170000%2F20261114T190000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Biblioteca%20nazionale%20Sagarriga%20Visconti%20Volpi%20%E2%80%A2%20concerto%20omaggio%2C%20ingresso%20libero&location=Biblioteca%20nazionale%20Sagarriga%20Visconti%20Volpi%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/319261.html"
       },
       {
         "title": "Festa del Vino Primitivo e del Cece Nero",
@@ -494,24 +467,6 @@
         "logo": "SAGRA"
       },
       {
-        "title": "Agenda dei buoni propositi",
-        "subtitle": "Sabato 14 novembre • 18:00",
-        "dateTime": "2026-11-14T18:00",
-        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Agenda%20dei%20buoni%20propositi%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T180000%2F20261114T190000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
-      },
-      {
-        "title": "Clap! Clap!",
-        "subtitle": "Sabato 14 novembre • 19:00",
-        "dateTime": "2026-11-14T19:00",
-        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Clap!%20Clap!%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T190000%2F20261114T200000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
-      },
-      {
         "title": "5ª Festa di San Martino – Novello e Cardoncello",
         "subtitle": "Sabato 14 novembre, ore 19:30",
         "dateTime": "2026-11-14T19:30",
@@ -519,15 +474,6 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=5%C2%AA%20Festa%20di%20San%20Martino%20%E2%80%93%20Novello%20e%20Cardoncello&dates=20261114T193000%2F20261114T223000&details=sagra%20%E2%80%A2%20Toritto%20%E2%80%A2%20Quasano%20%E2%80%A2%20Degustazioni%20di%20cardoncelli%2C%20vino%20novello%20e%20specialit%C3%A0%20locali&location=Quasano%2C%20Toritto&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ilborghista.it/events/5-festa-di-san-martino-novello-e-cardoncello-2026-comune-di-toritto"
-      },
-      {
-        "title": "Holy Tongue",
-        "subtitle": "Sabato 14 novembre • 20:00",
-        "dateTime": "2026-11-14T20:00",
-        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holy%20Tongue%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261114T200000%2F20261114T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
       },
       {
         "title": "In Taberna Quando Sumus",
@@ -539,24 +485,6 @@
         "linkDettagliEvento": "https://www.istintoprimitivo.it/index.php/tutti-gli-eventi/2465-in-taberna-quando-sumus-5/2026-11-01-20-00?iccaldate=2026-3-1&s=02812282097500"
       },
       {
-        "title": "I grandi temi del cinema internazionale",
-        "subtitle": "sabato 14 novembre, ore 20:30",
-        "dateTime": "2026-11-14T20:30",
-        "text": "live • Molfetta • Auditorium Madonna della Rosa • Orchestra di Chitarre De Falla e Lucia Posa, colonne sonore",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20grandi%20temi%20del%20cinema%20internazionale&dates=20261114T203000%2F20261114T223000&details=live%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Auditorium%20Madonna%20della%20Rosa%20%E2%80%A2%20Orchestra%20di%20Chitarre%20De%20Falla%20e%20Lucia%20Posa%2C%20colonne%20sonore&location=Auditorium%20Madonna%20della%20Rosa%2C%20Molfetta&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://oooh.events/evento/defalla-biglietti/"
-      },
-      {
-        "title": "Freddie - The Show Must Go On",
-        "subtitle": "Sabato 14 novembre • 21:00",
-        "dateTime": "2026-11-14T21:00",
-        "text": "live • Bari • AncheCinema • Spettacolo tributo a Freddie Mercury con musica dal vivo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Freddie%20-%20The%20Show%20Must%20Go%20On&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20AncheCinema%20%E2%80%A2%20Spettacolo%20tributo%20a%20Freddie%20Mercury%20con%20musica%20dal%20vivo&location=AncheCinema%2C%20Corso%20Italia%20112%2C%20Bari&dates=20261114T210000%2F20261114T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/329997.html",
-        "logo": "LIVE"
-      },
-      {
         "title": "Festa di San Martino – Cibo, musica e divertimento",
         "subtitle": "Sabato 14 novembre, ore 21:00",
         "dateTime": "2026-11-14T21:00",
@@ -564,33 +492,6 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Martino%20%E2%80%93%20Cibo%2C%20musica%20e%20divertimento&details=Festa%20di%20San%20Martino%20con%20gastronomia%2C%20artigianato%20e%20musica%20dal%20vivo&location=Contrada%20Lamie%20di%20Olimpia%2C%20Locorotondo%20(BA)&dates=20261114T210000%2F20261114T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335684.html"
-      },
-      {
-        "title": "POVERI MA RICCHI...DENTRO",
-        "subtitle": "Sabato 14 novembre • 21:30",
-        "dateTime": "2026-11-14T21:30",
-        "text": "live • Bari • Black Horses Pub • Tributo dal vivo ai Ricchi e Poveri",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=POVERI%20MA%20RICCHI...DENTRO&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Ricchi%20e%20Poveri&location=Black%20Horses%20Pub%2C%20Bari&dates=20261114T213000%2F20261114T233000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335086.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "The Venanzio Brothers",
-        "subtitle": "Sabato 14 novembre, ore 21:30",
-        "dateTime": "2026-11-14T21:30",
-        "text": "live • Conversano • Piazza XX Settembre • Concerto dal vivo a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Venanzio%20Brothers&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20XX%20Settembre%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20XX%20Settembre%2C%20Conversano&dates=20261114T213000%2F20261114T233000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
-      },
-      {
-        "title": "Sud Sound System",
-        "subtitle": "Sabato 14 novembre, ore 21:30",
-        "dateTime": "2026-11-14T21:30",
-        "text": "live • Ruvo di Puglia • Corso Gramsci • Concerto gratuito alla Sagra del Fungo Cardoncello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sud%20Sound%20System&details=Concerto%20alla%20Sagra%20del%20Fungo%20Cardoncello&location=Corso%20Gramsci%2C%20Ruvo%20di%20Puglia&dates=20261114T213000%2F20261114T223000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/ruvo-di-puglia-sagra-del-fungo-cardoncello-2026/"
       },
       {
         "title": "Sagra del Fungo Cardoncello",
