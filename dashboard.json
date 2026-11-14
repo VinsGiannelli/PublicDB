@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T05:05:46.464Z",
+  "lastModifiedDate": "2026-11-14T05:39:57.598Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T05:05:46.464Z",
+    "lastModifiedDate": "2026-11-14T05:39:57.598Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,8 +418,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-14T04:43:11.202Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-14T05:39:57.598Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": null
     },
@@ -600,6 +600,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20folklore%20e%20musica&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261115%2F20261116&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Mercatino delle Pulci Puglia",
+        "subtitle": "Domenica 15 novembre • 04:00",
+        "dateTime": "2026-11-15T04:00",
+        "text": "mercatino • Sammichele di Bari • Area mercatale Munno, via del Canale • usato, vintage e collezionismo",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20delle%20Pulci%20Puglia&dates=20261115T040000%2F20261115T123000&ctz=Europe%2FRome&details=Mercatino%20di%20usato%2C%20vintage%20e%20collezionismo%20a%20Sammichele%20di%20Bari&location=Area%20mercatale%20Munno%2C%20via%20del%20Canale%2C%20Sammichele%20di%20Bari%20(BA)",
+        "linkDettagliEvento": "https://vintagery.it/mercatini/provincia/bari"
       },
       {
         "title": "Mostra Hobbismo e Scambio",
