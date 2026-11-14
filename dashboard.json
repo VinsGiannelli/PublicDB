@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T01:09:26.000Z",
+  "lastModifiedDate": "2026-11-14T01:36:47.328Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T01:09:26.000Z",
+    "lastModifiedDate": "2026-11-14T01:36:47.328Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -400,8 +400,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-14T00:38:08.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-14T01:36:47.328Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": null
     },
@@ -1194,6 +1194,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20libero%20%E2%80%93%20Mina%20e%20Battisti&dates=20261127T210000%2F20261127T230000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20Sala%20Etrusca%20%E2%80%A2%20Omaggio%20a%20Mina%20e%20Lucio%20Battisti%20con%20Ida%20Gigante%2C%20Giuseppe%20Leo%20e%20Matteo%20Scura&location=Palazzo%20Pesce%2C%20Via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/09/24/27-novembre-2026-canto-libero-mina-e-battisti/"
+      },
+      {
+        "title": "Vintage Market Bari",
+        "subtitle": "Sabato 28 novembre",
+        "dateTime": "2026-11-28T00:00",
+        "text": "mercatino • Bari • Fiera del Levante • Mercatino del vintage e dell'usato",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%20%E2%80%A2%20Mercatino%20del%20vintage%20e%20dell'usato&location=Fiera%20del%20Levante%2C%20Bari&dates=20261128%2F20261129&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/vintage-market-bari-2026-144135"
       }
     ]
   }
