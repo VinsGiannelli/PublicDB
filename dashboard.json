@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T01:36:47.328Z",
+  "lastModifiedDate": "2026-11-14T01:56:34.403Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -223,7 +223,7 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-13T01:55:50.145Z",
+    "lastModifiedDate": "2026-11-14T01:56:34.403Z",
     "items": [
       {
         "title": "Bari–Foggia",
@@ -313,6 +313,24 @@
         "text": "Formula 1 • GP Qatar • Prove libere 2",
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Qatar%20%E2%80%93%20FP2&dates=20261127T170000Z%2F20261127T180000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Prove%20libere%202&location=Lusail%20International%20Circuit%2C%20Lusail",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+      },
+      {
+        "title": "GP Qatar – FP3",
+        "subtitle": "Sabato 28 novembre • 15:30",
+        "dateTime": "2026-11-28T15:30",
+        "text": "Formula 1 • GP Qatar • Prove libere 3",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Qatar%20%E2%80%93%20FP3&dates=20261128T143000Z%2F20261128T153000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Prove%20libere%203&location=Lusail%20International%20Circuit%2C%20Lusail",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+      },
+      {
+        "title": "GP Qatar – Qualifiche",
+        "subtitle": "Sabato 28 novembre • 19:00",
+        "dateTime": "2026-11-28T19:00",
+        "text": "Formula 1 • GP Qatar • Qualifiche",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Qatar%20%E2%80%93%20Qualifiche&dates=20261128T180000Z%2F20261128T190000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Qualifiche&location=Lusail%20International%20Circuit%2C%20Lusail",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
       }
     ]
