@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T10:40:00.000Z",
+  "lastModifiedDate": "2026-11-14T11:14:21.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T10:40:00.000Z",
+    "lastModifiedDate": "2026-11-14T11:14:21.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,10 +424,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-14T10:12:06.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-14T11:14:21.000Z",
       "cycleDate": "2026-11-14",
-      "watchlistHash": null
+      "watchlistHash": "4ee97ad2"
     },
     "items": [
       {
@@ -1239,6 +1239,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello%20e%20della%20Carne%20di%20Cinghiale%20Selvatico&dates=20261128%2F20261129&ctz=Europe%2FRome&details=sagra%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Via%20Capitano%20Galietti%20e%20Piazza%20Martiri%20delle%20Foibe%20%E2%80%A2%20XIII%20edizione%2C%20stand%20gastronomici%20con%20cardoncello%20e%20carne%20di%20cinghiale&location=Via%20Capitano%20Galietti%20e%20Piazza%20Martiri%20delle%20Foibe%2C%20Cassano%20delle%20Murge",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/cassano-delle-murge/xiii-edizione-della-sagra-del-fungo-cardoncello-e-della-carne-di-cinghiale-selvatico-140921"
+      },
+      {
+        "title": "Ramen Live Band",
+        "subtitle": "Sabato 28 novembre 2026",
+        "dateTime": "2026-11-28T00:00",
+        "text": "live • Matera • Midnight Pub Live • Cover band italiana dal vivo",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ramen%20Live%20Band&dates=20261128%2F20261129&details=Cover%20band%20italiana%20dal%20vivo.%20https%3A%2F%2Fwww.midnightpublive.com%2Fevent%2Framen-live-band-italial-cover-band%2F&location=Midnight%20Pub%20Live%2C%20Via%20dell'Agricoltura%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.midnightpublive.com/event/ramen-live-band-italial-cover-band/"
       },
       {
         "title": "I Vaskomodi – Vasco Rossi Tribute",
