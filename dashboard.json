@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-13T23:37:36.696Z",
+  "lastModifiedDate": "2026-11-14T00:14:10.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -318,7 +318,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-13T23:37:36.696Z",
+    "lastModifiedDate": "2026-11-14T00:14:10.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -406,174 +406,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL03",
-      "lastCompletedAt": "2026-11-13T23:14:33.000Z",
+      "lastCompletedStep": "WL04",
+      "lastCompletedAt": "2026-11-14T00:14:10.000Z",
       "cycleDate": "2026-11-13",
       "watchlistHash": "4ee97ad2"
     },
     "items": [
-      {
-        "title": "Black Sabbath Legacy",
-        "subtitle": "Venerdì 13 novembre",
-        "dateTime": "2026-11-13T00:00",
-        "text": "live • Matera • Midnight Pub Live • Tributo ai Black Sabbath",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Black%20Sabbath%20Legacy&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20ai%20Black%20Sabbath&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261113%2F20261114&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/black-sabbath-legacy-black-sabbath-tribute-band-2/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Radiodervish",
-        "subtitle": "Venerdì 13 novembre • 17:00",
-        "dateTime": "2026-11-13T17:00",
-        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Radiodervish%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261113T170000%2F20261113T180000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
-      },
-      {
-        "title": "Quartetto Lomax",
-        "subtitle": "Venerdì 13 novembre • 18:15",
-        "dateTime": "2026-11-13T18:15",
-        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quartetto%20Lomax%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261113T181500%2F20261113T191500&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
-      },
-      {
-        "title": "Musicanti – Omaggio a Pino Daniele",
-        "subtitle": "Venerdì 13 novembre, ore 20:30",
-        "dateTime": "2026-11-13T20:30",
-        "text": "live • Terlizzi • ALLE S.E.R.R.E. • Musicanti, omaggio a Pino Daniele; ingresso 12 €",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Musicanti%20%E2%80%93%20Omaggio%20a%20Pino%20Daniele&dates=20261113T203000%2F20261113T213000&ctz=Europe%2FRome&details=Musicanti%20dal%20vivo%20in%20omaggio%20a%20Pino%20Daniele.%20Ingresso%2012%20euro%2C%20panzerotto%20e%20bevanda%20inclusi.%20Orario%20finale%20indicativo.&location=ALLE%20S.E.R.R.E.%2C%20Contrada%20Parco%2C%20Terlizzi",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335869.html"
-      },
-      {
-        "title": "Kyoto",
-        "subtitle": "Venerdì 13 novembre • 20:30",
-        "dateTime": "2026-11-13T20:30",
-        "text": "live • Bari • Parco Rossani • Concerto gratuito per Tutta la Rossani",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kyoto%20%E2%80%93%20Tutta%20la%20Rossani&dates=20261113T203000%2F20261113T213000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Parco%20Rossani%20%E2%80%A2%20Concerto%20gratuito%20per%20Tutta%20la%20Rossani&location=Parco%20Rossani%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336058.html"
-      },
-      {
-        "title": "Valerio Cosi e The Magpies",
-        "subtitle": "Venerdì 13 novembre • 21:00",
-        "dateTime": "2026-11-13T21:00",
-        "text": "live • Bari • Officina degli Esordi • Concerto di Valerio Cosi e The Magpies",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valerio%20Cosi%20e%20The%20Magpies&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20Concerto%20di%20Valerio%20Cosi%20e%20The%20Magpies&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261113T210000%2F20261113T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://songkick.com/concerts/43497336-valerio-cosi-at-officina-degli-esordi",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Candlelight: Tributo agli 883",
-        "subtitle": "Venerdì 13 novembre, ore 21:00",
-        "dateTime": "2026-11-13T21:00",
-        "text": "live • Bari • Sala interna UNAHOTELS Regina Bari • Quartetto Rudiae esegue dal vivo i successi degli 883, durata circa 60 minuti",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Candlelight%3A%20Tributo%20agli%20883&details=Tributo%20agli%20883%20con%20Quartetto%20Rudiae&location=UNAHOTELS%20Regina%20Bari&dates=20261113T210000%2F20261113T220000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://feverup.com/m/802960",
-        "logo": "883"
-      },
-      {
-        "title": "Valentino Vivace",
-        "subtitle": "Venerdì 13 novembre, ore 21:00",
-        "dateTime": "2026-11-13T21:00",
-        "text": "live • Conversano • Piazza Castello • Concerto dal vivo a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valentino%20Vivace&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261113T210000%2F20261113T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
-      },
-      {
-        "title": "Sinceramente… Mi ami o mi odi? – Annalisa & Elodie Tribute",
-        "subtitle": "Venerdì 13 novembre 2026 • ore 21:00",
-        "dateTime": "2026-11-13T21:00",
-        "text": "live • Bari • Black Horses Pub • Tribute show Annalisa ed Elodie; ingresso libero con consumazione obbligatoria",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sinceramente%E2%80%A6%20Mi%20ami%20o%20mi%20odi%3F%20%E2%80%93%20Annalisa%20%26%20Elodie%20Tribute&dates=20261113210000%2F20261113230000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Black%20Horses%20Pub%20%E2%80%A2%20Tribute%20show%20Annalisa%20ed%20Elodie%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria%0Ahttps%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F335923.html&location=Bari%2C%20Black%20Horses%20Pub",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335923.html"
-      },
-      {
-        "title": "Poohland Trio – Tributo ai Pooh",
-        "subtitle": "Venerdì 13 novembre, ore 21:00",
-        "dateTime": "2026-11-13T21:00",
-        "text": "live • Bisceglie • Da Sergio e Davide • Poohland Trio, tributo ai Pooh; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Poohland%20Trio%20%E2%80%93%20Tributo%20ai%20Pooh&dates=20261113T210000%2F20261113T220000&ctz=Europe%2FRome&details=Inizio%20verificato%20alle%2021%3A00%3B%20durata%20indicativa%20nel%20calendario.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F336052.html&location=Da%20Sergio%20e%20Davide%2C%20Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336052.html"
-      },
-      {
-        "title": "BAILA – Zucchero Tribute",
-        "subtitle": "Venerdì 13 novembre • 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Bari • Chorìa - Note di Puglia • Band dal vivo, tributo a Zucchero",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BAILA%20%E2%80%93%20Zucchero%20Tribute&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Band%20dal%20vivo%2C%20tributo%20a%20Zucchero&location=Chor%C3%ACa%20-%20Note%20di%20Puglia%2C%20Bari&dates=20261113T203000Z%2F20261113T223000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/335204.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Spelim",
-        "subtitle": "Venerdì 13 novembre, ore 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Conversano • Anfiteatro Belvedere • Concerto dal vivo a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spelim&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261113T213000%2F20261113T233000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
-      },
-      {
-        "title": "Futura",
-        "subtitle": "Venerdì 13 novembre, ore 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Conversano • Piazza XX Settembre • Concerto dal vivo a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Futura&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20XX%20Settembre%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20XX%20Settembre%2C%20Conversano&dates=20261113T213000%2F20261113T233000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
-      },
-      {
-        "title": "Astradelta – Feel the Music Festival",
-        "subtitle": "Venerdì 13 novembre, ore 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Trani • Santo Graal • Astradelta in concerto, ingresso gratuito",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Astradelta%20%E2%80%93%20Feel%20the%20Music%20Festival&dates=20261113T213000%2F20261113T223000&details=Astradelta%20in%20concerto%20al%20Santo%20Graal%20di%20Trani&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/335621.html"
-      },
-      {
-        "title": "Depeche Mode Experience – Tribute Show",
-        "subtitle": "Venerdì 13 novembre 2026 • ore 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Bari • Walden, via Giovanni Amendola • Tribute show dal vivo dei Depeche Mode; ingresso libero con consumazione obbligatoria",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Depeche%20Mode%20Experience%20%E2%80%93%20Tribute%20Show&dates=20261113213000%2F20261113233000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Walden%2C%20via%20Giovanni%20Amendola%20%E2%80%A2%20Tribute%20show%20dal%20vivo%20dei%20Depeche%20Mode%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria%0Ahttps%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F333163.html&location=Bari%2C%20Walden%2C%20via%20Giovanni%20Amendola",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333163.html"
-      },
-      {
-        "title": "BACK TO THE 70’s – Disco & Funky Live",
-        "subtitle": "Venerdì 13 novembre • ore 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Bari • Malto's Beer • Concerto dal vivo tributo alla disco music e al funky anni '70; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BACK%20TO%20THE%2070%E2%80%99s%20%E2%80%93%20Disco%20%26%20Funky%20Live&dates=20261113T213000%2F20261113T223000&ctz=Europe%2FRome&details=Concerto%20disco%20e%20funky%20anni%20'70%20dal%20vivo&location=Malto's%20Beer%2C%20Via%20A.%20Carrante%201%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335557.html"
-      },
-      {
-        "title": "A Violet Pine",
-        "subtitle": "Venerdì 13 novembre, ore 21:30",
-        "dateTime": "2026-11-13T21:30",
-        "text": "live • Bari • Circolo Arci Gramigna • Trio post-rock e shoegaze, ingresso riservato ai soci ARCI",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Violet%20Pine&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Circolo%20Arci%20Gramigna%20%E2%80%A2%20Trio%20post-rock%20e%20shoegaze%2C%20ingresso%20riservato%20ai%20soci%20ARCI&location=Circolo%20Arci%20Gramigna%2C%20Via%20Adige%2034%2C%20Bari&dates=20261113%2F20261114&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335611.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Clinique Lacuna",
-        "subtitle": "Venerdì 13 novembre, ore 22:30",
-        "dateTime": "2026-11-13T22:30",
-        "text": "live • Conversano • Piazza Castello • Concerto dal vivo a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Clinique%20Lacuna&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Piazza%20Castello%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Piazza%20Castello%2C%20Conversano&dates=20261113T223000%2F20261113T003000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
-      },
       {
         "title": "DEATHWISH",
         "subtitle": "Sabato 14 novembre",
@@ -1014,6 +852,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Music%20for%20Humans%20%E2%80%93%20Gianni%20Masci%2C%20Onisaiba%20e%20The%20Verol&dates=20261120T200000Z%2F20261120T220000Z&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20I%20MAKE%20-%20Ex%20Macello%20%E2%80%A2%20Concerti%20dal%20vivo%20di%20Gianni%20Masci%2C%20Onisaiba%20e%20The%20Verol&location=Putignano%2C%20I%20MAKE%20-%20Ex%20Macello",
         "linkDettagliEvento": "https://iltaccodibacco.it/putignano/concerti/"
+      },
+      {
+        "title": "Ultimo, Vasco Rossi e Tommaso Paradiso – Serata Cover",
+        "subtitle": "Venerdì 20 novembre, ore 21:00",
+        "dateTime": "2026-11-20T21:00",
+        "text": "live • Bari • Arte - Sapori, Pizza, Talenti • Christian Mannino, Vaskomodi e Love Paradiso in concerto",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ultimo%2C%20Vasco%20Rossi%20e%20Tommaso%20Paradiso%20%E2%80%93%20Serata%20Cover&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome&details=Christian%20Mannino%2C%20Vaskomodi%20e%20Love%20Paradiso%20in%20concerto.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F336546.html&location=Arte%20-%20Sapori%2C%20Pizza%2C%20Talenti%2C%20Via%20Fratelli%20Rosselli%2026%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336546.html",
+        "logo": "VASCO"
       },
       {
         "title": "Il Cardoncello Novello",
