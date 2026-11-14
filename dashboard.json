@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T22:05:40.787Z",
+  "lastModifiedDate": "2026-11-14T22:36:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T22:05:40.787Z",
+    "lastModifiedDate": "2026-11-14T22:36:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,8 +418,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-14T21:44:18.590Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-14T22:36:00.000Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": null
     },
@@ -1232,15 +1232,6 @@
         "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/09/24/27-novembre-2026-canto-libero-mina-e-battisti/"
       },
       {
-        "title": "Vintage Market Bari",
-        "subtitle": "Sabato 28 novembre",
-        "dateTime": "2026-11-28T00:00",
-        "text": "mercatino • Bari • Fiera del Levante • Mercatino del vintage e dell'usato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%20%E2%80%A2%20Mercatino%20del%20vintage%20e%20dell'usato&location=Fiera%20del%20Levante%2C%20Bari&dates=20261128%2F20261129&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/vintage-market-bari-2026-144135"
-      },
-      {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
         "subtitle": "Sabato 28 novembre",
         "dateTime": "2026-11-28T00:00",
@@ -1257,6 +1248,24 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ramen%20Live%20Band&dates=20261128%2F20261129&details=Cover%20band%20italiana%20dal%20vivo.%20https%3A%2F%2Fwww.midnightpublive.com%2Fevent%2Framen-live-band-italial-cover-band%2F&location=Midnight%20Pub%20Live%2C%20Via%20dell'Agricoltura%2C%20Matera&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.midnightpublive.com/event/ramen-live-band-italial-cover-band/"
+      },
+      {
+        "title": "Sagra du Chiacone",
+        "subtitle": "Sabato 28 novembre",
+        "dateTime": "2026-11-28T00:00",
+        "text": "sagra • Bari (Palese) • Piazza Bellini • V edizione, fico secco ripieno di mandorla, degustazioni e stand artigianali",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20du%20Chiacone&details=V%20edizione%2C%20degustazioni%20e%20stand%20artigianali&location=Piazza%20Bellini%2C%20Bari%20Palese&dates=20261128%2F20261129&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.itinerarinelgusto.it/sagre-e-feste/sagra-du-chiacone-a-palese-3406"
+      },
+      {
+        "title": "Vintage Market Bari",
+        "subtitle": "Sabato 28 novembre, ore 10:00",
+        "dateTime": "2026-11-28T10:00",
+        "text": "mercatino • Bari • Nuova Fiera del Levante, padiglioni 19–20 • 14ª edizione, vintage, usato, artigianato e collezionismo; dalle 10:00 alle 22:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=14%C2%AA%20edizione%2C%20vintage%2C%20usato%2C%20artigianato%20e%20collezionismo&location=Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%2C%20Bari&dates=20261128T100000%2F20261128T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.vintagemarketbari.it/"
       },
       {
         "title": "I Vaskomodi – Vasco Rossi Tribute",
