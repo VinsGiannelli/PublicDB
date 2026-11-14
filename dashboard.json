@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T06:36:50.000Z",
+  "lastModifiedDate": "2026-11-14T07:14:30.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T06:36:50.000Z",
+    "lastModifiedDate": "2026-11-14T07:14:30.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL03",
-      "lastCompletedAt": "2026-11-14T06:06:05.222Z",
+      "lastCompletedStep": "WL04",
+      "lastCompletedAt": "2026-11-14T07:14:30.000Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": "4ee97ad2"
     },
@@ -1230,6 +1230,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Fiera%20del%20Levante%20%E2%80%A2%20Mercatino%20del%20vintage%20e%20dell'usato&location=Fiera%20del%20Levante%2C%20Bari&dates=20261128%2F20261129&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/vintage-market-bari-2026-144135"
+      },
+      {
+        "title": "I Vaskomodi – Vasco Rossi Tribute",
+        "subtitle": "Sabato 28 novembre • 21:00",
+        "dateTime": "2026-11-28T21:00",
+        "text": "live • Bari (Torre a Mare) • MoMon Kitchen & Drink • Tribute band di Vasco Rossi",
+        "logo": "VASCO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi%20%E2%80%93%20Vasco%20Rossi%20Tribute&dates=20261128T210000%2F20261128T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20(Torre%20a%20Mare)%20%E2%80%A2%20MoMon%20Kitchen%20%26%20Drink%20%E2%80%A2%20Tribute%20band%20di%20Vasco%20Rossi&location=MoMon%20Kitchen%20%26%20Drink%2C%20Via%20Duca%20degli%20Abruzzi%203%2C%20Torre%20a%20Mare%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333812.html"
       }
     ]
   }
