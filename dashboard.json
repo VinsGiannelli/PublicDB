@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T09:40:21.000Z",
+  "lastModifiedDate": "2026-11-14T10:12:06.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T09:40:21.000Z",
+    "lastModifiedDate": "2026-11-14T10:12:06.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-14T09:13:45.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-14T10:12:06.000Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": null
     },
@@ -1239,6 +1239,15 @@
         "logo": "VASCO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I%20Vaskomodi%20%E2%80%93%20Vasco%20Rossi%20Tribute&dates=20261128T210000%2F20261128T210000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20(Torre%20a%20Mare)%20%E2%80%A2%20MoMon%20Kitchen%20%26%20Drink%20%E2%80%A2%20Tribute%20band%20di%20Vasco%20Rossi&location=MoMon%20Kitchen%20%26%20Drink%2C%20Via%20Duca%20degli%20Abruzzi%203%2C%20Torre%20a%20Mare%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333812.html"
+      },
+      {
+        "title": "The Red – Back to the 70's",
+        "subtitle": "Sabato 28 novembre, ore 21:00",
+        "dateTime": "2026-11-28T21:00",
+        "text": "live • Bari • Tensostruttura Parrocchia Annunciazione, Via Lucarelli 130 • Disco & funk dal vivo; ingresso riservato a soci e ospiti, con prenotazione",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Red%20%E2%80%93%20Back%20to%20the%2070's&dates=20261128T210000%2F20261128T210000&ctz=Europe%2FRome&details=Live%20disco%20%26%20funk.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F335225.html&location=Tensostruttura%20Parrocchia%20Annunciazione%2C%20Via%20Lucarelli%20130%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335225.html"
       }
     ]
   }
