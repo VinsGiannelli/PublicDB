@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T23:11:32.000Z",
+  "lastModifiedDate": "2026-11-14T23:40:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T23:11:32.000Z",
+    "lastModifiedDate": "2026-11-14T23:40:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,9 +418,9 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-14T22:36:00.000Z",
-      "cycleDate": "2026-11-14",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-14T23:40:00.000Z",
+      "cycleDate": "2026-11-15",
       "watchlistHash": null
     },
     "concertiExecution": {
@@ -430,69 +430,6 @@
       "watchlistHash": "4ee97ad2"
     },
     "items": [
-      {
-        "title": "Sagra del Fungo Cardoncello",
-        "subtitle": "Sabato 14 novembre",
-        "dateTime": "2026-11-14T00:00",
-        "text": "sagra • Ruvo di Puglia • Centro storico • Stand gastronomici, folklore e musica",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20del%20Fungo%20Cardoncello&details=sagra%20%E2%80%A2%20Ruvo%20di%20Puglia%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20folklore%20e%20musica&location=Centro%20storico%2C%20Ruvo%20di%20Puglia&dates=20261114%2F20261115&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ruvoviva.it/notizie/sagra-del-fungo-cardoncello-a-ruvo-di-puglia-il-programma/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Mercatino degli Scambi, Collezionismo e Artigianato",
-        "subtitle": "Sabato 14 novembre, ore 09:00",
-        "dateTime": "2026-11-14T09:00",
-        "text": "mercatino • Matera • Piazza Vittorio Veneto • Collezionismo, antiquariato e manifatture artistiche",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20degli%20Scambi%2C%20Collezionismo%20e%20Artigianato&dates=20261114%2F20261115&details=mercatino%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazza%20Vittorio%20Veneto%20%E2%80%A2%20Collezionismo%2C%20antiquariato%20e%20manifatture%20artistiche&location=Piazza%20Vittorio%20Veneto%2C%20Matera&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://esploramercatini.it/eventi/mercatino-degli-scambi-collezionismo-antiquariato-e-manifatture-artistiche-matera-2026-11-14--research-c0f59f19f11f825849cdd7ddc19772e6"
-      },
-      {
-        "title": "Festa del Vino Primitivo e del Cece Nero",
-        "subtitle": "Sabato 14 novembre • 18:00",
-        "dateTime": "2026-11-14T18:00",
-        "text": "sagra • Acquaviva delle Fonti • Piazza San Paolo e Piazza Don Albertario • Stand di cece nero, vino Primitivo, castagne e musica",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20del%20Vino%20Primitivo%20e%20del%20Cece%20Nero&details=sagra%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Piazza%20San%20Paolo%20e%20Piazza%20Don%20Albertario%20%E2%80%A2%20Stand%20di%20cece%20nero%2C%20vino%20Primitivo%2C%20castagne%20e%20musica&location=Piazza%20San%20Paolo%20e%20Piazza%20Don%20Albertario%2C%20Acquaviva%20delle%20Fonti&dates=20261114180000%2F20261114T200000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.prolocoacquaviva.it/14-novembre-festa-vino-primitivo-cece-nero/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Novello sotto il Castello",
-        "subtitle": "Sabato 14 novembre • 18:00",
-        "dateTime": "2026-11-14T18:00",
-        "text": "sagra • Conversano • Centro storico • Percorso enogastronomico, vino novello, street food e musica",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Percorso%20enogastronomico%2C%20vino%20novello%2C%20street%20food%20e%20musica&location=Centro%20storico%2C%20Conversano&dates=20261114180000%2F20261114T200000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "5ª Festa di San Martino – Novello e Cardoncello",
-        "subtitle": "Sabato 14 novembre, ore 19:30",
-        "dateTime": "2026-11-14T19:30",
-        "text": "sagra • Toritto • Quasano • Degustazioni di cardoncelli, vino novello e specialità locali",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=5%C2%AA%20Festa%20di%20San%20Martino%20%E2%80%93%20Novello%20e%20Cardoncello&dates=20261114T193000%2F20261114T223000&details=sagra%20%E2%80%A2%20Toritto%20%E2%80%A2%20Quasano%20%E2%80%A2%20Degustazioni%20di%20cardoncelli%2C%20vino%20novello%20e%20specialit%C3%A0%20locali&location=Quasano%2C%20Toritto&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ilborghista.it/events/5-festa-di-san-martino-novello-e-cardoncello-2026-comune-di-toritto"
-      },
-      {
-        "title": "In Taberna Quando Sumus",
-        "subtitle": "Sabato 14 novembre, ore 20:00",
-        "dateTime": "2026-11-14T20:00",
-        "text": "evento tradizionale • Cassano delle Murge • Centro storico • Vini locali, gastronomia tipica e folklore medievale",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=In%20Taberna%20Quando%20Sumus&dates=20261114T200000%2F20261114T230000&ctz=Europe%2FRome&details=Degustazioni%20di%20vini%20locali%2C%20gastronomia%20tipica%20e%20folklore%20medievale&location=Centro%20storico%2C%20Cassano%20delle%20Murge%20(BA)",
-        "linkDettagliEvento": "https://www.istintoprimitivo.it/index.php/tutti-gli-eventi/2465-in-taberna-quando-sumus-5/2026-11-01-20-00?iccaldate=2026-3-1&s=02812282097500"
-      },
-      {
-        "title": "Festa di San Martino – Cibo, musica e divertimento",
-        "subtitle": "Sabato 14 novembre, ore 21:00",
-        "dateTime": "2026-11-14T21:00",
-        "text": "sagra • Locorotondo • Contrada Lamie di Olimpia • Vino novello, castagne, salsiccia, artigianato e musica dal vivo",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Martino%20%E2%80%93%20Cibo%2C%20musica%20e%20divertimento&details=Festa%20di%20San%20Martino%20con%20gastronomia%2C%20artigianato%20e%20musica%20dal%20vivo&location=Contrada%20Lamie%20di%20Olimpia%2C%20Locorotondo%20(BA)&dates=20261114T210000%2F20261114T220000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335684.html"
-      },
       {
         "title": "Sagra del Fungo Cardoncello",
         "subtitle": "Domenica 15 novembre",
