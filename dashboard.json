@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T17:36:56.424Z",
+  "lastModifiedDate": "2026-11-14T18:16:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-13T21:51:39.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T17:36:56.424Z",
+    "lastModifiedDate": "2026-11-14T18:16:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-14T17:10:51.026Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-14T18:16:00.000Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": "4ee97ad2"
     },
@@ -1194,6 +1194,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sergei%20Babayan&dates=20261126T200000%2F20261126T213000&details=Recital%20pianistico%20al%20Festival%20Pianistico%20Internazionale%20del%20Mediterraneo&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://visitabari.com/eventi/festival-pianistico-internazionale-del-mediterraneo-al-kursaal-santalucia-a-madonnella/"
+      },
+      {
+        "title": "Caro Endrigo",
+        "subtitle": "Giovedì 26 novembre • 20:30",
+        "dateTime": "2026-11-26T20:30",
+        "text": "live • Bari • La DolceVita Live, Via Albanese 41 • Dario Skepisi Duet, omaggio alle canzoni di Sergio Endrigo; ingresso a pagamento",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Caro%20Endrigo&dates=20261126T203000%2F20261126T213000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20Via%20Albanese%2041%20%E2%80%A2%20Dario%20Skepisi%20Duet%2C%20omaggio%20alle%20canzoni%20di%20Sergio%20Endrigo%3B%20ingresso%20a%20pagamento&location=La%20DolceVita%20Live%2C%20Via%20Albanese%2041%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335438.html"
       },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
