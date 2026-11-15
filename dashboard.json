@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T22:36:25.957Z",
+  "lastModifiedDate": "2026-11-15T23:13:26.884Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-15T21:09:33.341Z",
@@ -345,7 +345,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-15T22:36:25.957Z",
+    "lastModifiedDate": "2026-11-15T23:13:26.884Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -433,8 +433,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL01",
-      "lastCompletedAt": "2026-11-15T22:06:16.000Z",
+      "lastCompletedStep": "WL02",
+      "lastCompletedAt": "2026-11-15T23:13:26.884Z",
       "cycleDate": "2026-11-15",
       "watchlistHash": "4ee97ad2"
     },
@@ -519,51 +519,6 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20della%20Castagna%20%E2%80%93%20Il%20miracolo%20dell%E2%80%99Oratorio&dates=20261115T193000%2F20261115T203000&ctz=Europe%2FRome&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Cortile%20parrocchiale%20della%20Chiesa%20Santa%20Famiglia%20%E2%80%A2%20Castagne%2C%20stand%20gastronomici%2C%20show%20cooking%20e%20animazione%20per%20famiglie&location=Chiesa%20Santa%20Famiglia%2C%20Matera",
         "linkDettagliEvento": "https://www.sassilive.it/events/festa-della-castagna-il-miracolo-delloratorio-evento-anspi-cortile-parrocchiale-della-chiesa-santa-famiglia-matera/"
-      },
-      {
-        "title": "Wonders Beatles Tribute",
-        "subtitle": "Domenica 15 novembre • 20:00",
-        "dateTime": "2026-11-15T20:00",
-        "text": "live • Modugno • Corso Umberto I • Concerto tributo ai Beatles durante la Fiera del Crocifisso",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wonders%20Beatles%20Tribute&dates=20261115T200000%2F20261115T220000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Modugno%20%E2%80%A2%20Corso%20Umberto%20I%20%E2%80%A2%20Concerto%20tributo%20ai%20Beatles%20durante%20la%20Fiera%20del%20Crocifisso&location=Corso%20Umberto%20I%2C%20Modugno%20(BA)",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/fiera-del-crocifisso-2026-modugno/"
-      },
-      {
-        "title": "Giuseppe Mattia Larato – Orienti",
-        "subtitle": "domenica 15 novembre 2026 • ore 20:00",
-        "dateTime": "2026-11-15T20:00",
-        "text": "live • Matera • Santuario di San Francesco da Paola, via XX Settembre 13 • Fadiesis Accordion Festival, concerto di fisarmonica, ingresso gratuito",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giuseppe%20Mattia%20Larato%20%E2%80%93%20Orienti&dates=20261115T200000%2F20261115T220000&ctz=Europe%2FRome&details=Fadiesis%20Accordion%20Festival%2C%20concerto%20di%20fisarmonica%2C%20ingresso%20gratuito&location=Santuario%20di%20San%20Francesco%20da%20Paola%2C%20via%20XX%20Settembre%2013%2C%20Matera",
-        "linkDettagliEvento": "https://www.puglialive.net/faf-2026-il-fadiesis-accordion-festival-torna-a-matera-domenica-15-novembre-il-concerto-del-giovane-talento-giuseppe-mattia-larato/"
-      },
-      {
-        "title": "Il suono del respiro – Omaggio a Giuliana e Bruno Calvani",
-        "subtitle": "domenica 15 novembre, ore 20:00",
-        "dateTime": "2026-11-15T20:00",
-        "text": "live • Mola di Bari • Chiesa del Santissimo Rosario in San Domenico • Paolo Daniele e Margherita Sciddurlo, ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20suono%20del%20respiro%20%E2%80%93%20Omaggio%20a%20Giuliana%20e%20Bruno%20Calvani&dates=20261115T200000%2F20261115T220000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Chiesa%20del%20Santissimo%20Rosario%20in%20San%20Domenico%20%E2%80%A2%20Paolo%20Daniele%20e%20Margherita%20Sciddurlo%2C%20ingresso%20libero&location=Chiesa%20del%20Santissimo%20Rosario%20in%20San%20Domenico%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336053.html"
-      },
-      {
-        "title": "Francesco D’Orazio e L’Astrée – Anima Mea",
-        "subtitle": "domenica 15 novembre 2026 • ore 20:30",
-        "dateTime": "2026-11-15T20:30",
-        "text": "live • Sannicandro di Bari • Scuderie del Castello • Festival Anima Mea, musiche di Tartini e della sua scuola",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%20D%E2%80%99Orazio%20e%20L%E2%80%99Astr%C3%A9e%20%E2%80%93%20Anima%20Mea&dates=20261115T203000%2F20261115T223000&ctz=Europe%2FRome&details=Festival%20Anima%20Mea%2C%20musiche%20di%20Tartini%20e%20della%20sua%20scuola&location=Scuderie%20del%20Castello%2C%20Sannicandro%20di%20Bari",
-        "linkDettagliEvento": "https://www.puglialive.net/festival-anima-mea-il-15-16-e-17-novembre-a-sannicandro-andria-e-bari-il-violinista-francesco-dorazio-celebra-giuseppe-tartini-con-lensemble-lastree/"
-      },
-      {
-        "title": "Riserva Moac",
-        "subtitle": "Domenica 15 novembre, ore 21:00",
-        "dateTime": "2026-11-15T21:00",
-        "text": "live • Conversano • Anfiteatro Belvedere • Concerto dal vivo a Novello sotto il Castello",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Riserva%20Moac&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Anfiteatro%20Belvedere%20%E2%80%A2%20Concerto%20dal%20vivo%20a%20Novello%20sotto%20il%20Castello&location=Anfiteatro%20Belvedere%2C%20Conversano&dates=20261115T210000%2F20261115T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/"
       },
       {
         "title": "Francesco D’Orazio e L’Astrée – Anima Mea",
