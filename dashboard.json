@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T01:57:57.000Z",
+  "lastModifiedDate": "2026-11-15T02:10:22.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -345,7 +345,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-15T01:38:13.000Z",
+    "lastModifiedDate": "2026-11-15T02:10:22.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -433,8 +433,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL01",
-      "lastCompletedAt": "2026-11-15T01:10:00.000Z",
+      "lastCompletedStep": "WL02",
+      "lastCompletedAt": "2026-11-15T02:10:22.000Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": "4ee97ad2"
     },
@@ -1068,6 +1068,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hybrid%20Light%20%26%20Fallen%20%E2%80%93%20Linkin%20Park%20%26%20Evanescence%20Tribute&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributi%20dal%20vivo%20a%20Linkin%20Park%20ed%20Evanescence&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261127%2F20261128&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.midnightpublive.com/event/hybrid-light-fallen-linkin-park-evanescence-tribute-band/",
         "logo": "LIVE"
+      },
+      {
+        "title": "Mara Sattei — Club Tour 2026",
+        "subtitle": "Venerdì 27 novembre 2026",
+        "dateTime": "2026-11-27T00:00",
+        "text": "live • Conversano • Casa delle Arti • Concerto del Club Tour 2026",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mara%20Sattei%20%E2%80%94%20Club%20Tour%202026&dates=20261127%2F20261128&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Casa%20delle%20Arti%20%E2%80%A2%20Concerto%20del%20Club%20Tour%202026&location=Casa%20delle%20Arti%2C%20Via%20Donato%20Iaia%2014%2C%20Conversano&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/321856.html"
       },
       {
         "title": "Canto libero – Mina e Battisti",
