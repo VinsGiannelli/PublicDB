@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T20:06:38.000Z",
+  "lastModifiedDate": "2026-11-15T20:38:14.258Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -345,7 +345,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-15T20:06:38.000Z",
+    "lastModifiedDate": "2026-11-15T20:38:14.258Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -427,8 +427,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-15T19:40:51.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-15T20:38:14.258Z",
       "cycleDate": "2026-11-15",
       "watchlistHash": null
     },
@@ -510,6 +510,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Novello%20sotto%20il%20Castello&details=sagra%20%E2%80%A2%20Conversano%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20enogastronomici%2C%20laboratori%20tradizionali%20e%20spettacoli&location=Centro%20storico%2C%20Conversano&dates=20261115120000%2F20261115T140000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.lacompagniadeltrullo.it/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Festa della Castagna – Il miracolo dell’Oratorio",
+        "subtitle": "Domenica 15 novembre • 19:30",
+        "dateTime": "2026-11-15T19:30",
+        "text": "sagra • Matera • Cortile parrocchiale della Chiesa Santa Famiglia • Castagne, stand gastronomici, show cooking e animazione per famiglie",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20della%20Castagna%20%E2%80%93%20Il%20miracolo%20dell%E2%80%99Oratorio&dates=20261115T193000%2F20261115T203000&ctz=Europe%2FRome&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Cortile%20parrocchiale%20della%20Chiesa%20Santa%20Famiglia%20%E2%80%A2%20Castagne%2C%20stand%20gastronomici%2C%20show%20cooking%20e%20animazione%20per%20famiglie&location=Chiesa%20Santa%20Famiglia%2C%20Matera",
+        "linkDettagliEvento": "https://www.sassilive.it/events/festa-della-castagna-il-miracolo-delloratorio-evento-anspi-cortile-parrocchiale-della-chiesa-santa-famiglia-matera/"
       },
       {
         "title": "Wonders Beatles Tribute",
