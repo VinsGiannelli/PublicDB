@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T01:38:13.000Z",
+  "lastModifiedDate": "2026-11-15T01:57:57.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -223,17 +223,8 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-14T01:56:34.403Z",
+    "lastModifiedDate": "2026-11-15T01:57:57.000Z",
     "items": [
-      {
-        "title": "Bari–Foggia",
-        "subtitle": "Sabato 14 novembre • 17:30",
-        "dateTime": "2026-11-14T17:30",
-        "text": "Serie C • Bari–Foggia",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%E2%80%93Foggia&dates=20261114T163000Z%2F20261114T183000Z&ctz=Europe%2FRome&details=Serie%20C%20%E2%80%A2%20Bari%E2%80%93Foggia&location=Stadio%20San%20Nicola%2C%20Bari",
-        "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
-      },
       {
         "title": "Belgio–Italia",
         "subtitle": "Domenica 15 novembre • 20:45",
@@ -332,6 +323,24 @@
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Qatar%20%E2%80%93%20Qualifiche&dates=20261128T180000Z%2F20261128T190000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Qualifiche&location=Lusail%20International%20Circuit%2C%20Lusail",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+      },
+      {
+        "title": "GP Qatar – Gara",
+        "subtitle": "Domenica 29 novembre • 17:00",
+        "dateTime": "2026-11-29T17:00",
+        "text": "Formula 1 • GP Qatar • Gara",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GP%20Qatar%20%E2%80%93%20Gara&dates=20261129T160000Z%2F20261129T180000Z&ctz=Europe%2FRome&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Gara&location=Lusail%20International%20Circuit%2C%20Lusail",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+      },
+      {
+        "title": "Bari–Savoia",
+        "subtitle": "Domenica 29 novembre • 17:30",
+        "dateTime": "2026-11-29T17:30",
+        "text": "Serie C • Bari–Savoia",
+        "logo": "BA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%E2%80%93Savoia&dates=20261129T163000Z%2F20261129T183000Z&ctz=Europe%2FRome&details=Serie%20C%20%E2%80%A2%20Bari%E2%80%93Savoia&location=Stadio%20San%20Nicola%2C%20Bari",
+        "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
       }
     ]
   },
