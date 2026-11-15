@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T21:45:19.273Z",
+  "lastModifiedDate": "2026-11-15T22:06:16.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-15T21:09:33.341Z",
@@ -345,7 +345,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-15T21:45:19.273Z",
+    "lastModifiedDate": "2026-11-15T22:06:16.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -433,8 +433,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-15T21:11:05.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-15T22:06:16.000Z",
       "cycleDate": "2026-11-15",
       "watchlistHash": "4ee97ad2"
     },
@@ -672,6 +672,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guns%20N'%20Roses%20Tribute%20Night&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Guns%20N'%20Roses%20%E2%80%A2%20Orario%20del%20concerto%20non%20comunicato&location=Crossroad%20Saloon%2C%20Via%20Nicola%20Tridente%2015%2C%20Bari&dates=20261120%2F20261121&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://anyplans.in/en/bari/guns-n-roses-tribute-night-da-crossroad-saloon/"
+      },
+      {
+        "title": "Canta Strano – Gianky & Malidea",
+        "subtitle": "Venerdì 20 novembre 2026",
+        "dateTime": "2026-11-20T00:00",
+        "text": "live • Bari • Fix it Culture, Viale Luigi Einaudi 60 • Canta Strano live show con Gianky e Malidea, nell'ambito della serata SHOUT!",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canta%20Strano%20%E2%80%93%20Gianky%20%26%20Malidea&dates=20261120%2F20261121&details=Canta%20Strano%20live%20show%20con%20Gianky%20e%20Malidea.%20Orario%20esibizione%20non%20confermato.&location=Fix%20it%20Culture%2C%20Viale%20Luigi%20Einaudi%2060%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bars10.com/IT/Bari/552553294928041/Fix-It-culture"
       },
       {
         "title": "Kateryna Ukhatiuk – Le star del futuro",
