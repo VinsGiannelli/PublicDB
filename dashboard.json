@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T22:06:16.000Z",
+  "lastModifiedDate": "2026-11-15T22:36:25.957Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-15T21:09:33.341Z",
@@ -345,7 +345,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-15T22:06:16.000Z",
+    "lastModifiedDate": "2026-11-15T22:36:25.957Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -427,8 +427,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-15T21:45:19.273Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-15T22:36:25.957Z",
       "cycleDate": "2026-11-15",
       "watchlistHash": null
     },
