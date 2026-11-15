@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-14T23:40:00.000Z",
+  "lastModifiedDate": "2026-11-15T00:08:59.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-14T23:40:00.000Z",
+    "lastModifiedDate": "2026-11-15T00:08:59.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-14T23:11:32.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-15T00:08:59.000Z",
       "cycleDate": "2026-11-14",
       "watchlistHash": "4ee97ad2"
     },
@@ -1095,6 +1095,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20du%20Chiacone&details=V%20edizione%2C%20degustazioni%20e%20stand%20artigianali&location=Piazza%20Bellini%2C%20Bari%20Palese&dates=20261128%2F20261129&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.itinerarinelgusto.it/sagre-e-feste/sagra-du-chiacone-a-palese-3406"
+      },
+      {
+        "title": "wrongonyou",
+        "subtitle": "Sabato 28 novembre",
+        "dateTime": "2026-11-28T00:00",
+        "text": "live • Putignano • Coopera, Corso Garibaldi 42 • Concerto dal vivo; apertura porte 21:30, inizio non confermato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=wrongonyou&dates=20261128&ctz=Europe%2FRome&details=Concerto%20dal%20vivo%20di%20wrongonyou%3B%20apertura%20porte%2021%3A30%20(orario%20inizio%20non%20confermato)&location=Coopera%2C%20Corso%20Garibaldi%2042%2C%20Putignano",
+        "linkDettagliEvento": "https://www.songkick.com/fr/concerts/43516443-wrongonyou-at-coopera"
       },
       {
         "title": "Vintage Market Bari",
