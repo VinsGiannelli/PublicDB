@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T04:06:47.430Z",
+  "lastModifiedDate": "2026-11-15T04:41:44.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -345,7 +345,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-15T04:06:47.430Z",
+    "lastModifiedDate": "2026-11-15T04:41:44.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -427,8 +427,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-15T03:40:11.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-15T04:41:44.000Z",
       "cycleDate": "2026-11-15",
       "watchlistHash": null
     },
@@ -1176,6 +1176,24 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261129%2F20261130&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.chesagra.it/basilicata/mt/matera"
+      },
+      {
+        "title": "La Piazzolla",
+        "subtitle": "Domenica 29 novembre • ore 07:00",
+        "dateTime": "2026-11-29T07:00",
+        "text": "mercatino • Santeramo in Colle • Piazza Garibaldi • Antiquariato, modernariato e collezionismo; dalle 07:00 alle 18:00",
+        "linkDettagliEvento": "https://vintagery.it/mercatini/provincia/bari",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Piazzolla&details=mercatino%20%E2%80%A2%20Santeramo%20in%20Colle%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Antiquariato%2C%20modernariato%20e%20collezionismo%3B%20dalle%2007%3A00%20alle%2018%3A00&location=Piazza%20Garibaldi%2C%20Santeramo%20in%20Colle&dates=20261129T070000%2F20261129T180000&ctz=Europe%2FRome",
+        "logo": "MERCATINO"
+      },
+      {
+        "title": "Vintage Market Bari",
+        "subtitle": "Domenica 29 novembre • ore 10:00",
+        "dateTime": "2026-11-29T10:00",
+        "text": "mercatino • Bari • Nuova Fiera del Levante, padiglioni 19–20 • 14ª edizione, vintage, artigianato e collezionismo; dalle 10:00 alle 21:00",
+        "linkDettagliEvento": "https://www.vintagemarketbari.it/",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%20%E2%80%A2%2014%C2%AA%20edizione%2C%20vintage%2C%20artigianato%20e%20collezionismo%3B%20dalle%2010%3A00%20alle%2021%3A00&location=Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%2C%20Bari&dates=20261129T100000%2F20261129T210000&ctz=Europe%2FRome",
+        "logo": "MERCATINO"
       }
     ]
   }
