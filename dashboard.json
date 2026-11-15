@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-15T10:05:37.736Z",
+  "lastModifiedDate": "2026-11-15T10:39:50.755Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-14T21:40:23.000Z",
@@ -345,7 +345,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-15T10:05:37.736Z",
+    "lastModifiedDate": "2026-11-15T10:39:50.755Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -427,8 +427,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-15T09:39:16.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-15T10:39:50.755Z",
       "cycleDate": "2026-11-15",
       "watchlistHash": null
     },
@@ -1142,6 +1142,15 @@
         "linkDettagliEvento": "https://www.chesagra.it/basilicata/mt/matera"
       },
       {
+        "title": "Natale in piazzetta",
+        "subtitle": "sabato 28 novembre 2026",
+        "dateTime": "2026-11-28T00:00",
+        "text": "evento tradizionale • Sannicandro di Bari • Piazza Cesare Battisti • Manifestazione natalizia di aggregazione e valorizzazione del centro cittadino",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Natale%20in%20piazzetta&dates=20261128%2F20261129&details=Manifestazione%20natalizia%20nel%20centro%20cittadino.%20https%3A%2F%2Fpuglia.piazzainfesta.it%2Fsannicandro-di-bari%2Fnatale-in-piazzetta-136105&location=Piazza%20Cesare%20Battisti%2C%20Sannicandro%20di%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/sannicandro-di-bari/natale-in-piazzetta-136105"
+      },
+      {
         "title": "Vintage Market Bari",
         "subtitle": "Sabato 28 novembre, ore 10:00",
         "dateTime": "2026-11-28T10:00",
@@ -1203,6 +1212,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20du%20Chiacone&dates=20261129%2F20261130&ctz=Europe%2FRome&details=Sagra%20del%20fico%20secco%20ripieno%20di%20mandorla%2C%20Piazza%20Bellini&location=Piazza%20Bellini%2C%20Bari%20Palese",
         "linkDettagliEvento": "https://www.caminvattin.it/tag/street-food/"
+      },
+      {
+        "title": "Natale in piazzetta",
+        "subtitle": "domenica 29 novembre 2026",
+        "dateTime": "2026-11-29T00:00",
+        "text": "evento tradizionale • Sannicandro di Bari • Piazza Cesare Battisti • Manifestazione natalizia di aggregazione e valorizzazione del centro cittadino",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Natale%20in%20piazzetta&dates=20261129%2F20261130&details=Manifestazione%20natalizia%20nel%20centro%20cittadino.%20https%3A%2F%2Fpuglia.piazzainfesta.it%2Fsannicandro-di-bari%2Fnatale-in-piazzetta-136105&location=Piazza%20Cesare%20Battisti%2C%20Sannicandro%20di%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/sannicandro-di-bari/natale-in-piazzetta-136105"
       },
       {
         "title": "La Piazzolla",
