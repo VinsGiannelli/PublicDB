@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-16T04:06:15.000Z",
+  "lastModifiedDate": "2026-11-16T04:41:07.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-15T21:09:33.341Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-16T04:06:15.000Z",
+    "lastModifiedDate": "2026-11-16T04:41:07.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,8 +418,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-16T03:39:38.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-16T04:41:07.000Z",
       "cycleDate": "2026-11-16",
       "watchlistHash": null
     },
@@ -1041,6 +1041,15 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Natale%20in%20piazzetta&dates=20261128%2F20261129&details=Manifestazione%20natalizia%20nel%20centro%20cittadino.%20https%3A%2F%2Fpuglia.piazzainfesta.it%2Fsannicandro-di-bari%2Fnatale-in-piazzetta-136105&location=Piazza%20Cesare%20Battisti%2C%20Sannicandro%20di%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/sannicandro-di-bari/natale-in-piazzetta-136105"
+      },
+      {
+        "title": "Vini in Vetrina",
+        "subtitle": "Sabato 28 novembre",
+        "dateTime": "2026-11-28T00:00",
+        "text": "evento tradizionale • Monopoli • esercizi commerciali aderenti del centro cittadino • VIII edizione, degustazione di vini con sommelier AIS e cantine partecipanti",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vini%20in%20Vetrina&dates=20261128%2F20261129&ctz=Europe%2FRome&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20esercizi%20commerciali%20aderenti%20del%20centro%20cittadino%20%E2%80%A2%20VIII%20edizione%2C%20degustazione%20di%20vini%20con%20sommelier%20AIS%20e%20cantine%20partecipanti&location=Centro%20cittadino%2C%20Monopoli",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/monopoli/vini-in-vetrina-2026-145535"
       },
       {
         "title": "Vintage Market Bari",
