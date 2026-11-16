@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-16T21:35:20.000Z",
+  "lastModifiedDate": "2026-11-16T21:53:37.000Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-15T21:09:33.341Z",
+    "lastModifiedDate": "2026-11-16T21:53:37.000Z",
     "items": [
       {
         "title": "Ad Infinitum",
@@ -95,7 +95,7 @@
         "createdDate": "2026-11-12",
         "giveaway": false,
         "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3093400/header.jpg",
-        "link": "https://store.epicgames.com/p/knightica",
+        "link": "https://store.epicgames.com/en-US/p/knightica-3be45c",
         "steamRating": "74%",
         "steamPrice": "14,99€",
         "steamUrl": "https://store.steampowered.com/app/3093400/"
