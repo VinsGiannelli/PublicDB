@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-16T22:10:21.000Z",
+  "lastModifiedDate": "2026-11-16T22:40:57.861Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-16T22:10:21.000Z",
+    "lastModifiedDate": "2026-11-16T22:40:57.861Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,8 +418,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-16T21:35:20.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-16T22:40:57.861Z",
       "cycleDate": "2026-11-16",
       "watchlistHash": null
     },
@@ -852,6 +852,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Riuso%20e%20sostenibilit%C3%A0%3B%20orari%2010%3A00-13%3A00&location=Piazza%20Gramsci%2C%20Capurso&dates=20261122T100000%2F20261122T130000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333392.html",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "La Parata del Frutto Pendente",
+        "subtitle": "Domenica 22 novembre • 10:00",
+        "dateTime": "2026-11-22T10:00",
+        "text": "mercatino • Noci • Piazza Garibaldi • Scambio di semi e talee, mostra pomologica e piccolo mercato agricolo, rinviato dal 15 novembre",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Parata%20del%20Frutto%20Pendente&dates=20261122T100000%2F20261122T133000&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Noci%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Scambio%20di%20semi%20e%20talee%2C%20mostra%20pomologica%20e%20piccolo%20mercato%20agricolo%2C%20rinviato%20dal%2015%20novembre&location=Piazza%20Garibaldi%2C%20Noci%20(BA)",
+        "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-parata-del-frutto-pendente-mostra-e-scambio-semi-e-mercato-agricolo-noci-ba/"
       },
       {
         "title": "Voyage – Rihlet El-Hayat",
