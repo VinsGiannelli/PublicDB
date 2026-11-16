@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-16T01:14:41.868Z",
+  "lastModifiedDate": "2026-11-16T01:14:26.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-15T21:09:33.341Z",
@@ -223,17 +223,8 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-15T01:57:57.000Z",
+    "lastModifiedDate": "2026-11-16T01:14:26.000Z",
     "items": [
-      {
-        "title": "Belgio–Italia",
-        "subtitle": "Domenica 15 novembre • 20:45",
-        "dateTime": "2026-11-15T20:45",
-        "text": "UEFA Nations League • Belgio–Italia",
-        "logo": "ITA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Belgio%E2%80%93Italia&dates=20261115T194500Z%2F20261115T214500Z&ctz=Europe%2FRome&details=UEFA%20Nations%20League%20%E2%80%A2%20Belgio%E2%80%93Italia&location=Stadio%20Re%20Baldovino%2C%20Bruxelles",
-        "linkDettagliEvento": "https://www.uefa.com/uefanationsleague/match/2047900--belgium-vs-italy/"
-      },
       {
         "title": "GP Las Vegas – FP1",
         "subtitle": "Venerdì 20 novembre • 01:30",
