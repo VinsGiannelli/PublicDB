@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-16T10:45:55.248Z",
+  "lastModifiedDate": "2026-11-16T11:33:29.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-15T21:09:33.341Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-16T10:45:55.248Z",
+    "lastModifiedDate": "2026-11-16T11:33:29.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-16T10:18:54.783Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-16T11:33:29.000Z",
       "cycleDate": "2026-11-16",
       "watchlistHash": "3ab9b5d6"
     },
@@ -1005,6 +1005,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20libero%20%E2%80%93%20Mina%20e%20Battisti&dates=20261127T210000%2F20261127T230000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20Sala%20Etrusca%20%E2%80%A2%20Omaggio%20a%20Mina%20e%20Lucio%20Battisti%20con%20Ida%20Gigante%2C%20Giuseppe%20Leo%20e%20Matteo%20Scura&location=Palazzo%20Pesce%2C%20Via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/09/24/27-novembre-2026-canto-libero-mina-e-battisti/"
+      },
+      {
+        "title": "Milva Tangø Project – Una voce tra poesia e impulso",
+        "subtitle": "Venerdì 27 novembre • 21:00",
+        "dateTime": "2026-11-27T21:00",
+        "text": "live • Bari • Teatro Casa di Pulcinella • Omaggio musicale a Milva con Mariangela Cagnetta e ensemble Projectango; ingresso con prenotazione",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Milva%20Tang%C3%B8%20Project%20%E2%80%93%20Una%20voce%20tra%20poesia%20e%20impulso&dates=20261127T210000%2F20261127T220000&ctz=Europe%2FRome&details=Omaggio%20musicale%20a%20Milva%20con%20Mariangela%20Cagnetta%20e%20ensemble%20Projectango%3B%20ingresso%20con%20prenotazione&location=Teatro%20Casa%20di%20Pulcinella%2C%20Arena%20della%20Vittoria%204%2Fa%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335548.html"
       },
       {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
