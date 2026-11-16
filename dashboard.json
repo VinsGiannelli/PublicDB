@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-16T05:42:46.000Z",
+  "lastModifiedDate": "2026-11-16T06:10:23.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-15T21:09:33.341Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-16T05:42:46.000Z",
+    "lastModifiedDate": "2026-11-16T06:10:23.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL01",
-      "lastCompletedAt": "2026-11-16T05:13:12.072Z",
+      "lastCompletedStep": "WL02",
+      "lastCompletedAt": "2026-11-16T06:10:23.000Z",
       "cycleDate": "2026-11-16",
       "watchlistHash": "3ab9b5d6"
     },
@@ -1086,6 +1086,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Red%20%E2%80%93%20Back%20to%20the%2070's&dates=20261128T210000%2F20261128T210000&ctz=Europe%2FRome&details=Live%20disco%20%26%20funk.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F335225.html&location=Tensostruttura%20Parrocchia%20Annunciazione%2C%20Via%20Lucarelli%20130%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335225.html"
+      },
+      {
+        "title": "SineSpazio + Agenda dei buoni propositi",
+        "subtitle": "sabato 28 novembre 2026 • ore 21:00",
+        "dateTime": "2026-11-28T21:00",
+        "text": "live • Conversano • Casa delle Arti • Studio di cadenza n. 1, musica dal vivo e danza",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SineSpazio%20%2B%20Agenda%20dei%20buoni%20propositi&dates=20261128T210000%2F20261128T230000&ctz=Europe%2FRome&details=Studio%20di%20cadenza%20n.%201%3A%20performance%20con%20musica%20dal%20vivo%20e%20danza&location=Casa%20delle%20Arti%2C%20Conversano",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336731.html"
       },
       {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
