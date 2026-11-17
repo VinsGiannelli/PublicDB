@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-17T06:42:00.000Z",
+  "lastModifiedDate": "2026-11-17T07:12:10.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-17T06:42:00.000Z",
+    "lastModifiedDate": "2026-11-17T07:12:10.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-17T06:14:03.720Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-17T07:12:10.000Z",
       "cycleDate": "2026-11-17",
       "watchlistHash": "4ee97ad2"
     },
@@ -645,6 +645,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Operazione%20Camarillo%20%E2%80%93%20Aspettando%20Balafon&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Panificio%20Signorile%20%E2%80%A2%20Indie-pop%20dal%20vivo%2C%20ingresso%20libero&location=Panificio%20Signorile%2C%20Corso%20Sidney%20Sonnino%206%2C%20Bari&dates=20261120T213000%2F20261120T233000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336641.html",
         "logo": "LIVE"
+      },
+      {
+        "title": "People Are Bitches – The Doors Tribute",
+        "subtitle": "Venerdì 20 novembre, ore 22:00",
+        "dateTime": "2026-11-20T22:00",
+        "text": "live • Altamura • Ludi 84, Via Diego Franco 20 • Tributo dal vivo ai The Doors; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=People%20Are%20Bitches%20%E2%80%93%20The%20Doors%20Tribute&dates=20261120T220000%2F20261120T233000&ctz=Europe%2FRome&details=Tributo%20live%20ai%20The%20Doors.%20Ingresso%20libero.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F336045.html&location=Ludi%2084%2C%20Via%20Diego%20Franco%2020%2C%20Altamura%2C%20Italia",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336045.html"
       },
       {
         "title": "Il Cardoncello Novello",
