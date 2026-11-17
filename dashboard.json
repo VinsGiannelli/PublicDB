@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-16T23:40:30.142Z",
+  "lastModifiedDate": "2026-11-17T00:10:02.010Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-16T23:40:30.142Z",
+    "lastModifiedDate": "2026-11-17T00:10:02.010Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,21 +424,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-16T23:06:06.000Z",
-      "cycleDate": "2026-11-16",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-17T00:10:02.010Z",
+      "cycleDate": "2026-11-17",
       "watchlistHash": "4ee97ad2"
     },
     "items": [
-      {
-        "title": "Francesco D’Orazio e L’Astrée – Anima Mea",
-        "subtitle": "lunedì 16 novembre 2026 • ore 20:30",
-        "dateTime": "2026-11-16T20:30",
-        "text": "live • Andria • Chiesa di Sant’Anna • Festival Anima Mea, musiche di Tartini e della sua scuola",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesco%20D%E2%80%99Orazio%20e%20L%E2%80%99Astr%C3%A9e%20%E2%80%93%20Anima%20Mea&dates=20261116T203000%2F20261116T223000&ctz=Europe%2FRome&details=Festival%20Anima%20Mea%2C%20musiche%20di%20Tartini%20e%20della%20sua%20scuola&location=Chiesa%20di%20Sant%E2%80%99Anna%2C%20Andria",
-        "linkDettagliEvento": "https://www.puglialive.net/festival-anima-mea-il-15-16-e-17-novembre-a-sannicandro-andria-e-bari-il-violinista-francesco-dorazio-celebra-giuseppe-tartini-con-lensemble-lastree/"
-      },
       {
         "title": "Brunori Sas – TUTTOBRUNORI",
         "subtitle": "Martedì 17 novembre, ore 21:00",
