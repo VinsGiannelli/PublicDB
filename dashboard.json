@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-17T05:08:21.000Z",
+  "lastModifiedDate": "2026-11-17T05:43:28.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-17T05:08:21.000Z",
+    "lastModifiedDate": "2026-11-17T05:43:28.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,8 +418,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-17T04:40:57.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-17T05:43:28.000Z",
       "cycleDate": "2026-11-17",
       "watchlistHash": null
     },
@@ -1034,6 +1034,15 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/321856.html"
       },
       {
+        "title": "Bari Feste d'Autunno – Viale don Luigi Sturzo e via Papa Giovanni XXIII",
+        "subtitle": "venerdì 27 novembre",
+        "dateTime": "2026-11-27T00:00",
+        "text": "evento tradizionale • Bari • Viale don Luigi Sturzo e via Papa Giovanni XXIII • Spettacoli itineranti, animazione e mercatini artigianali; ingresso gratuito",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20Viale%20don%20Luigi%20Sturzo%20e%20via%20Papa%20Giovanni%20XXIII&dates=20261127%2F20261128&details=Manifestazione%20itinerante%20con%20spettacoli%2C%20artisti%20di%20strada%20e%20mercatini%20artigianali.%20Fonte%3A%20https%3A%2F%2Fwww.bariviva.it%2Fnotizie%2Fbari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi%2F&location=Viale%20don%20Luigi%20Sturzo%20e%20via%20Papa%20Giovanni%20XXIII%2C%20Bari%2C%20Italia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariviva.it/notizie/bari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi/"
+      },
+      {
         "title": "Canto libero – Mina e Battisti",
         "subtitle": "Venerdì 27 novembre 2026 ore 21:00",
         "dateTime": "2026-11-27T21:00",
@@ -1104,6 +1113,24 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vini%20in%20Vetrina&dates=20261128%2F20261129&ctz=Europe%2FRome&details=evento%20tradizionale%20%E2%80%A2%20Monopoli%20%E2%80%A2%20esercizi%20commerciali%20aderenti%20del%20centro%20cittadino%20%E2%80%A2%20VIII%20edizione%2C%20degustazione%20di%20vini%20con%20sommelier%20AIS%20e%20cantine%20partecipanti&location=Centro%20cittadino%2C%20Monopoli",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/monopoli/vini-in-vetrina-2026-145535"
+      },
+      {
+        "title": "Bari Feste d'Autunno – Torre a Mare",
+        "subtitle": "sabato 28 novembre",
+        "dateTime": "2026-11-28T00:00",
+        "text": "evento tradizionale • Bari • Torre a Mare • Spettacoli itineranti, animazione e mercatini artigianali; ingresso gratuito",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20Torre%20a%20Mare&dates=20261128%2F20261129&details=Manifestazione%20itinerante%20con%20spettacoli%2C%20artisti%20di%20strada%20e%20mercatini%20artigianali.%20Fonte%3A%20https%3A%2F%2Fwww.bariviva.it%2Fnotizie%2Fbari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi%2F&location=Torre%20a%20Mare%2C%20Bari%2C%20Italia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariviva.it/notizie/bari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi/"
+      },
+      {
+        "title": "Bari Feste d'Autunno – Loseto Vecchia",
+        "subtitle": "sabato 28 novembre",
+        "dateTime": "2026-11-28T00:00",
+        "text": "evento tradizionale • Bari • Loseto Vecchia • Spettacoli itineranti, animazione e mercatini artigianali; ingresso gratuito",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20Loseto%20Vecchia&dates=20261128%2F20261129&details=Manifestazione%20itinerante%20con%20spettacoli%2C%20artisti%20di%20strada%20e%20mercatini%20artigianali.%20Fonte%3A%20https%3A%2F%2Fwww.bariviva.it%2Fnotizie%2Fbari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi%2F&location=Loseto%20Vecchia%2C%20Bari%2C%20Italia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariviva.it/notizie/bari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi/"
       },
       {
         "title": "Vintage Market Bari",
