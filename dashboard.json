@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-17T08:37:19.000Z",
+  "lastModifiedDate": "2026-11-17T09:08:43.728Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-17T08:37:19.000Z",
+    "lastModifiedDate": "2026-11-17T09:08:43.728Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-17T08:16:09.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-17T09:08:43.728Z",
       "cycleDate": "2026-11-17",
       "watchlistHash": "4ee97ad2"
     },
@@ -1194,6 +1194,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SineSpazio%20%2B%20Agenda%20dei%20buoni%20propositi&dates=20261128T210000%2F20261128T230000&ctz=Europe%2FRome&details=Studio%20di%20cadenza%20n.%201%3A%20performance%20con%20musica%20dal%20vivo%20e%20danza&location=Casa%20delle%20Arti%2C%20Conversano",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336731.html"
+      },
+      {
+        "title": "Breakfast Supertramp – Musica e racconti",
+        "subtitle": "sabato 28 novembre 2026 • ore 21:00",
+        "dateTime": "2026-11-28T21:00",
+        "text": "live • Bisceglie • Teatro Politeama Italia, via Montello 2 • Tribute band Supertramp con musica dal vivo e videoproiezioni; ingresso a pagamento",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Breakfast%20Supertramp%20%E2%80%93%20Musica%20e%20racconti&dates=20261128T210000%2F20261128T230000&details=live%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Teatro%20Politeama%20Italia%2C%20via%20Montello%202%20%E2%80%A2%20Tribute%20band%20Supertramp%20con%20musica%20dal%20vivo%20e%20videoproiezioni%3B%20ingresso%20a%20pagamento%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F330801.html&location=Teatro%20Politeama%20Italia%2C%20via%20Montello%202%2C%20Bisceglie&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330801.html"
       },
       {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
