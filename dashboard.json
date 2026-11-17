@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-17T07:42:13.000Z",
+  "lastModifiedDate": "2026-11-17T08:16:09.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-17T07:42:13.000Z",
+    "lastModifiedDate": "2026-11-17T08:16:09.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-17T07:12:10.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-17T08:16:09.000Z",
       "cycleDate": "2026-11-17",
       "watchlistHash": "4ee97ad2"
     },
@@ -915,6 +915,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gidon%20Kremer&dates=20261122T200000%2F20261122T213000&details=Concerto%20cameristico%20con%20Katr%C4%ABna%20Anna%20Peln%C4%93na%2C%20Mauro%20Paolo%20Monopoli%20e%20Massimiliano%20Monopoli&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334620.html"
+      },
+      {
+        "title": "DM Experience – Depeche Mode Tribute",
+        "subtitle": "Domenica 22 novembre • ore 21:15",
+        "dateTime": "2026-11-22T21:15",
+        "text": "live • Mola di Bari • Via Parini 18 • Cover band dal vivo dei Depeche Mode, apericena con prenotazione obbligatoria",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DM%20Experience%20%E2%80%93%20Depeche%20Mode%20Tribute&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Via%20Parini%2018%20%E2%80%A2%20Cover%20band%20dal%20vivo%20dei%20Depeche%20Mode%2C%20apericena%20con%20prenotazione%20obbligatoria&location=Via%20Parini%2018%2C%20Mola%20di%20Bari&dates=20261122T211500%2F20261122T221500&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336729.html"
       },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
