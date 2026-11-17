@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-17T03:14:01.000Z",
+  "lastModifiedDate": "2026-11-17T03:40:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-17T03:14:01.000Z",
+    "lastModifiedDate": "2026-11-17T03:40:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -418,8 +418,8 @@
       "Valerio Cosi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-17T02:43:25.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-17T03:40:00.000Z",
       "cycleDate": "2026-11-17",
       "watchlistHash": null
     },
@@ -537,6 +537,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canta%20Strano%20%E2%80%93%20Gianky%20%26%20Malidea&dates=20261120%2F20261121&details=Canta%20Strano%20live%20show%20con%20Gianky%20e%20Malidea.%20Orario%20esibizione%20non%20confermato.&location=Fix%20it%20Culture%2C%20Viale%20Luigi%20Einaudi%2060%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.bars10.com/IT/Bari/552553294928041/Fix-It-culture"
+      },
+      {
+        "title": "Bari Feste d'Autunno – Via Argiro",
+        "subtitle": "venerdì 20 novembre",
+        "dateTime": "2026-11-20T00:00",
+        "text": "evento tradizionale • Bari • Via Argiro • spettacoli itineranti e mercatini artigianali",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20Via%20Argiro&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Via%20Argiro%20%E2%80%A2%20spettacoli%20itineranti%20e%20mercatini%20artigianali&location=Via%20Argiro%2C%20Bari&dates=20261120%2F20261121&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://eventi-bari.it/bari-feste-autunno-calendario-2026/"
       },
       {
         "title": "Kateryna Ukhatiuk – Le star del futuro",
@@ -690,6 +699,24 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dahlia%20Doll&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20BIG%20WAVE%20%2F%20Bari%20International%20Gender%20Festival%2C%20esibizione%20dal%20vivo%3B%20orario%20individuale%20non%20comunicato&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.rockol.it/concerto-dahlia-doll-officina-degli-esordi-bari-21-novembre-2026-c-l8r8nwwmwrk"
+      },
+      {
+        "title": "Bari Feste d'Autunno – Santo Spirito",
+        "subtitle": "sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "evento tradizionale • Bari • Santo Spirito • spettacoli itineranti e mercatini artigianali",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20Santo%20Spirito&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Santo%20Spirito%20%E2%80%A2%20spettacoli%20itineranti%20e%20mercatini%20artigianali&location=Santo%20Spirito%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://eventi-bari.it/bari-feste-autunno-calendario-2026/"
+      },
+      {
+        "title": "Bari Feste d'Autunno – San Girolamo",
+        "subtitle": "sabato 21 novembre",
+        "dateTime": "2026-11-21T00:00",
+        "text": "evento tradizionale • Bari • San Girolamo • spettacoli itineranti e mercatini artigianali",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20San%20Girolamo&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20San%20Girolamo%20%E2%80%A2%20spettacoli%20itineranti%20e%20mercatini%20artigianali&location=San%20Girolamo%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://eventi-bari.it/bari-feste-autunno-calendario-2026/"
       },
       {
         "title": "Mercatino del riuso",
