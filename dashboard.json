@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-17T13:44:03.000Z",
+  "lastModifiedDate": "2026-11-17T14:12:34.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-16T21:53:37.000Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-17T13:44:03.000Z",
+    "lastModifiedDate": "2026-11-17T14:12:34.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,10 +424,10 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-17T13:06:09.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-17T14:12:34.000Z",
       "cycleDate": "2026-11-17",
-      "watchlistHash": "4ee97ad2"
+      "watchlistHash": null
     },
     "items": [
       {
@@ -636,6 +636,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vento%20'e%20Blues%20%E2%80%93%20Omaggio%20a%20Pino%20Daniele&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome&details=Omaggio%20a%20Pino%20Daniele%20con%20Claudia%20Brindicci.%20Ingresso%20libero%20con%20consumazione%20obbligatoria.&location=Black%20Horses%20Pub%2C%20Via%20Principe%20Amedeo%20162%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336718.html"
+      },
+      {
+        "title": "MAX canta ADRIANO – Massimo Papagni",
+        "subtitle": "Venerdì 20 novembre, ore 21:00",
+        "dateTime": "2026-11-20T21:00",
+        "text": "live • Bisceglie • Ristorante da Sergio e Davide • Massimo Papagni interpreta Adriano Celentano; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MAX%20canta%20ADRIANO%20%E2%80%93%20Massimo%20Papagni&details=live%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Ristorante%20da%20Sergio%20e%20Davide%20%E2%80%A2%20Massimo%20Papagni%20interpreta%20Adriano%20Celentano%3B%20ingresso%20libero&location=Ristorante%20da%20Sergio%20e%20Davide%2C%20Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336757.html"
       },
       {
         "title": "Operazione Camarillo – Aspettando Balafon",
