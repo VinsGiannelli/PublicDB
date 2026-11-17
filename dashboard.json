@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-17T22:41:22.159Z",
+  "lastModifiedDate": "2026-11-17T23:14:43.187Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-17T21:19:24.069Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-17T22:41:22.159Z",
+    "lastModifiedDate": "2026-11-17T23:14:43.187Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,21 +424,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-17T22:13:58.705Z",
-      "cycleDate": "2026-11-17",
-      "watchlistHash": "4ee97ad2"
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-17T23:14:43.187Z",
+      "cycleDate": "2026-11-18",
+      "watchlistHash": null
     },
     "items": [
-      {
-        "title": "Brunori Sas – TUTTOBRUNORI",
-        "subtitle": "Martedì 17 novembre, ore 21:00",
-        "dateTime": "2026-11-17T21:00",
-        "text": "live • Bari • Teatro Petruzzelli • TUTTOBRUNORI, canzoni e monologhi",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brunori%20Sas%20%E2%80%93%20TUTTOBRUNORI&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20TUTTOBRUNORI%2C%20canzoni%20e%20monologhi&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261117210000%2F20261117230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ticketone.it/event/brunori-sas-tuttobrunori-canzoni-e-monologhi-teatro-petruzzelli-20999851/",
-        "logo": "LIVE"
-      },
       {
         "title": "Stefano Palmieri – ACCIAO live",
         "subtitle": "mercoledì 18 novembre",
