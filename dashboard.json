@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-18T01:36:25.991Z",
+  "lastModifiedDate": "2026-11-18T01:54:33.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-17T21:19:24.069Z",
@@ -223,7 +223,7 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-17T01:21:12.000Z",
+    "lastModifiedDate": "2026-11-18T01:54:33.000Z",
     "items": [
       {
         "title": "F1 Las Vegas – FP1",
@@ -277,7 +277,7 @@
         "text": "Serie C • Catania – Bari",
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Catania%20%E2%80%93%20Bari&details=Serie%20C%20%E2%80%A2%20Catania%20%E2%80%93%20Bari&location=Stadio%20Angelo%20Massimino%2C%20Catania&dates=20261122T140000Z%2F20261122T160000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.calcio-risultati.com/squadra/ssc-bari"
+        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/serie-c-2026/calendario/bari-e2hi197ydanctu9i74tonpt4r/"
       },
       {
         "title": "F1 Qatar – FP1",
@@ -331,7 +331,7 @@
         "text": "Serie C • Bari – Savoia",
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20%E2%80%93%20Savoia&details=Serie%20C%20%E2%80%A2%20Bari%20%E2%80%93%20Savoia&location=Stadio%20San%20Nicola%2C%20Bari&dates=20261129T163000Z%2F20261129T183000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.calcio-risultati.com/squadra/ssc-bari"
+        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/serie-c-2026/calendario/bari-e2hi197ydanctu9i74tonpt4r/"
       }
     ]
   },
