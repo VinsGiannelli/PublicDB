@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-18T17:42:54.000Z",
+  "lastModifiedDate": "2026-11-18T18:14:31.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-17T21:19:24.069Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-18T17:42:54.000Z",
+    "lastModifiedDate": "2026-11-18T18:14:31.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -431,8 +431,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-18T17:06:54.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-18T18:14:31.000Z",
       "cycleDate": "2026-11-18",
       "watchlistHash": null
     },
@@ -1084,6 +1084,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Milva%20Tang%C3%B8%20Project%20%E2%80%93%20Una%20voce%20tra%20poesia%20e%20impulso&dates=20261127T210000%2F20261127T220000&ctz=Europe%2FRome&details=Omaggio%20musicale%20a%20Milva%20con%20Mariangela%20Cagnetta%20e%20ensemble%20Projectango%3B%20ingresso%20con%20prenotazione&location=Teatro%20Casa%20di%20Pulcinella%2C%20Arena%20della%20Vittoria%204%2Fa%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335548.html"
+      },
+      {
+        "title": "THE HORNETS in concerto",
+        "subtitle": "Venerdì 27 novembre • ore 22:00",
+        "dateTime": "2026-11-27T22:00",
+        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Concerto rock dal vivo dei The Hornets",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=THE%20HORNETS%20in%20concerto&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Concerto%20rock%20dal%20vivo%20dei%20The%20Hornets&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261127T220000%2F20261127T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336315.html"
       },
       {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
