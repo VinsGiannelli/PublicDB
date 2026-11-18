@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-18T21:09:12.205Z",
+  "lastModifiedDate": "2026-11-18T21:16:31.000Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-17T21:19:24.069Z",
+    "lastModifiedDate": "2026-11-18T21:16:31.000Z",
     "items": [
       {
         "title": "Ad Infinitum",
@@ -27,6 +27,18 @@
         "steamRating": "83%",
         "steamPrice": "24,99€",
         "steamUrl": "https://store.steampowered.com/app/1582650/"
+      },
+      {
+        "title": "Contractor: The Clean Up Part II",
+        "subtitle": "Epic Games Store",
+        "text": "Simulatore rilassante di pulizia e recupero di cantieri: guida mezzi pesanti, raccogli macerie e ripristina aree industriali abbandonate, senza limiti di tempo. Riscattabile gratuitamente su Epic Games Store fino al 2 dicembre 2026.",
+        "createdDate": "2026-11-17",
+        "giveaway": false,
+        "imageUrl": "https://placehold.co/460x215?text=Contractor%3A%20The%20Clean%20Up%20Part%20II",
+        "link": "https://store.epicgames.com/p/contractor-the-clean-up-part-ii-1b1b57",
+        "steamRating": null,
+        "steamPrice": null,
+        "steamUrl": null
       },
       {
         "title": "Disney Epic Mickey: Rebrushed",
