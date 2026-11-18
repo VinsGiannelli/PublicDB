@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-18T07:43:01.000Z",
+  "lastModifiedDate": "2026-11-18T08:15:04.567Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-17T21:19:24.069Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-18T07:43:01.000Z",
+    "lastModifiedDate": "2026-11-18T08:15:04.567Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -424,8 +424,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-18T07:06:52.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-18T08:15:04.567Z",
       "cycleDate": "2026-11-18",
       "watchlistHash": "4ee97ad2"
     },
@@ -1257,6 +1257,15 @@
         "linkDettagliEvento": "https://www.vintagemarketbari.it/",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%20%E2%80%A2%2014%C2%AA%20edizione%2C%20vintage%2C%20artigianato%20e%20collezionismo%3B%20dalle%2010%3A00%20alle%2021%3A00&location=Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%2C%20Bari&dates=20261129T100000%2F20261129T210000&ctz=Europe%2FRome",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Fiorella Mannoia – Anime Salve",
+        "subtitle": "Mercoledì 2 dicembre • 21:00",
+        "dateTime": "2026-12-02T21:00",
+        "text": "live • Bari • Teatro Team • Fiorella canta Fabrizio e Ivano: Anime Salve, omaggio a Fabrizio De André e Ivano Fossati",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiorella%20Mannoia%20%E2%80%93%20Anime%20Salve&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Fiorella%20canta%20Fabrizio%20e%20Ivano%3A%20Anime%20Salve%2C%20omaggio%20a%20Fabrizio%20De%20Andr%C3%A9%20e%20Ivano%20Fossati&location=Teatro%20Team%2C%20Bari&dates=20261202T210000%2F20261202T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ticketone.it/event/fiorella-mannoia-fiorella-canta-fabrizio-e-ivano-anime-salve-teatro-team-22068312/"
       }
     ]
   }
