@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-18T22:36:53.266Z",
+  "lastModifiedDate": "2026-11-18T23:06:40.470Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-18T22:36:53.266Z",
+    "lastModifiedDate": "2026-11-18T23:06:40.470Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -443,30 +443,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL03",
-      "lastCompletedAt": "2026-11-18T22:13:27.245Z",
+      "lastCompletedStep": "WL04",
+      "lastCompletedAt": "2026-11-18T23:06:40.470Z",
       "cycleDate": "2026-11-18",
       "watchlistHash": "e78da8d7"
     },
     "items": [
-      {
-        "title": "Stefano Palmieri – ACCIAO live",
-        "subtitle": "mercoledì 18 novembre",
-        "dateTime": "2026-11-18T00:00",
-        "text": "live • Bari • Spazio 13 • Via Colonnello de Cristoforis 8; concerto dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stefano%20Palmieri%20%E2%80%93%20ACCIAO%20live&dates=20261118%2F20261119&details=Via%20Colonnello%20de%20Cristoforis%208%3B%20concerto%20dal%20vivo&location=Spazio%2013%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.rockol.it/concerto-stefano-palmieri-spazio-13-via-colonnello-de-cristoforis-8-bari-ba-18-novembre-2026-c-j9e9nyy0pd6"
-      },
-      {
-        "title": "Brunori Sas – TUTTOBRUNORI",
-        "subtitle": "Mercoledì 18 novembre, ore 21:00",
-        "dateTime": "2026-11-18T21:00",
-        "text": "live • Bari • Teatro Petruzzelli • TUTTOBRUNORI, canzoni e monologhi",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brunori%20Sas%20%E2%80%93%20TUTTOBRUNORI&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20TUTTOBRUNORI%2C%20canzoni%20e%20monologhi&location=Teatro%20Petruzzelli%2C%20Bari&dates=20261118210000%2F20261118230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ticketone.it/event/brunori-sas-tuttobrunori-canzoni-e-monologhi-teatro-petruzzelli-20935477/",
-        "logo": "LIVE"
-      },
       {
         "title": "Renato Ciardo – Musica e cabaret",
         "subtitle": "Giovedì 19 novembre • 21:00",
