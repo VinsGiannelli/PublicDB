@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-18T18:38:00.000Z",
+  "lastModifiedDate": "2026-11-18T19:11:35.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-17T21:19:24.069Z",
@@ -336,7 +336,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-18T18:38:00.000Z",
+    "lastModifiedDate": "2026-11-18T19:11:35.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -431,8 +431,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-18T18:14:31.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-18T19:11:35.000Z",
       "cycleDate": "2026-11-18",
       "watchlistHash": null
     },
@@ -1273,6 +1273,15 @@
         "linkDettagliEvento": "https://www.vintagemarketbari.it/",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%20%E2%80%A2%2014%C2%AA%20edizione%2C%20vintage%2C%20artigianato%20e%20collezionismo%3B%20dalle%2010%3A00%20alle%2021%3A00&location=Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%2C%20Bari&dates=20261129T100000%2F20261129T210000&ctz=Europe%2FRome",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Quartetto d’archi Sud Est Donne",
+        "subtitle": "Mercoledì 2 dicembre, ore 18:00",
+        "dateTime": "2026-12-02T18:00",
+        "text": "live • Sammichele di Bari • Hotel Esperia • Quartetto d’archi con musiche di Mozart, Vivaldi, Mascagni e Brahms; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quartetto%20d%E2%80%99archi%20Sud%20Est%20Donne&details=Concerto%20del%20quartetto%20d'archi%20Sud%20Est%20Donne.%20Ingresso%20libero.&location=Hotel%20Esperia%2C%20Sammichele%20di%20Bari&dates=20261202T180000%2F20261202T190000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336886.html"
       },
       {
         "title": "Fiorella Mannoia – Anime Salve",
