@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T00:36:23.754Z",
+  "lastModifiedDate": "2026-11-19T01:07:12.143Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T00:36:23.754Z",
+    "lastModifiedDate": "2026-11-19T01:07:12.143Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -443,8 +443,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-19T00:05:52.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-19T01:07:12.143Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": null
     },
@@ -990,6 +990,15 @@
         "logo": "SAGRA"
       },
       {
+        "title": "Uicheol Uhm – Le star del futuro",
+        "subtitle": "Mercoledì 25 novembre • 11:00",
+        "dateTime": "2026-11-25T11:00",
+        "text": "live • Bari • Teatro Kursaal Santalucia • Recital pianistico con Bach, Haydn e Schubert; ingresso a pagamento",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Uicheol%20Uhm%20%E2%80%93%20Le%20star%20del%20futuro&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Recital%20pianistico%20con%20Bach%2C%20Haydn%20e%20Schubert%3B%20ingresso%20a%20pagamento&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&dates=20261125T110000%2F20261125T120000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334914.html"
+      },
+      {
         "title": "Max Gazzè",
         "subtitle": "Mercoledì 25 novembre • 21:00",
         "dateTime": "2026-11-25T21:00",
@@ -1177,6 +1186,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20du%20Chiacone&dates=20261128T183000%2F20261128T235900&ctz=Europe%2FRome&details=sagra%20%E2%80%A2%20Bari%20(Palese)%20%E2%80%A2%20Piazza%20Bellini%20%E2%80%A2%20V%20edizione%2C%20fico%20secco%20ripieno%20di%20mandorla%2C%20degustazioni%2C%20street%20food%20e%20stand%20artigianali%3B%20apertura%2018%3A30&location=Piazza%20Bellini%2C%20Bari%20Palese",
         "linkDettagliEvento": "https://www.caminvattin.it/tag/street-food/"
+      },
+      {
+        "title": "Sergei Babayan, Benjamin Baker e Sujari Britt",
+        "subtitle": "Sabato 28 novembre • 20:00",
+        "dateTime": "2026-11-28T20:00",
+        "text": "live • Bari • Teatro Kursaal Santalucia • Musica da camera con Beethoven e Mendelssohn; ingresso a pagamento",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sergei%20Babayan%2C%20Benjamin%20Baker%20e%20Sujari%20Britt&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Musica%20da%20camera%20con%20Beethoven%20e%20Mendelssohn%3B%20ingresso%20a%20pagamento&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&dates=20261128T200000%2F20261128T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333914.html"
       },
       {
         "title": "I Vaskomodi – Vasco Rossi Tribute",
