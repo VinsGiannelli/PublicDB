@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T14:43:23.000Z",
+  "lastModifiedDate": "2026-11-19T15:11:30.813Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T14:43:23.000Z",
+    "lastModifiedDate": "2026-11-19T15:11:30.813Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -444,8 +444,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-19T14:10:00.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-19T15:11:30.813Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": "e78da8d7"
     },
@@ -1009,6 +1009,24 @@
         "linkDettagliEvento": "https://www.apulianblogger.it/festa-san-flaviano-conversano-2026-programma/"
       },
       {
+        "title": "A Dispetto Vedranno – Ensemble La Tempestad",
+        "subtitle": "Martedì 24 novembre • 20:00",
+        "dateTime": "2026-11-24T20:00",
+        "text": "live • Bari • Auditorium del Conservatorio Piccinni • Concerto di musica antica, festival Anima Mea • Ingresso 10 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Dispetto%20Vedranno%20%E2%80%93%20Ensemble%20La%20Tempestad&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Auditorium%20del%20Conservatorio%20Piccinni%20%E2%80%A2%20Concerto%20di%20musica%20antica%2C%20festival%20Anima%20Mea%20%E2%80%A2%20Ingresso%2010%20%E2%82%AC&location=Auditorium%20del%20Conservatorio%20Piccinni%2C%20Bari&dates=20261124T200000%2F20261124T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333652.html"
+      },
+      {
+        "title": "Piano Contemporary Music",
+        "subtitle": "Martedì 24 novembre • 20:00",
+        "dateTime": "2026-11-24T20:00",
+        "text": "live • Bari • Teatro Kursaal Santalucia • Concerto di musica contemporanea con Riikka Talvitie e Robert Fleitz • Ingresso 7,50–15 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Piano%20Contemporary%20Music&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Concerto%20di%20musica%20contemporanea%20con%20Riikka%20Talvitie%20e%20Robert%20Fleitz%20%E2%80%A2%20Ingresso%207%2C50%E2%80%9315%20%E2%82%AC&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&dates=20261124T200000%2F20261124T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334908.html"
+      },
+      {
         "title": "Max Gazzè",
         "subtitle": "Martedì 24 novembre • 21:00",
         "dateTime": "2026-11-24T21:00",
@@ -1250,6 +1268,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sergei%20Babayan%2C%20Benjamin%20Baker%20e%20Sujari%20Britt&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Musica%20da%20camera%20con%20Beethoven%20e%20Mendelssohn%3B%20ingresso%20a%20pagamento&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&dates=20261128T200000%2F20261128T210000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333914.html"
+      },
+      {
+        "title": "SUR – Bolero, flamenco e canción latinoamericana",
+        "subtitle": "Sabato 28 novembre • 20:30",
+        "dateTime": "2026-11-28T20:30",
+        "text": "live • Bisceglie • Palazzo Vives Frisari • Anèt voce e Miguel Zepe Días chitarra • Ingresso 15 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SUR%20%E2%80%93%20Bolero%2C%20flamenco%20e%20canci%C3%B3n%20latinoamericana&details=live%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Palazzo%20Vives%20Frisari%20%E2%80%A2%20An%C3%A8t%20voce%20e%20Miguel%20Zepe%20D%C3%ADas%20chitarra%20%E2%80%A2%20Ingresso%2015%20%E2%82%AC&location=Palazzo%20Vives%20Frisari%2C%20Bisceglie&dates=20261128T203000%2F20261128T213000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/326867.html"
       },
       {
         "title": "I Vaskomodi – Vasco Rossi Tribute",
