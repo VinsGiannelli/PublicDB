@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T13:13:45.347Z",
+  "lastModifiedDate": "2026-11-19T13:37:18.885Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T13:13:45.347Z",
+    "lastModifiedDate": "2026-11-19T13:37:18.885Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -438,8 +438,8 @@
       "Officina degli Esordi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-19T12:43:51.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-19T13:37:18.885Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": null
     },
@@ -1108,6 +1108,15 @@
         "linkDettagliEvento": "https://www.bariviva.it/notizie/bari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi/"
       },
       {
+        "title": "Slow Grains 2026",
+        "subtitle": "Venerdì 27 novembre • ore 18:00",
+        "dateTime": "2026-11-27T18:00",
+        "text": "evento tradizionale • Matera • Palazzo Lanfranchi, Piazza Giovanni Pascoli 1 • Anteprima sui grani tradizionali e la biodiversità con presentazione dell'Atlante dell'Arca del Gusto della Basilicata",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Slow%20Grains%202026&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%20%E2%80%A2%20Anteprima%20sui%20grani%20tradizionali%20e%20la%20biodiversit%C3%A0%20con%20presentazione%20dell'Atlante%20dell'Arca%20del%20Gusto%20della%20Basilicata&location=Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%2C%20Matera&dates=20261127T180000%2F20261127T190000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-anteprima"
+      },
+      {
         "title": "Canto libero – Mina e Battisti",
         "subtitle": "Venerdì 27 novembre 2026 ore 21:00",
         "dateTime": "2026-11-27T21:00",
@@ -1214,6 +1223,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=14%C2%AA%20edizione%2C%20vintage%2C%20usato%2C%20artigianato%20e%20collezionismo&location=Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%2C%20Bari&dates=20261128T100000%2F20261128T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.vintagemarketbari.it/"
+      },
+      {
+        "title": "Slow Grains 2026",
+        "subtitle": "Sabato 28 novembre • ore 10:00",
+        "dateTime": "2026-11-28T10:00",
+        "text": "evento tradizionale • Matera • Palazzo Lanfranchi, Piazza Giovanni Pascoli 1 • Mercato dei produttori dalle 10:00 alle 21:00, incontri sui cereali tradizionali e laboratori del gusto",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Slow%20Grains%202026&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%20%E2%80%A2%20Mercato%20dei%20produttori%20dalle%2010%3A00%20alle%2021%3A00%2C%20incontri%20sui%20cereali%20tradizionali%20e%20laboratori%20del%20gusto&location=Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%2C%20Matera&dates=20261128T100000%2F20261128T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-mercato-conferenze-e-laboratori"
       },
       {
         "title": "Sagra du Chiacone",
