@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T12:08:02.423Z",
+  "lastModifiedDate": "2026-11-19T12:43:51.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T12:08:02.423Z",
+    "lastModifiedDate": "2026-11-19T12:43:51.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -438,8 +438,8 @@
       "Officina degli Esordi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-19T11:44:00.000Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-19T12:43:51.000Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": null
     },
@@ -450,6 +450,15 @@
       "watchlistHash": "e78da8d7"
     },
     "items": [
+      {
+        "title": "Festival Senza Glutine",
+        "subtitle": "Giovedì 19 novembre • 18:00",
+        "dateTime": "2026-11-19T18:00",
+        "text": "evento tradizionale • Matera • Piazzale Parrocchia San Pio X, via Francesco Petrarca • Festival gastronomico con food truck e specialità senza glutine • Ingresso gratuito",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festival%20Senza%20Glutine&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%20%E2%80%A2%20Festival%20gastronomico%20con%20food%20truck%20e%20specialit%C3%A0%20senza%20glutine%20%E2%80%A2%20Ingresso%20gratuito&location=Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%2C%20Matera&dates=20261119T180000%2F20261119T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/festival-senza-glutine-nel-piazzale-antistante-la-parrocchia-san-pio-x-a-matera/"
+      },
       {
         "title": "Renato Ciardo – Musica e cabaret",
         "subtitle": "Giovedì 19 novembre • 21:00",
@@ -548,6 +557,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kateryna%20Ukhatiuk%20%E2%80%93%20Le%20star%20del%20futuro&dates=20261120T110000%2F20261120T120000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Prokof'ev%20e%20Liszt&location=Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333699.html"
+      },
+      {
+        "title": "Festival Senza Glutine",
+        "subtitle": "Venerdì 20 novembre • 11:00",
+        "dateTime": "2026-11-20T11:00",
+        "text": "evento tradizionale • Matera • Piazzale Parrocchia San Pio X, via Francesco Petrarca • Festival gastronomico con food truck e specialità senza glutine • Ingresso gratuito",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festival%20Senza%20Glutine&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%20%E2%80%A2%20Festival%20gastronomico%20con%20food%20truck%20e%20specialit%C3%A0%20senza%20glutine%20%E2%80%A2%20Ingresso%20gratuito&location=Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%2C%20Matera&dates=20261120T110000%2F20261120T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/festival-senza-glutine-nel-piazzale-antistante-la-parrocchia-san-pio-x-a-matera/"
       },
       {
         "title": "Villaggio di Natale – Inaugurazione",
@@ -739,6 +757,15 @@
         "logo": "MERCATINO"
       },
       {
+        "title": "Festival Senza Glutine",
+        "subtitle": "Sabato 21 novembre • 11:00",
+        "dateTime": "2026-11-21T11:00",
+        "text": "evento tradizionale • Matera • Piazzale Parrocchia San Pio X, via Francesco Petrarca • Festival gastronomico con food truck e specialità senza glutine • Ingresso gratuito",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festival%20Senza%20Glutine&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%20%E2%80%A2%20Festival%20gastronomico%20con%20food%20truck%20e%20specialit%C3%A0%20senza%20glutine%20%E2%80%A2%20Ingresso%20gratuito&location=Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%2C%20Matera&dates=20261121T110000%2F20261121T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/festival-senza-glutine-nel-piazzale-antistante-la-parrocchia-san-pio-x-a-matera/"
+      },
+      {
         "title": "San Martino – Ogni mosto diventa vino",
         "subtitle": "Sabato 21 novembre, ore 19:00",
         "dateTime": "2026-11-21T19:00",
@@ -899,6 +926,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Parata%20del%20Frutto%20Pendente&dates=20261122T100000%2F20261122T133000&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Noci%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Scambio%20di%20semi%20e%20talee%2C%20mostra%20pomologica%20e%20piccolo%20mercato%20agricolo%2C%20rinviato%20dal%2015%20novembre&location=Piazza%20Garibaldi%2C%20Noci%20(BA)",
         "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-parata-del-frutto-pendente-mostra-e-scambio-semi-e-mercato-agricolo-noci-ba/"
+      },
+      {
+        "title": "Festival Senza Glutine",
+        "subtitle": "Domenica 22 novembre • 11:00",
+        "dateTime": "2026-11-22T11:00",
+        "text": "evento tradizionale • Matera • Piazzale Parrocchia San Pio X, via Francesco Petrarca • Festival gastronomico con food truck e specialità senza glutine • Ingresso gratuito",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festival%20Senza%20Glutine&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%20%E2%80%A2%20Festival%20gastronomico%20con%20food%20truck%20e%20specialit%C3%A0%20senza%20glutine%20%E2%80%A2%20Ingresso%20gratuito&location=Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%2C%20Matera&dates=20261122T110000%2F20261122T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/festival-senza-glutine-nel-piazzale-antistante-la-parrocchia-san-pio-x-a-matera/"
       },
       {
         "title": "Voyage – Rihlet El-Hayat",
