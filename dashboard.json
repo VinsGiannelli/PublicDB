@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T08:09:38.793Z",
+  "lastModifiedDate": "2026-11-19T08:36:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T08:09:38.793Z",
+    "lastModifiedDate": "2026-11-19T08:36:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -437,8 +437,8 @@
       "Officina degli Esordi — Bari"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-19T07:40:34.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-19T08:36:00.000Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": null
     },
@@ -1321,6 +1321,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiorella%20Mannoia%20%E2%80%93%20Anime%20Salve&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Fiorella%20canta%20Fabrizio%20e%20Ivano%3A%20Anime%20Salve%2C%20omaggio%20a%20Fabrizio%20De%20Andr%C3%A9%20e%20Ivano%20Fossati&location=Teatro%20Team%2C%20Bari&dates=20261202T210000%2F20261202T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ticketone.it/event/fiorella-mannoia-fiorella-canta-fabrizio-e-ivano-anime-salve-teatro-team-22068312/"
+      },
+      {
+        "title": "Mercatino di San Nicola",
+        "subtitle": "Giovedì 3 dicembre",
+        "dateTime": "2026-12-03T00:00",
+        "text": "mercatino • Molfetta • Quartiere a ponente • Mercatino tradizionale di San Nicola, commercio su aree pubbliche",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20di%20San%20Nicola&details=mercatino%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Quartiere%20a%20ponente%20%E2%80%A2%20Mercatino%20tradizionale%20di%20San%20Nicola%2C%20commercio%20su%20aree%20pubbliche&location=Quartiere%20a%20ponente%2C%20Molfetta&dates=20261203%2F20261204&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.comune.molfetta.ba.it/Novita/Avvisi/Bando-per-la-partecipazione-alla-Fiera-della-Madonna-dei-Martiri-e-al-Mercatino-di-San-Nicola-anno-2026-Pubblicata-Graduatoria-provvisoria"
       },
       {
         "title": "Silvia Mezzanotte – InCanto Italiano",
