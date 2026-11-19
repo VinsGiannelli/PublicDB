@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T18:05:49.379Z",
+  "lastModifiedDate": "2026-11-19T18:37:16.243Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T18:05:49.379Z",
+    "lastModifiedDate": "2026-11-19T18:37:16.243Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -438,8 +438,8 @@
       "Officina degli Esordi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-19T17:38:05.619Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-19T18:37:16.243Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": null
     },
@@ -784,6 +784,15 @@
         "linkDettagliEvento": "https://www.istintoprimitivo.it/index.php/tutti-gli-eventi/2468-calici-di-san-martino/2026-11-21-19-30"
       },
       {
+        "title": "Modugno Wine & Food Festival",
+        "subtitle": "Sabato 21 novembre • 19:30",
+        "dateTime": "2026-11-21T19:30",
+        "text": "sagra • Modugno • Centro storico • Stand gastronomici, vino e specialità locali nelle vie e piazze del borgo antico",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Modugno%20Wine%20%26%20Food%20Festival&details=sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20vino%20e%20specialit%C3%A0%20locali%20nelle%20vie%20e%20piazze%20del%20borgo%20antico&location=Centro%20storico%2C%20Modugno%2C%20Bari&dates=20261121T193000%2F20261121T235900&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/wine-food-festival-modugno-2026/"
+      },
+      {
         "title": "Sonoria Live Band e Filippo Alberga",
         "subtitle": "Sabato 21 novembre, ore 20:30",
         "dateTime": "2026-11-21T20:30",
@@ -944,6 +953,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Voyage%20%E2%80%93%20Rihlet%20El-Hayat&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Hotel%20La%20Suite%20%E2%80%A2%20Badrya%20Razem%20(voce)%20e%20Domenico%20Lopez%20(chitarra)%2C%20musiche%20del%20Mediterraneo&location=Hotel%20La%20Suite%2C%20Via%20Lucana%20137%2C%20Matera&dates=20261122T173000%2F20261122T183000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://events.materawelcome.it/events/view/musica/8733/voyage-_rihlet_el-hayat"
+      },
+      {
+        "title": "Modugno Wine & Food Festival",
+        "subtitle": "Domenica 22 novembre • 19:30",
+        "dateTime": "2026-11-22T19:30",
+        "text": "sagra • Modugno • Centro storico • Stand gastronomici, vino e specialità locali nelle vie e piazze del borgo antico",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Modugno%20Wine%20%26%20Food%20Festival&details=sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20vino%20e%20specialit%C3%A0%20locali%20nelle%20vie%20e%20piazze%20del%20borgo%20antico&location=Centro%20storico%2C%20Modugno%2C%20Bari&dates=20261122T193000%2F20261122T235900&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/wine-food-festival-modugno-2026/"
       },
       {
         "title": "Gidon Kremer",
