@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T01:36:38.000Z",
+  "lastModifiedDate": "2026-11-19T02:13:37.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-18T21:16:31.000Z",
@@ -348,7 +348,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T01:36:55.000Z",
+    "lastModifiedDate": "2026-11-19T02:13:37.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -443,8 +443,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-19T01:07:12.143Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-19T02:13:37.000Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": null
     },
@@ -1287,6 +1287,24 @@
         "logo": "MERCATINO"
       },
       {
+        "title": "Bach a Köthen – Accademia Hermans",
+        "subtitle": "Domenica 29 novembre • 18:00",
+        "dateTime": "2026-11-29T18:00",
+        "text": "live • Monopoli • Chiesa San Domenico • Accademia Hermans, musiche di J. S. Bach • Ingresso 5 € online, 7 € in loco",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bach%20a%20K%C3%B6then%20%E2%80%93%20Accademia%20Hermans&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Chiesa%20San%20Domenico%20%E2%80%A2%20Accademia%20Hermans%2C%20musiche%20di%20J.%20S.%20Bach%20%E2%80%A2%20Ingresso%205%20%E2%82%AC%20online%2C%207%20%E2%82%AC%20in%20loco&location=Chiesa%20San%20Domenico%2C%20via%20San%20Domenico%2C%20Monopoli&dates=20261129T170000Z%2F20261129T180000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333178.html"
+      },
+      {
+        "title": "Jessica Yuma – Recital pianistico",
+        "subtitle": "Domenica 29 novembre • 20:00",
+        "dateTime": "2026-11-29T20:00",
+        "text": "live • Bari • Teatro Kursaal Santalucia • Recital con musiche di Chopin, Busoni e Brahms • Ingresso a pagamento",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jessica%20Yuma%20%E2%80%93%20Recital%20pianistico&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Recital%20con%20musiche%20di%20Chopin%2C%20Busoni%20e%20Brahms%20%E2%80%A2%20Ingresso%20a%20pagamento&location=Teatro%20Kursaal%20Santalucia%2C%20Largo%20Adua%205%2F9%2C%20Bari&dates=20261129T190000Z%2F20261129T200000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/323114.html"
+      },
+      {
         "title": "Quartetto d’archi Sud Est Donne",
         "subtitle": "Mercoledì 2 dicembre, ore 18:00",
         "dateTime": "2026-12-02T18:00",
@@ -1303,6 +1321,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiorella%20Mannoia%20%E2%80%93%20Anime%20Salve&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Fiorella%20canta%20Fabrizio%20e%20Ivano%3A%20Anime%20Salve%2C%20omaggio%20a%20Fabrizio%20De%20Andr%C3%A9%20e%20Ivano%20Fossati&location=Teatro%20Team%2C%20Bari&dates=20261202T210000%2F20261202T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ticketone.it/event/fiorella-mannoia-fiorella-canta-fabrizio-e-ivano-anime-salve-teatro-team-22068312/"
+      },
+      {
+        "title": "Silvia Mezzanotte – InCanto Italiano",
+        "subtitle": "Giovedì 3 dicembre • 21:00",
+        "dateTime": "2026-12-03T21:00",
+        "text": "live • Monopoli • Auditorium Teatro Radar • Concerto con Orchestra Suoni del Sud • Ingresso 15 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Silvia%20Mezzanotte%20%E2%80%93%20InCanto%20Italiano&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Auditorium%20Teatro%20Radar%20%E2%80%A2%20Concerto%20con%20Orchestra%20Suoni%20del%20Sud%20%E2%80%A2%20Ingresso%2015%20%E2%82%AC&location=Auditorium%20Teatro%20Radar%2C%20Via%20Magenta%2071%2C%20Monopoli&dates=20261203T200000Z%2F20261203T210000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/329983.html"
       }
     ]
   }
