@@ -1,8 +1,8 @@
 {
-  "lastModifiedDate": "2026-11-19T21:40:36.000Z",
+  "lastModifiedDate": "2026-11-19T21:48:09.000Z",
   "timezone": "Europe/Rome",
   "games": {
-    "lastModifiedDate": "2026-11-18T21:16:31.000Z",
+    "lastModifiedDate": "2026-11-19T21:48:09.000Z",
     "items": [
       {
         "title": "Ad Infinitum",
@@ -17,6 +17,18 @@
         "steamUrl": "https://store.steampowered.com/app/1234430/"
       },
       {
+        "title": "Alien: Isolation",
+        "subtitle": "Epic Games Store",
+        "text": "Survival horror fantascientifico sulla stazione spaziale Sevastopol: guida Amanda Ripley, esplora corridoi abbandonati e nasconditi da uno xenomorfo implacabile. Riscattabile gratuitamente su Epic Games Store fino al 26 novembre 2026.",
+        "createdDate": "2026-11-19",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg",
+        "link": "https://store.epicgames.com/p/alien-isolation",
+        "steamRating": "92%",
+        "steamPrice": "39,99€",
+        "steamUrl": "https://store.steampowered.com/app/214490/"
+      },
+      {
         "title": "Caravan SandWitch",
         "subtitle": "Amazon Games App",
         "text": "Avventura esplorativa fantascientifica su un pianeta desertico: guida un furgone, attraversa insediamenti e rovine, aiuta gli abitanti e cerca una persona scomparsa. Riscattabile con Amazon Prime tramite Amazon Games App fino al 16 dicembre 2026.",
@@ -27,6 +39,18 @@
         "steamRating": "83%",
         "steamPrice": "24,99€",
         "steamUrl": "https://store.steampowered.com/app/1582650/"
+      },
+      {
+        "title": "CLeM",
+        "subtitle": "Epic Games Store",
+        "text": "Avventura narrativa enigmistica dalle atmosfere inquietanti: esplora una casa misteriosa, interpreta appunti alchemici e risolvi rompicapi per scoprire il significato di una voce. Riscattabile con Amazon Prime tramite Epic Games Store.",
+        "createdDate": "2026-11-19",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1861440/header.jpg",
+        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
+        "steamRating": "84%",
+        "steamPrice": "15,79€",
+        "steamUrl": "https://store.steampowered.com/app/1861440/"
       },
       {
         "title": "Contractor: The Clean Up Part II",
@@ -101,16 +125,16 @@
         "steamUrl": "https://store.steampowered.com/app/1771300/"
       },
       {
-        "title": "Knightica",
+        "title": "Mark of the Deep",
         "subtitle": "Epic Games Store",
-        "text": "Strategico roguelike fantasy con battaglie automatiche: recluta unità, schierale tatticamente, combina incantesimi e abilità per superare mostri e liberare i regni. Riscattabile gratuitamente su Epic Games Store fino al 19 novembre 2026.",
-        "createdDate": "2026-11-12",
+        "text": "Avventura piratesca d'azione con esplorazione metroidvania e combattimenti impegnativi: attraversa un'isola maledetta, affronta boss e cerca la tua ciurma dispersa. Riscattabile gratuitamente su Epic Games Store fino al 26 novembre 2026.",
+        "createdDate": "2026-11-19",
         "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3093400/header.jpg",
-        "link": "https://store.epicgames.com/en-US/p/knightica-3be45c",
-        "steamRating": "74%",
-        "steamPrice": "14,99€",
-        "steamUrl": "https://store.steampowered.com/app/3093400/"
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933370/header.jpg",
+        "link": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
+        "steamRating": "69%",
+        "steamPrice": "19,50€",
+        "steamUrl": "https://store.steampowered.com/app/1933370/"
       },
       {
         "title": "Mixtape",
@@ -197,18 +221,6 @@
         "steamUrl": "https://store.steampowered.com/app/2407830/"
       },
       {
-        "title": "Vampire: The Masquerade - Swansong",
-        "subtitle": "Epic Games Store",
-        "text": "Gioco di ruolo narrativo nella Boston dei vampiri, con tre protagonisti, investigazioni, dialoghi, decisioni ramificate e poteri soprannaturali. Riscattabile con Amazon Prime tramite Epic Games Store fino al 18 novembre 2026.",
-        "createdDate": "2026-10-15",
-        "giveaway": false,
-        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299510/header.jpg",
-        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
-        "steamRating": "61%",
-        "steamPrice": "16,08€",
-        "steamUrl": "https://store.steampowered.com/app/1299510/"
-      },
-      {
         "title": "WarBreeds",
         "subtitle": "GOG",
         "text": "Strategico in tempo reale fantascientifico con fazioni aliene, costruzione di basi, raccolta delle risorse e gestione di truppe sul campo. Riscattabile con Amazon Prime tramite GOG fino al 8 gennaio 2027.",
@@ -219,6 +231,18 @@
         "steamRating": "71%",
         "steamPrice": "5,99€",
         "steamUrl": "https://store.steampowered.com/app/2464660/"
+      },
+      {
+        "title": "Werewolf: The Apocalypse - Earthblood",
+        "subtitle": "Epic Games Store",
+        "text": "Gioco d'azione in terza persona ambientato nel Mondo di Tenebra: controlla Cahal, alterna forma umana, lupo e Crinos e combatti una corporazione inquinante. Riscattabile con Amazon Prime tramite Epic Games Store.",
+        "createdDate": "2026-11-19",
+        "giveaway": false,
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/679110/header.jpg",
+        "link": "https://luna.amazon.com/claims/home?filter=Game&g=s",
+        "steamRating": "67%",
+        "steamPrice": "29,99€",
+        "steamUrl": "https://store.steampowered.com/app/679110/"
       },
       {
         "title": "WRC Generations",
