@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T22:37:09.000Z",
+  "lastModifiedDate": "2026-11-20T23:14:18.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-20T21:56:03.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T22:37:09.000Z",
+    "lastModifiedDate": "2026-11-20T23:14:18.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -460,8 +460,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL02",
-      "lastCompletedAt": "2026-11-20T22:05:51.000Z",
+      "lastCompletedStep": "WL03",
+      "lastCompletedAt": "2026-11-20T23:14:18.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": "86c9d99a"
     },
@@ -953,6 +953,15 @@
         "linkDettagliEvento": "https://www.chesagra.it/basilicata/mt/matera"
       },
       {
+        "title": "Negramaro – Cover band",
+        "subtitle": "lunedì 23 novembre 2026",
+        "dateTime": "2026-11-23T00:00",
+        "text": "live • Cisternino • 20m2, Via Gaetano d’Amico 11 • Serata cover dedicata ai Negramaro; orario non pubblicato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Negramaro%20%E2%80%93%20Cover%20band&dates=20261123%2F20261124&details=Serata%20cover%20dedicata%20ai%20Negramaro&location=20m2%2C%20Via%20Gaetano%20d%E2%80%99Amico%2011%2C%20Cisternino&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://20m2official.it/cisternino"
+      },
+      {
         "title": "Max Gazzè",
         "subtitle": "Lunedì 23 novembre, ore 21:00",
         "dateTime": "2026-11-23T21:00",
@@ -1050,6 +1059,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261126%2F20261127&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Cesare Cremonini – Cover band",
+        "subtitle": "giovedì 26 novembre 2026",
+        "dateTime": "2026-11-26T00:00",
+        "text": "live • Monopoli • 20m2, Via Giuseppe Garibaldi 66 • Serata cover dedicata a Cesare Cremonini; orario non pubblicato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cesare%20Cremonini%20%E2%80%93%20Cover%20band&dates=20261126%2F20261127&details=Serata%20cover%20dedicata%20a%20Cesare%20Cremonini&location=20m2%2C%20Via%20Giuseppe%20Garibaldi%2066%2C%20Monopoli&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://20m2official.it/monopoli"
       },
       {
         "title": "Sergei Babayan",
@@ -1392,6 +1410,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jessica%20Yuma%20%E2%80%93%20Recital%20pianistico&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Recital%20con%20musiche%20di%20Chopin%2C%20Busoni%20e%20Brahms%20%E2%80%A2%20Ingresso%20a%20pagamento&location=Teatro%20Kursaal%20Santalucia%2C%20Largo%20Adua%205%2F9%2C%20Bari&dates=20261129T190000Z%2F20261129T200000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/323114.html"
+      },
+      {
+        "title": "Biagio Antonacci – Cover band",
+        "subtitle": "lunedì 30 novembre 2026",
+        "dateTime": "2026-11-30T00:00",
+        "text": "live • Cisternino • 20m2, Via Gaetano d’Amico 11 • Serata cover dedicata a Biagio Antonacci; orario non pubblicato",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Biagio%20Antonacci%20%E2%80%93%20Cover%20band&dates=20261130%2F20261201&details=Serata%20cover%20dedicata%20a%20Biagio%20Antonacci&location=20m2%2C%20Via%20Gaetano%20d%E2%80%99Amico%2011%2C%20Cisternino&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://20m2official.it/cisternino"
       },
       {
         "title": "Suah Ye – Festival Pianistico del Mediterraneo",
