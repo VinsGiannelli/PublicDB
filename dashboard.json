@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T08:06:00.000Z",
+  "lastModifiedDate": "2026-11-20T08:35:57.178Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T08:06:00.000Z",
+    "lastModifiedDate": "2026-11-20T08:35:57.178Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -462,8 +462,8 @@
       "Officina degli Esordi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-20T07:39:47.305Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-20T08:35:57.178Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": null
     },
@@ -1411,6 +1411,24 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334937.html"
       },
       {
+        "title": "Villaggio del Gusto – Christmas Edition",
+        "subtitle": "Martedì 1 dicembre",
+        "dateTime": "2026-12-01T00:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mercatini artigianali, prodotti tipici pugliesi e street food",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261201%2F20261202&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariexperience.com/news-eventi/villaggio-del-gusto-2026-christmas-edition-bari-natale-piazza-umberto-mercatini-luminarie-streetfood/"
+      },
+      {
+        "title": "Villaggio del Gusto – Christmas Edition",
+        "subtitle": "Mercoledì 2 dicembre",
+        "dateTime": "2026-12-02T00:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mercatini artigianali, prodotti tipici pugliesi e street food",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261202%2F20261203&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariexperience.com/news-eventi/villaggio-del-gusto-2026-christmas-edition-bari-natale-piazza-umberto-mercatini-luminarie-streetfood/"
+      },
+      {
         "title": "Quartetto d’archi Sud Est Donne",
         "subtitle": "Mercoledì 2 dicembre, ore 18:00",
         "dateTime": "2026-12-02T18:00",
@@ -1438,6 +1456,15 @@
         "linkDettagliEvento": "https://www.comune.molfetta.ba.it/Novita/Avvisi/Bando-per-la-partecipazione-alla-Fiera-della-Madonna-dei-Martiri-e-al-Mercatino-di-San-Nicola-anno-2026-Pubblicata-Graduatoria-provvisoria"
       },
       {
+        "title": "Villaggio del Gusto – Christmas Edition",
+        "subtitle": "Giovedì 3 dicembre",
+        "dateTime": "2026-12-03T00:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mercatini artigianali, prodotti tipici pugliesi e street food",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261203%2F20261204&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariexperience.com/news-eventi/villaggio-del-gusto-2026-christmas-edition-bari-natale-piazza-umberto-mercatini-luminarie-streetfood/"
+      },
+      {
         "title": "Silvia Mezzanotte – InCanto Italiano",
         "subtitle": "Giovedì 3 dicembre • 21:00",
         "dateTime": "2026-12-03T21:00",
@@ -1454,6 +1481,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20di%20San%20Nicola&details=mercatino%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Quartiere%20a%20ponente%20%E2%80%A2%20Mercatino%20tradizionale%20di%20San%20Nicola%2C%20commercio%20su%20aree%20pubbliche&location=Quartiere%20a%20ponente%2C%20Molfetta&dates=20261204%2F20261205&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.comune.molfetta.ba.it/Novita/Avvisi/Bando-per-la-partecipazione-alla-Fiera-della-Madonna-dei-Martiri-e-al-Mercatino-di-San-Nicola-anno-2026-Pubblicata-Graduatoria-provvisoria",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Villaggio del Gusto – Christmas Edition",
+        "subtitle": "Venerdì 4 dicembre",
+        "dateTime": "2026-12-04T00:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mercatini artigianali, prodotti tipici pugliesi e street food",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261204%2F20261205&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariexperience.com/news-eventi/villaggio-del-gusto-2026-christmas-edition-bari-natale-piazza-umberto-mercatini-luminarie-streetfood/"
       },
       {
         "title": "Mercatino Natalizio",
