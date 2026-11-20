@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T07:15:24.000Z",
+  "lastModifiedDate": "2026-11-20T07:39:47.305Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T07:15:24.000Z",
+    "lastModifiedDate": "2026-11-20T07:39:47.305Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -462,8 +462,8 @@
       "Officina degli Esordi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-20T06:35:28.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-20T07:39:47.305Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": null
     },
@@ -1240,6 +1240,15 @@
         "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-mercato-conferenze-e-laboratori"
       },
       {
+        "title": "Christmas Tree Market – Mercato degli Abeti di Natale",
+        "subtitle": "Sabato 28 novembre 2026, ore 10:00–18:00",
+        "dateTime": "2026-11-28T10:00",
+        "text": "mercatino • Bari • FlorPark Bari, Strada Torremassimo Chiurla snc • Mercato natalizio degli abeti con Babbo Natale e iniziative per famiglie; ingresso libero",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Christmas%20Tree%20Market%20%E2%80%93%20Mercato%20degli%20Abeti%20di%20Natale&dates=20261128T100000%2F20261128T180000&details=Mercato%20degli%20abeti%20di%20Natale%20con%20Babbo%20Natale%20e%20iniziative%20per%20famiglie.%20Ingresso%20libero.&location=FlorPark%20Bari%2C%20Strada%20Torremassimo%20Chiurla%20snc%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/christmas-tree-market-il-mercato-degli-abeti-di-natale-149436"
+      },
+      {
         "title": "Sagra du Chiacone",
         "subtitle": "Sabato 28 novembre • 18:30",
         "dateTime": "2026-11-28T18:30",
@@ -1355,6 +1364,15 @@
         "linkDettagliEvento": "https://www.vintagemarketbari.it/",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vintage%20Market%20Bari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%20%E2%80%A2%2014%C2%AA%20edizione%2C%20vintage%2C%20artigianato%20e%20collezionismo%3B%20dalle%2010%3A00%20alle%2021%3A00&location=Nuova%20Fiera%20del%20Levante%2C%20padiglioni%2019%E2%80%9320%2C%20Bari&dates=20261129T100000%2F20261129T210000&ctz=Europe%2FRome",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Christmas Tree Market – Mercato degli Abeti di Natale",
+        "subtitle": "Domenica 29 novembre 2026, ore 10:00–18:00",
+        "dateTime": "2026-11-29T10:00",
+        "text": "mercatino • Bari • FlorPark Bari, Strada Torremassimo Chiurla snc • Mercato natalizio degli abeti con Babbo Natale e iniziative per famiglie; ingresso libero",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Christmas%20Tree%20Market%20%E2%80%93%20Mercato%20degli%20Abeti%20di%20Natale&dates=20261129T100000%2F20261129T180000&details=Mercato%20degli%20abeti%20di%20Natale%20con%20Babbo%20Natale%20e%20iniziative%20per%20famiglie.%20Ingresso%20libero.&location=FlorPark%20Bari%2C%20Strada%20Torremassimo%20Chiurla%20snc%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/christmas-tree-market-il-mercato-degli-abeti-di-natale-149436"
       },
       {
         "title": "Bach a Köthen – Accademia Hermans",
