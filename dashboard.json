@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T12:38:00.000Z",
+  "lastModifiedDate": "2026-11-20T13:10:57.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T12:38:00.000Z",
+    "lastModifiedDate": "2026-11-20T13:10:57.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-20T12:08:25.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-20T13:10:57.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": "e78da8d7"
     },
@@ -1530,6 +1530,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Love%20Paradiso%20%E2%80%93%20Tributo%20a%20Tommaso%20Paradiso&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20%E2%80%93%20Nati%20per%20fare%20gli%20Osti%20%E2%80%A2%20Tribute%20band%20di%20Tommaso%20Paradiso%20e%20Thegiornalisti&location=Ostinati%2C%20Via%20Sant'Angelo%2025%2C%20Monopoli&dates=20261204T210000%2F20261204T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333815.html"
+      },
+      {
+        "title": "Surfer Joe Trio",
+        "subtitle": "Venerdì 4 dicembre • 22:00",
+        "dateTime": "2026-12-04T22:00",
+        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Surfer Joe Trio in concerto, surf music • Ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Surfer%20Joe%20Trio&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Surfer%20Joe%20Trio%20in%20concerto%2C%20surf%20music%20%E2%80%A2%20Ingresso%20libero&location=Pecora%20Nera%20Country%20Pub%2C%20via%20Carmelo%20Colamonico%2074%2C%20Cassano%20delle%20Murge&dates=20261204T220000%2F20261204T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336313.html"
       }
     ]
   }
