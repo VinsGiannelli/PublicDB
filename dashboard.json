@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T08:35:57.178Z",
+  "lastModifiedDate": "2026-11-20T09:10:12.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T08:35:57.178Z",
+    "lastModifiedDate": "2026-11-20T09:10:12.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -468,8 +468,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL02",
-      "lastCompletedAt": "2026-11-20T08:06:00.000Z",
+      "lastCompletedStep": "WL03",
+      "lastCompletedAt": "2026-11-20T09:10:12.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": "e78da8d7"
     },
@@ -1499,6 +1499,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20Natalizio&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Via%20Venezia%20(da%20Via%20Genovese)%20%E2%80%A2%20Casette%20con%20artigianato%20e%20prodotti%20agroalimentari%20tipici%2C%20dalle%2010%3A00%20alle%2022%3A30&location=Via%20Venezia%2C%20Bari&dates=20261204T100000%2F20261204T223000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mercatino-natalizio-2026-127906",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Love Paradiso – Tributo a Tommaso Paradiso",
+        "subtitle": "Venerdì 4 dicembre • 21:00",
+        "dateTime": "2026-12-04T21:00",
+        "text": "live • Monopoli • Ostinati – Nati per fare gli Osti • Tribute band di Tommaso Paradiso e Thegiornalisti",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Love%20Paradiso%20%E2%80%93%20Tributo%20a%20Tommaso%20Paradiso&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Ostinati%20%E2%80%93%20Nati%20per%20fare%20gli%20Osti%20%E2%80%A2%20Tribute%20band%20di%20Tommaso%20Paradiso%20e%20Thegiornalisti&location=Ostinati%2C%20Via%20Sant'Angelo%2025%2C%20Monopoli&dates=20261204T210000%2F20261204T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333815.html"
       }
     ]
   }
