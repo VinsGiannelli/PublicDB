@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T05:13:37.000Z",
+  "lastModifiedDate": "2026-11-20T05:41:37.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T05:13:37.000Z",
+    "lastModifiedDate": "2026-11-20T05:41:37.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -462,8 +462,8 @@
       "Officina degli Esordi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-20T04:43:44.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-20T05:41:37.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": null
     },
@@ -1435,6 +1435,15 @@
         "text": "mercatino • Molfetta • Quartiere a ponente • Mercatino tradizionale di San Nicola, commercio su aree pubbliche",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20di%20San%20Nicola&details=mercatino%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Quartiere%20a%20ponente%20%E2%80%A2%20Mercatino%20tradizionale%20di%20San%20Nicola%2C%20commercio%20su%20aree%20pubbliche&location=Quartiere%20a%20ponente%2C%20Molfetta&dates=20261204%2F20261205&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.comune.molfetta.ba.it/Novita/Avvisi/Bando-per-la-partecipazione-alla-Fiera-della-Madonna-dei-Martiri-e-al-Mercatino-di-San-Nicola-anno-2026-Pubblicata-Graduatoria-provvisoria",
+        "logo": "MERCATINO"
+      },
+      {
+        "title": "Mercatino Natalizio",
+        "subtitle": "Venerdì 4 dicembre, ore 10:00",
+        "dateTime": "2026-12-04T10:00",
+        "text": "mercatino • Bari • Via Venezia (da Via Genovese) • Casette con artigianato e prodotti agroalimentari tipici, dalle 10:00 alle 22:30",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20Natalizio&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Via%20Venezia%20(da%20Via%20Genovese)%20%E2%80%A2%20Casette%20con%20artigianato%20e%20prodotti%20agroalimentari%20tipici%2C%20dalle%2010%3A00%20alle%2022%3A30&location=Via%20Venezia%2C%20Bari&dates=20261204T100000%2F20261204T223000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mercatino-natalizio-2026-127906",
         "logo": "MERCATINO"
       }
     ]
