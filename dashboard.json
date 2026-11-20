@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T23:14:18.000Z",
+  "lastModifiedDate": "2026-11-20T23:41:04.048Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-20T21:56:03.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T23:14:18.000Z",
+    "lastModifiedDate": "2026-11-20T23:41:04.048Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,8 +454,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-20T22:37:09.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-20T23:41:04.048Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": null
     },
@@ -476,15 +476,6 @@
         "logo": "LIVE"
       },
       {
-        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
-        "subtitle": "Venerdì 20 novembre",
-        "dateTime": "2026-11-20T00:00",
-        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261120%2F20261121&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
-        "logo": "SAGRA"
-      },
-      {
         "title": "Guns N' Roses Tribute Night",
         "subtitle": "Venerdì 20 novembre",
         "dateTime": "2026-11-20T00:00",
@@ -503,15 +494,6 @@
         "linkDettagliEvento": "https://www.bars10.com/IT/Bari/552553294928041/Fix-It-culture"
       },
       {
-        "title": "Bari Feste d'Autunno – Via Argiro",
-        "subtitle": "venerdì 20 novembre",
-        "dateTime": "2026-11-20T00:00",
-        "text": "evento tradizionale • Bari • Via Argiro • spettacoli itineranti e mercatini artigianali",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20Via%20Argiro&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Via%20Argiro%20%E2%80%A2%20spettacoli%20itineranti%20e%20mercatini%20artigianali&location=Via%20Argiro%2C%20Bari&dates=20261120%2F20261121&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://eventi-bari.it/bari-feste-autunno-calendario-2026/"
-      },
-      {
         "title": "Kateryna Ukhatiuk – Le star del futuro",
         "subtitle": "Venerdì 20 novembre • ore 11:00",
         "dateTime": "2026-11-20T11:00",
@@ -519,33 +501,6 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kateryna%20Ukhatiuk%20%E2%80%93%20Le%20star%20del%20futuro&dates=20261120T110000%2F20261120T120000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Prokof'ev%20e%20Liszt&location=Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333699.html"
-      },
-      {
-        "title": "Festival Senza Glutine",
-        "subtitle": "Venerdì 20 novembre • 11:00",
-        "dateTime": "2026-11-20T11:00",
-        "text": "evento tradizionale • Matera • Piazzale Parrocchia San Pio X, via Francesco Petrarca • Festival gastronomico con food truck e specialità senza glutine • Ingresso gratuito",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festival%20Senza%20Glutine&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%20%E2%80%A2%20Festival%20gastronomico%20con%20food%20truck%20e%20specialit%C3%A0%20senza%20glutine%20%E2%80%A2%20Ingresso%20gratuito&location=Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%2C%20Matera&dates=20261120T110000%2F20261120T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/festival-senza-glutine-nel-piazzale-antistante-la-parrocchia-san-pio-x-a-matera/"
-      },
-      {
-        "title": "Villaggio di Natale – Inaugurazione",
-        "subtitle": "Venerdì 20 novembre • 18:00",
-        "dateTime": "2026-11-20T18:00",
-        "text": "evento tradizionale • Matera • Parco del Boschetto • Apertura villaggio natalizio con Casa di Babbo Natale, laboratori e pista di pattinaggio",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20di%20Natale%20%E2%80%93%20Inaugurazione&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Parco%20del%20Boschetto%20%E2%80%A2%20Apertura%20villaggio%20natalizio%20con%20Casa%20di%20Babbo%20Natale%2C%20laboratori%20e%20pista%20di%20pattinaggio&location=Parco%20del%20Boschetto%2C%20Matera&dates=20261120T180000%2F20261120T200000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/matera/iniziative-natalizie-2026-112212",
-        "logo": "TRADIZIONE"
-      },
-      {
-        "title": "San Martino – Ogni mosto diventa vino",
-        "subtitle": "Venerdì 20 novembre • 19:00",
-        "dateTime": "2026-11-20T19:00",
-        "text": "sagra • Putignano • Centro storico, Piazza Teatro • Vini pugliesi, gastronomia, caldarroste e spettacoli",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San%20Martino%20%E2%80%93%20Ogni%20mosto%20diventa%20vino&details=sagra%20%E2%80%A2%20Putignano%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Teatro%20%E2%80%A2%20Vini%20pugliesi%2C%20gastronomia%2C%20caldarroste%20e%20spettacoli&location=Centro%20storico%2C%20Piazza%20Teatro%2C%20Putignano&dates=20261120T190000%2F20261120T210000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.puglialive.net/putignano-20-e-21-novembre-la-quinta-edizione-di-san-martino/",
-        "logo": "SAGRA"
       },
       {
         "title": "Pierluigi Camicia – Star internazionali",
