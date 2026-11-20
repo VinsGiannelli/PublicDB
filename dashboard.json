@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T02:11:20.000Z",
+  "lastModifiedDate": "2026-11-20T02:43:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T02:11:20.000Z",
+    "lastModifiedDate": "2026-11-20T02:43:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -462,8 +462,8 @@
       "Officina degli Esordi"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-20T01:38:16.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-20T02:43:00.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": null
     },
@@ -1427,6 +1427,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Silvia%20Mezzanotte%20%E2%80%93%20InCanto%20Italiano&details=live%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Auditorium%20Teatro%20Radar%20%E2%80%A2%20Concerto%20con%20Orchestra%20Suoni%20del%20Sud%20%E2%80%A2%20Ingresso%2015%20%E2%82%AC&location=Auditorium%20Teatro%20Radar%2C%20Via%20Magenta%2071%2C%20Monopoli&dates=20261203T200000Z%2F20261203T210000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/329983.html"
+      },
+      {
+        "title": "Mercatino di San Nicola",
+        "subtitle": "Venerdì 4 dicembre",
+        "dateTime": "2026-12-04T00:00",
+        "text": "mercatino • Molfetta • Quartiere a ponente • Mercatino tradizionale di San Nicola, commercio su aree pubbliche",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20di%20San%20Nicola&details=mercatino%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Quartiere%20a%20ponente%20%E2%80%A2%20Mercatino%20tradizionale%20di%20San%20Nicola%2C%20commercio%20su%20aree%20pubbliche&location=Quartiere%20a%20ponente%2C%20Molfetta&dates=20261204%2F20261205&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.comune.molfetta.ba.it/Novita/Avvisi/Bando-per-la-partecipazione-alla-Fiera-della-Madonna-dei-Martiri-e-al-Mercatino-di-San-Nicola-anno-2026-Pubblicata-Graduatoria-provvisoria",
+        "logo": "MERCATINO"
       }
     ]
   }
