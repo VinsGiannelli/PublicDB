@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T19:40:48.000Z",
+  "lastModifiedDate": "2026-11-20T20:06:11.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T19:40:48.000Z",
+    "lastModifiedDate": "2026-11-20T20:06:11.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-20T19:11:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-20T20:06:11.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": "86c9d99a"
     },
@@ -1521,6 +1521,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20Natalizio&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Via%20Venezia%20(da%20Via%20Genovese)%20%E2%80%A2%20Casette%20con%20artigianato%20e%20prodotti%20agroalimentari%20tipici%2C%20dalle%2010%3A00%20alle%2022%3A30&location=Via%20Venezia%2C%20Bari&dates=20261204T100000%2F20261204T223000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mercatino-natalizio-2026-127906",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Gli zingari felici – 50 anni dopo",
+        "subtitle": "Venerdì 4 dicembre • 20:30",
+        "dateTime": "2026-12-04T20:30",
+        "text": "live • Bari • Teatro AncheCinema • Omaggio dal vivo a Claudio Lolli con i musicisti dell'incisione originale • Ingresso a pagamento",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gli%20zingari%20felici%20%E2%80%93%2050%20anni%20dopo&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20AncheCinema%20%E2%80%A2%20Omaggio%20dal%20vivo%20a%20Claudio%20Lolli%20con%20i%20musicisti%20dell'incisione%20originale%20%E2%80%A2%20Ingresso%20a%20pagamento&location=Teatro%20AncheCinema%2C%20Corso%20Italia%20112%2C%20Bari&dates=20261204T203000%2F20261204T213000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/332504.html"
       },
       {
         "title": "Love Paradiso – Tributo a Tommaso Paradiso",
