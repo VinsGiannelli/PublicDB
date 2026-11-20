@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T11:11:02.000Z",
+  "lastModifiedDate": "2026-11-20T11:38:30.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T11:11:02.000Z",
+    "lastModifiedDate": "2026-11-20T11:38:30.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -466,8 +466,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-20T10:39:30.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-20T11:38:30.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": null
     },
@@ -1494,6 +1494,24 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261204%2F20261205&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.bariexperience.com/news-eventi/villaggio-del-gusto-2026-christmas-edition-bari-natale-piazza-umberto-mercatini-luminarie-streetfood/"
+      },
+      {
+        "title": "Mercatino di Natale",
+        "subtitle": "Venerdì 4 dicembre",
+        "dateTime": "2026-12-04T00:00",
+        "text": "mercatino • Matera • Piazza Vittorio Veneto, Via La Vista e Via Don Minzoni • Stand enogastronomici, artigianali e artistici",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20di%20Natale&dates=20261204%2F20261205&details=Stand%20enogastronomici%2C%20artigianali%20e%20artistici&location=Piazza%20Vittorio%20Veneto%2C%20Via%20La%20Vista%20e%20Via%20Don%20Minzoni%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/matera/mercatino-di-natale-2026-112209"
+      },
+      {
+        "title": "Mercatini tematici nei Quartieri",
+        "subtitle": "Venerdì 4 dicembre",
+        "dateTime": "2026-12-04T00:00",
+        "text": "mercatino • Matera • Borgo La Martella, Spine Bianche, Agna e San Giacomo • Mercatini e iniziative di animazione nei quartieri",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20tematici%20nei%20Quartieri&dates=20261204%2F20261205&details=Mercatini%20e%20iniziative%20di%20animazione%20nei%20quartieri&location=Borgo%20La%20Martella%2C%20Spine%20Bianche%2C%20Agna%20e%20San%20Giacomo%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://basilicata.piazzainfesta.it/matera/mercatini-tematici-nei-quartieri-2026-112210"
       },
       {
         "title": "Mercatino Natalizio",
