@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-19T23:35:34.000Z",
+  "lastModifiedDate": "2026-11-20T00:14:36.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-19T21:48:09.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-19T23:35:34.000Z",
+    "lastModifiedDate": "2026-11-20T00:14:36.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -468,57 +468,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-19T23:14:34.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-20T00:14:36.000Z",
       "cycleDate": "2026-11-19",
       "watchlistHash": "e78da8d7"
     },
     "items": [
-      {
-        "title": "Renato Ciardo – Musica e cabaret",
-        "subtitle": "Giovedì 19 novembre • 21:00",
-        "dateTime": "2026-11-19T21:00",
-        "text": "live • Bari • Chorìa - Note di Puglia • Spettacolo con musica dal vivo, cabaret e racconti • Ingresso 8 €",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Renato%20Ciardo%20%E2%80%93%20Musica%20e%20cabaret&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Chor%C3%ACa%20-%20Note%20di%20Puglia%20%E2%80%A2%20Spettacolo%20con%20musica%20dal%20vivo%2C%20cabaret%20e%20racconti%20%E2%80%A2%20Ingresso%208%20%E2%82%AC&location=Chor%C3%ACa%2C%20Via%20Giulio%20Petroni%20127%2FA%2C%20Bari&dates=20261119T200000Z%2F20261119T220000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336314.html"
-      },
-      {
-        "title": "La JAM Session del Santo Graal",
-        "subtitle": "Giovedì 19 novembre, ore 21:30",
-        "dateTime": "2026-11-19T21:30",
-        "text": "live • Trani • Santo Graal • Jam session con resident band Rainbow Bridge",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20JAM%20Session%20del%20Santo%20Graal&dates=20261119T213000%2F20261119T223000&ctz=Europe%2FRome&details=Jam%20session%20con%20resident%20band%20Rainbow%20Bridge&location=Santo%20Graal%2C%20via%20San%20Giorgio%2C%20Trani",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335413.html"
-      },
-      {
-        "title": "SheRocks90s – Tributo alle voci femminili anni '90",
-        "subtitle": "Giovedì 19 novembre • 21:30",
-        "dateTime": "2026-11-19T21:30",
-        "text": "live • Bari • Malto's Beer, via A. Carrante 1 • SheRocks90s, tributo rock e pop-rock alle voci femminili degli anni '90",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SheRocks90s%20%E2%80%93%20Tributo%20alle%20voci%20femminili%20anni%20'90&dates=20261119T213000%2F20261119T233000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Malto's%20Beer%2C%20via%20A.%20Carrante%201%20%E2%80%A2%20SheRocks90s%2C%20tributo%20rock%20e%20pop-rock%20alle%20voci%20femminili%20degli%20anni%20'90&location=Malto's%20Beer%2C%20Via%20A.%20Carrante%201%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336256.html"
-      },
-      {
-        "title": "Gio Scoda – Aspettando Balafon",
-        "subtitle": "Giovedì 19 novembre, ore 21:30",
-        "dateTime": "2026-11-19T21:30",
-        "text": "live • Bari • Cabaret Voltaire • Cantautorato pop, funk e rock; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gio%20Scoda%20%E2%80%93%20Aspettando%20Balafon&dates=20261119%2F20261120&details=Gio%20Scoda%20in%20concerto%20per%20Aspettando%20Balafon.%20Ore%2021%3A30%2C%20ingresso%20libero.&location=Cabaret%20Voltaire%2C%20Via%20Alessandro%20Volta%2035%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/eventi/336640.html"
-      },
-      {
-        "title": "OHM Pink Floyd",
-        "subtitle": "Giovedì 19 novembre • 22:00",
-        "dateTime": "2026-11-19T22:00",
-        "text": "live • Bari • Crossroad Saloon • Tributo live ai Pink Floyd",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=OHM%20Pink%20Floyd&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20live%20ai%20Pink%20Floyd&location=Crossroad%20Saloon%2C%20Via%20N.%20Tridente%2015%2F21%2C%20Bari&dates=20261119T220000%2F20261119T240000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334590.html",
-        "logo": "LIVE"
-      },
       {
         "title": "SINTOMO – David Bowie Tribute",
         "subtitle": "Venerdì 20 novembre",
