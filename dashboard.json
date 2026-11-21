@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-21T16:09:29.227Z",
+  "lastModifiedDate": "2026-11-21T16:40:28.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-20T21:56:03.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-21T16:09:29.227Z",
+    "lastModifiedDate": "2026-11-21T16:40:28.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -481,8 +481,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-21T15:40:52.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-21T16:40:28.000Z",
       "cycleDate": "2026-11-21",
       "watchlistHash": null
     },
@@ -1223,6 +1223,15 @@
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/sannicandro-di-bari/natale-in-piazzetta-136105"
       },
       {
+        "title": "Altamura d'Autunno 2026",
+        "subtitle": "Domenica 29 novembre",
+        "dateTime": "2026-11-29T00:00",
+        "text": "evento tradizionale • Altamura • centro storico e Piazza della Repubblica • Animazione per famiglie, sbandieratori, musica e laboratorio Piccoli chef d'Autunno",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/altamura/altamura-d-autunno-2026-138672",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Altamura%20d'Autunno%202026&details=evento%20tradizionale%20%E2%80%A2%20Altamura%20%E2%80%A2%20centro%20storico%20e%20Piazza%20della%20Repubblica%20%E2%80%A2%20Animazione%20per%20famiglie%2C%20sbandieratori%2C%20musica%20e%20laboratorio%20Piccoli%20chef%20d'Autunno&location=Centro%20storico%2C%20Piazza%20della%20Repubblica%2C%20Altamura&dates=20261129%2F20261130&ctz=Europe%2FRome",
+        "logo": "TRADIZIONE"
+      },
+      {
         "title": "La Piazzolla",
         "subtitle": "Domenica 29 novembre • ore 07:00",
         "dateTime": "2026-11-29T07:00",
@@ -1248,6 +1257,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Christmas%20Tree%20Market%20%E2%80%93%20Mercato%20degli%20Abeti%20di%20Natale&dates=20261129T100000%2F20261129T180000&details=Mercato%20degli%20abeti%20di%20Natale%20con%20Babbo%20Natale%20e%20iniziative%20per%20famiglie.%20Ingresso%20libero.&location=FlorPark%20Bari%2C%20Strada%20Torremassimo%20Chiurla%20snc%2C%20Bari&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/christmas-tree-market-il-mercato-degli-abeti-di-natale-149436"
+      },
+      {
+        "title": "Slow Grains 2026",
+        "subtitle": "Domenica 29 novembre • ore 10:00",
+        "dateTime": "2026-11-29T10:00",
+        "text": "evento tradizionale • Matera • Palazzo Lanfranchi, Piazza Giovanni Pascoli 1 • Mercato dei produttori dalle 10:00 alle 20:00, incontri sul grano e laboratorio del gusto",
+        "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-mercato-e-giornata-di-chiusura",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Slow%20Grains%202026&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%20%E2%80%A2%20Mercato%20dei%20produttori%20dalle%2010%3A00%20alle%2020%3A00%2C%20incontri%20sul%20grano%20e%20laboratorio%20del%20gusto&location=Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%2C%20Matera&dates=20261129T100000%2F20261129T200000&ctz=Europe%2FRome",
+        "logo": "TRADIZIONE"
       },
       {
         "title": "Bach a Köthen – Accademia Hermans",
