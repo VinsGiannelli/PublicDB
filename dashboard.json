@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-21T00:10:22.000Z",
+  "lastModifiedDate": "2026-11-21T00:43:05.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-20T21:56:03.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-21T00:10:22.000Z",
+    "lastModifiedDate": "2026-11-21T00:43:05.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,9 +454,9 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-20T23:41:04.048Z",
-      "cycleDate": "2026-11-20",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-21T00:43:05.000Z",
+      "cycleDate": "2026-11-21",
       "watchlistHash": null
     },
     "concertiExecution": {
@@ -690,6 +690,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261122%2F20261123&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
+      },
+      {
+        "title": "Ottava della Festa di San Trifone",
+        "subtitle": "Domenica 22 novembre",
+        "dateTime": "2026-11-22T00:00",
+        "text": "festa patronale • Adelfia • Chiesa Madre di San Nicola, Montrone • Ottava: processione alle 10:00, reposizione della Sacra Immagine alle 18:30 e fuochi serali",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ottava%20della%20Festa%20di%20San%20Trifone&dates=20261122%2F20261123&details=Festa%20patronale%20di%20San%20Trifone%3A%20processione%20e%20chiusura%20dei%20festeggiamenti.&location=Chiesa%20Madre%20di%20San%20Nicola%2C%20Adelfia%2C%20Italia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/san-trifone-2026/"
       },
       {
         "title": "Mercatino delle Pulci Puglia",
