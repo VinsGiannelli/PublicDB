@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-21T22:43:43.611Z",
+  "lastModifiedDate": "2026-11-21T23:14:11.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-21T22:43:43.611Z",
+    "lastModifiedDate": "2026-11-21T23:14:11.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -487,8 +487,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-21T22:06:21.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-21T23:14:11.000Z",
       "cycleDate": "2026-11-21",
       "watchlistHash": null
     },
@@ -503,15 +503,6 @@
         "linkDettagliEvento": "https://www.gravinalife.it/eventi/a-gravina-sagra-del-fungo-cardoncello/"
       },
       {
-        "title": "Fallen – Evanescence Tribute",
-        "subtitle": "sabato 21 novembre",
-        "dateTime": "2026-11-21T00:00",
-        "text": "live • Matera • Midnight Pub Live • Tributo dal vivo agli Evanescence",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fallen%20%E2%80%93%20Evanescence%20Tribute&details=Tributo%20dal%20vivo%20agli%20Evanescence&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261121%2F20261122&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.tributenation.it/event/fallen-live-midnight-club-mt/"
-      },
-      {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
         "subtitle": "Sabato 21 novembre",
         "dateTime": "2026-11-21T00:00",
@@ -519,33 +510,6 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261121%2F20261122&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
-      },
-      {
-        "title": "Odioeffe",
-        "subtitle": "Sabato 21 novembre",
-        "dateTime": "2026-11-21T00:00",
-        "text": "live • Bari • Officina degli Esordi • BIG WAVE / Bari International Gender Festival, esibizione dal vivo; orario individuale non comunicato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Odioeffe&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20BIG%20WAVE%20%2F%20Bari%20International%20Gender%20Festival%2C%20esibizione%20dal%20vivo%3B%20orario%20individuale%20non%20comunicato&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.rockol.it/concerto-odioeffe-officina-degli-esordi-bari-21-novembre-2026-c-xad4v33qmd0"
-      },
-      {
-        "title": "Ava Hangar",
-        "subtitle": "Sabato 21 novembre",
-        "dateTime": "2026-11-21T00:00",
-        "text": "live • Bari • Officina degli Esordi • BIG WAVE / Bari International Gender Festival, esibizione dal vivo; orario individuale non comunicato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ava%20Hangar&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20BIG%20WAVE%20%2F%20Bari%20International%20Gender%20Festival%2C%20esibizione%20dal%20vivo%3B%20orario%20individuale%20non%20comunicato&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.rockol.it/concerto-ava-hangar-officina-degli-esordi-bari-21-novembre-2026-c-o3dnxww5vex"
-      },
-      {
-        "title": "Dahlia Doll",
-        "subtitle": "Sabato 21 novembre",
-        "dateTime": "2026-11-21T00:00",
-        "text": "live • Bari • Officina degli Esordi • BIG WAVE / Bari International Gender Festival, esibizione dal vivo; orario individuale non comunicato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dahlia%20Doll&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Officina%20degli%20Esordi%20%E2%80%A2%20BIG%20WAVE%20%2F%20Bari%20International%20Gender%20Festival%2C%20esibizione%20dal%20vivo%3B%20orario%20individuale%20non%20comunicato&location=Officina%20degli%20Esordi%2C%20Via%20Francesco%20Crispi%205%2C%20Bari&dates=20261121%2F20261122&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.rockol.it/concerto-dahlia-doll-officina-degli-esordi-bari-21-novembre-2026-c-l8r8nwwmwrk"
       },
       {
         "title": "Bari Feste d'Autunno – Santo Spirito",
@@ -609,87 +573,6 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Modugno%20Wine%20%26%20Food%20Festival&details=sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20vino%20e%20specialit%C3%A0%20locali%20nelle%20vie%20e%20piazze%20del%20borgo%20antico&location=Centro%20storico%2C%20Modugno%2C%20Bari&dates=20261121T193000%2F20261121T235900&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/wine-food-festival-modugno-2026/"
-      },
-      {
-        "title": "Sonoria Live Band e Filippo Alberga",
-        "subtitle": "Sabato 21 novembre, ore 20:30",
-        "dateTime": "2026-11-21T20:30",
-        "text": "live • Bari • Mulata Latin Social Club • Cena spettacolo con musica dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonoria%20Live%20Band%20e%20Filippo%20Alberga&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Mulata%20Latin%20Social%20Club%20%E2%80%A2%20Cena%20spettacolo%20con%20musica%20dal%20vivo&location=Mulata%20Latin%20Social%20Club%2C%20Strada%20La%20Grava%2012%2C%20Bari&dates=20261121T203000%2F20261121T223000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://nightz.it/eventi/cena-spettacolo-con-sonoria-live-band/"
-      },
-      {
-        "title": "ORNELLA – Omaggio a Ornella Vanoni",
-        "subtitle": "sabato 21 novembre 2026, ore 20:30",
-        "dateTime": "2026-11-21T20:30",
-        "text": "live • Mola di Bari • Teatro Van Westerhout • Lisa Angelillo e ensemble acustico con Francesca Leone in concerto-spettacolo dedicato a Ornella Vanoni",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ORNELLA%20%E2%80%93%20Omaggio%20a%20Ornella%20Vanoni&dates=20261121T203000%2F20261121T213000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Teatro%20Van%20Westerhout%20%E2%80%A2%20Lisa%20Angelillo%20e%20ensemble%20acustico%20con%20Francesca%20Leone%20in%20concerto-spettacolo%20dedicato%20a%20Ornella%20Vanoni&location=Teatro%20Van%20Westerhout%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.diyticket.it/events/Musica/34274/ornella"
-      },
-      {
-        "title": "YELLOW RIVER",
-        "subtitle": "sabato 21 novembre, ore 21:00",
-        "dateTime": "2026-11-21T21:00",
-        "text": "live • Matera • Auditorium Raffaele Gervasio • Sophia Liu al pianoforte e Orchestra ICO Magna Grecia diretta da Gianluca Marcianò",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=YELLOW%20RIVER&details=Sophia%20Liu%20al%20pianoforte%20e%20Orchestra%20ICO%20Magna%20Grecia%20diretta%20da%20Gianluca%20Marcian%C3%B2&location=Auditorium%20Raffaele%20Gervasio%2C%20Matera&dates=20261121T210000%2F20261121T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.orchestramagnagrecia.info/events/categoria/spettacolo/mese/"
-      },
-      {
-        "title": "Celentano – The Tribute Show",
-        "subtitle": "sabato 21 novembre, ore 21:00",
-        "dateTime": "2026-11-21T21:00",
-        "text": "live • Bari • Teatro Showville • Tributo musicale ad Adriano Celentano",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Celentano%20%E2%80%93%20The%20Tribute%20Show&details=Tributo%20musicale%20ad%20Adriano%20Celentano&location=Teatro%20Showville%2C%20Bari&dates=20261121T210000%2F20261121T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.cittando.com/it/eventi/bari/concerti"
-      },
-      {
-        "title": "Tributo a Biagio Antonacci – Katia Lamparelli e Xavi",
-        "subtitle": "Sabato 21 novembre • 21:00",
-        "dateTime": "2026-11-21T21:00",
-        "text": "live • Bari • Villa Rotondo, Corso Alcide De Gasperi 431 • Cover band di Biagio Antonacci con Katia Lamparelli e Xavi; DJ set successivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tributo%20a%20Biagio%20Antonacci%20%E2%80%93%20Katia%20Lamparelli%20e%20Xavi&dates=20261121T200000Z%2F20261121T220000Z&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Villa%20Rotondo%2C%20Corso%20Alcide%20De%20Gasperi%20431%20%E2%80%A2%20Cover%20band%20di%20Biagio%20Antonacci%20con%20Katia%20Lamparelli%20e%20Xavi%3B%20DJ%20set%20successivo&location=Bari%2C%20Villa%20Rotondo%2C%20Corso%20Alcide%20De%20Gasperi%20431",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335873.html"
-      },
-      {
-        "title": "Jo Carley and The Old Dry Skulls",
-        "subtitle": "sabato 21 novembre, ore 21:00",
-        "dateTime": "2026-11-21T21:00",
-        "text": "live • Ruvo di Puglia • Scarlatti Caffè • concerto blues e rockabilly dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jo%20Carley%20and%20The%20Old%20Dry%20Skulls&dates=20261121T210000%2F20261121T220000&details=concerto%20blues%20e%20rockabilly%20dal%20vivo&location=Scarlatti%20Caff%C3%A8%2C%20Ruvo%20di%20Puglia&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.bandsintown.com/e/109018922-jo-carley-and-the-old-dry-skulls-at-scarlatti-caffe?came_from=297"
-      },
-      {
-        "title": "U2 & Coldplay Night by Broken Frames",
-        "subtitle": "Sabato 21 novembre, ore 21:00",
-        "dateTime": "2026-11-21T21:00",
-        "text": "live • Gravina in Puglia • Il Giardino dei Gelsi • Tributo live a U2 e Coldplay, cena con bevande incluse 40 €",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=U2%20%26%20Coldplay%20Night%20by%20Broken%20Frames&details=live%20%E2%80%A2%20Gravina%20in%20Puglia%20%E2%80%A2%20Il%20Giardino%20dei%20Gelsi%20%E2%80%A2%20Tributo%20live%20a%20U2%20e%20Coldplay%2C%20cena%20con%20bevande%20incluse%2040%20%E2%82%AC&location=Il%20Giardino%20dei%20Gelsi%2C%20S.P.%20230%20km%206%2C%20Gravina%20in%20Puglia&dates=20261121T210000%2F20261121T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336644.html"
-      },
-      {
-        "title": "Terraross",
-        "subtitle": "Sabato 21 novembre, ore 21:30",
-        "dateTime": "2026-11-21T21:30",
-        "text": "live • Putignano • Piazza Teatro • Concerto alla festa di San Martino",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terraross&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20Piazza%20Teatro%20%E2%80%A2%20Concerto%20alla%20festa%20di%20San%20Martino&location=%20Putignano%20%2C%20Piazza%20Teatro%20&dates=20261121T213000%2F20261121T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335026.html"
-      },
-      {
-        "title": "Depeche Mode Experience – Tribute Show",
-        "subtitle": "Sabato 21 novembre • 21:30",
-        "dateTime": "2026-11-21T21:30",
-        "text": "live • Mola di Bari • BorgonovArt, Via Giuseppe Parini 18 • Tributo dal vivo ai Depeche Mode; ingresso libero con consumazione obbligatoria",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Depeche%20Mode%20Experience%20%E2%80%93%20Tribute%20Show&dates=20261121T213000%2F20261121T223000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20BorgonovArt%2C%20Via%20Giuseppe%20Parini%2018%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Depeche%20Mode%3B%20ingresso%20libero%20con%20consumazione%20obbligatoria&location=BorgonovArt%2C%20Via%20Giuseppe%20Parini%2018%2C%20Mola%20di%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333163.html"
       },
       {
         "title": "Il Cardoncello Novello",
