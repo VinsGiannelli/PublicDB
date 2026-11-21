@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-21T05:10:00.000Z",
+  "lastModifiedDate": "2026-11-21T05:44:20.534Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-20T21:56:03.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-21T05:10:00.000Z",
+    "lastModifiedDate": "2026-11-21T05:44:20.534Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -481,8 +481,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-21T04:40:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-21T05:44:20.534Z",
       "cycleDate": "2026-11-21",
       "watchlistHash": null
     },
@@ -1437,6 +1437,15 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20di%20San%20Nicola&dates=20261205%2F20261206&details=mercatino%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Quartiere%20a%20ponente%20%E2%80%A2%20Mercatino%20tradizionale%20di%20San%20Nicola%2C%20commercio%20su%20aree%20pubbliche&location=Quartiere%20a%20ponente%2C%20Molfetta&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.comune.molfetta.ba.it/Novita/Avvisi/Bando-per-la-partecipazione-alla-Fiera-della-Madonna-dei-Martiri-e-al-Mercatino-di-San-Nicola-anno-2026-Pubblicata-Graduatoria-provvisoria",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Apulia for Christmas",
+        "subtitle": "Sabato 5 dicembre, ore 16:00",
+        "dateTime": "2026-12-05T16:00",
+        "text": "mercatino • Monopoli • Tenuta Monacelle • Mercatini artigianali, stand enogastronomici e spettacoli; dalle 16:00 alle 23:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%20%E2%80%A2%20Mercatini%20artigianali%2C%20stand%20enogastronomici%20e%20spettacoli%3B%20dalle%2016%3A00%20alle%2023%3A00&location=Tenuta%20Monacelle%2C%20Monopoli&dates=20261205T160000%2F20261205T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/apulia-for-christmas-2026/"
       }
     ]
   }
