@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-21T08:08:07.000Z",
+  "lastModifiedDate": "2026-11-21T08:42:01.632Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-20T21:56:03.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-21T08:08:07.000Z",
+    "lastModifiedDate": "2026-11-21T08:42:01.632Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -481,8 +481,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-21T07:42:11.996Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-21T08:42:01.632Z",
       "cycleDate": "2026-11-21",
       "watchlistHash": null
     },
@@ -1439,6 +1439,24 @@
         "logo": "MERCATINO"
       },
       {
+        "title": "Presepe Vivente nei Sassi",
+        "subtitle": "Sabato 5 dicembre",
+        "dateTime": "2026-12-05T00:00",
+        "text": "evento tradizionale • Matera • Sassi di Matera • Rappresentazione itinerante della Natività nei Sassi",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Presepe%20Vivente%20nei%20Sassi&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Sassi%20di%20Matera%20%E2%80%A2%20Rappresentazione%20itinerante%20della%20Nativit%C3%A0%20nei%20Sassi&location=Sassi%20di%20Matera%2C%20Matera&dates=20261205%2F20261206&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.italia.it/it/basilicata/matera/cosa-fare/evento-presepe-vivente-matera"
+      },
+      {
+        "title": "Mercatino Natalizio",
+        "subtitle": "Sabato 5 dicembre • ore 10:00",
+        "dateTime": "2026-12-05T10:00",
+        "text": "mercatino • Bari • Via Venezia (da Via Genovese) • Casette con artigianato e prodotti agroalimentari tipici, dalle 10:00 alle 22:30",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20Natalizio&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Via%20Venezia%20(da%20Via%20Genovese)%20%E2%80%A2%20Casette%20con%20artigianato%20e%20prodotti%20agroalimentari%20tipici%2C%20dalle%2010%3A00%20alle%2022%3A30&location=Via%20Venezia%2C%20Bari&dates=20261205T100000%2F20261205T110000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://agenparl.eu/2026/10/30/il-comune-comunica-on-line-lavviso-per-lassegnazione-degli-spazi-espositivi-del-mercato-natalizio-in-programma-su-via-venezia-dal-4-dicembre-al-6-gennaio/"
+      },
+      {
         "title": "Apulia for Christmas",
         "subtitle": "Sabato 5 dicembre, ore 16:00",
         "dateTime": "2026-12-05T16:00",
@@ -1446,6 +1464,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%20%E2%80%A2%20Mercatini%20artigianali%2C%20stand%20enogastronomici%20e%20spettacoli%3B%20dalle%2016%3A00%20alle%2023%3A00&location=Tenuta%20Monacelle%2C%20Monopoli&dates=20261205T160000%2F20261205T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/apulia-for-christmas-2026/"
+      },
+      {
+        "title": "Villaggio Enogastronomico di Alberobello",
+        "subtitle": "Sabato 5 dicembre • ore 17:00",
+        "dateTime": "2026-12-05T17:00",
+        "text": "mercatino • Alberobello • Piazza del Popolo • Villaggio natalizio con prodotti enogastronomici e mercatini",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20Enogastronomico%20di%20Alberobello&details=mercatino%20%E2%80%A2%20Alberobello%20%E2%80%A2%20Piazza%20del%20Popolo%20%E2%80%A2%20Villaggio%20natalizio%20con%20prodotti%20enogastronomici%20e%20mercatini&location=Piazza%20del%20Popolo%2C%20Alberobello&dates=20261205T170000%2F20261205T180000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/andria/sponsored/"
       }
     ]
   }
