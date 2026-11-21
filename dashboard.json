@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-20T23:41:04.048Z",
+  "lastModifiedDate": "2026-11-21T00:10:22.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-20T21:56:03.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-20T23:41:04.048Z",
+    "lastModifiedDate": "2026-11-21T00:10:22.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -460,138 +460,12 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL03",
-      "lastCompletedAt": "2026-11-20T23:14:18.000Z",
+      "lastCompletedStep": "WL04",
+      "lastCompletedAt": "2026-11-21T00:10:22.000Z",
       "cycleDate": "2026-11-20",
       "watchlistHash": "86c9d99a"
     },
     "items": [
-      {
-        "title": "SINTOMO – David Bowie Tribute",
-        "subtitle": "Venerdì 20 novembre",
-        "dateTime": "2026-11-20T00:00",
-        "text": "live • Matera • Midnight Pub Live • Tributo dal vivo a David Bowie",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SINTOMO%20%E2%80%93%20David%20Bowie%20Tribute&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributo%20dal%20vivo%20a%20David%20Bowie&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261120%2F20261121&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/sintomo-david-bowie-t-b/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Guns N' Roses Tribute Night",
-        "subtitle": "Venerdì 20 novembre",
-        "dateTime": "2026-11-20T00:00",
-        "text": "live • Bari • Crossroad Saloon • Tributo dal vivo ai Guns N' Roses • Orario del concerto non comunicato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guns%20N'%20Roses%20Tribute%20Night&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Crossroad%20Saloon%20%E2%80%A2%20Tributo%20dal%20vivo%20ai%20Guns%20N'%20Roses%20%E2%80%A2%20Orario%20del%20concerto%20non%20comunicato&location=Crossroad%20Saloon%2C%20Via%20Nicola%20Tridente%2015%2C%20Bari&dates=20261120%2F20261121&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://anyplans.in/en/bari/guns-n-roses-tribute-night-da-crossroad-saloon/"
-      },
-      {
-        "title": "Canta Strano – Gianky & Malidea",
-        "subtitle": "Venerdì 20 novembre 2026",
-        "dateTime": "2026-11-20T00:00",
-        "text": "live • Bari • Fix it Culture, Viale Luigi Einaudi 60 • Canta Strano live show con Gianky e Malidea, nell'ambito della serata SHOUT!",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canta%20Strano%20%E2%80%93%20Gianky%20%26%20Malidea&dates=20261120%2F20261121&details=Canta%20Strano%20live%20show%20con%20Gianky%20e%20Malidea.%20Orario%20esibizione%20non%20confermato.&location=Fix%20it%20Culture%2C%20Viale%20Luigi%20Einaudi%2060%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.bars10.com/IT/Bari/552553294928041/Fix-It-culture"
-      },
-      {
-        "title": "Kateryna Ukhatiuk – Le star del futuro",
-        "subtitle": "Venerdì 20 novembre • ore 11:00",
-        "dateTime": "2026-11-20T11:00",
-        "text": "live • Bari • Teatro Kursaal Santa Lucia, Bari • Recital pianistico con musiche di Prokof'ev e Liszt",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kateryna%20Ukhatiuk%20%E2%80%93%20Le%20star%20del%20futuro&dates=20261120T110000%2F20261120T120000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Prokof'ev%20e%20Liszt&location=Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333699.html"
-      },
-      {
-        "title": "Pierluigi Camicia – Star internazionali",
-        "subtitle": "Venerdì 20 novembre • ore 20:00",
-        "dateTime": "2026-11-20T20:00",
-        "text": "live • Bari • Teatro Kursaal Santa Lucia, Bari • Recital pianistico con musiche di Bach, Mozart, Schumann, Brahms e Ravel",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pierluigi%20Camicia%20%E2%80%93%20Star%20internazionali&dates=20261120T200000%2F20261120T210000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari%20%E2%80%A2%20Recital%20pianistico%20con%20musiche%20di%20Bach%2C%20Mozart%2C%20Schumann%2C%20Brahms%20e%20Ravel&location=Teatro%20Kursaal%20Santa%20Lucia%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333818.html"
-      },
-      {
-        "title": "ORNELLA – Omaggio a Ornella Vanoni",
-        "subtitle": "venerdì 20 novembre 2026, ore 20:30",
-        "dateTime": "2026-11-20T20:30",
-        "text": "live • Mola di Bari • Teatro Van Westerhout • Lisa Angelillo e ensemble acustico in concerto-spettacolo dedicato a Ornella Vanoni",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ORNELLA%20%E2%80%93%20Omaggio%20a%20Ornella%20Vanoni&dates=20261120T203000%2F20261120T213000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Teatro%20Van%20Westerhout%20%E2%80%A2%20Lisa%20Angelillo%20e%20ensemble%20acustico%20in%20concerto-spettacolo%20dedicato%20a%20Ornella%20Vanoni&location=Teatro%20Van%20Westerhout%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.diyticket.it/events/Musica/34274/ornella"
-      },
-      {
-        "title": "Francesca Michielin",
-        "subtitle": "Venerdì 20 novembre • 21:00",
-        "dateTime": "2026-11-20T21:00",
-        "text": "live • Bari • Teatro Petruzzelli • Live nei Teatri 2026, concerto pop con band dal vivo",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Francesca%20Michielin&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Petruzzelli%20%E2%80%A2%20Live%20nei%20Teatri%202026%2C%20concerto%20pop%20con%20band%20dal%20vivo&location=Teatro%20Petruzzelli%2C%20Corso%20Cavour%2C%20Bari&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330267.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Legend The Show – Michael Jackson Tribute",
-        "subtitle": "Venerdì 20 novembre, ore 21:00",
-        "dateTime": "2026-11-20T21:00",
-        "text": "live • Bari • Teatro Team • Tributo a Michael Jackson con Wendel Gama, Jennifer Batten, live band e orchestra",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Legend%20The%20Show%20%E2%80%93%20Michael%20Jackson%20Tribute&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Tributo%20a%20Michael%20Jackson%20con%20Wendel%20Gama%2C%20Jennifer%20Batten%2C%20live%20band%20e%20orchestra&location=Teatro%20Team%2C%20Bari&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.ticketone.it/en/event/legend-the-show-live-in-orchestra-legend-the-show-in-orchestra-with-jennifer-batten-and-wendel-gama-teatro-team-21301740/"
-      },
-      {
-        "title": "Music for Humans – Gianni Masci, Onisaiba e The Verol",
-        "subtitle": "Venerdì 20 novembre • 21:00",
-        "dateTime": "2026-11-20T21:00",
-        "text": "live • Putignano • I MAKE - Ex Macello • Concerti dal vivo di Gianni Masci, Onisaiba e The Verol",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Music%20for%20Humans%20%E2%80%93%20Gianni%20Masci%2C%20Onisaiba%20e%20The%20Verol&dates=20261120T200000Z%2F20261120T220000Z&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Putignano%20%E2%80%A2%20I%20MAKE%20-%20Ex%20Macello%20%E2%80%A2%20Concerti%20dal%20vivo%20di%20Gianni%20Masci%2C%20Onisaiba%20e%20The%20Verol&location=Putignano%2C%20I%20MAKE%20-%20Ex%20Macello",
-        "linkDettagliEvento": "https://iltaccodibacco.it/putignano/concerti/"
-      },
-      {
-        "title": "Ultimo, Vasco Rossi e Tommaso Paradiso – Serata Cover",
-        "subtitle": "Venerdì 20 novembre, ore 21:00",
-        "dateTime": "2026-11-20T21:00",
-        "text": "live • Bari • Arte - Sapori, Pizza, Talenti • Christian Mannino, Vaskomodi e Love Paradiso in concerto",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ultimo%2C%20Vasco%20Rossi%20e%20Tommaso%20Paradiso%20%E2%80%93%20Serata%20Cover&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome&details=Christian%20Mannino%2C%20Vaskomodi%20e%20Love%20Paradiso%20in%20concerto.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F336546.html&location=Arte%20-%20Sapori%2C%20Pizza%2C%20Talenti%2C%20Via%20Fratelli%20Rosselli%2026%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336546.html",
-        "logo": "VASCO"
-      },
-      {
-        "title": "Vento 'e Blues – Omaggio a Pino Daniele",
-        "subtitle": "Venerdì 20 novembre, ore 21:00",
-        "dateTime": "2026-11-20T21:00",
-        "text": "live • Bari • Black Horses Pub • Omaggio dal vivo a Pino Daniele con Claudia Brindicci; ingresso libero con consumazione obbligatoria",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vento%20'e%20Blues%20%E2%80%93%20Omaggio%20a%20Pino%20Daniele&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome&details=Omaggio%20a%20Pino%20Daniele%20con%20Claudia%20Brindicci.%20Ingresso%20libero%20con%20consumazione%20obbligatoria.&location=Black%20Horses%20Pub%2C%20Via%20Principe%20Amedeo%20162%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336718.html"
-      },
-      {
-        "title": "MAX canta ADRIANO – Massimo Papagni",
-        "subtitle": "Venerdì 20 novembre, ore 21:00",
-        "dateTime": "2026-11-20T21:00",
-        "text": "live • Bisceglie • Ristorante da Sergio e Davide • Massimo Papagni interpreta Adriano Celentano; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MAX%20canta%20ADRIANO%20%E2%80%93%20Massimo%20Papagni&details=live%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Ristorante%20da%20Sergio%20e%20Davide%20%E2%80%A2%20Massimo%20Papagni%20interpreta%20Adriano%20Celentano%3B%20ingresso%20libero&location=Ristorante%20da%20Sergio%20e%20Davide%2C%20Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie&dates=20261120T210000%2F20261120T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336757.html"
-      },
-      {
-        "title": "Operazione Camarillo – Aspettando Balafon",
-        "subtitle": "Venerdì 20 novembre • ore 21:30",
-        "dateTime": "2026-11-20T21:30",
-        "text": "live • Bari • Panificio Signorile • Indie-pop dal vivo, ingresso libero",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Operazione%20Camarillo%20%E2%80%93%20Aspettando%20Balafon&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Panificio%20Signorile%20%E2%80%A2%20Indie-pop%20dal%20vivo%2C%20ingresso%20libero&location=Panificio%20Signorile%2C%20Corso%20Sidney%20Sonnino%206%2C%20Bari&dates=20261120T213000%2F20261120T233000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336641.html",
-        "logo": "LIVE"
-      },
-      {
-        "title": "People Are Bitches – The Doors Tribute",
-        "subtitle": "Venerdì 20 novembre, ore 22:00",
-        "dateTime": "2026-11-20T22:00",
-        "text": "live • Altamura • Ludi 84, Via Diego Franco 20 • Tributo dal vivo ai The Doors; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=People%20Are%20Bitches%20%E2%80%93%20The%20Doors%20Tribute&dates=20261120T220000%2F20261120T233000&ctz=Europe%2FRome&details=Tributo%20live%20ai%20The%20Doors.%20Ingresso%20libero.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F336045.html&location=Ludi%2084%2C%20Via%20Diego%20Franco%2020%2C%20Altamura%2C%20Italia",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336045.html"
-      },
       {
         "title": "Il Cardoncello Novello",
         "subtitle": "Sabato 21 novembre",
