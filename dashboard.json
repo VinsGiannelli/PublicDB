@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T13:40:12.000Z",
+  "lastModifiedDate": "2026-11-22T14:08:19.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T13:40:12.000Z",
+    "lastModifiedDate": "2026-11-22T14:08:19.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,8 +478,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T13:08:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T14:08:19.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": "e78da8d7"
     },
@@ -1358,6 +1358,24 @@
         "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-50-anni-di-u2-1976-bari-ba-2/"
       },
       {
+        "title": "Giorgia Santoro racconta Ennio Morricone",
+        "subtitle": "Sabato 5 dicembre, ore 20:30",
+        "dateTime": "2026-12-05T20:30",
+        "text": "live • Giovinazzo • Teatro ODEION – Fondazione Defeo Trapani • Concerto per flauti e live electronics con musiche di Ennio Morricone • Ingresso 18 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giorgia%20Santoro%20racconta%20Ennio%20Morricone&dates=20261205T203000%2F20261205T213000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Giovinazzo%20%E2%80%A2%20Teatro%20ODEION%20%E2%80%93%20Fondazione%20Defeo%20Trapani%20%E2%80%A2%20Concerto%20per%20flauti%20e%20live%20electronics%20con%20musiche%20di%20Ennio%20Morricone%20%E2%80%A2%20Ingresso%2018%20%E2%82%AC%20%7C%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F336202.html&location=Teatro%20ODEION%2C%20Via%20delle%20Filatrici%2032%2C%20Giovinazzo",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336202.html"
+      },
+      {
+        "title": "Happy Days Music Band",
+        "subtitle": "Sabato 5 dicembre, ore 22:30",
+        "dateTime": "2026-12-05T22:30",
+        "text": "live • Modugno • VIII Talento • Cover dal vivo di successi italiani di Vasco Rossi, Ligabue, 883, Pooh e altri • Ingresso libero",
+        "logo": "883",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Days%20Music%20Band&dates=20261205T223000%2F20261205T233000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Modugno%20%E2%80%A2%20VIII%20Talento%20%E2%80%A2%20Cover%20dal%20vivo%20di%20successi%20italiani%20di%20Vasco%20Rossi%2C%20Ligabue%2C%20883%2C%20Pooh%20e%20altri%20%E2%80%A2%20Ingresso%20libero%20%7C%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F335600.html&location=VIII%20Talento%2C%20Via%20Bitritto%20SP%2092%20km%202%2C%20Modugno",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335600.html"
+      },
+      {
         "title": "Villaggio del Gusto – Christmas Edition",
         "subtitle": "Domenica 6 dicembre",
         "dateTime": "2026-12-06T00:00",
@@ -1428,6 +1446,15 @@
         "logo": "LIVE",
         "link": "https://www.google.com/calendar/render?action=TEMPLATE&text=Danze%20dal%20mondo%20%E2%80%93%20Trio%20Amaj&dates=20261206T113000%2F20261206T130000&ctz=Europe%2FRome&details=Trio%20Amaj%2C%20concerto-aperitivo.%20https%3A%2F%2Fwww.pugliacreativa.it%2Fevent%2Fdanze-dal-mondo%2F&location=Teatro%20comunale%20Niccol%C3%B2%20van%20Westerhout%2C%20Mola%20di%20Bari",
         "linkDettagliEvento": "https://www.pugliacreativa.it/event/danze-dal-mondo/"
+      },
+      {
+        "title": "Harlem Gospel Choir – Remembering Whitney & Tina",
+        "subtitle": "Domenica 6 dicembre, ore 18:30",
+        "dateTime": "2026-12-06T18:30",
+        "text": "live • Bari • Teatro Team • Concerto gospel dedicato a Whitney Houston e Tina Turner",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harlem%20Gospel%20Choir%20%E2%80%93%20Remembering%20Whitney%20%26%20Tina&dates=20261206T183000%2F20261206T193000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Concerto%20gospel%20dedicato%20a%20Whitney%20Houston%20e%20Tina%20Turner%20%7C%20https%3A%2F%2Fwww.teatroteam.it%2Fspettacolo%2Fharlem-gospel-choir%2F&location=Teatro%20Team%2C%20Via%20Giustina%20Rocca%2C%20Bari",
+        "linkDettagliEvento": "https://www.teatroteam.it/spettacolo/harlem-gospel-choir/"
       }
     ]
   }
