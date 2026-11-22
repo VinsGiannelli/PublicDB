@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T02:08:48.837Z",
+  "lastModifiedDate": "2026-11-22T02:44:10.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T02:08:48.837Z",
+    "lastModifiedDate": "2026-11-22T02:44:10.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T01:37:55.847Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T02:44:10.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -1338,6 +1338,33 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=50%20anni%20di%20U2%20%E2%80%93%20UnderSkin&dates=20261205T203000%2F20261205T223000&ctz=Europe%2FRome&details=UnderSkin%20U2%20Tribute%20Band%2C%20spettacolo%20musicale%20per%20i%2050%20anni%20degli%20U2&location=Teatro%20AncheCinema%2C%20Corso%20Italia%20112%2C%20Bari",
         "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-50-anni-di-u2-1976-bari-ba-2/"
+      },
+      {
+        "title": "Villaggio del Gusto – Christmas Edition",
+        "subtitle": "Domenica 6 dicembre",
+        "dateTime": "2026-12-06T00:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mercatini artigianali, prodotti tipici pugliesi e street food",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261206%2F20261207&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://visitabari.com/natale-a-bari/"
+      },
+      {
+        "title": "Festa di San Nicola",
+        "subtitle": "Domenica 6 dicembre",
+        "dateTime": "2026-12-06T00:00",
+        "text": "festa patronale • Bari • Basilica di San Nicola e Bari Vecchia • Celebrazioni e tradizioni cittadine per San Nicola",
+        "logo": "PATRONALE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20di%20San%20Nicola&details=festa%20patronale%20%E2%80%A2%20Bari%20%E2%80%A2%20Basilica%20di%20San%20Nicola%20e%20Bari%20Vecchia%20%E2%80%A2%20Celebrazioni%20e%20tradizioni%20cittadine%20per%20San%20Nicola&location=Basilica%20di%20San%20Nicola%2C%20Bari&dates=20261206%2F20261207&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.regionepuglia.org/san-nicola-6-dicembre-bari/"
+      },
+      {
+        "title": "Apulia for Christmas",
+        "subtitle": "Domenica 6 dicembre, ore 10:00",
+        "dateTime": "2026-12-06T10:00",
+        "text": "mercatino • Monopoli • Tenuta Monacelle • Mercatini artigianali, gastronomia e spettacoli dalle 10:00 alle 22:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%20%E2%80%A2%20Mercatini%20artigianali%2C%20gastronomia%20e%20spettacoli%20dalle%2010%3A00%20alle%2022%3A00&location=Tenuta%20Monacelle%2C%20Monopoli&dates=20261206T100000%2F20261206T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.caminvattin.it/event/apulia-for-christmas-2026/"
       }
     ]
   }
