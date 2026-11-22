@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T21:00:04.000Z",
+  "lastModifiedDate": "2026-11-22T21:14:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T20:36:37.000Z",
+    "lastModifiedDate": "2026-11-22T21:14:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,8 +478,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T20:10:29.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T21:14:00.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": "e78da8d7"
     },
@@ -1286,6 +1286,15 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333815.html"
       },
       {
+        "title": "Marco Fracasia – 4321 Hz Tour",
+        "subtitle": "Venerdì 4 dicembre • ore 21:30",
+        "dateTime": "2026-12-04T21:30",
+        "text": "live • Terlizzi • MAT Laboratorio Urbano, Via Macello 1 • Marco Fracasia in concerto, 4321 Hz Tour; biglietti da 9 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Marco%20Fracasia%20%E2%80%93%204321%20Hz%20Tour&dates=20261204T213000%2F20261204T233000&ctz=Europe%2FRome&details=Marco%20Fracasia%20in%20concerto%2C%204321%20Hz%20Tour%3B%20biglietti%20da%209%20%E2%82%AC&location=MAT%20Laboratorio%20Urbano%2C%20Via%20Macello%201%2C%20Terlizzi",
+        "linkDettagliEvento": "https://www.jambase.com/show/marco-fracasia-mat-laboratorio-urbano-20261204"
+      },
+      {
         "title": "Surfer Joe Trio",
         "subtitle": "Venerdì 4 dicembre • 22:00",
         "dateTime": "2026-12-04T22:00",
@@ -1374,6 +1383,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20Enogastronomico%20di%20Alberobello&details=mercatino%20%E2%80%A2%20Alberobello%20%E2%80%A2%20Piazza%20del%20Popolo%20%E2%80%A2%20Villaggio%20natalizio%20con%20prodotti%20enogastronomici%20e%20mercatini&location=Piazza%20del%20Popolo%2C%20Alberobello&dates=20261205T170000%2F20261205T180000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/en/andria/sponsored/"
+      },
+      {
+        "title": "Angela Montemurro – 18 Guinness Piano Heroes",
+        "subtitle": "Sabato 5 dicembre • ore 17:00",
+        "dateTime": "2026-12-05T17:00",
+        "text": "live • Bari • Biblioteca nazionale Sagarriga Visconti Volpi, Via Pietro Oreste 45 • Concerto pianistico dei 18 Guinness Piano Heroes; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Angela%20Montemurro%20%E2%80%93%2018%20Guinness%20Piano%20Heroes&dates=20261205T170000%2F20261205T190000&ctz=Europe%2FRome&details=Concerto%20pianistico%20dei%2018%20Guinness%20Piano%20Heroes%3B%20ingresso%20libero&location=Biblioteca%20nazionale%20Sagarriga%20Visconti%20Volpi%2C%20Via%20Pietro%20Oreste%2045%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/en/puglia/events/319263.html"
       },
       {
         "title": "Villaggio di Natale di Sant’Andrea",
