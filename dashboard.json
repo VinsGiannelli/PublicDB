@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T16:10:02.442Z",
+  "lastModifiedDate": "2026-11-22T16:38:16.188Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T16:10:02.442Z",
+    "lastModifiedDate": "2026-11-22T16:38:16.188Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-22T15:44:21.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-22T16:38:16.188Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -971,6 +971,15 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333914.html"
       },
       {
+        "title": "Sapori d’Autunno – La Grande Tavola d’Autunno",
+        "subtitle": "sabato 28 novembre 2026, ore 20:00",
+        "dateTime": "2026-11-28T20:00",
+        "text": "sagra • Monopoli • Tenuta Monacelle, Strada Monacelle • Percorso dei Sapori tra i trulli, degustazioni e Bottega d’Autunno; quota 45 €, prenotazione richiesta",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d%E2%80%99Autunno%20%E2%80%93%20La%20Grande%20Tavola%20d%E2%80%99Autunno&dates=20261128T200000%2F20261128T220000&details=Percorso%20dei%20Sapori%20tra%20i%20trulli%2C%20degustazioni%20e%20Bottega%20d%E2%80%99Autunno%3B%20quota%2045%20%E2%82%AC%2C%20prenotazione%20richiesta&location=Tenuta%20Monacelle%2C%20Strada%20Monacelle%2C%20Monopoli&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.tenutamonacelle.com/it/eventi-aperti-al-pubblico"
+      },
+      {
         "title": "SUR – Bolero, flamenco e canción latinoamericana",
         "subtitle": "Sabato 28 novembre • 20:30",
         "dateTime": "2026-11-28T20:30",
@@ -1095,6 +1104,15 @@
         "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-mercato-e-giornata-di-chiusura",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Slow%20Grains%202026&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%20%E2%80%A2%20Mercato%20dei%20produttori%20dalle%2010%3A00%20alle%2020%3A00%2C%20incontri%20sul%20grano%20e%20laboratorio%20del%20gusto&location=Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%2C%20Matera&dates=20261129T100000%2F20261129T200000&ctz=Europe%2FRome",
         "logo": "TRADIZIONE"
+      },
+      {
+        "title": "Sapori d’Autunno – La Grande Tavola d’Autunno",
+        "subtitle": "domenica 29 novembre 2026, ore 13:00",
+        "dateTime": "2026-11-29T13:00",
+        "text": "sagra • Monopoli • Tenuta Monacelle, Strada Monacelle • Percorso dei Sapori tra i trulli, degustazioni e Bottega d’Autunno; quota 45 €, prenotazione richiesta",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sapori%20d%E2%80%99Autunno%20%E2%80%93%20La%20Grande%20Tavola%20d%E2%80%99Autunno&dates=20261129T130000%2F20261129T150000&details=Percorso%20dei%20Sapori%20tra%20i%20trulli%2C%20degustazioni%20e%20Bottega%20d%E2%80%99Autunno%3B%20quota%2045%20%E2%82%AC%2C%20prenotazione%20richiesta&location=Tenuta%20Monacelle%2C%20Strada%20Monacelle%2C%20Monopoli&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.tenutamonacelle.com/it/eventi-aperti-al-pubblico"
       },
       {
         "title": "Bach a Köthen – Accademia Hermans",
