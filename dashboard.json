@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T21:37:28.479Z",
+  "lastModifiedDate": "2026-11-22T22:12:26.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T21:37:28.479Z",
+    "lastModifiedDate": "2026-11-22T22:12:26.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,8 +478,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-22T21:14:00.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-22T22:12:26.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": "e78da8d7"
     },
@@ -1023,6 +1023,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Breakfast%20Supertramp%20%E2%80%93%20Musica%20e%20racconti&dates=20261128T210000%2F20261128T230000&details=live%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Teatro%20Politeama%20Italia%2C%20via%20Montello%202%20%E2%80%A2%20Tribute%20band%20Supertramp%20con%20musica%20dal%20vivo%20e%20videoproiezioni%3B%20ingresso%20a%20pagamento%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F330801.html&location=Teatro%20Politeama%20Italia%2C%20via%20Montello%202%2C%20Bisceglie&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/330801.html"
+      },
+      {
+        "title": "Barisound & Parentesi Night – Night & Dance",
+        "subtitle": "Sabato 28 novembre, ore 21:00",
+        "dateTime": "2026-11-28T21:00",
+        "text": "live • Bari • Black Horses Pub, Via Principe Amedeo 162 • Barisound dal vivo e Parentesi Night; ingresso libero con consumazione obbligatoria",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Barisound%20%26%20Parentesi%20Night%20%E2%80%93%20Night%20%26%20Dance&dates=20261128T210000%2F20261128T220000&ctz=Europe%2FRome&details=Barisound%20dal%20vivo%20e%20Parentesi%20Night.%20Ingresso%20libero%20con%20consumazione%20obbligatoria.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F337419.html&location=Black%20Horses%20Pub%2C%20Via%20Principe%20Amedeo%20162%2C%20Bari",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337419.html"
       },
       {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
