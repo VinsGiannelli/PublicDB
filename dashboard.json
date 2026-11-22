@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-21T23:40:33.000Z",
+  "lastModifiedDate": "2026-11-22T00:14:29.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-21T23:40:33.000Z",
+    "lastModifiedDate": "2026-11-22T00:14:29.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -487,8 +487,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-21T23:14:11.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T00:14:29.000Z",
       "cycleDate": "2026-11-21",
       "watchlistHash": null
     },
@@ -1320,6 +1320,15 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20di%20Natale%20di%20Sant%E2%80%99Andrea&dates=20261205T180000%2F20261205T220000&details=evento%20tradizionale%20%E2%80%A2%20Conversano%20%E2%80%A2%20Parrocchia%20Sant%E2%80%99Andrea%20Apostolo%20%E2%80%A2%20Inaugurazione%20del%20villaggio%20natalizio%20dalle%2018%3A00%20alle%2022%3A00&location=Parrocchia%20Sant%E2%80%99Andrea%20Apostolo%2C%20Conversano&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/10/conversano-si-avvicina-il-25-dicembre-e-torna-il-villaggio-di-natale-della-parrocchia-santandrea-apostolo/"
+      },
+      {
+        "title": "50 anni di U2 – UnderSkin",
+        "subtitle": "Sabato 5 dicembre, ore 20:30",
+        "dateTime": "2026-12-05T20:30",
+        "text": "live • Bari • Teatro AncheCinema • UnderSkin U2 Tribute Band, spettacolo musicale per i 50 anni degli U2",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=50%20anni%20di%20U2%20%E2%80%93%20UnderSkin&dates=20261205T203000%2F20261205T223000&ctz=Europe%2FRome&details=UnderSkin%20U2%20Tribute%20Band%2C%20spettacolo%20musicale%20per%20i%2050%20anni%20degli%20U2&location=Teatro%20AncheCinema%2C%20Corso%20Italia%20112%2C%20Bari",
+        "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-50-anni-di-u2-1976-bari-ba-2/"
       }
     ]
   }
