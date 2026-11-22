@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T00:14:29.000Z",
+  "lastModifiedDate": "2026-11-22T00:41:43.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -387,7 +387,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T00:14:29.000Z",
+    "lastModifiedDate": "2026-11-22T00:41:43.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -481,9 +481,9 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-21T23:40:33.000Z",
-      "cycleDate": "2026-11-21",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-22T00:41:43.000Z",
+      "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
     "concertiExecution": {
@@ -528,6 +528,24 @@
         "logo": "PATRONALE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ottava%20della%20Festa%20di%20San%20Trifone&dates=20261122%2F20261123&details=Festa%20patronale%20di%20San%20Trifone%3A%20processione%20e%20chiusura%20dei%20festeggiamenti.&location=Chiesa%20Madre%20di%20San%20Nicola%2C%20Adelfia%2C%20Italia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/san-trifone-2026/"
+      },
+      {
+        "title": "Antica Fiera di Ognissanti – Mercato Medievale",
+        "subtitle": "Domenica 22 novembre",
+        "dateTime": "2026-11-22T00:00",
+        "text": "mercatino • Valenzano • Largo Frate Francesco e vie limitrofe • Mercato medievale con bancarelle e percorso espositivo",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antica%20Fiera%20di%20Ognissanti%20%E2%80%93%20Mercato%20Medievale&details=mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20Frate%20Francesco%20e%20vie%20limitrofe%20%E2%80%A2%20Mercato%20medievale%20con%20bancarelle%20e%20percorso%20espositivo&location=Largo%20Frate%20Francesco%20e%20vie%20limitrofe%2C%20Valenzano&dates=20261122%2F20261123&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/antica-fiera-di-ognissanti-2026-mercato-medievale-153863"
+      },
+      {
+        "title": "Natale a Locorotondo – Mercatini",
+        "subtitle": "Domenica 22 novembre",
+        "dateTime": "2026-11-22T00:00",
+        "text": "mercatino • Locorotondo • Centro storico, Piazza Moro e Piazza Convertini • Apertura del programma natalizio con luminarie, mercatini e stand gastronomici",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Natale%20a%20Locorotondo%20%E2%80%93%20Mercatini&details=mercatino%20%E2%80%A2%20Locorotondo%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Moro%20e%20Piazza%20Convertini%20%E2%80%A2%20Apertura%20del%20programma%20natalizio%20con%20luminarie%2C%20mercatini%20e%20stand%20gastronomici&location=Centro%20storico%2C%20Piazza%20Moro%20e%20Piazza%20Convertini%2C%20Locorotondo&dates=20261122%2F20261123&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/locorotondo/natale-a-locorotondo-2026-luci-di-natale-e-mercatini-140933"
       },
       {
         "title": "Mercatino delle Pulci Puglia",
