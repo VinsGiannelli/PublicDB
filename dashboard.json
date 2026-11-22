@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T06:45:12.132Z",
+  "lastModifiedDate": "2026-11-22T07:08:11.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T06:45:12.132Z",
+    "lastModifiedDate": "2026-11-22T07:08:11.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,8 +478,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T06:10:49.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T07:08:11.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -1374,6 +1374,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%20%E2%80%A2%20Mercatini%20artigianali%2C%20gastronomia%20e%20spettacoli%20dalle%2010%3A00%20alle%2022%3A00&location=Tenuta%20Monacelle%2C%20Monopoli&dates=20261206T100000%2F20261206T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/apulia-for-christmas-2026/"
+      },
+      {
+        "title": "Danze dal mondo – Trio Amaj",
+        "subtitle": "Domenica 6 dicembre, ore 11:30",
+        "dateTime": "2026-12-06T11:30",
+        "text": "live • Mola di Bari • Teatro comunale Niccolò van Westerhout • Trio Amaj, concerto-aperitivo con musiche di Shostakovich, Moszkowski, Saint-Saëns, Gardel e Falla",
+        "logo": "LIVE",
+        "link": "https://www.google.com/calendar/render?action=TEMPLATE&text=Danze%20dal%20mondo%20%E2%80%93%20Trio%20Amaj&dates=20261206T113000%2F20261206T130000&ctz=Europe%2FRome&details=Trio%20Amaj%2C%20concerto-aperitivo.%20https%3A%2F%2Fwww.pugliacreativa.it%2Fevent%2Fdanze-dal-mondo%2F&location=Teatro%20comunale%20Niccol%C3%B2%20van%20Westerhout%2C%20Mola%20di%20Bari",
+        "linkDettagliEvento": "https://www.pugliacreativa.it/event/danze-dal-mondo/"
       }
     ]
   }
