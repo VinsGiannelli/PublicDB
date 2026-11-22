@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T17:13:41.000Z",
+  "lastModifiedDate": "2026-11-22T17:35:53.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T17:13:41.000Z",
+    "lastModifiedDate": "2026-11-22T17:35:53.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T16:38:16.188Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T17:35:53.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -1464,6 +1464,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra%20Hobbismo%20e%20Scambio%20a%20Carbonara&details=Mostra%20mercato%20di%20hobbismo%20e%20scambio%20con%2045%20bancarelle%2C%20dalle%2006%3A00%20alle%2016%3A00&location=Mercato%20Coperto%20San%20Filippo%20Neri%2C%20via%20Vaccarella%2C%20Carbonara%2C%20Bari&dates=20261206T060000%2F20261206T160000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-carbonara-69721"
+      },
+      {
+        "title": "L'Artigianato per il Sociale",
+        "subtitle": "Domenica 6 dicembre, ore 06:00",
+        "dateTime": "2026-12-06T06:00",
+        "text": "mercatino • Bari • Piazza Umberto I (lato monumento) • Mostra mercato di artigianato locale con finalità sociali, dalle 06:00 alle 16:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=L'Artigianato%20per%20il%20Sociale&dates=20261206T060000%2F20261206T160000&ctz=Europe%2FRome&details=Mostra%20mercato%20di%20artigianato%20locale%20con%20finalit%C3%A0%20sociali%2C%20dalle%2006%3A00%20alle%2016%3A00&location=Piazza%20Umberto%20I%20(lato%20monumento)%2C%20Bari",
+        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/l-artigianato-per-il-sociale-88121"
       },
       {
         "title": "Apulia for Christmas",
