@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T20:10:29.000Z",
+  "lastModifiedDate": "2026-11-22T20:36:37.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T20:10:29.000Z",
+    "lastModifiedDate": "2026-11-22T20:36:37.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T19:44:11.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T20:36:37.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -1455,6 +1455,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20di%20Natale%20di%20Polignano%20a%20Mare&details=mercatino%20%E2%80%A2%20Polignano%20a%20Mare%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Bancarelle%20di%20artigianato%2C%20idee%20regalo%20e%20specialit%C3%A0%20natalizie&location=Centro%20storico%2C%20Polignano%20a%20Mare&dates=20261206%2F20261207&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://trovasagre.com/mercatini/mercatini-di-natale-di-polignano-a-mare-polignano-a-mare"
+      },
+      {
+        "title": "Presepe Vivente nei Sassi",
+        "subtitle": "Domenica 6 dicembre",
+        "dateTime": "2026-12-06T00:00",
+        "text": "evento tradizionale • Matera • Sassi di Matera • XVI edizione «Vera Fratellanza», rappresentazione itinerante della Natività; prenotazione obbligatoria",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Presepe%20Vivente%20nei%20Sassi&dates=20261206%2F20261207&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Sassi%20di%20Matera%20%E2%80%A2%20XVI%20edizione%20%C2%ABVera%20Fratellanza%C2%BB%2C%20rappresentazione%20itinerante%20della%20Nativit%C3%A0%3B%20prenotazione%20obbligatoria%20%E2%80%94%20https%3A%2F%2Fwww.presepematera.it%2F&location=Sassi%20di%20Matera%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.presepematera.it/"
       },
       {
         "title": "Mostra Hobbismo e Scambio a Carbonara",
