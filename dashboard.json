@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T23:09:08.000Z",
+  "lastModifiedDate": "2026-11-22T23:37:30.240Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T23:09:08.000Z",
+    "lastModifiedDate": "2026-11-22T23:37:30.240Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T22:40:37.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T23:37:30.240Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -484,114 +484,6 @@
       "watchlistHash": "e78da8d7"
     },
     "items": [
-      {
-        "title": "Il Cardoncello Novello",
-        "subtitle": "Domenica 22 novembre",
-        "dateTime": "2026-11-22T00:00",
-        "text": "sagra • Gravina in Puglia • Centro storico • Fungo cardoncello, vino novello e musica popolare",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Il%20Cardoncello%20Novello&details=Fungo%20cardoncello%2C%20vino%20novello%20e%20musica%20popolare&location=Centro%20storico%2C%20Gravina%20in%20Puglia&dates=20261122%2F20261123&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.gravinalife.it/eventi/a-gravina-sagra-del-fungo-cardoncello/"
-      },
-      {
-        "title": "Autunno nell'arte",
-        "subtitle": "Domenica 22 novembre",
-        "dateTime": "2026-11-22T00:00",
-        "text": "mercatino • Trani • Piazza della Repubblica • Mercatino vintage e artigianato",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Autunno%20nell'arte&details=Mercatino%20vintage%20e%20artigianato&location=Piazza%20della%20Repubblica%2C%20Trani&dates=20261122%2F20261123&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/eventi/mercatini"
-      },
-      {
-        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
-        "subtitle": "Domenica 22 novembre",
-        "dateTime": "2026-11-22T00:00",
-        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261122%2F20261123&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Ottava della Festa di San Trifone",
-        "subtitle": "Domenica 22 novembre",
-        "dateTime": "2026-11-22T00:00",
-        "text": "festa patronale • Adelfia • Chiesa Madre di San Nicola, Montrone • Ottava: processione alle 10:00, reposizione della Sacra Immagine alle 18:30 e fuochi serali",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ottava%20della%20Festa%20di%20San%20Trifone&dates=20261122%2F20261123&details=Festa%20patronale%20di%20San%20Trifone%3A%20processione%20e%20chiusura%20dei%20festeggiamenti.&location=Chiesa%20Madre%20di%20San%20Nicola%2C%20Adelfia%2C%20Italia&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/san-trifone-2026/"
-      },
-      {
-        "title": "Antica Fiera di Ognissanti – Mercato Medievale",
-        "subtitle": "Domenica 22 novembre",
-        "dateTime": "2026-11-22T00:00",
-        "text": "mercatino • Valenzano • Largo Frate Francesco e vie limitrofe • Mercato medievale con bancarelle e percorso espositivo",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Antica%20Fiera%20di%20Ognissanti%20%E2%80%93%20Mercato%20Medievale&details=mercatino%20%E2%80%A2%20Valenzano%20%E2%80%A2%20Largo%20Frate%20Francesco%20e%20vie%20limitrofe%20%E2%80%A2%20Mercato%20medievale%20con%20bancarelle%20e%20percorso%20espositivo&location=Largo%20Frate%20Francesco%20e%20vie%20limitrofe%2C%20Valenzano&dates=20261122%2F20261123&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/valenzano/antica-fiera-di-ognissanti-2026-mercato-medievale-153863"
-      },
-      {
-        "title": "Natale a Locorotondo – Mercatini",
-        "subtitle": "Domenica 22 novembre",
-        "dateTime": "2026-11-22T00:00",
-        "text": "mercatino • Locorotondo • Centro storico, Piazza Moro e Piazza Convertini • Apertura del programma natalizio con luminarie, mercatini e stand gastronomici",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Natale%20a%20Locorotondo%20%E2%80%93%20Mercatini&details=mercatino%20%E2%80%A2%20Locorotondo%20%E2%80%A2%20Centro%20storico%2C%20Piazza%20Moro%20e%20Piazza%20Convertini%20%E2%80%A2%20Apertura%20del%20programma%20natalizio%20con%20luminarie%2C%20mercatini%20e%20stand%20gastronomici&location=Centro%20storico%2C%20Piazza%20Moro%20e%20Piazza%20Convertini%2C%20Locorotondo&dates=20261122%2F20261123&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/locorotondo/natale-a-locorotondo-2026-luci-di-natale-e-mercatini-140933"
-      },
-      {
-        "title": "Mercatino delle Pulci Puglia",
-        "subtitle": "Domenica 22 novembre, ore 04:00",
-        "dateTime": "2026-11-22T04:00",
-        "text": "mercatino • Sammichele di Bari • Area mercatale Munno, via del Canale • Usato, vintage, collezionismo e brocantage; fino alle 12:30",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20delle%20Pulci%20Puglia&dates=20261122T040000%2F20261122T123000&details=Mercatino%20di%20usato%2C%20vintage%2C%20collezionismo%20e%20brocantage&location=Area%20mercatale%20Munno%2C%20via%20del%20Canale%2C%20Sammichele%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://vintagery.it/mercatini/provincia/bari"
-      },
-      {
-        "title": "Mostra Hobbismo e Scambio a Piazza Massari",
-        "subtitle": "Domenica 22 novembre, ore 06:00",
-        "dateTime": "2026-11-22T06:00",
-        "text": "mercatino • Bari • Piazza Massari • 40 bancarelle di collezionismo, artigianato e hobbistica",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mostra%20Hobbismo%20e%20Scambio%20a%20Piazza%20Massari&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Massari%20%E2%80%A2%2040%20bancarelle%20di%20collezionismo%2C%20artigianato%20e%20hobbistica&location=Piazza%20Massari%2C%20Bari&dates=20261122T060000%2F20261122T220000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/mostra-hobbismo-e-scambio-a-piazza-massari-78178"
-      },
-      {
-        "title": "Mercatino del riuso",
-        "subtitle": "Domenica 22 novembre",
-        "dateTime": "2026-11-22T10:00",
-        "text": "mercatino • Capurso • Piazza Gramsci • Riuso e sostenibilità; orari 10:00-13:00",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20del%20riuso&details=mercatino%20%E2%80%A2%20Capurso%20%E2%80%A2%20Piazza%20Gramsci%20%E2%80%A2%20Riuso%20e%20sostenibilit%C3%A0%3B%20orari%2010%3A00-13%3A00&location=Piazza%20Gramsci%2C%20Capurso&dates=20261122T100000%2F20261122T130000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333392.html",
-        "logo": "MERCATINO"
-      },
-      {
-        "title": "La Parata del Frutto Pendente",
-        "subtitle": "Domenica 22 novembre • 10:00",
-        "dateTime": "2026-11-22T10:00",
-        "text": "mercatino • Noci • Piazza Garibaldi • Scambio di semi e talee, mostra pomologica e piccolo mercato agricolo, rinviato dal 15 novembre",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Parata%20del%20Frutto%20Pendente&dates=20261122T100000%2F20261122T133000&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Noci%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Scambio%20di%20semi%20e%20talee%2C%20mostra%20pomologica%20e%20piccolo%20mercato%20agricolo%2C%20rinviato%20dal%2015%20novembre&location=Piazza%20Garibaldi%2C%20Noci%20(BA)",
-        "linkDettagliEvento": "https://www.cheventi.it/eventi/2026-parata-del-frutto-pendente-mostra-e-scambio-semi-e-mercato-agricolo-noci-ba/"
-      },
-      {
-        "title": "Festival Senza Glutine",
-        "subtitle": "Domenica 22 novembre • 11:00",
-        "dateTime": "2026-11-22T11:00",
-        "text": "evento tradizionale • Matera • Piazzale Parrocchia San Pio X, via Francesco Petrarca • Festival gastronomico con food truck e specialità senza glutine • Ingresso gratuito",
-        "logo": "TRADIZIONE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festival%20Senza%20Glutine&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%20%E2%80%A2%20Festival%20gastronomico%20con%20food%20truck%20e%20specialit%C3%A0%20senza%20glutine%20%E2%80%A2%20Ingresso%20gratuito&location=Piazzale%20Parrocchia%20San%20Pio%20X%2C%20via%20Francesco%20Petrarca%2C%20Matera&dates=20261122T110000%2F20261122T220000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/festival-senza-glutine-nel-piazzale-antistante-la-parrocchia-san-pio-x-a-matera/"
-      },
-      {
-        "title": "Modugno Wine & Food Festival",
-        "subtitle": "Domenica 22 novembre • 19:30",
-        "dateTime": "2026-11-22T19:30",
-        "text": "sagra • Modugno • Centro storico • Stand gastronomici, vino e specialità locali nelle vie e piazze del borgo antico",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Modugno%20Wine%20%26%20Food%20Festival&details=sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20vino%20e%20specialit%C3%A0%20locali%20nelle%20vie%20e%20piazze%20del%20borgo%20antico&location=Centro%20storico%2C%20Modugno%2C%20Bari&dates=20261122T193000%2F20261122T235900&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.caminvattin.it/event/wine-food-festival-modugno-2026/"
-      },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
         "subtitle": "Lunedì 23 novembre",
