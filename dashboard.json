@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T14:37:21.000Z",
+  "lastModifiedDate": "2026-11-22T15:09:31.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T14:37:21.000Z",
+    "lastModifiedDate": "2026-11-22T15:09:31.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,8 +478,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-22T14:08:19.000Z",
+      "lastCompletedStep": "WL01",
+      "lastCompletedAt": "2026-11-22T15:09:31.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": "e78da8d7"
     },
@@ -834,6 +834,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Milva%20Tang%C3%B8%20Project%20%E2%80%93%20Una%20voce%20tra%20poesia%20e%20impulso&dates=20261127T210000%2F20261127T220000&ctz=Europe%2FRome&details=Omaggio%20musicale%20a%20Milva%20con%20Mariangela%20Cagnetta%20e%20ensemble%20Projectango%3B%20ingresso%20con%20prenotazione&location=Teatro%20Casa%20di%20Pulcinella%2C%20Arena%20della%20Vittoria%204%2Fa%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335548.html"
+      },
+      {
+        "title": "G Family – Vintage Party Live",
+        "subtitle": "Venerdì 27 novembre, ore 21:00",
+        "dateTime": "2026-11-27T21:00",
+        "text": "live • Bari • Fix it Culture, Viale Luigi Einaudi 60 • G Family dal vivo, show dinner con successi dagli anni '60 agli anni '90; a seguire video DJ set",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=G%20Family%20%E2%80%93%20Vintage%20Party%20Live&dates=20261127T210000%2F20261128T030000&ctz=Europe%2FRome&details=G%20Family%20dal%20vivo%2C%20show%20dinner%20con%20hit%20anni%2060%E2%80%9390%20e%20videoclip.%20A%20seguire%20video%20DJ%20set.&location=Fix%20it%20Culture%2C%20Viale%20Luigi%20Einaudi%2060%2C%20Bari",
+        "linkDettagliEvento": "https://stayhappening.com/e/g-family-in-concerto-vintage-party-show-mix-audio-video-E118SB85S7E0I"
       },
       {
         "title": "THE HORNETS in concerto",
