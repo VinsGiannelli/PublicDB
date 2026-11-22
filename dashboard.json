@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T22:40:37.000Z",
+  "lastModifiedDate": "2026-11-22T23:09:08.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T22:40:37.000Z",
+    "lastModifiedDate": "2026-11-22T23:09:08.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,8 +478,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL01",
-      "lastCompletedAt": "2026-11-22T22:12:26.000Z",
+      "lastCompletedStep": "WL02",
+      "lastCompletedAt": "2026-11-22T23:09:08.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": "e78da8d7"
     },
@@ -584,15 +584,6 @@
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/festival-senza-glutine-nel-piazzale-antistante-la-parrocchia-san-pio-x-a-matera/"
       },
       {
-        "title": "Voyage – Rihlet El-Hayat",
-        "subtitle": "Domenica 22 novembre • 17:30",
-        "dateTime": "2026-11-22T17:30",
-        "text": "live • Matera • Hotel La Suite • Badrya Razem (voce) e Domenico Lopez (chitarra), musiche del Mediterraneo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Voyage%20%E2%80%93%20Rihlet%20El-Hayat&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Hotel%20La%20Suite%20%E2%80%A2%20Badrya%20Razem%20(voce)%20e%20Domenico%20Lopez%20(chitarra)%2C%20musiche%20del%20Mediterraneo&location=Hotel%20La%20Suite%2C%20Via%20Lucana%20137%2C%20Matera&dates=20261122T173000%2F20261122T183000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://events.materawelcome.it/events/view/musica/8733/voyage-_rihlet_el-hayat"
-      },
-      {
         "title": "Modugno Wine & Food Festival",
         "subtitle": "Domenica 22 novembre • 19:30",
         "dateTime": "2026-11-22T19:30",
@@ -600,24 +591,6 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Modugno%20Wine%20%26%20Food%20Festival&details=sagra%20%E2%80%A2%20Modugno%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Stand%20gastronomici%2C%20vino%20e%20specialit%C3%A0%20locali%20nelle%20vie%20e%20piazze%20del%20borgo%20antico&location=Centro%20storico%2C%20Modugno%2C%20Bari&dates=20261122T193000%2F20261122T235900&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/wine-food-festival-modugno-2026/"
-      },
-      {
-        "title": "Gidon Kremer",
-        "subtitle": "domenica 22 novembre 2026 ore 20:00",
-        "dateTime": "2026-11-22T20:00",
-        "text": "live • Bari • Teatro Kursaal Santalucia • Concerto cameristico con Katrīna Anna Pelnēna, Mauro Paolo Monopoli e Massimiliano Monopoli",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gidon%20Kremer&dates=20261122T200000%2F20261122T213000&details=Concerto%20cameristico%20con%20Katr%C4%ABna%20Anna%20Peln%C4%93na%2C%20Mauro%20Paolo%20Monopoli%20e%20Massimiliano%20Monopoli&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334620.html"
-      },
-      {
-        "title": "DM Experience – Depeche Mode Tribute",
-        "subtitle": "Domenica 22 novembre • ore 21:15",
-        "dateTime": "2026-11-22T21:15",
-        "text": "live • Mola di Bari • Via Parini 18 • Cover band dal vivo dei Depeche Mode, apericena con prenotazione obbligatoria",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DM%20Experience%20%E2%80%93%20Depeche%20Mode%20Tribute&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Via%20Parini%2018%20%E2%80%A2%20Cover%20band%20dal%20vivo%20dei%20Depeche%20Mode%2C%20apericena%20con%20prenotazione%20obbligatoria&location=Via%20Parini%2018%2C%20Mola%20di%20Bari&dates=20261122T211500%2F20261122T221500&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336729.html"
       },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
