@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T11:36:39.208Z",
+  "lastModifiedDate": "2026-11-22T12:13:17.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T11:36:39.208Z",
+    "lastModifiedDate": "2026-11-22T12:13:17.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,8 +478,8 @@
       "watchlistHash": null
     },
     "concertiExecution": {
-      "lastCompletedStep": "WL04",
-      "lastCompletedAt": "2026-11-22T11:07:37.766Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-22T12:13:17.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": "e78da8d7"
     },
@@ -636,6 +636,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Negramaro%20%E2%80%93%20Cover%20band&dates=20261123%2F20261124&details=Serata%20cover%20dedicata%20ai%20Negramaro&location=20m2%2C%20Via%20Gaetano%20d%E2%80%99Amico%2011%2C%20Cisternino&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://20m2official.it/cisternino"
+      },
+      {
+        "title": "E sognò la libertà – Omaggio a Lucio Dalla e Alda Merini",
+        "subtitle": "Lunedì 23 novembre, ore 20:00",
+        "dateTime": "2026-11-23T20:00",
+        "text": "live • Turi • Palazzo Cozzolongo • Concerto letterario omaggio a Lucio Dalla e Alda Merini; ingresso gratuito su prenotazione",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=E%20sogn%C3%B2%20la%20libert%C3%A0%20%E2%80%93%20Omaggio%20a%20Lucio%20Dalla%20e%20Alda%20Merini&details=Concerto%20letterario%20con%20Pietro%20Verna%2C%20Francesco%20Galizia%2C%20Leonardo%20Torres%20e%20Gabriele%20Zanini.%20Ingresso%20gratuito%20su%20prenotazione.%20Inizio%20ore%2020%3A00%3B%20durata%20non%20comunicata.&location=Palazzo%20Cozzolongo%2C%20Via%20Maggiore%20Orlandi%2010%2C%20Turi&dates=20261123%2F20261124&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://artilibere.info/event/turi-ba-un-viaggio-tra-musica-e-poesia-con-e-sogno-la-liberta/"
       },
       {
         "title": "Max Gazzè",
