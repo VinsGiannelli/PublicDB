@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T11:07:37.766Z",
+  "lastModifiedDate": "2026-11-22T11:36:39.208Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T11:07:37.766Z",
+    "lastModifiedDate": "2026-11-22T11:36:39.208Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T10:36:04.367Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T11:36:39.208Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -1295,6 +1295,15 @@
         "linkDettagliEvento": "https://basilicata.piazzainfesta.it/matera/iniziative-natalizie-2026-112212"
       },
       {
+        "title": "Villaggio del Gusto – Christmas Edition",
+        "subtitle": "Sabato 5 dicembre",
+        "dateTime": "2026-12-05T00:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mercatini artigianali, prodotti tipici pugliesi e street food",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261205%2F20261206&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://visitabari.com/natale-a-bari/"
+      },
+      {
         "title": "Mercatino Natalizio",
         "subtitle": "Sabato 5 dicembre • ore 10:00",
         "dateTime": "2026-12-05T10:00",
@@ -1358,6 +1367,24 @@
         "linkDettagliEvento": "https://www.regionepuglia.org/san-nicola-6-dicembre-bari/"
       },
       {
+        "title": "Mercatino di Natale",
+        "subtitle": "Domenica 6 dicembre",
+        "dateTime": "2026-12-06T00:00",
+        "text": "mercatino • Matera • Piazza Vittorio Veneto, Via La Vista e Via Don Minzoni • Stand enogastronomici, artigianali e artistici",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatino%20di%20Natale&details=Stand%20enogastronomici%2C%20artigianali%20e%20artistici&location=Piazza%20Vittorio%20Veneto%2C%20Via%20La%20Vista%20e%20Via%20Don%20Minzoni%2C%20Matera&dates=20261206%2F20261207&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ebas.it/natale-in-basilicata/"
+      },
+      {
+        "title": "Villaggio Enogastronomico di Alberobello",
+        "subtitle": "Domenica 6 dicembre",
+        "dateTime": "2026-12-06T00:00",
+        "text": "mercatino • Alberobello • Piazza del Popolo • Villaggio natalizio con prodotti enogastronomici e mercatini",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20Enogastronomico%20di%20Alberobello&details=Villaggio%20natalizio%20con%20prodotti%20enogastronomici%20e%20mercatini&location=Piazza%20del%20Popolo%2C%20Alberobello&dates=20261206%2F20261207&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/mercatini/"
+      },
+      {
         "title": "Mostra Hobbismo e Scambio a Carbonara",
         "subtitle": "Domenica 6 dicembre, ore 06:00",
         "dateTime": "2026-12-06T06:00",
@@ -1374,6 +1401,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%20%E2%80%A2%20Mercatini%20artigianali%2C%20gastronomia%20e%20spettacoli%20dalle%2010%3A00%20alle%2022%3A00&location=Tenuta%20Monacelle%2C%20Monopoli&dates=20261206T100000%2F20261206T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/apulia-for-christmas-2026/"
+      },
+      {
+        "title": "Piantagrane – Festa Rurale",
+        "subtitle": "Domenica 6 dicembre ore 10:30",
+        "dateTime": "2026-12-06T10:30",
+        "text": "mercatino • Terlizzi • MAT Laboratorio urbano • Mercatino di produttori e artigiani, scambio semi e talee",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Piantagrane%20%E2%80%93%20Festa%20Rurale&details=Mercatino%20di%20produttori%20e%20artigiani%2C%20scambio%20semi%20e%20talee&location=MAT%20Laboratorio%20urbano%2C%20Terlizzi&dates=20261206T103000%2F20261206T113000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/mercatini/"
       },
       {
         "title": "Danze dal mondo – Trio Amaj",
