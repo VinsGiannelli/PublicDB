@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T14:08:19.000Z",
+  "lastModifiedDate": "2026-11-22T14:37:21.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -378,7 +378,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-22T14:08:19.000Z",
+    "lastModifiedDate": "2026-11-22T14:37:21.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -472,8 +472,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-22T13:40:12.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-22T14:37:21.000Z",
       "cycleDate": "2026-11-22",
       "watchlistHash": null
     },
@@ -1322,6 +1322,15 @@
         "linkDettagliEvento": "https://agenparl.eu/2026/10/30/il-comune-comunica-on-line-lavviso-per-lassegnazione-degli-spazi-espositivi-del-mercato-natalizio-in-programma-su-via-venezia-dal-4-dicembre-al-6-gennaio/"
       },
       {
+        "title": "Mercatini di Natale – Le Avventure di Pinocchio",
+        "subtitle": "Sabato 5 dicembre • 10:00",
+        "dateTime": "2026-12-05T10:00",
+        "text": "mercatino • Locorotondo • Villa Comunale Giuseppe Garibaldi • Bancarelle artigianali e percorso natalizio dedicato a Pinocchio, dalle 10:00 alle 22:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20di%20Natale%20%E2%80%93%20Le%20Avventure%20di%20Pinocchio&details=mercatino%20%E2%80%A2%20Locorotondo%20%E2%80%A2%20Villa%20Comunale%20Giuseppe%20Garibaldi%20%E2%80%A2%20Bancarelle%20artigianali%20e%20percorso%20natalizio%20dedicato%20a%20Pinocchio%2C%20dalle%2010%3A00%20alle%2022%3A00&location=Villa%20Comunale%20Giuseppe%20Garibaldi%2C%20Locorotondo&dates=20261205T100000%2F20261205T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ilsagrista.it/sagra/luci-di-natale-a-locorotondo-483493ef-a608-4611-ac56-61cf9e06e80f"
+      },
+      {
         "title": "Apulia for Christmas",
         "subtitle": "Sabato 5 dicembre, ore 16:00",
         "dateTime": "2026-12-05T16:00",
@@ -1412,6 +1421,15 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/mercatini/"
       },
       {
+        "title": "Mercatini di Natale di Polignano a Mare",
+        "subtitle": "Domenica 6 dicembre",
+        "dateTime": "2026-12-06T00:00",
+        "text": "mercatino • Polignano a Mare • Centro storico • Bancarelle di artigianato, idee regalo e specialità natalizie",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20di%20Natale%20di%20Polignano%20a%20Mare&details=mercatino%20%E2%80%A2%20Polignano%20a%20Mare%20%E2%80%A2%20Centro%20storico%20%E2%80%A2%20Bancarelle%20di%20artigianato%2C%20idee%20regalo%20e%20specialit%C3%A0%20natalizie&location=Centro%20storico%2C%20Polignano%20a%20Mare&dates=20261206%2F20261207&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://trovasagre.com/mercatini/mercatini-di-natale-di-polignano-a-mare-polignano-a-mare"
+      },
+      {
         "title": "Mostra Hobbismo e Scambio a Carbonara",
         "subtitle": "Domenica 6 dicembre, ore 06:00",
         "dateTime": "2026-12-06T06:00",
@@ -1428,6 +1446,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%20%E2%80%A2%20Mercatini%20artigianali%2C%20gastronomia%20e%20spettacoli%20dalle%2010%3A00%20alle%2022%3A00&location=Tenuta%20Monacelle%2C%20Monopoli&dates=20261206T100000%2F20261206T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.caminvattin.it/event/apulia-for-christmas-2026/"
+      },
+      {
+        "title": "Mercatini di Natale – Le Avventure di Pinocchio",
+        "subtitle": "Domenica 6 dicembre • 10:00",
+        "dateTime": "2026-12-06T10:00",
+        "text": "mercatino • Locorotondo • Villa Comunale Giuseppe Garibaldi • Bancarelle artigianali e percorso natalizio dedicato a Pinocchio, dalle 10:00 alle 22:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20di%20Natale%20%E2%80%93%20Le%20Avventure%20di%20Pinocchio&details=mercatino%20%E2%80%A2%20Locorotondo%20%E2%80%A2%20Villa%20Comunale%20Giuseppe%20Garibaldi%20%E2%80%A2%20Bancarelle%20artigianali%20e%20percorso%20natalizio%20dedicato%20a%20Pinocchio%2C%20dalle%2010%3A00%20alle%2022%3A00&location=Villa%20Comunale%20Giuseppe%20Garibaldi%2C%20Locorotondo&dates=20261206T100000%2F20261206T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.ilsagrista.it/sagra/luci-di-natale-a-locorotondo-483493ef-a608-4611-ac56-61cf9e06e80f"
       },
       {
         "title": "Piantagrane – Festa Rurale",
