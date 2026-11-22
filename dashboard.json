@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-22T01:12:06.000Z",
+  "lastModifiedDate": "2026-11-22T01:33:38.080Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-21T21:36:10.000Z",
@@ -247,26 +247,8 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-21T01:40:43.821Z",
+    "lastModifiedDate": "2026-11-22T01:33:38.080Z",
     "items": [
-      {
-        "title": "F1 Las Vegas – FP3",
-        "subtitle": "Sabato 21 novembre • 01:30",
-        "dateTime": "2026-11-21T01:30",
-        "text": "Formula 1 • GP Las Vegas • FP3",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Las%20Vegas%20%E2%80%93%20FP3&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20FP3&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261121T003000Z%2F20261121T013000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
-      },
-      {
-        "title": "F1 Las Vegas – Qualifiche",
-        "subtitle": "Sabato 21 novembre • 05:00",
-        "dateTime": "2026-11-21T05:00",
-        "text": "Formula 1 • GP Las Vegas • Qualifiche",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Las%20Vegas%20%E2%80%93%20Qualifiche&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Qualifiche&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261121T040000Z%2F20261121T050000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
-      },
       {
         "title": "F1 Las Vegas – Gara",
         "subtitle": "Domenica 22 novembre • 05:00",
@@ -283,7 +265,7 @@
         "text": "Serie C • Catania – Bari",
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Catania%20%E2%80%93%20Bari&details=Serie%20C%20%E2%80%A2%20Catania%20%E2%80%93%20Bari&location=Stadio%20Angelo%20Massimino%2C%20Catania&dates=20261122T140000Z%2F20261122T160000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://it.besoccer.com/squadra/partite/as-bari/2017"
+        "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
       },
       {
         "title": "F1 Qatar – FP1",
@@ -337,7 +319,7 @@
         "text": "Serie C • Bari – Savoia",
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20%E2%80%93%20Savoia&details=Serie%20C%20%E2%80%A2%20Bari%20%E2%80%93%20Savoia&location=Stadio%20San%20Nicola%2C%20Bari&dates=20261129T163000Z%2F20261129T183000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://it.besoccer.com/squadra/partite/as-bari/2017"
+        "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
       },
       {
         "title": "F1 Abu Dhabi – FP1",
@@ -373,7 +355,7 @@
         "text": "Serie C • Inter U23 – Bari",
         "logo": "BA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Inter%20U23%20%E2%80%93%20Bari&details=Serie%20C%20%E2%80%A2%20Inter%20U23%20%E2%80%93%20Bari&location=Stadio%20Ernesto%20Breda%2C%20Sesto%20San%20Giovanni&dates=20261205T133000Z%2F20261205T153000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://it.besoccer.com/squadra/partite/as-bari/2017"
+        "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
       },
       {
         "title": "F1 Abu Dhabi – Qualifiche",
@@ -382,6 +364,15 @@
         "text": "Formula 1 • GP Abu Dhabi • Qualifiche",
         "logo": "F1",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20Qualifiche&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20Qualifiche&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi&dates=20261205T140000Z%2F20261205T150000Z&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
+      },
+      {
+        "title": "F1 Abu Dhabi – Gara",
+        "subtitle": "Domenica 6 dicembre • 14:00",
+        "dateTime": "2026-12-06T14:00",
+        "text": "Formula 1 • GP Abu Dhabi • Gara",
+        "logo": "F1",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20Gara&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20Gara&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi&dates=20261206T130000Z%2F20261206T150000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
       }
     ]
