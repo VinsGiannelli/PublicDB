@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-23T05:12:26.000Z",
+  "lastModifiedDate": "2026-11-23T05:38:00.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-23T05:12:26.000Z",
+    "lastModifiedDate": "2026-11-23T05:38:00.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,8 +454,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-23T04:44:00.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-23T05:38:00.000Z",
       "cycleDate": "2026-11-23",
       "watchlistHash": null
     },
@@ -1259,6 +1259,15 @@
         "linkDettagliEvento": "https://www.oggiconversano.it/2026/11/10/conversano-si-avvicina-il-25-dicembre-e-torna-il-villaggio-di-natale-della-parrocchia-santandrea-apostolo/"
       },
       {
+        "title": "Accensione dell'albero di Natale",
+        "subtitle": "Sabato 5 dicembre • 20:00",
+        "dateTime": "2026-12-05T20:00",
+        "text": "evento tradizionale • Bari • Piazza del Ferrarese • Cerimonia di accensione dell'albero natalizio con oltre 50.000 luci LED",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Accensione%20dell'albero%20di%20Natale&details=evento%20tradizionale%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20del%20Ferrarese%20%E2%80%A2%20Cerimonia%20di%20accensione%20dell'albero%20natalizio%20con%20oltre%2050.000%20luci%20LED&location=Piazza%20del%20Ferrarese%2C%20Bari&dates=20261205T200000%2F20261205T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.bariviva.it/notizie/in-piazza-del-ferrarese-torna-il-grande-albero-di-natale-con-50mila-luci-colorate/"
+      },
+      {
         "title": "50 anni di U2 – UnderSkin",
         "subtitle": "Sabato 5 dicembre, ore 20:30",
         "dateTime": "2026-12-05T20:30",
@@ -1419,6 +1428,33 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20delle%20Pro%20Loco&dates=20261207%2F20261208&details=Fiera%20delle%20Pro%20Loco%3A%20tradizioni%2C%20enogastronomia%20e%20patrimonio%20culturale%20dei%20territori%20italiani.&location=Nuova%20Fiera%20del%20Levante%2C%20Bari%2C%20Italia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.prolocolecce.it/2026/11/10/nasce-lhub-arce-puglia-per-lalleanza-delle-reti-delle-comunita-educanti-di-puglia/"
+      },
+      {
+        "title": "Villaggio Enogastronomico di Alberobello",
+        "subtitle": "Lunedì 7 dicembre",
+        "dateTime": "2026-12-07T00:00",
+        "text": "mercatino • Alberobello • Piazza del Popolo • Villaggio natalizio con prodotti enogastronomici e mercatini",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20Enogastronomico%20di%20Alberobello&details=mercatino%20%E2%80%A2%20Alberobello%20%E2%80%A2%20Piazza%20del%20Popolo%20%E2%80%A2%20Villaggio%20natalizio%20con%20prodotti%20enogastronomici%20e%20mercatini&location=Piazza%20del%20Popolo%2C%20Alberobello&dates=20261207%2F20261208&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://sagr.it/sagre/provincia/bari"
+      },
+      {
+        "title": "Villaggio del Gusto – Christmas Edition",
+        "subtitle": "Lunedì 7 dicembre",
+        "dateTime": "2026-12-07T00:00",
+        "text": "mercatino • Bari • Piazza Umberto I • Mercatini artigianali, prodotti tipici pugliesi e street food",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Villaggio%20del%20Gusto%20%E2%80%93%20Christmas%20Edition&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Piazza%20Umberto%20I%20%E2%80%A2%20Mercatini%20artigianali%2C%20prodotti%20tipici%20pugliesi%20e%20street%20food&location=Piazza%20Umberto%20I%2C%20Bari&dates=20261207%2F20261208&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://visitabari.com/natale-a-bari/"
+      },
+      {
+        "title": "Apulia for Christmas",
+        "subtitle": "Lunedì 7 dicembre • 16:00",
+        "dateTime": "2026-12-07T16:00",
+        "text": "mercatino • Monopoli • Tenuta Monacelle, Selva di Fasano • XII edizione, mercatini artigianali, degustazioni e tradizioni natalizie, dalle 16:00 alle 23:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%2C%20Selva%20di%20Fasano%20%E2%80%A2%20XII%20edizione%2C%20mercatini%20artigianali%2C%20degustazioni%20e%20tradizioni%20natalizie%2C%20dalle%2016%3A00%20alle%2023%3A00&location=Tenuta%20Monacelle%2C%20Selva%20di%20Fasano%2C%20Monopoli&dates=20261207T160000%2F20261207T230000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335320.html"
       }
     ]
   }
