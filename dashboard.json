@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-23T01:08:04.497Z",
+  "lastModifiedDate": "2026-11-23T01:39:37.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -247,26 +247,8 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-22T01:33:38.080Z",
+    "lastModifiedDate": "2026-11-23T01:39:37.000Z",
     "items": [
-      {
-        "title": "F1 Las Vegas – Gara",
-        "subtitle": "Domenica 22 novembre • 05:00",
-        "dateTime": "2026-11-22T05:00",
-        "text": "Formula 1 • GP Las Vegas • Gara",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Las%20Vegas%20%E2%80%93%20Gara&details=Formula%201%20%E2%80%A2%20GP%20Las%20Vegas%20%E2%80%A2%20Gara&location=Las%20Vegas%20Strip%20Circuit%2C%20Las%20Vegas&dates=20261122T040000Z%2F20261122T060000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
-      },
-      {
-        "title": "Catania – Bari",
-        "subtitle": "Domenica 22 novembre • 15:00",
-        "dateTime": "2026-11-22T15:00",
-        "text": "Serie C • Catania – Bari",
-        "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Catania%20%E2%80%93%20Bari&details=Serie%20C%20%E2%80%A2%20Catania%20%E2%80%93%20Bari&location=Stadio%20Angelo%20Massimino%2C%20Catania&dates=20261122T140000Z%2F20261122T160000Z&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.labaricalcio.it/calendario-bari-calcio/"
-      },
       {
         "title": "F1 Qatar – FP1",
         "subtitle": "Venerdì 27 novembre • 14:30",
