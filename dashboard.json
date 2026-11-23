@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-23T19:06:26.732Z",
+  "lastModifiedDate": "2026-11-23T19:37:14.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-23T19:06:26.732Z",
+    "lastModifiedDate": "2026-11-23T19:37:14.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,8 +454,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-23T18:38:00.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-23T19:37:14.000Z",
       "cycleDate": "2026-11-23",
       "watchlistHash": null
     },
@@ -809,6 +809,15 @@
         "linkDettagliEvento": "https://www.telebari.it/spettacoli/272399-bari-magia-dei-presepi-e-mercatino-di-artigianato-e-vintage-il-28-e-29-novembre-nella-sede-del-municipio-3.html"
       },
       {
+        "title": "Forni e Frantoi 2026",
+        "subtitle": "Sabato 28 novembre 2026, ore 10:00",
+        "dateTime": "2026-11-28T10:00",
+        "text": "evento tradizionale • Bitonto • Masseria Lama Balice • Laboratori su tartufo, orecchiette e dolci tradizionali",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%202026&dates=20261128T100000/20261128T190000&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Masseria%20Lama%20Balice%20%E2%80%A2%20Laboratori%20su%20tartufo%2C%20orecchiette%20e%20dolci%20tradizionali&location=Bitonto%20(BA)&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://apulica.it/eventi/forni-e-frantoi-bitonto-2026/"
+      },
+      {
         "title": "Sagra du Chiacone",
         "subtitle": "Sabato 28 novembre • 18:30",
         "dateTime": "2026-11-28T18:30",
@@ -942,6 +951,15 @@
         "linkDettagliEvento": "https://vintagery.it/mercatini/provincia/bari",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Piazzolla&details=mercatino%20%E2%80%A2%20Santeramo%20in%20Colle%20%E2%80%A2%20Piazza%20Garibaldi%20%E2%80%A2%20Antiquariato%2C%20modernariato%20e%20collezionismo%3B%20dalle%2007%3A00%20alle%2018%3A00&location=Piazza%20Garibaldi%2C%20Santeramo%20in%20Colle&dates=20261129T070000%2F20261129T180000&ctz=Europe%2FRome",
         "logo": "MERCATINO"
+      },
+      {
+        "title": "Forni e Frantoi 2026",
+        "subtitle": "Domenica 29 novembre 2026, ore 09:00",
+        "dateTime": "2026-11-29T09:00",
+        "text": "evento tradizionale • Bitonto • Piazza Cavour e forni e frantoi cittadini • Visite, degustazioni e Mercato della Terra e dell'artigianato",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%202026&dates=20261129T090000/20261129T200000&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Piazza%20Cavour%20e%20forni%20e%20frantoi%20cittadini%20%E2%80%A2%20Visite%2C%20degustazioni%20e%20Mercato%20della%20Terra%20e%20dell'artigianato&location=Bitonto%20(BA)&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://apulica.it/eventi/forni-e-frantoi-bitonto-2026/"
       },
       {
         "title": "Vintage Market Bari",
