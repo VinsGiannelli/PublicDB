@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-23T02:13:07.000Z",
+  "lastModifiedDate": "2026-11-23T02:41:14.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-23T02:13:07.000Z",
+    "lastModifiedDate": "2026-11-23T02:41:14.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,8 +454,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-23T01:41:12.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-23T02:41:14.000Z",
       "cycleDate": "2026-11-23",
       "watchlistHash": null
     },
@@ -1340,6 +1340,15 @@
         "linkDettagliEvento": "https://www.presepematera.it/"
       },
       {
+        "title": "Fiera delle Pro Loco",
+        "subtitle": "Domenica 6 dicembre 2026",
+        "dateTime": "2026-12-06T00:00",
+        "text": "evento tradizionale • Bari • Nuova Fiera del Levante • Pro Loco italiane, tradizioni territoriali, enogastronomia e patrimonio culturale",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20delle%20Pro%20Loco&dates=20261206%2F20261207&details=Fiera%20delle%20Pro%20Loco%3A%20tradizioni%2C%20enogastronomia%20e%20patrimonio%20culturale%20dei%20territori%20italiani.&location=Nuova%20Fiera%20del%20Levante%2C%20Bari%2C%20Italia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.prolocolecce.it/2026/11/10/nasce-lhub-arce-puglia-per-lalleanza-delle-reti-delle-comunita-educanti-di-puglia/"
+      },
+      {
         "title": "Mostra Hobbismo e Scambio a Carbonara",
         "subtitle": "Domenica 6 dicembre, ore 06:00",
         "dateTime": "2026-12-06T06:00",
@@ -1401,6 +1410,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harlem%20Gospel%20Choir%20%E2%80%93%20Remembering%20Whitney%20%26%20Tina&dates=20261206T183000%2F20261206T193000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Concerto%20gospel%20dedicato%20a%20Whitney%20Houston%20e%20Tina%20Turner%20%7C%20https%3A%2F%2Fwww.teatroteam.it%2Fspettacolo%2Fharlem-gospel-choir%2F&location=Teatro%20Team%2C%20Via%20Giustina%20Rocca%2C%20Bari",
         "linkDettagliEvento": "https://www.teatroteam.it/spettacolo/harlem-gospel-choir/"
+      },
+      {
+        "title": "Fiera delle Pro Loco",
+        "subtitle": "Lunedì 7 dicembre 2026",
+        "dateTime": "2026-12-07T00:00",
+        "text": "evento tradizionale • Bari • Nuova Fiera del Levante • Pro Loco italiane, tradizioni territoriali, enogastronomia e patrimonio culturale",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20delle%20Pro%20Loco&dates=20261207%2F20261208&details=Fiera%20delle%20Pro%20Loco%3A%20tradizioni%2C%20enogastronomia%20e%20patrimonio%20culturale%20dei%20territori%20italiani.&location=Nuova%20Fiera%20del%20Levante%2C%20Bari%2C%20Italia&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.prolocolecce.it/2026/11/10/nasce-lhub-arce-puglia-per-lalleanza-delle-reti-delle-comunita-educanti-di-puglia/"
       }
     ]
   }
