@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-23T16:06:45.000Z",
+  "lastModifiedDate": "2026-11-23T16:43:13.016Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-22T21:00:04.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-23T16:06:45.000Z",
+    "lastModifiedDate": "2026-11-23T16:43:13.016Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,8 +454,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O1",
-      "lastCompletedAt": "2026-11-23T15:38:42.000Z",
+      "lastCompletedStep": "O2",
+      "lastCompletedAt": "2026-11-23T16:43:13.016Z",
       "cycleDate": "2026-11-23",
       "watchlistHash": null
     },
@@ -800,6 +800,15 @@
         "linkDettagliEvento": "https://puglia.piazzainfesta.it/bari/christmas-tree-market-il-mercato-degli-abeti-di-natale-149436"
       },
       {
+        "title": "La Magia dei Presepi al Municipio 3",
+        "subtitle": "Sabato 28 novembre • 10:00",
+        "dateTime": "2026-11-28T10:00",
+        "text": "mercatino • Bari • Municipio 3, via Ricchioni 1 • Presepi artistici e mercatino di artigianato e vintage, ingresso gratuito dalle 10:00 alle 18:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Magia%20dei%20Presepi%20al%20Municipio%203&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Municipio%203%2C%20via%20Ricchioni%201%20%E2%80%A2%20Presepi%20artistici%20e%20mercatino%20di%20artigianato%20e%20vintage%2C%20ingresso%20gratuito%20dalle%2010%3A00%20alle%2018%3A00&location=Municipio%203%2C%20via%20Ricchioni%201%2C%20Bari&dates=20261128T100000%2F20261128T180000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.telebari.it/spettacoli/272399-bari-magia-dei-presepi-e-mercatino-di-artigianato-e-vintage-il-28-e-29-novembre-nella-sede-del-municipio-3.html"
+      },
+      {
         "title": "Sagra du Chiacone",
         "subtitle": "Sabato 28 novembre • 18:30",
         "dateTime": "2026-11-28T18:30",
@@ -960,6 +969,15 @@
         "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-mercato-e-giornata-di-chiusura",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Slow%20Grains%202026&details=evento%20tradizionale%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%20%E2%80%A2%20Mercato%20dei%20produttori%20dalle%2010%3A00%20alle%2020%3A00%2C%20incontri%20sul%20grano%20e%20laboratorio%20del%20gusto&location=Palazzo%20Lanfranchi%2C%20Piazza%20Giovanni%20Pascoli%201%2C%20Matera&dates=20261129T100000%2F20261129T200000&ctz=Europe%2FRome",
         "logo": "TRADIZIONE"
+      },
+      {
+        "title": "La Magia dei Presepi al Municipio 3",
+        "subtitle": "Domenica 29 novembre • 10:00",
+        "dateTime": "2026-11-29T10:00",
+        "text": "mercatino • Bari • Municipio 3, via Ricchioni 1 • Presepi artistici e mercatino di artigianato e vintage, ingresso gratuito dalle 10:00 alle 18:00",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Magia%20dei%20Presepi%20al%20Municipio%203&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Municipio%203%2C%20via%20Ricchioni%201%20%E2%80%A2%20Presepi%20artistici%20e%20mercatino%20di%20artigianato%20e%20vintage%2C%20ingresso%20gratuito%20dalle%2010%3A00%20alle%2018%3A00&location=Municipio%203%2C%20via%20Ricchioni%201%2C%20Bari&dates=20261129T100000%2F20261129T180000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.telebari.it/spettacoli/272399-bari-magia-dei-presepi-e-mercatino-di-artigianato-e-vintage-il-28-e-29-novembre-nella-sede-del-municipio-3.html"
       },
       {
         "title": "Sapori d’Autunno – La Grande Tavola d’Autunno",
