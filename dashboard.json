@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-23T21:23:13.000Z",
+  "lastModifiedDate": "2026-11-23T21:43:14.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-23T21:23:13.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-23T21:14:44.516Z",
+    "lastModifiedDate": "2026-11-23T21:43:14.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,8 +454,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O3",
-      "lastCompletedAt": "2026-11-23T20:44:24.869Z",
+      "lastCompletedStep": "O1",
+      "lastCompletedAt": "2026-11-23T21:43:14.000Z",
       "cycleDate": "2026-11-23",
       "watchlistHash": null
     },
