@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-24T12:40:06Z",
+  "lastModifiedDate": "2026-11-24T14:40:07Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-23T21:23:13.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-24T12:40:06Z",
+    "lastModifiedDate": "2026-11-24T14:40:07Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -771,6 +771,15 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%20Feste%20d'Autunno%20%E2%80%93%20Loseto%20Vecchia&dates=20261128%2F20261129&details=Manifestazione%20itinerante%20con%20spettacoli%2C%20artisti%20di%20strada%20e%20mercatini%20artigianali.%20Fonte%3A%20https%3A%2F%2Fwww.bariviva.it%2Fnotizie%2Fbari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi%2F&location=Loseto%20Vecchia%2C%20Bari%2C%20Italia&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.bariviva.it/notizie/bari-feste-d-autunno-dal-20-al-28-novembre-un-programma-di-eventi-musica-e-animazione-nei-5-municipi/"
+      },
+      {
+        "title": "Vini sotto le Cummerse – Sagra degli gnumeredde",
+        "subtitle": "Sabato 28 novembre",
+        "dateTime": "2026-11-28T00:00",
+        "text": "sagra • Locorotondo • Piazza Vittorio Emanuele • Rassegna di vini da vitigni autoctoni e sagra degli gnumeredde suffuchete, a cura della Pro Loco",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vini%20sotto%20le%20Cummerse%20%E2%80%93%20Sagra%20degli%20gnumeredde&dates=20261128%2F20261129&details=sagra%20%E2%80%A2%20Locorotondo%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%20%E2%80%A2%20Rassegna%20di%20vini%20da%20vitigni%20autoctoni%20e%20sagra%20degli%20gnumeredde%20suffuchete%2C%20a%20cura%20della%20Pro%20Loco&location=Piazza%20Vittorio%20Emanuele%2C%20Locorotondo&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.istintoprimitivo.it/index.php/tutti-gli-eventi/2524-vini-sotto-le-cummerse-2026"
       },
       {
         "title": "Vintage Market Bari",
