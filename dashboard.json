@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-24T09:10:03.000Z",
+  "lastModifiedDate": "2026-11-24T12:40:06Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-23T21:23:13.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-24T09:10:03.000Z",
+    "lastModifiedDate": "2026-11-24T12:40:06Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -566,6 +566,15 @@
         "linkDettagliEvento": "https://20m2official.it/monopoli"
       },
       {
+        "title": "Forni e Frantoi – Degustazione di olio",
+        "subtitle": "Giovedì 26 novembre, ore 19:00",
+        "dateTime": "2026-11-26T19:00",
+        "text": "evento tradizionale • Bitonto • Torrione Angioino • Degustazione guidata di olio extravergine e prodotti tipici; prenotazione obbligatoria",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%20%E2%80%93%20Degustazione%20di%20olio&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Torrione%20Angioino%20%E2%80%A2%20Degustazione%20guidata%20di%20olio%20extravergine%20e%20prodotti%20tipici%3B%20prenotazione%20obbligatoria&location=Torrione%20Angioino%2C%20Bitonto&dates=20261126T190000%2F20261126T210000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://buzzeventmap.com/event/cfb67208-6ceb-409c-b06c-6e5b29838f05"
+      },
+      {
         "title": "Sergei Babayan",
         "subtitle": "giovedì 26 novembre 2026 ore 20:00",
         "dateTime": "2026-11-26T20:00",
@@ -636,6 +645,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mozart%20270&dates=20261127T200000%2F20261127T200000&details=Orchestra%20Filarmonica%20Pugliese%20e%20Annarosa%20Partipilo%3B%20ingresso%20libero&location=Chiesa%20di%20Santa%20Maria%20Veterana%2C%20Triggiano&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337059.html"
+      },
+      {
+        "title": "Forni e Frantoi – Cena a quattro mani",
+        "subtitle": "Venerdì 27 novembre, ore 20:00",
+        "dateTime": "2026-11-27T20:00",
+        "text": "evento tradizionale • Bitonto • Valastro, Piazza Cavour 23 • Cena dedicata ai piatti della tradizione; 45 euro, prenotazione obbligatoria",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%20%E2%80%93%20Cena%20a%20quattro%20mani&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Valastro%2C%20Piazza%20Cavour%2023%20%E2%80%A2%20Cena%20dedicata%20ai%20piatti%20della%20tradizione%3B%2045%20euro%2C%20prenotazione%20obbligatoria&location=Valastro%2C%20Piazza%20Cavour%2023%2C%20Bitonto&dates=20261127T200000%2F20261127T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://apulica.it/eventi/forni-e-frantoi-bitonto-2026/"
       },
       {
         "title": "Canto libero – Mina e Battisti",
@@ -798,6 +816,15 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%202026&dates=20261128T100000/20261128T190000&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Masseria%20Lama%20Balice%20%E2%80%A2%20Laboratori%20su%20tartufo%2C%20orecchiette%20e%20dolci%20tradizionali&location=Bitonto%20(BA)&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://apulica.it/eventi/forni-e-frantoi-bitonto-2026/"
+      },
+      {
+        "title": "Mercatini di Natale – Le Avventure di Pinocchio",
+        "subtitle": "Sabato 28 novembre, ore 10:00",
+        "dateTime": "2026-11-28T10:00",
+        "text": "mercatino • Locorotondo • Villa Comunale Giuseppe Garibaldi • Bancarelle artigianali e percorso natalizio dedicato a Pinocchio",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20di%20Natale%20%E2%80%93%20Le%20Avventure%20di%20Pinocchio&details=mercatino%20%E2%80%A2%20Locorotondo%20%E2%80%A2%20Villa%20Comunale%20Giuseppe%20Garibaldi%20%E2%80%A2%20Bancarelle%20artigianali%20e%20percorso%20natalizio%20dedicato%20a%20Pinocchio&location=Villa%20Comunale%20Giuseppe%20Garibaldi%2C%20Locorotondo&dates=20261128T100000%2F20261128T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://giraitalia.com/fiera/puglia/luci-natale-locorotondo-mercatini-avventure-pinocchio-8"
       },
       {
         "title": "Sagra du Chiacone",
