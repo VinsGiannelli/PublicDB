@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-24T01:40:23.870Z",
+  "lastModifiedDate": "2026-11-24T09:10:03.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-23T21:23:13.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-24T01:40:23.870Z",
+    "lastModifiedDate": "2026-11-24T09:10:03.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -466,33 +466,6 @@
       "watchlistHash": "e78da8d7"
     },
     "items": [
-      {
-        "title": "Negramaro – Cover band",
-        "subtitle": "lunedì 23 novembre 2026",
-        "dateTime": "2026-11-23T00:00",
-        "text": "live • Cisternino • 20m2, Via Gaetano d’Amico 11 • Serata cover dedicata ai Negramaro; orario non pubblicato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Negramaro%20%E2%80%93%20Cover%20band&dates=20261123%2F20261124&details=Serata%20cover%20dedicata%20ai%20Negramaro&location=20m2%2C%20Via%20Gaetano%20d%E2%80%99Amico%2011%2C%20Cisternino&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://20m2official.it/cisternino"
-      },
-      {
-        "title": "E sognò la libertà – Omaggio a Lucio Dalla e Alda Merini",
-        "subtitle": "Lunedì 23 novembre, ore 20:00",
-        "dateTime": "2026-11-23T20:00",
-        "text": "live • Turi • Palazzo Cozzolongo • Concerto letterario omaggio a Lucio Dalla e Alda Merini; ingresso gratuito su prenotazione",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=E%20sogn%C3%B2%20la%20libert%C3%A0%20%E2%80%93%20Omaggio%20a%20Lucio%20Dalla%20e%20Alda%20Merini&details=Concerto%20letterario%20con%20Pietro%20Verna%2C%20Francesco%20Galizia%2C%20Leonardo%20Torres%20e%20Gabriele%20Zanini.%20Ingresso%20gratuito%20su%20prenotazione.%20Inizio%20ore%2020%3A00%3B%20durata%20non%20comunicata.&location=Palazzo%20Cozzolongo%2C%20Via%20Maggiore%20Orlandi%2010%2C%20Turi&dates=20261123%2F20261124&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://artilibere.info/event/turi-ba-un-viaggio-tra-musica-e-poesia-con-e-sogno-la-liberta/"
-      },
-      {
-        "title": "Max Gazzè",
-        "subtitle": "Lunedì 23 novembre, ore 21:00",
-        "dateTime": "2026-11-23T21:00",
-        "text": "live • Bari • Teatro Piccinni • Concerto di Max Gazzè",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max%20Gazz%C3%A8&dates=20261123T210000%2F20261123T230000&details=Concerto%20di%20Max%20Gazz%C3%A8%20al%20Teatro%20Piccinni%2C%20Bari&location=Teatro%20Piccinni%2C%20Corso%20Vittorio%20Emanuele%20II%2084%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.bandsintown.com/v/10367277-teatro-piccinni?came_from=257"
-      },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
         "subtitle": "Martedì 24 novembre",
@@ -656,6 +629,15 @@
         "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-anteprima"
       },
       {
+        "title": "Mozart 270",
+        "subtitle": "Venerdì 27 novembre • Ore 20:00",
+        "dateTime": "2026-11-27T20:00",
+        "text": "live • Triggiano • Chiesa di Santa Maria Veterana • Orchestra Filarmonica Pugliese e Annarosa Partipilo; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mozart%20270&dates=20261127T200000%2F20261127T200000&details=Orchestra%20Filarmonica%20Pugliese%20e%20Annarosa%20Partipilo%3B%20ingresso%20libero&location=Chiesa%20di%20Santa%20Maria%20Veterana%2C%20Triggiano&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337059.html"
+      },
+      {
         "title": "Canto libero – Mina e Battisti",
         "subtitle": "Venerdì 27 novembre 2026 ore 21:00",
         "dateTime": "2026-11-27T21:00",
@@ -681,6 +663,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=G%20Family%20%E2%80%93%20Vintage%20Party%20Live&dates=20261127T210000%2F20261128T030000&ctz=Europe%2FRome&details=G%20Family%20dal%20vivo%2C%20show%20dinner%20con%20hit%20anni%2060%E2%80%9390%20e%20videoclip.%20A%20seguire%20video%20DJ%20set.&location=Fix%20it%20Culture%2C%20Viale%20Luigi%20Einaudi%2060%2C%20Bari",
         "linkDettagliEvento": "https://stayhappening.com/e/g-family-in-concerto-vintage-party-show-mix-audio-video-E118SB85S7E0I"
+      },
+      {
+        "title": "Califfo Band – Tributo a Franco Califano",
+        "subtitle": "Venerdì 27 novembre • Ore 21:00",
+        "dateTime": "2026-11-27T21:00",
+        "text": "live • Bisceglie • Da Sergio e Davide, Panoramica Umberto Paternostro 273 • Tributo dal vivo a Franco Califano; ingresso con cena",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Califfo%20Band%20%E2%80%93%20Tributo%20a%20Franco%20Califano&dates=20261127T210000%2F20261127T210000&details=Tributo%20dal%20vivo%20a%20Franco%20Califano%3B%20ingresso%20con%20cena&location=Da%20Sergio%20e%20Davide%2C%20Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337373.html"
       },
       {
         "title": "THE HORNETS in concerto",
@@ -843,6 +834,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SUR%20%E2%80%93%20Bolero%2C%20flamenco%20e%20canci%C3%B3n%20latinoamericana&details=live%20%E2%80%A2%20Bisceglie%20%E2%80%A2%20Palazzo%20Vives%20Frisari%20%E2%80%A2%20An%C3%A8t%20voce%20e%20Miguel%20Zepe%20D%C3%ADas%20chitarra%20%E2%80%A2%20Ingresso%2015%20%E2%82%AC&location=Palazzo%20Vives%20Frisari%2C%20Bisceglie&dates=20261128T203000%2F20261128T213000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/326867.html"
+      },
+      {
+        "title": "Metti una sera a Napoli",
+        "subtitle": "Sabato 28 novembre • Ore 20:30",
+        "dateTime": "2026-11-28T20:30",
+        "text": "live • Bari • AncheCinema, Corso Italia 112 • Omaggio alla musica napoletana con orchestra da camera e coro Tebaide",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Metti%20una%20sera%20a%20Napoli&dates=20261128T203000%2F20261128T203000&details=Omaggio%20alla%20musica%20napoletana%20con%20orchestra%20da%20camera%20e%20coro%20Tebaide&location=AncheCinema%2C%20Corso%20Italia%20112%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337045.html"
       },
       {
         "title": "I Vaskomodi – Vasco Rossi Tribute",
