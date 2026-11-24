@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-24T14:40:07Z",
+  "lastModifiedDate": "2026-11-24T21:10:02.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-23T21:23:13.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-24T14:40:07Z",
+    "lastModifiedDate": "2026-11-24T21:10:02.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -492,15 +492,6 @@
         "logo": "PATRONALE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Flaviano%20%E2%80%93%20Processione&dates=20261124T190000/20261124T200000&ctz=Europe%2FRome&details=Processione%20di%20gala%20e%20consegna%20delle%20chiavi%20della%20citt%C3%A0%20al%20Santo%20Patrono.%20https%3A%2F%2Fwww.apulianblogger.it%2Ffesta-san-flaviano-conversano-2026-programma%2F&location=Basilica%20Cattedrale%20e%20Piazza%20XX%20Settembre%2C%20Conversano",
         "linkDettagliEvento": "https://www.apulianblogger.it/festa-san-flaviano-conversano-2026-programma/"
-      },
-      {
-        "title": "A Dispetto Vedranno – Ensemble La Tempestad",
-        "subtitle": "Martedì 24 novembre • 20:00",
-        "dateTime": "2026-11-24T20:00",
-        "text": "live • Bari • Auditorium del Conservatorio Piccinni • Concerto di musica antica, festival Anima Mea • Ingresso 10 €",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Dispetto%20Vedranno%20%E2%80%93%20Ensemble%20La%20Tempestad&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Auditorium%20del%20Conservatorio%20Piccinni%20%E2%80%A2%20Concerto%20di%20musica%20antica%2C%20festival%20Anima%20Mea%20%E2%80%A2%20Ingresso%2010%20%E2%82%AC&location=Auditorium%20del%20Conservatorio%20Piccinni%2C%20Bari&dates=20261124T200000%2F20261124T210000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/333652.html"
       },
       {
         "title": "Piano Contemporary Music",
@@ -690,6 +681,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Califfo%20Band%20%E2%80%93%20Tributo%20a%20Franco%20Califano&dates=20261127T210000%2F20261127T210000&details=Tributo%20dal%20vivo%20a%20Franco%20Califano%3B%20ingresso%20con%20cena&location=Da%20Sergio%20e%20Davide%2C%20Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337373.html"
+      },
+      {
+        "title": "Rainbow Bridge plays Hendrix",
+        "subtitle": "Venerdì 27 novembre • 21:30",
+        "dateTime": "2026-11-27T21:30",
+        "text": "live • Barletta • Bohemien, Via Boccaccio 42/44 • Omaggio rock-blues a Jimi Hendrix; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rainbow%20Bridge%20plays%20Hendrix&details=live%20%E2%80%A2%20Barletta%20%E2%80%A2%20Bohemien%2C%20Via%20Boccaccio%2042%2F44%20%E2%80%A2%20Omaggio%20rock-blues%20a%20Jimi%20Hendrix%3B%20ingresso%20libero&location=Bohemien%2C%20Via%20Boccaccio%2042%2F44%2C%20Barletta&dates=20261127T213000%2F20261127T213000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337667.html"
       },
       {
         "title": "THE HORNETS in concerto",
