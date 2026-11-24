@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-24T01:25:42.000Z",
+  "lastModifiedDate": "2026-11-24T01:40:23.870Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-23T21:23:13.000Z",
@@ -360,7 +360,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-23T22:40:30.000Z",
+    "lastModifiedDate": "2026-11-24T01:40:23.870Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -454,8 +454,8 @@
       "Conservatorio Piccinni"
     ],
     "sagreExecution": {
-      "lastCompletedStep": "O2",
-      "lastCompletedAt": "2026-11-23T22:40:30.000Z",
+      "lastCompletedStep": "O3",
+      "lastCompletedAt": "2026-11-24T01:40:23.870Z",
       "cycleDate": "2026-11-23",
       "watchlistHash": null
     },
@@ -466,15 +466,6 @@
       "watchlistHash": "e78da8d7"
     },
     "items": [
-      {
-        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
-        "subtitle": "Lunedì 23 novembre",
-        "dateTime": "2026-11-23T00:00",
-        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
-        "logo": "SAGRA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%2C%20Matera&dates=20261123%2F20261124&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.chesagra.it/basilicata/mt/matera"
-      },
       {
         "title": "Negramaro – Cover band",
         "subtitle": "lunedì 23 novembre 2026",
@@ -1491,6 +1482,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apulia%20for%20Christmas&details=mercatino%20%E2%80%A2%20Monopoli%20%E2%80%A2%20Tenuta%20Monacelle%2C%20Selva%20di%20Fasano%20%E2%80%A2%20XII%20edizione%2C%20mercatini%20artigianali%2C%20degustazioni%20e%20tradizioni%20natalizie%2C%20dalle%2016%3A00%20alle%2023%3A00&location=Tenuta%20Monacelle%2C%20Selva%20di%20Fasano%2C%20Monopoli&dates=20261207T160000%2F20261207T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335320.html"
+      },
+      {
+        "title": "Pettole, vino e dolci natalizi in festa",
+        "subtitle": "Lunedì 7 dicembre, ore 18:00",
+        "dateTime": "2026-12-07T18:00",
+        "text": "sagra • Acquaviva delle Fonti • Piazza Vittorio Emanuele II • Pettole, vino e dolci natalizi, animazione e gastronomia a cura della Pro Loco Curtomartino; ingresso libero",
+        "logo": "SAGRA",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pettole%2C%20vino%20e%20dolci%20natalizi%20in%20festa&details=sagra%20%E2%80%A2%20Acquaviva%20delle%20Fonti%20%E2%80%A2%20Piazza%20Vittorio%20Emanuele%20II%20%E2%80%A2%20Pettole%2C%20vino%20e%20dolci%20natalizi%2C%20animazione%20e%20gastronomia%20a%20cura%20della%20Pro%20Loco%20Curtomartino%3B%20ingresso%20libero&location=Piazza%20Vittorio%20Emanuele%20II%2C%20Acquaviva%20delle%20Fonti&dates=20261207T180000%2F20261207T180000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337540.html"
       }
     ]
   }
