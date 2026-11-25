@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-25T01:36:09.000Z",
+  "lastModifiedDate": "2026-11-25T12:11:15.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-24T21:10:02.000Z",
+    "lastModifiedDate": "2026-11-25T12:11:15.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -504,24 +504,6 @@
         "logo": "PATRONALE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Flaviano%20%E2%80%93%20Processione&dates=20261124T190000/20261124T200000&ctz=Europe%2FRome&details=Processione%20di%20gala%20e%20consegna%20delle%20chiavi%20della%20citt%C3%A0%20al%20Santo%20Patrono.%20https%3A%2F%2Fwww.apulianblogger.it%2Ffesta-san-flaviano-conversano-2026-programma%2F&location=Basilica%20Cattedrale%20e%20Piazza%20XX%20Settembre%2C%20Conversano",
         "linkDettagliEvento": "https://www.apulianblogger.it/festa-san-flaviano-conversano-2026-programma/"
-      },
-      {
-        "title": "Piano Contemporary Music",
-        "subtitle": "Martedì 24 novembre • 20:00",
-        "dateTime": "2026-11-24T20:00",
-        "text": "live • Bari • Teatro Kursaal Santalucia • Concerto di musica contemporanea con Riikka Talvitie e Robert Fleitz • Ingresso 7,50–15 €",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Piano%20Contemporary%20Music&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Concerto%20di%20musica%20contemporanea%20con%20Riikka%20Talvitie%20e%20Robert%20Fleitz%20%E2%80%A2%20Ingresso%207%2C50%E2%80%9315%20%E2%82%AC&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&dates=20261124T200000%2F20261124T210000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334908.html"
-      },
-      {
-        "title": "Max Gazzè",
-        "subtitle": "Martedì 24 novembre • 21:00",
-        "dateTime": "2026-11-24T21:00",
-        "text": "live • Bari • Teatro Piccinni • Concerto di Max Gazzè",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max%20Gazz%C3%A8&dates=20261124T200000Z%2F20261124T220000Z&ctz=Europe%2FRome&details=Concerto%20di%20Max%20Gazz%C3%A8&location=Teatro%20Piccinni%2C%20Bari",
-        "linkDettagliEvento": "https://bassculture.it/bc-new/max-gazze-italy-tour-2026/"
       },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
@@ -657,6 +639,15 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%20%E2%80%93%20Cena%20a%20quattro%20mani&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Valastro%2C%20Piazza%20Cavour%2023%20%E2%80%A2%20Cena%20dedicata%20ai%20piatti%20della%20tradizione%3B%2045%20euro%2C%20prenotazione%20obbligatoria&location=Valastro%2C%20Piazza%20Cavour%2023%2C%20Bitonto&dates=20261127T200000%2F20261127T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://apulica.it/eventi/forni-e-frantoi-bitonto-2026/"
+      },
+      {
+        "title": "Rhomanife – Bless Up Party",
+        "subtitle": "Venerdì 27 novembre • 20:30",
+        "dateTime": "2026-11-27T20:30",
+        "text": "live • Bari • Morgana American Bar, Via Gioacchino Toma 101/103 • Presentazione live del singolo Bless Up; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rhomanife%20%E2%80%93%20Bless%20Up%20Party&dates=20261127T203000/20261127T203000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Morgana%20American%20Bar%2C%20Via%20Gioacchino%20Toma%20101%2F103%20%E2%80%A2%20Presentazione%20live%20del%20singolo%20Bless%20Up%3B%20ingresso%20libero&location=Morgana%20American%20Bar%2C%20Via%20Gioacchino%20Toma%20101%2F103%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.reggae.it/events/rhomanife-presentazione-bless-up"
       },
       {
         "title": "Canto libero – Mina e Battisti",
@@ -1071,6 +1062,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jessica%20Yuma%20%E2%80%93%20Recital%20pianistico&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Recital%20con%20musiche%20di%20Chopin%2C%20Busoni%20e%20Brahms%20%E2%80%A2%20Ingresso%20a%20pagamento&location=Teatro%20Kursaal%20Santalucia%2C%20Largo%20Adua%205%2F9%2C%20Bari&dates=20261129T190000Z%2F20261129T200000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/323114.html"
+      },
+      {
+        "title": "Semplicemente Mimì",
+        "subtitle": "Domenica 29 novembre • 20:30",
+        "dateTime": "2026-11-29T20:30",
+        "text": "live • Molfetta • Auditorium Madonna della Rosa, Viale Papa Giovanni Paolo II • Omaggio a Mia Martini con Annalisa Marella e band; ingresso 7,50–10 €",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Semplicemente%20Mim%C3%AC&dates=20261129T203000/20261129T203000&details=live%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Auditorium%20Madonna%20della%20Rosa%2C%20Viale%20Papa%20Giovanni%20Paolo%20II%20%E2%80%A2%20Omaggio%20a%20Mia%20Martini%20con%20Annalisa%20Marella%20e%20band%3B%20ingresso%207%2C50%E2%80%9310%20%E2%82%AC&location=Auditorium%20Madonna%20della%20Rosa%2C%20Viale%20Papa%20Giovanni%20Paolo%20II%2C%20Molfetta&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://oooh.events/evento/semplicemente-mimi-biglietti/"
       },
       {
         "title": "Biagio Antonacci – Cover band",
