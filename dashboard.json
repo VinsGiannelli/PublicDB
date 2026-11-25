@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-25T15:40:09.000Z",
+  "lastModifiedDate": "2026-11-25T16:35:17Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-25T15:40:09.000Z",
+    "lastModifiedDate": "2026-11-25T16:35:17Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -1035,6 +1035,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pasquale%20Iannone%20%E2%80%93%20Solo%20recital&details=live%20%E2%80%A2%20Rutigliano%20%E2%80%A2%20Teatro%20Metamorfosi%20%E2%80%A2%20Variazioni%20per%20pianoforte%2C%20Beethoven%2C%20Chopin%20e%20Rachmaninov%20%E2%80%A2%20Ingresso%208%E2%80%9315%20%E2%82%AC&location=Teatro%20Metamorfosi%2C%20Rutigliano&dates=20261129T180000%2F20261129T200000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336262.html"
+      },
+      {
+        "title": "Pettolata nel chiostro",
+        "subtitle": "Domenica 29 novembre • 19:00",
+        "dateTime": "2026-11-29T19:00",
+        "text": "evento tradizionale • Martina Franca • Chiesa e Chiostro di San Domenico, Via Principe Umberto • Pettolata organizzata dalla parrocchia di San Domenico; ingresso libero",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pettolata%20nel%20chiostro&dates=20261129T190000%2F20261129T190000&details=Pettolata%20organizzata%20dalla%20parrocchia%20di%20San%20Domenico%3B%20ingresso%20libero&location=Chiesa%20e%20Chiostro%20di%20San%20Domenico%2C%20Via%20Principe%20Umberto%2C%20Martina%20Franca&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337372.html"
       },
       {
         "title": "Jessica Yuma – Recital pianistico",
