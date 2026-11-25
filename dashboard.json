@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-25T12:11:15.000Z",
+  "lastModifiedDate": "2026-11-25T15:40:09.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-25T12:11:15.000Z",
+    "lastModifiedDate": "2026-11-25T15:40:09.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,33 +478,6 @@
       "watchlistHash": "e78da8d7"
     },
     "items": [
-      {
-        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
-        "subtitle": "Martedì 24 novembre",
-        "dateTime": "2026-11-24T00:00",
-        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261124%2F20261125&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
-        "logo": "SAGRA"
-      },
-      {
-        "title": "Fiera di San Flaviano",
-        "subtitle": "Martedì 24 novembre",
-        "dateTime": "2026-11-24T00:00",
-        "text": "mercatino • Conversano • Vie P.M. Accolti Gil, Pietro Nenni, Palmiro Togliatti, Marco Polo, Giuseppe Lacalandra e Michelangelo Buonarroti • Fiera tradizionale con circa 320 posteggi di commercio ambulante non alimentare",
-        "logo": "MERCATINO",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiera%20di%20San%20Flaviano&dates=20261124%2F20261125&ctz=Europe%2FRome&details=mercatino%20%E2%80%A2%20Conversano%20%E2%80%A2%20Vie%20P.M.%20Accolti%20Gil%2C%20Pietro%20Nenni%2C%20Palmiro%20Togliatti%2C%20Marco%20Polo%2C%20Giuseppe%20Lacalandra%20e%20Michelangelo%20Buonarroti%20%E2%80%A2%20Fiera%20tradizionale%20con%20circa%20320%20posteggi%20di%20commercio%20ambulante%20non%20alimentare&location=Vie%20P.M.%20Accolti%20Gil%20e%20Pietro%20Nenni%2C%20Conversano",
-        "linkDettagliEvento": "https://www.comune.conversano.ba.it/novita/concessione-dei-posteggi-fiera-di-san-flaviano-24-11-2026/"
-      },
-      {
-        "title": "Festa patronale di San Flaviano – Processione",
-        "subtitle": "Martedì 24 novembre • ore 19:00",
-        "dateTime": "2026-11-24T19:00",
-        "text": "festa patronale • Conversano • Basilica Cattedrale e Piazza XX Settembre • Processione di gala e tradizionale consegna delle chiavi della città al Santo Patrono",
-        "logo": "PATRONALE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Festa%20patronale%20di%20San%20Flaviano%20%E2%80%93%20Processione&dates=20261124T190000/20261124T200000&ctz=Europe%2FRome&details=Processione%20di%20gala%20e%20consegna%20delle%20chiavi%20della%20citt%C3%A0%20al%20Santo%20Patrono.%20https%3A%2F%2Fwww.apulianblogger.it%2Ffesta-san-flaviano-conversano-2026-programma%2F&location=Basilica%20Cattedrale%20e%20Piazza%20XX%20Settembre%2C%20Conversano",
-        "linkDettagliEvento": "https://www.apulianblogger.it/festa-san-flaviano-conversano-2026-programma/"
-      },
       {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
         "subtitle": "Mercoledì 25 novembre",
@@ -1026,6 +999,15 @@
         "logo": "MERCATINO",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Magia%20dei%20Presepi%20al%20Municipio%203&details=mercatino%20%E2%80%A2%20Bari%20%E2%80%A2%20Municipio%203%2C%20via%20Ricchioni%201%20%E2%80%A2%20Presepi%20artistici%20e%20mercatino%20di%20artigianato%20e%20vintage%2C%20ingresso%20gratuito%20dalle%2010%3A00%20alle%2018%3A00&location=Municipio%203%2C%20via%20Ricchioni%201%2C%20Bari&dates=20261129T100000%2F20261129T180000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.telebari.it/spettacoli/272399-bari-magia-dei-presepi-e-mercatino-di-artigianato-e-vintage-il-28-e-29-novembre-nella-sede-del-municipio-3.html"
+      },
+      {
+        "title": "Mercatini di Natale – Le Avventure di Pinocchio",
+        "subtitle": "Domenica 29 novembre • ore 10:00",
+        "dateTime": "2026-11-29T10:00",
+        "text": "mercatino • Locorotondo • Villa Comunale Giuseppe Garibaldi • Bancarelle artigianali e percorso natalizio dedicato a Pinocchio",
+        "logo": "MERCATINO",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercatini%20di%20Natale%20%E2%80%93%20Le%20Avventure%20di%20Pinocchio&details=mercatino%20%E2%80%A2%20Locorotondo%20%E2%80%A2%20Villa%20Comunale%20Giuseppe%20Garibaldi%20%E2%80%A2%20Bancarelle%20artigianali%20e%20percorso%20natalizio%20dedicato%20a%20Pinocchio&location=Villa%20Comunale%20Giuseppe%20Garibaldi%2C%20Locorotondo&dates=20261129T100000%2F20261129T220000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://giraitalia.com/weekend/puglia"
       },
       {
         "title": "Sapori d’Autunno – La Grande Tavola d’Autunno",
