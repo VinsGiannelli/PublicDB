@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-24T21:26:02.000Z",
+  "lastModifiedDate": "2026-11-25T01:36:09.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -259,7 +259,7 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-24T01:25:42.000Z",
+    "lastModifiedDate": "2026-11-25T01:36:09.000Z",
     "items": [
       {
         "title": "F1 Qatar – FP1",
@@ -348,7 +348,7 @@
         "dateTime": "2026-12-05T14:30",
         "text": "Serie C • Inter U23 – Bari",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Inter%20U23%20%E2%80%93%20Bari&details=Serie%20C%20%E2%80%A2%20Inter%20U23%20%E2%80%93%20Bari&location=Stadio%20Ernesto%20Breda%2C%20Sesto%20San%20Giovanni&dates=20261205T133000Z%2F20261205T153000Z&ctz=Europe%2FRome",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Inter%20U23%20%E2%80%93%20Bari&details=Serie%20C%20%E2%80%A2%20Inter%20U23%20%E2%80%93%20Bari&location=&dates=20261205T133000Z%2F20261205T153000Z&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.inter.it/it/matches?categoria=upcoming&competizione=all&squadra=under+23"
       },
       {
