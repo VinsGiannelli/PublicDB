@@ -1,4 +1,4 @@
-const CACHE='boxventuno-live-v4', ROOT=new URL('./',self.location.href), URLS=['index.html','scaletta.json','manifest.json','icon-192.png','icon-512.png'].map(x=>new URL(x,ROOT).href);
+const CACHE='boxventuno-live-v5', ROOT=new URL('./',self.location.href), URLS=['index.html','scaletta.json','manifest.json','icon-192.png','icon-512.png'].map(x=>new URL(x,ROOT).href);
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(URLS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const k of await caches.keys())if(k.startsWith('boxventuno-live-')&&k!==CACHE)await caches.delete(k);await self.clients.claim()})()));
 function valid(d){return Array.isArray(d)&&d.length&&d.every(s=>typeof s.title==='string'&&(s.bpm===null||(Number.isFinite(s.bpm)&&s.bpm>=20&&s.bpm<=300))&&(s.beats===null||(Number.isInteger(s.beats)&&s.beats>=1&&s.beats<=12)))}
