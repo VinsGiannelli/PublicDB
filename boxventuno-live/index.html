@@ -11,7 +11,7 @@
 <script>
 'use strict';
 const $=id=>document.getElementById(id);let songs=[],active=-1,start=0,raf=0,lock=null,installPrompt=null,entered=false,lastBeat=-1,requesting=false;
-const cacheName='boxventuno-live-v1';
+const cacheName='boxventuno-live-v2';
 function status(id,txt,cls=''){const e=$(id);e.textContent=txt;e.className='status '+cls}
 function drawBeats(n){$('beats').replaceChildren();for(let i=0;i<n;i++){const e=document.createElement('span');e.className='beat'+(!i?' first':'');e.textContent=i+1;$('beats').append(e)}lastBeat=-1}
 drawBeats(4);
@@ -27,7 +27,7 @@ $('enter').onclick=enter;
 window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();installPrompt=e;$('install').hidden=false});
 window.addEventListener('appinstalled',()=>{installPrompt=null;enter()});
 $('install').onclick=async()=>{if(installPrompt){try{await installPrompt.prompt();const result=await installPrompt.userChoice;installPrompt=null;if(result.outcome==='accepted'){ $('installHint').textContent='Installazione confermata. Apri l’app dalla schermata Home.';$('installHint').hidden=false}return}catch(e){installPrompt=null}}$('installHint').hidden=false;$('installHint').textContent=/iPhone|iPad|iPod/.test(navigator.userAgent)|| (navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1)?'In Safari: Condividi → Aggiungi alla schermata Home.':'Apri il menu del browser e seleziona Installa app o Aggiungi alla schermata Home. Se non appare, attendi il completamento del primo caricamento.'};
-if(matchMedia('(display-mode: standalone)').matches||navigator.standalone===true)enter();
+enter();
 function valid(data){return Array.isArray(data)&&data.length>0&&data.every(s=>typeof s.title==='string'&&Number.isFinite(s.bpm)&&s.bpm>=20&&s.bpm<=300&&Number.isInteger(s.beats)&&s.beats>=1&&s.beats<=12)}
 async function load(){try{const r=await fetch('./scaletta.json',{cache:'no-store'});if(!r.ok)throw Error();const d=await r.json();if(!valid(d))throw Error();songs=d;renderList();status('sync','Scaletta demo caricata','ok')}catch(e){status('sync','Scaletta non disponibile','warn');$('songTitle').textContent='Ricarica la pagina online'}}
 async function offlineCheck(){try{const c=await caches.open(cacheName);const files=['./index.html','./scaletta.json','./manifest.json','./icon-192.png','./icon-512.png'];const all=await Promise.all(files.map(f=>c.match(new URL(f,location.href))));status('offline',all.every(Boolean)&&navigator.serviceWorker.controller?'Offline: pronto':'Offline: non ancora pronto',all.every(Boolean)&&navigator.serviceWorker.controller?'ok':'warn')}catch(e){status('offline','Offline: non disponibile','warn')}}
