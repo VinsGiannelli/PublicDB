@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-25T16:35:17Z",
+  "lastModifiedDate": "2026-11-26T00:42:34Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -372,7 +372,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-25T16:35:17Z",
+    "lastModifiedDate": "2026-11-26T00:42:34Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -478,15 +478,6 @@
       "watchlistHash": "e78da8d7"
     },
     "items": [
-      {
-        "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
-        "subtitle": "Mercoledì 25 novembre",
-        "dateTime": "2026-11-25T00:00",
-        "text": "sagra • Matera • Palazzo Malvinni Malvezzi e Piazza San Francesco • Rassegna gastronomica dedicata al tartufo bianco lucano, degustazioni e incontri",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261125%2F20261126&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
-        "logo": "SAGRA"
-      },
       {
         "title": "Uicheol Uhm – Le star del futuro",
         "subtitle": "Mercoledì 25 novembre • 11:00",
@@ -963,6 +954,15 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%202026&dates=20261129T090000/20261129T200000&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Piazza%20Cavour%20e%20forni%20e%20frantoi%20cittadini%20%E2%80%A2%20Visite%2C%20degustazioni%20e%20Mercato%20della%20Terra%20e%20dell'artigianato&location=Bitonto%20(BA)&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://apulica.it/eventi/forni-e-frantoi-bitonto-2026/"
+      },
+      {
+        "title": "Toritto Oil Experience – Note d’Olio",
+        "subtitle": "Domenica 29 novembre • 09:00",
+        "dateTime": "2026-11-29T09:00",
+        "text": "evento tradizionale • Toritto • Piazzale Stazione 1 • Raccolta delle olive, visita in frantoio e degustazione di olio novello; prenotazione obbligatoria",
+        "logo": "TRADIZIONE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Toritto%20Oil%20Experience%20%E2%80%93%20Note%20d%E2%80%99Olio&details=evento%20tradizionale%20%E2%80%A2%20Toritto%20%E2%80%A2%20Piazzale%20Stazione%201%20%E2%80%A2%20Raccolta%20delle%20olive%2C%20visita%20in%20frantoio%20e%20degustazione%20di%20olio%20novello%3B%20prenotazione%20obbligatoria&location=Piazzale%20Stazione%201%2C%20Toritto&dates=20261129T090000%2F20261129T130000&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335866.html"
       },
       {
         "title": "Vintage Market Bari",
