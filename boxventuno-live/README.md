@@ -1,2 +1,2 @@
-# Boxventuno Live — prototipo
-Scaletta e BPM dimostrativi, non verificati. Modificare scaletta.json mantenendo title, bpm, beats e meter. Pubblicare tramite GitHub Pages su main / root e aprire /boxventuno-live/. Testare su dispositivo reale: installazione, modalità aereo dopo indicatore Offline pronto, Wake Lock, durata prova. Nessun audio o dipendenza esterna.
+# Boxventuno Live
+Scaletta numerata 1–19 importata dal foglio della band (sezione destra). BPM e metrica non presenti nel foglio: null indica un dato da definire; nessun metronomo viene avviato senza bpm e beats validi. Modificare scaletta.json per aggiungere i tempi concordati. Testare installazione, modalità aereo e Wake Lock sul dispositivo reale.
