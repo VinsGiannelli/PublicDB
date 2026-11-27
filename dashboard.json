@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-26T01:07:03.748Z",
+  "lastModifiedDate": "2026-11-27T01:14:09.614Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -259,7 +259,7 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-26T01:07:03.748Z",
+    "lastModifiedDate": "2026-11-27T01:14:09.614Z",
     "items": [
       {
         "title": "F1 Qatar – FP1",
@@ -267,8 +267,8 @@
         "dateTime": "2026-11-27T14:30",
         "text": "Formula 1 • GP Qatar • FP1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP1&dates=20261127T133000Z/20261127T143000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP1&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP1&dates=20261127T133000Z%2F20261127T143000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP1&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/qatar"
       },
       {
         "title": "F1 Qatar – FP2",
@@ -276,8 +276,8 @@
         "dateTime": "2026-11-27T18:00",
         "text": "Formula 1 • GP Qatar • FP2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP2&dates=20261127T170000Z/20261127T180000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP2&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP2&dates=20261127T170000Z%2F20261127T180000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP2&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/qatar"
       },
       {
         "title": "F1 Qatar – FP3",
@@ -285,8 +285,8 @@
         "dateTime": "2026-11-28T15:30",
         "text": "Formula 1 • GP Qatar • FP3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP3&dates=20261128T143000Z/20261128T153000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP3&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP3&dates=20261128T143000Z%2F20261128T153000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP3&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/qatar"
       },
       {
         "title": "F1 Qatar – Qualifiche",
@@ -294,8 +294,8 @@
         "dateTime": "2026-11-28T19:00",
         "text": "Formula 1 • GP Qatar • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20Qualifiche&dates=20261128T180000Z/20261128T190000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Qualifiche&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20Qualifiche&dates=20261128T180000Z%2F20261128T190000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Qualifiche&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/qatar"
       },
       {
         "title": "F1 Qatar – Gara",
@@ -303,17 +303,16 @@
         "dateTime": "2026-11-29T17:00",
         "text": "Formula 1 • GP Qatar • Gara",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20Gara&dates=20261129T160000Z/20261129T180000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Gara&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20Gara&dates=20261129T160000Z%2F20261129T180000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20Gara&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/qatar"
       },
       {
         "title": "Bari–Savoia",
         "subtitle": "Domenica 29 novembre • 17:30",
         "dateTime": "2026-11-29T17:30",
-        "text": "Serie C • Partita",
+        "text": "Serie C Girone C • Partita",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%E2%80%93Savoia&dates=20261129T163000Z/20261129T183000Z&details=Serie%20C%20%E2%80%A2%20Partita&location=Stadio%20San%20Nicola%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.repubblica.it/sport/dirette/calcio/serie-c-2026/calendario/savoia-alsgak4t9uzf9dnl8ne1t3hzx/"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bari%E2%80%93Savoia&dates=20261129T163000Z%2F20261129T183000Z&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Partita&location=Stadio%20San%20Nicola%2C%20Bari&ctz=Europe%2FRome"
       },
       {
         "title": "F1 Abu Dhabi – FP1",
@@ -321,8 +320,8 @@
         "dateTime": "2026-12-04T10:30",
         "text": "Formula 1 • GP Abu Dhabi • FP1",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20FP1&dates=20261204T093000Z/20261204T103000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20FP1&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi%2C%20Emirati%20Arabi%20Uniti&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20FP1&dates=20261204T093000Z%2F20261204T103000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20FP1&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
       },
       {
         "title": "F1 Abu Dhabi – FP2",
@@ -330,8 +329,8 @@
         "dateTime": "2026-12-04T14:00",
         "text": "Formula 1 • GP Abu Dhabi • FP2",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20FP2&dates=20261204T130000Z/20261204T140000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20FP2&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi%2C%20Emirati%20Arabi%20Uniti&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20FP2&dates=20261204T130000Z%2F20261204T140000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20FP2&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
       },
       {
         "title": "F1 Abu Dhabi – FP3",
@@ -339,17 +338,16 @@
         "dateTime": "2026-12-05T11:30",
         "text": "Formula 1 • GP Abu Dhabi • FP3",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20FP3&dates=20261205T103000Z/20261205T113000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20FP3&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi%2C%20Emirati%20Arabi%20Uniti&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20FP3&dates=20261205T103000Z%2F20261205T113000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20FP3&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
       },
       {
         "title": "Inter U23–Bari",
         "subtitle": "Sabato 5 dicembre • 14:30",
         "dateTime": "2026-12-05T14:30",
-        "text": "Serie C • Partita",
+        "text": "Serie C Girone C • Partita",
         "logo": "BA",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Inter%20U23%E2%80%93Bari&dates=20261205T133000Z/20261205T153000Z&details=Serie%20C%20%E2%80%A2%20Partita&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://tusport.com/soccer/team/ssc-bari/p3glrw7he81qdyj/23xmvkh3343qg8n/p4jwq2ghxgm0veo/matches"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Inter%20U23%E2%80%93Bari&dates=20261205T133000Z%2F20261205T153000Z&details=Serie%20C%20Girone%20C%20%E2%80%A2%20Partita&location=&ctz=Europe%2FRome"
       },
       {
         "title": "F1 Abu Dhabi – Qualifiche",
@@ -357,8 +355,8 @@
         "dateTime": "2026-12-05T15:00",
         "text": "Formula 1 • GP Abu Dhabi • Qualifiche",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20Qualifiche&dates=20261205T140000Z/20261205T150000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20Qualifiche&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi%2C%20Emirati%20Arabi%20Uniti&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20Qualifiche&dates=20261205T140000Z%2F20261205T150000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20Qualifiche&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
       },
       {
         "title": "F1 Abu Dhabi – Gara",
@@ -366,8 +364,8 @@
         "dateTime": "2026-12-06T14:00",
         "text": "Formula 1 • GP Abu Dhabi • Gara",
         "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20Gara&dates=20261206T130000Z/20261206T150000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20Gara&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi%2C%20Emirati%20Arabi%20Uniti&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Abu%20Dhabi%20%E2%80%93%20Gara&dates=20261206T130000Z%2F20261206T150000Z&details=Formula%201%20%E2%80%A2%20GP%20Abu%20Dhabi%20%E2%80%A2%20Gara&location=Yas%20Marina%20Circuit%2C%20Abu%20Dhabi&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
       }
     ]
   },
