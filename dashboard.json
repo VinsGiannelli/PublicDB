@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-27T01:14:09.614Z",
+  "lastModifiedDate": "2026-11-27T23:14:46.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -370,7 +370,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-26T00:42:34Z",
+    "lastModifiedDate": "2026-11-27T23:14:46.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -477,24 +477,6 @@
     },
     "items": [
       {
-        "title": "Uicheol Uhm – Le star del futuro",
-        "subtitle": "Mercoledì 25 novembre • 11:00",
-        "dateTime": "2026-11-25T11:00",
-        "text": "live • Bari • Teatro Kursaal Santalucia • Recital pianistico con Bach, Haydn e Schubert; ingresso a pagamento",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Uicheol%20Uhm%20%E2%80%93%20Le%20star%20del%20futuro&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Kursaal%20Santalucia%20%E2%80%A2%20Recital%20pianistico%20con%20Bach%2C%20Haydn%20e%20Schubert%3B%20ingresso%20a%20pagamento&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&dates=20261125T110000%2F20261125T120000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/334914.html"
-      },
-      {
-        "title": "Max Gazzè",
-        "subtitle": "Mercoledì 25 novembre • 21:00",
-        "dateTime": "2026-11-25T21:00",
-        "text": "live • Bari • Teatro Piccinni • L'ornamento delle cose secondarie, concerto dal vivo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Max%20Gazz%C3%A8&dates=20261125T200000Z%2F20261125T220000Z&ctz=Europe%2FRome&details=Max%20Gazz%C3%A8%20-%20L'ornamento%20delle%20cose%20secondarie%2C%20concerto%20dal%20vivo&location=Teatro%20Piccinni%2C%20Corso%20Vittorio%20Emanuele%20II%2084%2C%20Bari",
-        "linkDettagliEvento": "https://bassculture.it/bc-new/max-gazze-italy-tour-2026/"
-      },
-      {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
         "subtitle": "Giovedì 26 novembre",
         "dateTime": "2026-11-26T00:00",
@@ -502,15 +484,6 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261126%2F20261127&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-il-tartufo-bianco-pregiato-di-basilicata-presentato-a-roma-levento-in-programma-a-matera-dal-20-al-29-novembre-2026/",
         "logo": "SAGRA"
-      },
-      {
-        "title": "Cesare Cremonini – Cover band",
-        "subtitle": "giovedì 26 novembre 2026",
-        "dateTime": "2026-11-26T00:00",
-        "text": "live • Monopoli • 20m2, Via Giuseppe Garibaldi 66 • Serata cover dedicata a Cesare Cremonini; orario non pubblicato",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cesare%20Cremonini%20%E2%80%93%20Cover%20band&dates=20261126%2F20261127&details=Serata%20cover%20dedicata%20a%20Cesare%20Cremonini&location=20m2%2C%20Via%20Giuseppe%20Garibaldi%2066%2C%20Monopoli&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://20m2official.it/monopoli"
       },
       {
         "title": "Forni e Frantoi – Degustazione di olio",
@@ -522,24 +495,6 @@
         "linkDettagliEvento": "https://buzzeventmap.com/event/cfb67208-6ceb-409c-b06c-6e5b29838f05"
       },
       {
-        "title": "Sergei Babayan",
-        "subtitle": "giovedì 26 novembre 2026 ore 20:00",
-        "dateTime": "2026-11-26T20:00",
-        "text": "live • Bari • Teatro Kursaal Santalucia • Recital pianistico al Festival Pianistico Internazionale del Mediterraneo",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sergei%20Babayan&dates=20261126T200000%2F20261126T213000&details=Recital%20pianistico%20al%20Festival%20Pianistico%20Internazionale%20del%20Mediterraneo&location=Teatro%20Kursaal%20Santalucia%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://visitabari.com/eventi/festival-pianistico-internazionale-del-mediterraneo-al-kursaal-santalucia-a-madonnella/"
-      },
-      {
-        "title": "Caro Endrigo",
-        "subtitle": "Giovedì 26 novembre • 20:30",
-        "dateTime": "2026-11-26T20:30",
-        "text": "live • Bari • La DolceVita Live, Via Albanese 41 • Dario Skepisi Duet, omaggio alle canzoni di Sergio Endrigo; ingresso a pagamento",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Caro%20Endrigo&dates=20261126T203000%2F20261126T213000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20La%20DolceVita%20Live%2C%20Via%20Albanese%2041%20%E2%80%A2%20Dario%20Skepisi%20Duet%2C%20omaggio%20alle%20canzoni%20di%20Sergio%20Endrigo%3B%20ingresso%20a%20pagamento&location=La%20DolceVita%20Live%2C%20Via%20Albanese%2041%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335438.html"
-      },
-      {
         "title": "Tesori dalla Terra – Tartufo Bianco Pregiato",
         "subtitle": "Venerdì 27 novembre",
         "dateTime": "2026-11-27T00:00",
@@ -547,24 +502,6 @@
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesori%20dalla%20Terra%20%E2%80%93%20Tartufo%20Bianco%20Pregiato&details=sagra%20%E2%80%A2%20Matera%20%E2%80%A2%20Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%20%E2%80%A2%20Rassegna%20gastronomica%20dedicata%20al%20tartufo%20bianco%20lucano%2C%20degustazioni%20e%20incontri&location=Palazzo%20Malvinni%20Malvezzi%20e%20Piazza%20San%20Francesco%2C%20Matera&dates=20261127%2F20261128&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.sassilive.it/economia/enogastronomia/tesori-dalla-terra-a-matera-il-tartufo-prende-il-volo-dieci-giorni-di-gusto-nella-citta-dei-sassi/",
         "logo": "SAGRA"
-      },
-      {
-        "title": "Hybrid Light & Fallen – Linkin Park & Evanescence Tribute",
-        "subtitle": "Venerdì 27 novembre",
-        "dateTime": "2026-11-27T00:00",
-        "text": "live • Matera • Midnight Pub Live • Tributi dal vivo a Linkin Park ed Evanescence",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hybrid%20Light%20%26%20Fallen%20%E2%80%93%20Linkin%20Park%20%26%20Evanescence%20Tribute&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Midnight%20Pub%20Live%20%E2%80%A2%20Tributi%20dal%20vivo%20a%20Linkin%20Park%20ed%20Evanescence&location=Midnight%20Pub%20Live%2C%20Matera&dates=20261127%2F20261128&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.midnightpublive.com/event/hybrid-light-fallen-linkin-park-evanescence-tribute-band/",
-        "logo": "LIVE"
-      },
-      {
-        "title": "Mara Sattei — Club Tour 2026",
-        "subtitle": "Venerdì 27 novembre 2026",
-        "dateTime": "2026-11-27T00:00",
-        "text": "live • Conversano • Casa delle Arti • Concerto del Club Tour 2026",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mara%20Sattei%20%E2%80%94%20Club%20Tour%202026&dates=20261127%2F20261128&details=live%20%E2%80%A2%20Conversano%20%E2%80%A2%20Casa%20delle%20Arti%20%E2%80%A2%20Concerto%20del%20Club%20Tour%202026&location=Casa%20delle%20Arti%2C%20Via%20Donato%20Iaia%2014%2C%20Conversano&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/321856.html"
       },
       {
         "title": "Bari Feste d'Autunno – Viale don Luigi Sturzo e via Papa Giovanni XXIII",
@@ -585,15 +522,6 @@
         "linkDettagliEvento": "https://www.materacitypass.com/it/events/slow-grains-2026-anteprima"
       },
       {
-        "title": "Mozart 270",
-        "subtitle": "Venerdì 27 novembre • Ore 20:00",
-        "dateTime": "2026-11-27T20:00",
-        "text": "live • Triggiano • Chiesa di Santa Maria Veterana • Orchestra Filarmonica Pugliese e Annarosa Partipilo; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mozart%20270&dates=20261127T200000%2F20261127T200000&details=Orchestra%20Filarmonica%20Pugliese%20e%20Annarosa%20Partipilo%3B%20ingresso%20libero&location=Chiesa%20di%20Santa%20Maria%20Veterana%2C%20Triggiano&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337059.html"
-      },
-      {
         "title": "Forni e Frantoi – Cena a quattro mani",
         "subtitle": "Venerdì 27 novembre, ore 20:00",
         "dateTime": "2026-11-27T20:00",
@@ -601,69 +529,6 @@
         "logo": "TRADIZIONE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Forni%20e%20Frantoi%20%E2%80%93%20Cena%20a%20quattro%20mani&details=evento%20tradizionale%20%E2%80%A2%20Bitonto%20%E2%80%A2%20Valastro%2C%20Piazza%20Cavour%2023%20%E2%80%A2%20Cena%20dedicata%20ai%20piatti%20della%20tradizione%3B%2045%20euro%2C%20prenotazione%20obbligatoria&location=Valastro%2C%20Piazza%20Cavour%2023%2C%20Bitonto&dates=20261127T200000%2F20261127T220000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://apulica.it/eventi/forni-e-frantoi-bitonto-2026/"
-      },
-      {
-        "title": "Rhomanife – Bless Up Party",
-        "subtitle": "Venerdì 27 novembre • 20:30",
-        "dateTime": "2026-11-27T20:30",
-        "text": "live • Bari • Morgana American Bar, Via Gioacchino Toma 101/103 • Presentazione live del singolo Bless Up; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rhomanife%20%E2%80%93%20Bless%20Up%20Party&dates=20261127T203000/20261127T203000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Morgana%20American%20Bar%2C%20Via%20Gioacchino%20Toma%20101%2F103%20%E2%80%A2%20Presentazione%20live%20del%20singolo%20Bless%20Up%3B%20ingresso%20libero&location=Morgana%20American%20Bar%2C%20Via%20Gioacchino%20Toma%20101%2F103%2C%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.reggae.it/events/rhomanife-presentazione-bless-up"
-      },
-      {
-        "title": "Canto libero – Mina e Battisti",
-        "subtitle": "Venerdì 27 novembre 2026 ore 21:00",
-        "dateTime": "2026-11-27T21:00",
-        "text": "live • Mola di Bari • Palazzo Pesce, Sala Etrusca • Omaggio a Mina e Lucio Battisti con Ida Gigante, Giuseppe Leo e Matteo Scura",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canto%20libero%20%E2%80%93%20Mina%20e%20Battisti&dates=20261127T210000%2F20261127T230000&details=live%20%E2%80%A2%20Mola%20di%20Bari%20%E2%80%A2%20Palazzo%20Pesce%2C%20Sala%20Etrusca%20%E2%80%A2%20Omaggio%20a%20Mina%20e%20Lucio%20Battisti%20con%20Ida%20Gigante%2C%20Giuseppe%20Leo%20e%20Matteo%20Scura&location=Palazzo%20Pesce%2C%20Via%20Van%20Westerhout%2024%2C%20Mola%20di%20Bari&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://palazzopescelocationeventi.com/2026/09/24/27-novembre-2026-canto-libero-mina-e-battisti/"
-      },
-      {
-        "title": "Milva Tangø Project – Una voce tra poesia e impulso",
-        "subtitle": "Venerdì 27 novembre • 21:00",
-        "dateTime": "2026-11-27T21:00",
-        "text": "live • Bari • Teatro Casa di Pulcinella • Omaggio musicale a Milva con Mariangela Cagnetta e ensemble Projectango; ingresso con prenotazione",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Milva%20Tang%C3%B8%20Project%20%E2%80%93%20Una%20voce%20tra%20poesia%20e%20impulso&dates=20261127T210000%2F20261127T220000&ctz=Europe%2FRome&details=Omaggio%20musicale%20a%20Milva%20con%20Mariangela%20Cagnetta%20e%20ensemble%20Projectango%3B%20ingresso%20con%20prenotazione&location=Teatro%20Casa%20di%20Pulcinella%2C%20Arena%20della%20Vittoria%204%2Fa%2C%20Bari",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/335548.html"
-      },
-      {
-        "title": "G Family – Vintage Party Live",
-        "subtitle": "Venerdì 27 novembre, ore 21:00",
-        "dateTime": "2026-11-27T21:00",
-        "text": "live • Bari • Fix it Culture, Viale Luigi Einaudi 60 • G Family dal vivo, show dinner con successi dagli anni '60 agli anni '90; a seguire video DJ set",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=G%20Family%20%E2%80%93%20Vintage%20Party%20Live&dates=20261127T210000%2F20261128T030000&ctz=Europe%2FRome&details=G%20Family%20dal%20vivo%2C%20show%20dinner%20con%20hit%20anni%2060%E2%80%9390%20e%20videoclip.%20A%20seguire%20video%20DJ%20set.&location=Fix%20it%20Culture%2C%20Viale%20Luigi%20Einaudi%2060%2C%20Bari",
-        "linkDettagliEvento": "https://stayhappening.com/e/g-family-in-concerto-vintage-party-show-mix-audio-video-E118SB85S7E0I"
-      },
-      {
-        "title": "Califfo Band – Tributo a Franco Califano",
-        "subtitle": "Venerdì 27 novembre • Ore 21:00",
-        "dateTime": "2026-11-27T21:00",
-        "text": "live • Bisceglie • Da Sergio e Davide, Panoramica Umberto Paternostro 273 • Tributo dal vivo a Franco Califano; ingresso con cena",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Califfo%20Band%20%E2%80%93%20Tributo%20a%20Franco%20Califano&dates=20261127T210000%2F20261127T210000&details=Tributo%20dal%20vivo%20a%20Franco%20Califano%3B%20ingresso%20con%20cena&location=Da%20Sergio%20e%20Davide%2C%20Panoramica%20Umberto%20Paternostro%20273%2C%20Bisceglie&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337373.html"
-      },
-      {
-        "title": "Rainbow Bridge plays Hendrix",
-        "subtitle": "Venerdì 27 novembre • 21:30",
-        "dateTime": "2026-11-27T21:30",
-        "text": "live • Barletta • Bohemien, Via Boccaccio 42/44 • Omaggio rock-blues a Jimi Hendrix; ingresso libero",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rainbow%20Bridge%20plays%20Hendrix&details=live%20%E2%80%A2%20Barletta%20%E2%80%A2%20Bohemien%2C%20Via%20Boccaccio%2042%2F44%20%E2%80%A2%20Omaggio%20rock-blues%20a%20Jimi%20Hendrix%3B%20ingresso%20libero&location=Bohemien%2C%20Via%20Boccaccio%2042%2F44%2C%20Barletta&dates=20261127T213000%2F20261127T213000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337667.html"
-      },
-      {
-        "title": "THE HORNETS in concerto",
-        "subtitle": "Venerdì 27 novembre • ore 22:00",
-        "dateTime": "2026-11-27T22:00",
-        "text": "live • Cassano delle Murge • Pecora Nera Country Pub • Concerto rock dal vivo dei The Hornets",
-        "logo": "LIVE",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=THE%20HORNETS%20in%20concerto&details=live%20%E2%80%A2%20Cassano%20delle%20Murge%20%E2%80%A2%20Pecora%20Nera%20Country%20Pub%20%E2%80%A2%20Concerto%20rock%20dal%20vivo%20dei%20The%20Hornets&location=Pecora%20Nera%20Country%20Pub%2C%20Cassano%20delle%20Murge&dates=20261127T220000%2F20261127T230000&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/336315.html"
       },
       {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
@@ -889,6 +754,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Barisound%20%26%20Parentesi%20Night%20%E2%80%93%20Night%20%26%20Dance&dates=20261128T210000%2F20261128T220000&ctz=Europe%2FRome&details=Barisound%20dal%20vivo%20e%20Parentesi%20Night.%20Ingresso%20libero%20con%20consumazione%20obbligatoria.%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F337419.html&location=Black%20Horses%20Pub%2C%20Via%20Principe%20Amedeo%20162%2C%20Bari",
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337419.html"
+      },
+      {
+        "title": "CTRL+Z in concerto",
+        "subtitle": "Sabato 28 novembre, ore 21:30",
+        "dateTime": "2026-11-28T21:30",
+        "text": "live • Barletta • Caffè Letterario, Via Geremia Di Scanno 94/96, Barletta • Band alternative rock dal vivo; ingresso libero",
+        "logo": "LIVE",
+        "link": "https://www.google.com/calendar/render?action=TEMPLATE&text=CTRL%2BZ%20in%20concerto&dates=20261128T213000%2F20261128T213000&ctz=Europe%2FRome&details=Band%20alternative%20rock%20dal%20vivo%3B%20ingresso%20libero%20https%3A%2F%2Filtaccodibacco.it%2Fpuglia%2Feventi%2F338121.html&location=Caff%C3%A8%20Letterario%2C%20Via%20Geremia%20Di%20Scanno%2094%2F96%2C%20Barletta",
+        "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/338121.html"
       },
       {
         "title": "Sagra del Fungo Cardoncello e della Carne di Cinghiale Selvatico",
