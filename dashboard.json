@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-28T15:07:12.000Z",
+  "lastModifiedDate": "2026-11-28T19:08:04.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -352,7 +352,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-28T15:07:12.000Z",
+    "lastModifiedDate": "2026-11-28T19:08:04.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -909,6 +909,15 @@
         "linkDettagliEvento": "https://iltaccodibacco.it/puglia/eventi/337372.html"
       },
       {
+        "title": "Candlelight – Tributo a Ludovico Einaudi",
+        "subtitle": "Domenica 29 novembre • Ore 19:00",
+        "dateTime": "2026-11-29T19:00",
+        "text": "live • Noicattaro • UNAHOTELS Regina Bari, SP57, Noicattaro • Pianoforte solista, Daniele Chiappini",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Candlelight%20%E2%80%93%20Tributo%20a%20Ludovico%20Einaudi&dates=20261129T190000/20261129T200000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Noicattaro%20%E2%80%A2%20UNAHOTELS%20Regina%20Bari%2C%20SP57%2C%20Noicattaro%20%E2%80%A2%20Pianoforte%20solista%2C%20Daniele%20Chiappini&location=UNAHOTELS%20Regina%20Bari%2C%20SP57%2C%20Noicattaro",
+        "linkDettagliEvento": "https://feverup.com/m/139157/en"
+      },
+      {
         "title": "Jessica Yuma – Recital pianistico",
         "subtitle": "Domenica 29 novembre • 20:00",
         "dateTime": "2026-11-29T20:00",
@@ -925,6 +934,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Semplicemente%20Mim%C3%AC&dates=20261129T203000/20261129T203000&details=live%20%E2%80%A2%20Molfetta%20%E2%80%A2%20Auditorium%20Madonna%20della%20Rosa%2C%20Viale%20Papa%20Giovanni%20Paolo%20II%20%E2%80%A2%20Omaggio%20a%20Mia%20Martini%20con%20Annalisa%20Marella%20e%20band%3B%20ingresso%207%2C50%E2%80%9310%20%E2%82%AC&location=Auditorium%20Madonna%20della%20Rosa%2C%20Viale%20Papa%20Giovanni%20Paolo%20II%2C%20Molfetta&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://oooh.events/evento/semplicemente-mimi-biglietti/"
+      },
+      {
+        "title": "Candlelight – Tributo a Hans Zimmer",
+        "subtitle": "Domenica 29 novembre • Ore 21:00",
+        "dateTime": "2026-11-29T21:00",
+        "text": "live • Noicattaro • UNAHOTELS Regina Bari, SP57, Noicattaro • Concerto tributo dal vivo, colonne sonore",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Candlelight%20%E2%80%93%20Tributo%20a%20Hans%20Zimmer&dates=20261129T210000/20261129T220000&ctz=Europe%2FRome&details=live%20%E2%80%A2%20Noicattaro%20%E2%80%A2%20UNAHOTELS%20Regina%20Bari%2C%20SP57%2C%20Noicattaro%20%E2%80%A2%20Concerto%20tributo%20dal%20vivo%2C%20colonne%20sonore&location=UNAHOTELS%20Regina%20Bari%2C%20SP57%2C%20Noicattaro",
+        "linkDettagliEvento": "https://feverup.com/m/194401/de"
       },
       {
         "title": "Biagio Antonacci – Cover band",
