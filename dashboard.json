@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-28T01:38:24.567Z",
+  "lastModifiedDate": "2026-11-28T15:07:12.000Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -352,7 +352,7 @@
     ]
   },
   "eventi": {
-    "lastModifiedDate": "2026-11-27T23:14:46.000Z",
+    "lastModifiedDate": "2026-11-28T15:07:12.000Z",
     "watchlist": [
       "Midnight Pub Live — Matera",
       "Chorìa - Note di Puglia — Bari",
@@ -655,6 +655,15 @@
         "logo": "SAGRA",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sagra%20du%20Chiacone&dates=20261128T183000%2F20261128T235900&ctz=Europe%2FRome&details=sagra%20%E2%80%A2%20Bari%20(Palese)%20%E2%80%A2%20Piazza%20Bellini%20%E2%80%A2%20V%20edizione%2C%20fico%20secco%20ripieno%20di%20mandorla%2C%20degustazioni%2C%20street%20food%20e%20stand%20artigianali%3B%20apertura%2018%3A30&location=Piazza%20Bellini%2C%20Bari%20Palese",
         "linkDettagliEvento": "https://www.caminvattin.it/tag/street-food/"
+      },
+      {
+        "title": "Diavoli e chitarre",
+        "subtitle": "Sabato 28 novembre • 19:30",
+        "dateTime": "2026-11-28T19:30",
+        "text": "live • Bari • Prinz Zaum, Via Cardassi 93 • Racconti rock e blues con musica dal vivo di Joe Valeriano",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Diavoli%20e%20chitarre&dates=20261128T193000%2F20261128T193000&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Prinz%20Zaum%2C%20Via%20Cardassi%2093%20%E2%80%A2%20Racconti%20rock%20e%20blues%20con%20musica%20dal%20vivo%20di%20Joe%20Valeriano&location=Prinz%20Zaum%2C%20Via%20Cardassi%2093%2C%20Bari&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://buzzeventmap.com/event/4cd78bbf-df47-4eec-9f99-5d27b89b3222"
       },
       {
         "title": "Sergei Babayan, Benjamin Baker e Sujari Britt",
@@ -970,6 +979,15 @@
         "logo": "LIVE",
         "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fiorella%20Mannoia%20%E2%80%93%20Anime%20Salve&details=live%20%E2%80%A2%20Bari%20%E2%80%A2%20Teatro%20Team%20%E2%80%A2%20Fiorella%20canta%20Fabrizio%20e%20Ivano%3A%20Anime%20Salve%2C%20omaggio%20a%20Fabrizio%20De%20Andr%C3%A9%20e%20Ivano%20Fossati&location=Teatro%20Team%2C%20Bari&dates=20261202T210000%2F20261202T230000&ctz=Europe%2FRome",
         "linkDettagliEvento": "https://www.ticketone.it/event/fiorella-mannoia-fiorella-canta-fabrizio-e-ivano-anime-salve-teatro-team-22068312/"
+      },
+      {
+        "title": "Giovanni Caccamo – L’alba dentro l’imbrunire",
+        "subtitle": "Mercoledì 2 dicembre • 21:00",
+        "dateTime": "2026-12-02T21:00",
+        "text": "live • Matera • Auditorium Gervasio • Omaggio a Franco Battiato con Orchestra ICO della Magna Grecia",
+        "logo": "LIVE",
+        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Giovanni%20Caccamo%20%E2%80%93%20L%E2%80%99alba%20dentro%20l%E2%80%99imbrunire&dates=20261202T210000%2F20261202T210000&details=live%20%E2%80%A2%20Matera%20%E2%80%A2%20Auditorium%20Gervasio%20%E2%80%A2%20Omaggio%20a%20Franco%20Battiato%20con%20Orchestra%20ICO%20della%20Magna%20Grecia&location=Auditorium%20Gervasio%2C%20Matera&ctz=Europe%2FRome",
+        "linkDettagliEvento": "https://www.orchestramagnagrecia.info/event/lalba-dentro-limbrunire/"
       },
       {
         "title": "Mercatino di San Nicola",
