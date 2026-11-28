@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2026-11-27T23:14:46.000Z",
+  "lastModifiedDate": "2026-11-28T01:38:24.567Z",
   "timezone": "Europe/Rome",
   "games": {
     "lastModifiedDate": "2026-11-24T21:26:02.000Z",
@@ -259,26 +259,8 @@
     ]
   },
   "sport": {
-    "lastModifiedDate": "2026-11-27T01:14:09.614Z",
+    "lastModifiedDate": "2026-11-28T01:38:24.567Z",
     "items": [
-      {
-        "title": "F1 Qatar – FP1",
-        "subtitle": "Venerdì 27 novembre • 14:30",
-        "dateTime": "2026-11-27T14:30",
-        "text": "Formula 1 • GP Qatar • FP1",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP1&dates=20261127T133000Z%2F20261127T143000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP1&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/qatar"
-      },
-      {
-        "title": "F1 Qatar – FP2",
-        "subtitle": "Venerdì 27 novembre • 18:00",
-        "dateTime": "2026-11-27T18:00",
-        "text": "Formula 1 • GP Qatar • FP2",
-        "logo": "F1",
-        "link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F1%20Qatar%20%E2%80%93%20FP2&dates=20261127T170000Z%2F20261127T180000Z&details=Formula%201%20%E2%80%A2%20GP%20Qatar%20%E2%80%A2%20FP2&location=Lusail%20International%20Circuit%2C%20Lusail%2C%20Qatar&ctz=Europe%2FRome",
-        "linkDettagliEvento": "https://www.formula1.com/en/racing/2026/qatar"
-      },
       {
         "title": "F1 Qatar – FP3",
         "subtitle": "Sabato 28 novembre • 15:30",
